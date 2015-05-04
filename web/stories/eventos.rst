@@ -20,8 +20,6 @@ una guía.
 
       <iframe src="https://www.google.com/calendar/embed?title=Eventos%20%22Argentina%20en%20Python%22&amp;showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=300&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=mmlchg21bi66r9neapehr7qq6s%40group.calendar.google.com&amp;color=%23B1440E&amp;ctz=America%2FAsuncion" style=" border-width:0 " width="100%" height="300" frameborder="0" scrolling="no"></iframe>
 
------
-
 Meetup
 ======
 
@@ -192,3 +190,20 @@ difusión de Python :)
 .. _la lista: http://python.org.ar/ListaDeCorreo
 .. _noticias: http://python.org.ar/Noticias
 .. _calendario oficial: https://wiki.python.org/moin/PythonEventsCalendar#Submitting_an_Event
+
+----
+
+Eventos pasados
+---------------
+
+* 28-03-2015: `PyDay Asunción
+  <http://elblogdehumitos.com.ar/posts/pydayasuncion-un-exito-arrollador/>`_
+* 30-02-2015: `Meetup Python NEA <http://www.meetup.com/Python-NEA/events/219942458/>`_
+* 14-02-2015: `PyDay Formosa
+  <http://elblogdehumitos.com.ar/posts/pyday-formosa/>`_
+* 17-01-2015: `Sprint Resistencia
+  <http://elblogdehumitos.com.ar/posts/primer-sprint-de-python-en-resistencia-chaco/>`_
+* 19-12-2014: `Charla OpenStreeMap, Las Breñas
+  <http://elblogdehumitos.com.ar/posts/charla-abierta-de-openstreetmap-en-las-brenas/>`_
+* 01-12-2014: `Curso Python
+  <http://elblogdehumitos.com.ar/posts/curso-de-python-en-parana/>`_

@@ -127,6 +127,14 @@ NAVIGATION_LINKS = {
         ("/donaciones/", "Donaciones"),
         ("/historia/", "Historia"),
         ("http://elblogdehumitos.com.ar/categories/argentina-en-python/", "Blog"),
+        (
+            (
+                ("/etapas/", "Etapas"),
+                ("/como-colaborar/", "¿Cómo colaborar?"),
+                ("/prensa/", "Prensa"),
+            ),
+            "Extras"
+        ),
         ("/contacto/", "Contacto"),
     ),
 }
@@ -632,7 +640,7 @@ LICENSE = ""
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
-CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="http://getnikola.com" rel="nofollow">Nikola</a>         {license}'
+CONTENT_FOOTER = '<hr><small>Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="http://getnikola.com" rel="nofollow">Nikola</a>         {license}</small>'
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will

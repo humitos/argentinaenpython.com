@@ -10,8 +10,8 @@
 Este mapa es útil para saber en qué lugar estoy *aproximadamente* en
 este momento y cual es la ruta aproximada *planificada* a futuro, con
 el fin de :doc:`contactar con gente de la zona <contacto>` para así
-poder coordinar algo relacionado al proyecto (u otra cosa de interés
-mutuo) y organizar para encontrarnos en las cercanías.
+poder :doc:`coordinar algo relacionado al proyecto <eventos>` (u otra
+cosa de interés mutuo) y organizar para encontrarnos en las cercanías.
 
 .. raw:: html
 

@@ -7,12 +7,19 @@
 .. description: 
 .. type: text
 
+Estos son los medios de contacto que usamos para organizar eventos y
+mantener actualizados a nuestros seguidores:
 
 :Email: argentinaenpython@gmail.com
 
 :Facebook: https://www.facebook.com/argentinaenpython
 
 :Twitter: https://twitter.com/argenpython
+
+----
+
+En caso de requerir una comunicación más directa, también podés
+utilizar estos medios:
 
 :WhatsApp: +54 9 343 4053434
 

@@ -72,5 +72,7 @@ medios disponibles a la fecha para realizar las donaciones:
      </a>
    </div>
 
+.. class:: lead align-center
+
 ¡Muchas gracias a todos los :doc:`colaboradores del proyecto
 <donaciones/colaboradores>`!

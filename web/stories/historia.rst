@@ -45,6 +45,11 @@ próximamente!
    construcción del conocimiento colaborativo y la participación
    colectiva en la búsqueda del aprendizaje.*
 
+Para la Tercer Etapa (ver :doc:`etapas`) se sumó `Johanna
+<https://twitter.com/EllaQuimica/>`_ (a quién conocí en Santiago del
+Estero durante la Segunda Etapa) al proyecto y me está acompañando
+desde el 8 de Diciembre de 2014 en mis viajes.
+
 En Enero de 2015 la Python Software Foundation `nos otorga un subsidio
 <http://elblogdehumitos.com.ar/posts/la-psf-nos-da-una-mano/>`_ para
 que sigamos realizando estas actividades en la zona del NEA

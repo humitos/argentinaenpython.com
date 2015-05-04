@@ -124,9 +124,9 @@ medios disponibles a la fecha para realizar las donaciones:
 
 ----
 
-.. [#] :doc:`pydayasuncion-un-exito-arrollador`
-.. [#] :doc:`pyday-formosa`
-.. [#] :doc:`primer-sprint-de-python-en-resistencia-chaco`
-.. [#] :doc:`charla-abierta-de-openstreetmap-en-las-brenas`
-.. [#] :doc:`curso-de-python-en-parana`
+.. [#] http://elblogdehumitos.com.ar/posts/pydayasuncion-un-exito-arrollador/
+.. [#] http://elblogdehumitos.com.ar/posts/pyday-formosa/
+.. [#] http://elblogdehumitos.com.ar/posts/primer-sprint-de-python-en-resistencia-chaco/
+.. [#] http://elblogdehumitos.com.ar/posts/charla-abierta-de-openstreetmap-en-las-brenas/
+.. [#] http://elblogdehumitos.com.ar/posts/curso-de-python-en-parana/
 .. [#] los precios están basados en los listados de Mercado Libre Argentina

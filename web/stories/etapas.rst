@@ -7,6 +7,10 @@
 .. description: 
 .. type: text
 
+.. raw:: html
+
+   <script defer src="/assets/js/argentina-en-python.js"></script>
+
 .. class:: alert alert-success
 
    Actualmente estamos cursando la `Tercera Etapa`_.
@@ -20,9 +24,9 @@ Autónoma de Buenos Aires para que comience la organización de
 *semejante (desconocido) proyecto*. Esta etapa se extendió durante
 todo el mes de Marzo.
 
-Esta etapa fue una experimentación personal, una prueba piloto, una
-búsqueda de una organización funcional que mezcle el trabajo cotidiano
-con el viaje constante...
+Esto fue, principalmente, una experimentación personal, una prueba
+piloto, una búsqueda de una organización funcional que mezcle el
+trabajo cotidiano con el viaje constante...
 
 Recorrido:
 
@@ -61,20 +65,12 @@ Septiembre, con Santiago del Estero como primer destino.*
 Los lugares en los que he estado son:
 
 * Córdoba, Córdoba, Argentina
-* Capilla del Monte, Córdoba, Argentina (`fotos
-  <https://www.flickr.com/photos/20667659@N03/sets/72157645050168061/>`_,
-  `más
-  <https://www.flickr.com/photos/20667659@N03/sets/72157645133092015/>`_)
-* San Marcos Sierras, Córdoba Argentina (`las fotos
-  <https://www.flickr.com/photos/20667659@N03/sets/72157644996855319/>`_)
+* Capilla del Monte, Córdoba, Argentina 
+* San Marcos Sierras, Córdoba Argentina
 * El Quicho, Córdoba, Argentina
 * Cura Brochero, Córdoba, Argentina
-* Mina Clavero, Córdoba, Argentina (`algunas fotos
-  <https://www.flickr.com/photos/20667659@N03/sets/72157645263262002/>`_,
-  `noche de jazz y quebrada de los condoritos
-  <https://www.flickr.com/photos/20667659@N03/sets/72157644996195737/>`_)
-* Merlo, San Luis, Argentina (`álbum
-  <https://www.flickr.com/photos/20667659@N03/sets/72157645390570231>`_)
+* Mina Clavero, Córdoba, Argentina
+* Merlo, San Luis, Argentina
 * El Trapiche, San Luis, Argentina
 * San Luis, San Luis, Argentina
 * Mendoza, Mendoza, Argentina
@@ -85,7 +81,11 @@ Los lugares en los que he estado son:
 * Santiago de Chile, Chile
 * San Juan, San Juan, Argentina
 * Capilla del Monte, Córdoba, Argentina
-* Paraná, Entre Ríos, Argentina (:doc:`decidí volver <el-final-un-nuevo-comienzo>`)
+* Paraná, Entre Ríos, Argentina
+
+Por diferentes cuestiones e inconveninentes, `decidí volver
+<http://elblogdehumitos.com.ar/posts/decidi-volver/>`_ y re-organizar
+nuevamente el proyecto para continuar viaje más adelante.
 
 Este es el mapa del recorrido realizado.
 
@@ -131,10 +131,12 @@ Este es el mapa del recorrido realizado.
 Tercera Etapa
 *************
 
-La etapa anterior fue muy intensa, y el cierre en la
-:doc:`python-conference-argentina-2014` también. Durante estos casi
-tres meses de viaje que duró la `Segunda Etapa`_ pasaron muchas cosas,
-cambiaron otras y se crearon varios proyectos.
+La etapa anterior fue muy intensa, y el cierre en la `Python
+Conference Argentina 2014
+<http://elblogdehumitos.com.ar/posts/python-conference-argentina-2014/>`_
+también. Durante estos casi tres meses de viaje que duró la `Segunda
+Etapa`_ pasaron muchas cosas, cambiaron otras y se crearon varios
+proyectos.
 
 Hubo una re-estructuración en la forma de viajar, compartí la
 cotideaneidad con gente que me *asocié* durante el viaje y compartí
@@ -144,9 +146,10 @@ recorrer la parte Noreste de nuestro país (Corrientes, Chaco,
 Misiones, etc) y proyectar la posibilidad de visitar otros países,
 como Paraguay y Bolivia, por ejemplo.
 
-:doc:`En el mapa <donde-esta-humitos>` se puede consultar cuáles son
-los próximos destinos aproximados y empezar a organizar encuentros,
-charlas y cursos con antelación.
+Podés consultar :doc:`el mapa con el recorrido esperado / aproximado
+<donde-esta-humitos>` para enterarte por dónde estaremos en los
+próximos meses y así empezar a :doc:`organizar encuentros, charlas y
+cursos <eventos>` con antelación.
 
 La fecha de salida fue el Lunes 8 de Diciembre y hasta el momento
 hemos visitado estos lugares:
@@ -173,7 +176,3 @@ hemos visitado estos lugares:
 * Puerto Iguazú, Misiones, Argentina
 * El Dorado, Misiones, Argentina
 * Posadas, Misiones, Argentina
-
-Podés consultar :doc:`el mapa con el recorrido esperado / aproximado
-<donde-esta-humitos>` para enterarte por dónde estaremos en los
-próximos meses.

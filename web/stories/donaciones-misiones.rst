@@ -114,19 +114,25 @@ medios disponibles a la fecha para realizar las donaciones:
 
 .. raw:: html
 
-   <div style="text-align: center">
-     <a class="btn btn-lg btn-primary" href="/pages/argentina-en-python/donaciones/medios/">
+   <div style="text-align: center; margin-top: 25px; margin-bottom: 25px;">
+     <a class="btn btn-lg btn-primary" href="/donaciones/medios/">
        Realizar donación
      </a>
    </div>
 
-¡Muchas gracias por colaborar!
+.. class:: lead align-center
+
+   ¡Muchas gracias por colaborar!
 
 ----
 
-.. [#] http://elblogdehumitos.com.ar/posts/pydayasuncion-un-exito-arrollador/
-.. [#] http://elblogdehumitos.com.ar/posts/pyday-formosa/
-.. [#] http://elblogdehumitos.com.ar/posts/primer-sprint-de-python-en-resistencia-chaco/
-.. [#] http://elblogdehumitos.com.ar/posts/charla-abierta-de-openstreetmap-en-las-brenas/
-.. [#] http://elblogdehumitos.com.ar/posts/curso-de-python-en-parana/
+.. [#] `#PyDayAsunción: un éxito arrollador
+       <http://elblogdehumitos.com.ar/posts/pydayasuncion-un-exito-arrollador/>`_
+.. [#] `PyDay Formosa <http://elblogdehumitos.com.ar/posts/pyday-formosa/>`_
+.. [#] `Primer Sprint de Python en Resistencia, Chaco
+       <http://elblogdehumitos.com.ar/posts/primer-sprint-de-python-en-resistencia-chaco/>`_
+.. [#] `Charla abierta de OpenStreetMap en Las Breñas
+       <http://elblogdehumitos.com.ar/posts/charla-abierta-de-openstreetmap-en-las-brenas/>`_
+.. [#] `Curso de Python en Paraná
+       <http://elblogdehumitos.com.ar/posts/curso-de-python-en-parana/>`_
 .. [#] los precios están basados en los listados de Mercado Libre Argentina

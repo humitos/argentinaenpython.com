@@ -4,7 +4,8 @@
 .. tags: 
 .. category: 
 .. link: 
-.. description: 
+.. description: Argentina en Python es un proyecto personal y comunitario que promueve el uso del lenguaje de programación Python
+.. previewimage: welcome/logo.png
 .. type: text
 .. template: notitle.tmpl
 

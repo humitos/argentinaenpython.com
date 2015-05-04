@@ -1,0 +1,19 @@
+#!/bin/bash
+# /etc/NetworkManager/dispatcher.d/geoblog
+ 
+IF=$1
+STATUS=$2
+ 
+cd /home/humitos/Source/blog/nikola
+
+case "$2" in
+    up)
+    logger -s "NM Script 'geoblog' triggered"
+    /home/humitos/.virtualenvs/blog/bin/python \
+        geolocation.py --me &
+    exit 0
+    ;;
+    *)
+    ;;
+esac
+

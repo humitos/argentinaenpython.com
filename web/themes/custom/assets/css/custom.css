@@ -1,0 +1,19 @@
+body {
+    font-size: 17px;
+}
+
+
+#map-container small {
+    text-align: right;
+}
+
+#map-container h2 {
+    text-align: center;
+}
+
+#map, #map-zero, #map-first, #map-second, #map-third {
+    height: 450px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+

@@ -1,0 +1,7 @@
+In [8]: g = geocoder.bing(['-31.8706', '-60.0008'], method='reverse')
+
+In [9]: g
+Out[9]: <[OK] bing - reverse [Saavedra, 3109 Viale, Argentina]>
+
+In [10]: 
+

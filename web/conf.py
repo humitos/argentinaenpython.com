@@ -132,6 +132,7 @@ NAVIGATION_LINKS = {
                 ("/etapas/", "Etapas"),
                 ("/como-colaborar/", "¿Cómo colaborar?"),
                 ("/prensa/", "Prensa"),
+                ("/material-de-difusion/", "Material de difusión"),
             ),
             "Extras"
         ),

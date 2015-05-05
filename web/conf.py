@@ -122,16 +122,28 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/donde-esta-humitos/", "¿Dónde está humitos?"),
-        ("/eventos/", "Eventos"),
+        (
+            (
+                ("/eventos/", "Eventos"),
+                ("/eventos/charlas/", "Charlas"),
+            ),
+            "Eventos"
+        ),
         ("/remeras/", "Remeras"),
         ("/donaciones/", "Donaciones"),
-        ("/historia/", "Historia"),
+        (
+            (
+                ("/historia/", "Historia"),
+                ("/historia/etapas/", "Etapas"),
+                ("/historia/prensa/", "Prensa"),
+            ),
+            "Historia"
+        ),
         ("http://elblogdehumitos.com.ar/categories/argentina-en-python/", "Blog"),
         (
             (
-                ("/etapas/", "Etapas"),
                 ("/como-colaborar/", "¿Cómo colaborar?"),
-                ("/prensa/", "Prensa"),
+                ("/donaciones/colaboradores/", "Colaboradores"),
                 ("/material-de-difusion/", "Material de difusión"),
             ),
             "Extras"
@@ -895,6 +907,22 @@ BODY_END = """
    <script src='//api.tiles.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v0.0.2/Leaflet.fullscreen.min.js'></script>
    <script src="/assets/js/gpx.js"></script>
    <script src="/assets/js/geolocation.js"></script>
+
+   <!-- Piwik -->
+   <script type="text/javascript">
+      var _paq = _paq || [];
+      _paq.push(['trackPageView']);
+      _paq.push(['enableLinkTracking']);
+      (function() {
+        var u="//elblogdehumitos.com.ar/piwik/";
+        _paq.push(['setTrackerUrl', u+'piwik.php']);
+        _paq.push(['setSiteId', 3]);
+        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+        g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+      })();
+    </script>
+    <noscript><p><img src="//elblogdehumitos.com.ar/piwik/piwik.php?idsite=3" style="border:0;" alt="" /></p></noscript>
+    <!-- End Piwik Code -->
 """
 
 

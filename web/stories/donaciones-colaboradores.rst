@@ -7,9 +7,8 @@
 .. type: text
 .. nocomments: True
 
-Esta página lista las colaboraciones económica que hemos recibido para
-el proyecto :doc:`Argentina en Python <index>` desde que ha iniciado
-(en orden descendente):
+Esta página lista las colaboraciones económicas que hemos recibido
+para el proyecto desde que ha iniciado (en orden descendente):
 
 **Donaciones específicas para** :doc:`arreglo de vehículo
 <donaciones/misiones>`:

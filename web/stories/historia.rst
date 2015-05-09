@@ -45,7 +45,7 @@ próximamente!
    construcción del conocimiento colaborativo y la participación
    colectiva en la búsqueda del aprendizaje.*
 
-Para la Tercer Etapa (ver :doc:`etapas`) se sumó `Johanna
+Para la Tercer Etapa (ver :doc:`historia/etapas`) se sumó `Johanna
 <https://twitter.com/EllaQuimica/>`_ (a quién conocí en Santiago del
 Estero durante la Segunda Etapa) al proyecto y me está acompañando
 desde el 8 de Diciembre de 2014 en mis viajes.

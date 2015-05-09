@@ -8,6 +8,10 @@
 .. type: text
 
 
+.. image:: flyer.thumbnail.jpg
+   :align: right
+   :width: 500px
+
 Hace ya más de un año que estoy viajando con el proyecto
 :doc:`Argentina en Python <index>` y en los últimos meses
 `@EllaQuimica`_ se sumó a esta aventura de compartir el saber

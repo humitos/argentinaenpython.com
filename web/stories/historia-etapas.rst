@@ -164,11 +164,15 @@ hemos visitado estos lugares:
 * Mburucuyá, Corrientes, Argentina
 * San Miguel, Corrientes, Argentina
 * Nuestra Señora de Caá Catí, Corrientes, Argentina
+* Santa Ana, Corrientes, Argentina
+* Resistencia, Chaco, Argentina
 * Formosa, Formosa, Argentina
+* Herradura, Formosa, Argentina
 * Laguna Naineck, Formosa, Argentina
 * Asunción, Central, Paraguay
 * Areguá, Central, Paraguay
 * San Bernardino, Cordillera, Paraguay
+* Caacupé, Cordillera, Paraguay
 * Villarrica, Guairá, Paraguay
 * Minga Guazú, Alto Paraná, Paraguay
 * Ciudad del Este, Alto Paraná, Paraguay

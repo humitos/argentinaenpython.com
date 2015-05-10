@@ -94,18 +94,18 @@ donado. Además de un Tweet en la cuenta de `@argenpython
 agradecimientos en un post que se escribirá luego de concluídos los
 arreglos.
 
-Al día de la fecha hemos recibido un total de *$ 7420.15 (123.67%)* en
+Al día de la fecha hemos recibido un total de *$ 10420.15 (173.67%)* en
 esta etapa de donaciones.
 
 .. raw:: html
 
    <div class="progress" style="width: 70%; height: 40px; margin-left: auto; margin-right: auto;">
-     <div class="progress-bar progress-bar-success progress-bar-striped active" role="progressbar" style="width: 73%;">
+     <div class="progress-bar progress-bar-success progress-bar-striped active" role="progressbar" style="width: 57%;">
        <div style="margin-top: 10px;">100 %</div>
      </div>
 
-     <div class="progress-bar progress-bar progress-bar-striped active" role="progressbar" style="width: 27%;">
-       <div style="margin-top: 10px;">23.67 %</div>
+     <div class="progress-bar progress-bar progress-bar-striped active" role="progressbar" style="width: 43%;">
+       <div style="margin-top: 10px;">73.67 %</div>
      </div>
    </div>
 

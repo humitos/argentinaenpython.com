@@ -13,8 +13,7 @@ para el proyecto desde que ha iniciado (en orden descendente):
 **Donaciones específicas para** :doc:`arreglo de vehículo
 <donaciones/misiones>`:
 
-.. 28 de Abril de 2015 - `Python Software Foundation <https://www.python.org/psf/>`_: USD 300 (pendiente)
-
+* 07 de Mayo de 2015 - `Python Software Foundation <https://www.python.org/psf/>`__: USD 300
 * 29 de Abril de 2015 - `Helen Lynn <https://twitter.com/helenlynn>`_: USD 5 
 * 27 de Abril de 2015 - `Marcos Dione <http://www.grulic.org.ar/~mdione/glob/>`_: ARS 200
 * 22 de Abril de 2015 - nessita y `Matías Bordese <https://twitter.com/mbordese>`_: ARS 500

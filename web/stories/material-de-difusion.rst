@@ -40,6 +40,17 @@ Logo Python Argentina
 
 ----
 
+Microtutorial Python
+--------------------
+
+.. figure:: microtutorial_portada_256.png
+   :width: 256px
+
+* `Microtutorial 1024x1448 <microtutorial_1024.png>`_ (png fondo blanco)
+* `Microtutorial Escalable <microtutorial.svg>`_ (svg)
+
+----
+
 Logo Python Paraguay
 --------------------
 

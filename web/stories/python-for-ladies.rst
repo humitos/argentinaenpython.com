@@ -48,9 +48,12 @@ mujer con vos [#]_.
 ----------------
 
 El curso está pactado para los días Viernes 5 y Sábado 6 de Junio en
-Posadas, Misiones -lugar a confirmar. El Viernes sería por la tarde,
-entre las 17 y las 20hs y el Sábado empezaríamos desde las 10 hasta
-las 18hs con un corte para almorzar todos juntos.
+la `Universidad Gastón Dachary <http://ugd.edu.ar/>`_ (`ver mapa`_) de Posadas,
+Misiones. El Viernes sería por la tarde, entre las 17 y las 20hs y el
+Sábado empezaríamos desde las 10 hasta las 18hs con un corte para
+almorzar todos juntos.
+
+.. _ver mapa: http://www.openstreetmap.org/way/263648661
 
 
 Programa tentativo

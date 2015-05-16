@@ -21,7 +21,7 @@
 
 .. class:: alert alert-success
 
-   **Novedades**: :doc:`remeras`, `PyDay Apóstoles <http://pydayapostoles.info>`_, :doc:`track-teen-scipy-la-2015` y :doc:`python-for-ladies`.
+   **Novedades**: :doc:`remeras`, :doc:`track-teen-scipy-la-2015` y :doc:`python-for-ladies`.
    
 
 .. image:: /index/logo.png

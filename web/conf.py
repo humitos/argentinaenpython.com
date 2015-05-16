@@ -131,7 +131,15 @@ NAVIGATION_LINKS = {
             "Eventos"
         ),
         ("/remeras/", "Remeras"),
-        ("/donaciones/", "Donaciones"),
+        (
+            (
+                ("/donaciones/", "Donaciones"),
+                ("/donaciones/arreglo-de-vehiculo/", "Arreglo de vehículo"),
+                ("/donaciones/colaboradores/", "Colaboradores"),
+                ("/donaciones/medios/", "Medios disponibles"),
+            ),
+            "Donaciones",
+        ),
         (
             (
                 ("/historia/", "Historia"),
@@ -144,7 +152,6 @@ NAVIGATION_LINKS = {
         (
             (
                 ("/como-colaborar/", "¿Cómo colaborar?"),
-                ("/donaciones/colaboradores/", "Colaboradores"),
                 ("/material-de-difusion/", "Material de difusión"),
             ),
             "Extras"
@@ -427,7 +434,9 @@ INDEX_PATH = "blog"
 # relative URL.
 #
 # If you don't need any of these, just set to []
-REDIRECTIONS = []
+REDIRECTIONS = [
+    ('donaciones/misiones/index.html', '/donaciones/arreglo-de-vehiculo/'),
+]
 
 # Presets of commands to execute to deploy. Can be anything, for
 # example, you may use rsync:
@@ -782,7 +791,7 @@ PRETTY_URLS = True
 # Generally, you want FUTURE_IS_NOW and DEPLOY_FUTURE to be the same value.
 # DEPLOY_FUTURE = False
 # If False, draft posts will not be deployed
-# DEPLOY_DRAFTS = True
+DEPLOY_DRAFTS = False
 
 # Allows scheduling of posts using the rule specified here (new_post -s)
 # Specify an iCal Recurrence Rule: http://www.kanzaki.com/docs/ical/rrule.html

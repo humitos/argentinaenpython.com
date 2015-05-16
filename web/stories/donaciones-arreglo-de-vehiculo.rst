@@ -1,5 +1,5 @@
 .. title: Donaciones para arreglo de vehículo
-.. slug: donaciones/misiones
+.. slug: donaciones/arreglo-de-vehiculo
 .. date: 2015-04-06 11:12:58 UTC-03:00
 .. tags: donaciones, argentina en python
 .. link: 
@@ -10,14 +10,12 @@
 .. class:: alert alert-success
 
    ¡Batiendo records! Llegamos a recaudar el dinero necesario en menor
-   tiempo de lo esperado, y además, sobrepasamos el monto
-   total. ¡Muchas gracias por el apoyo!
+   tiempo de lo esperado, y además, sobrepasamos el monto total.
 
 .. class:: alert alert-info
 
    De cualquier modo, si querés apoyar económicamente al proyecto para
-   futuros eventos, podés hacerlo :doc:`visitando este link
-   <donaciones>` para enterarte cómo colaborar.
+   futuros eventos, :doc:`hacé click aquí <donaciones>`.
 
 Luego de mucho esfuerzo, hemos llegado a una etapa del viaje donde se
 empiezan a notar los hitos alcanzados [#]_ [#]_ [#]_ [#]_ [#]_ como
@@ -94,18 +92,18 @@ donado. Además de un Tweet en la cuenta de `@argenpython
 agradecimientos en un post que se escribirá luego de concluídos los
 arreglos.
 
-Al día de la fecha hemos recibido un total de *$ 10420.15 (173.67%)* en
+Al día de la fecha hemos recibido un total de *$ 11620.15 (193.67%)* en
 esta etapa de donaciones.
 
 .. raw:: html
 
    <div class="progress" style="width: 70%; height: 40px; margin-left: auto; margin-right: auto;">
-     <div class="progress-bar progress-bar-success progress-bar-striped active" role="progressbar" style="width: 57%;">
+     <div class="progress-bar progress-bar-success progress-bar-striped active" role="progressbar" style="width: 52%;">
        <div style="margin-top: 10px;">100 %</div>
      </div>
 
-     <div class="progress-bar progress-bar progress-bar-striped active" role="progressbar" style="width: 43%;">
-       <div style="margin-top: 10px;">73.67 %</div>
+     <div class="progress-bar progress-bar progress-bar-striped active" role="progressbar" style="width: 48%;">
+       <div style="margin-top: 10px;">93.67 %</div>
      </div>
    </div>
 

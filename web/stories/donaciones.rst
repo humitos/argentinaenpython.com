@@ -16,28 +16,17 @@
      }
    </style>
 
-.. raw:: html
-
-   <div class="alert alert-success">
-
-Estamos recibiendo donaciones para poder arreglar el auto y así seguir
-adelante. :doc:`¡Entérate aquí! <donaciones/misiones>`
-
-.. raw:: html
-
-   </div>
-
 .. image:: tarjeta-personal.png
    :align: right
 
 Recibir dinero *a cambio de algo* siempre fue un tema delicado para
-mí. Sin embargo, desde el inicio del proyecto :doc:`Argentina en
-Python <index>` me han preguntado como se puede hacer una donación
-económica para apoyar el proyecto y así ayudar a que se siga moviendo.
+mí. Sin embargo, desde el inicio del proyecto me han preguntado como
+se puede hacer una donación económica para apoyarlo y así ayudar a que
+se siga moviendo.
 
-Por ese motivo, hoy decidí empezar a escribir una página para aceptar
+Por ese motivo, decidí empezar a escribir una página para aceptar
 donaciones *a cambio de algo*. ¿Qué es ese *algo*? Bueno, en primer
-lugar, nada material. Sino que el dinero recaudado se utilizará para
+lugar, nada material. Sino que el dinero recaudado será utilizado para
 mejorar el alcance del proyecto en cualquier dirección que sea válida
 para el mismo.
 

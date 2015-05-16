@@ -11,9 +11,10 @@ Esta página lista las colaboraciones económicas que hemos recibido
 para el proyecto desde que ha iniciado (en orden descendente):
 
 **Donaciones específicas para** :doc:`arreglo de vehículo
-<donaciones/misiones>`:
+<donaciones/arreglo-de-vehiculo>`:
 
-* 07 de Mayo de 2015 - `Python Software Foundation <https://www.python.org/psf/>`__: USD 300
+* 15 de Mayo de 2015 - `Joaquín Sorianello <https://twitter.com/_joac>`_: USD 100
+* 7 de Mayo de 2015 - `Python Software Foundation <https://www.python.org/psf/>`__: USD 300
 * 29 de Abril de 2015 - `Helen Lynn <https://twitter.com/helenlynn>`_: USD 5 
 * 27 de Abril de 2015 - `Marcos Dione <http://www.grulic.org.ar/~mdione/glob/>`_: ARS 200
 * 22 de Abril de 2015 - nessita y `Matías Bordese <https://twitter.com/mbordese>`_: ARS 500
@@ -39,4 +40,6 @@ para el proyecto desde que ha iniciado (en orden descendente):
 
 * 21 de Enero de 2015 - `Python Software Foundation <https://www.python.org/psf/>`_: USD 3000
 
-A todos ellos, muchas gracias.
+.. class:: lead align-center
+
+   A todos ellos, muchas gracias.

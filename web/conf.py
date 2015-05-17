@@ -168,7 +168,15 @@ NAVIGATION_LINKS = {
             "Events"
         ),
         ("/en/remeras/", "T-Shirts"),
-        ("/en/donaciones/", "Donations"),
+        (
+            (
+                ("/en/donaciones/", "Donations"),
+                ("/en/donaciones/arreglo-de-vehiculo/", "Car Fixes"),
+                ("/en/donaciones/colaboradores/", "Collaborators"),
+                ("/en/donaciones/medios/", "Peyment Methods"),
+            ),
+            "Donations",
+        ),
         (
             (
                 ("/en/historia/", "History"),
@@ -181,7 +189,6 @@ NAVIGATION_LINKS = {
         (
             (
                 ("/en/como-colaborar/", "How to contribute?"),
-                ("/en/donaciones/colaboradores/", "Collaborators"),
                 ("/en/material-de-difusion/", "Broadcasting Material"),
             ),
             "Extras"

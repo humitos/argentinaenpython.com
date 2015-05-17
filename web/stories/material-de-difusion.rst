@@ -48,6 +48,7 @@ Microtutorial Python
 
 * `Microtutorial 1024x1448 <microtutorial_1024.png>`_ (png fondo blanco)
 * `Microtutorial Escalable <microtutorial.svg>`_ (svg)
+* `Microtutorial Escalable (Zen de Python en Inglés) <microtutorial_ingles.svg>`_ (svg)
 
 ----
 

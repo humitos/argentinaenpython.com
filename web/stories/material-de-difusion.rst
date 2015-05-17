@@ -71,7 +71,7 @@ Tarjeta Personal
 .. figure:: tarjeta_personal_256.png
    :width: 150px
 
-* `Tarjeta Personal 256x461 <logo_tarjeta_personal_256.png>`_ (png)
+* `Tarjeta Personal 256x461 <tarjeta_personal_256.png>`_ (png)
 * `Tarjeta Personal Escalable <tarjeta_personal.svg>`_ (svg)
 
 ----

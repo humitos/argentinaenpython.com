@@ -10,6 +10,11 @@
 Esta página lista las colaboraciones económicas que hemos recibido
 para el proyecto desde que ha iniciado (en orden descendente):
 
+**Donaciones en general**:
+
+* 22 de Mayo de 2015 - `Juan Pedro Fisanotti <https://twitter.com/fisadev>`_: ARS 500
+* 22 de Mayo de 2015 - `Patricio Del Boca <https://twitter.com/pdelboca>`_: ARS 500
+
 **Donaciones específicas para** :doc:`arreglo de vehículo
 <donaciones/arreglo-de-vehiculo>`:
 

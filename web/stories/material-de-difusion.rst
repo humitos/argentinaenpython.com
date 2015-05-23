@@ -26,6 +26,17 @@ Logo Argentina en Python
 
 ----
 
+Folleto Argentina en Python
+---------------------------
+
+.. figure:: folleto_256.png
+   :width: 200px
+
+* `Folleto 512x768 <folleto_512.png>`_ (png fondo blanco)
+* `Folleto Escalable <folleto.svg>`_ (svg)
+
+----
+
 Logo Python Argentina
 ---------------------
 
@@ -72,7 +83,7 @@ Tarjeta Personal
 .. figure:: tarjeta_personal_256.png
    :width: 150px
 
-* `Tarjeta Personal 256x461 <tarjeta_personal_256.png>`_ (png)
+* `Tarjeta Personal 256x462 <tarjeta_personal_256.png>`_ (png)
 * `Tarjeta Personal Escalable <tarjeta_personal.svg>`_ (svg)
 
 ----

@@ -21,7 +21,7 @@
 
 .. class:: alert alert-success
 
-   **News**: :doc:`T-Shirts <remeras>`, :doc:`track-teen-scipy-la-2015` and :doc:`python-for-ladies`.
+   **News**: :doc:`track-teen-scipy-la-2015` and :doc:`python-for-ladies`.
    
 
 .. image:: /index/logo.png

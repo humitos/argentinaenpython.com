@@ -8,15 +8,46 @@
 .. nocomments: True
 
 Esta página lista las colaboraciones económicas que hemos recibido
-para el proyecto desde que ha iniciado (en orden descendente):
+para el proyecto desde que ha iniciado (en orden descendente). Además,
+se muestran los tuits que se publicaron en el momento de recibir las
+donaciones:
 
-**Donaciones en general**:
+.. slides::
+
+   fisadev.png
+   pdelboca.png
+   _joac.png
+   ThePSF.png
+   helenlynn.png
+   marcosdione.png
+   nessita-mbordese.png
+   PythonArgentina.png
+   micabressan_.png
+   matuvarela.png
+   hectorksanchez.png
+   vkmc-linuxchixar.png
+   cynpy-linuxchixar.png
+   mgi1982.png
+   casivaagustin.png
+   _wille.png
+   JairoTrad.png
+   pancho_jay.png
+   facundobatista.png
+   luciotorre.png
+   lidia.png
+   phrase1.png
+   phrase2.png
+
+----
+
+Donaciones en general
+---------------------
 
 * 22 de Mayo de 2015 - `Juan Pedro Fisanotti <https://twitter.com/fisadev>`_: ARS 500
 * 22 de Mayo de 2015 - `Patricio Del Boca <https://twitter.com/pdelboca>`_: ARS 500
 
-**Donaciones específicas para** :doc:`arreglo de vehículo
-<donaciones/arreglo-de-vehiculo>`:
+Donaciones específicas para :doc:`arreglo de vehículo <donaciones/arreglo-de-vehiculo>`
+---------------------------------------------------------------------------------------
 
 * 15 de Mayo de 2015 - `Joaquín Sorianello <https://twitter.com/_joac>`_: USD 100
 * 7 de Mayo de 2015 - `Python Software Foundation <https://www.python.org/psf/>`__: USD 300
@@ -41,10 +72,17 @@ para el proyecto desde que ha iniciado (en orden descendente):
 * 10 de Abril de 2015 - `Facundo Batista <http://taniquetil.com.ar/>`_: ARS 314,15
 * 7 de Abril de 2015 - `Lucio Torre <https://twitter.com/luciotorre>`_: ARS 750
 
-**Donaciones en general**:
+Donaciones en general
+---------------------
 
 * 21 de Enero de 2015 - `Python Software Foundation <https://www.python.org/psf/>`_: USD 3000
 
 .. class:: lead align-center
 
    A todos ellos, muchas gracias.
+
+
+.. El script utilizado para generar las imagenes es (con una captura
+   de pantalla completa)
+
+   for x in `ls`; do convert "$x" -crop 685x400+333+188 "$x"; done

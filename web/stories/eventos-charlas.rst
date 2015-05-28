@@ -35,6 +35,35 @@ Argentina en Python
 
 ----
 
+Introducción a Python
+---------------------
+
+:Título: Introducción a Python
+:Duración: 45~90 minutos
+:Slides: `UNAE, Encarnación, Itapúa, Paraguay <introduccion-a-python_unae_encarnacion_paraguay.pdf>`_ | `Notebook 1 <introduccion-a-python.ipynb>`_ - `Notebook 2 <algunas-perlitas.ipynb>`_
+:Descripción: Trata temas básicos de Python: sus características y
+   propiedades y su poderosa sintaxis. Mostramos varios ejemplos
+   interactivos en vivo utilizando `Jupyter Notebook
+   <http://jupyter.org/>`_, en dónde se puede captar rápidamente la
+   velocidad de desarrollo que Python permite frente a otros lenguajes
+   de programación.
+
+   Además, se mencionan muchas utilidades y componentes externos de
+   Python que se integran perfectamente en la vida cotidiana del
+   programador profesional.
+
+   El tiempo de la charla puede estar limitado a 45 minutos sin
+   problemas. Sin embargo, esta misma charla es adaptable a 90 o 120
+   minutos en otro formato.
+
+.. admonition:: Nota
+
+   Esta charla está basada en la "Introducción a Python" de `Facundo
+   Batista <http://taniquetil.com.ar/plog/>`_ e "Introducción a
+   Python" de `Juan Pedro Fisanotti <https://twitter.com/fisadev/>`_.
+
+----
+
 OpenStreetMap: nuestros mapas
 -----------------------------
 

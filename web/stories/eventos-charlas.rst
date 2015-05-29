@@ -40,7 +40,7 @@ Introducción a Python
 
 :Título: Introducción a Python
 :Duración: 45~90 minutos
-:Slides: `UNAE, Encarnación, Itapúa, Paraguay <introduccion-a-python_unae_encarnacion_paraguay.pdf>`_ | `Notebook 1 <introduccion-a-python.ipynb>`_ - `Notebook 2 <algunas-perlitas.ipynb>`_
+:Slides: `UNAE, Encarnación, Itapúa, Paraguay <introduccion-a-python_unae_encarnacion_paraguay.pdf>`_ | Notebook 1 (`descargar <introduccion-a-python.ipynb>`_ | `ver <http://nbviewer.ipython.org/url/argentinaenpython.com.ar/eventos/charlas/introduccion-a-python.ipynb>`_) - Notebook 2 (`descargar <algunas-perlitas.ipynb>`__ | `ver <http://nbviewer.ipython.org/url/argentinaenpython.com.ar/eventos/charlas/algunas-perlitas.ipynb>`__)
 :Descripción: Trata temas básicos de Python: sus características y
    propiedades y su poderosa sintaxis. Mostramos varios ejemplos
    interactivos en vivo utilizando `Jupyter Notebook

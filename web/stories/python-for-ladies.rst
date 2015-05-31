@@ -16,8 +16,9 @@
 
 
 .. image:: flyer.thumbnail.jpg
+   :target: flyer.jpg
    :align: right
-   :width: 500px
+   :width: 410px
 
 Hace ya más de un año que estoy viajando con el proyecto
 :doc:`Argentina en Python <index>` y en los últimos meses

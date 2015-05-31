@@ -511,31 +511,6 @@ DEPLOY_COMMANDS = {
 #    ".jpg": ["jpegoptim --strip-all -m75 -v %s"],
 # }
 
-import os
-
-
-def convert_images(filename):
-    EXCLUDE_IMAGES = (
-        'assets',
-    )
-    for exclude in EXCLUDE_IMAGES:
-        if exclude in filename:
-            continue
-
-    name, ext = os.path.splitext(filename)
-    to_filename = name + '.thumbnail' + ext
-    command = 'convert {from_filename} -thumbnail 580 {to_filename}'\
-            .format(from_filename=filename,
-                    to_filename=to_filename)
-    os.system(command)
-
-FILTERS = {
-    # ".jpg": ["jpegoptim --strip-all -m75 -v %s"],
-    ".jpg": [convert_images],
-    ".jpeg": [convert_images],
-    ".png": [convert_images],
-}
-
 # Expert setting! Create a gzipped copy of each generated file. Cheap server-
 # side optimization for very high traffic sites or low memory servers.
 # GZIP_FILES = False
@@ -588,8 +563,8 @@ USE_FILENAME_AS_TITLE = False
 # to be visible on the site. The format is a dictionary of {source:
 # relative destination}.
 #
-# IMAGE_FOLDERS = {'images': ''}
-# IMAGE_THUMBNAIL_SIZE = 400
+IMAGE_FOLDERS = {'images': ''}
+IMAGE_THUMBNAIL_SIZE = 580
 
 # #############################################################################
 # HTML fragments and diverse things that are used by the templates

@@ -31,7 +31,6 @@
 
 .. image:: scipy-logo.png
    :align: right
-   :target: http://scipyla.org/conf/2015/
 
 Es una Jornada que se realiza con el propósito de introducir a un
 público de gran potencial creativo (como chicos y adolescentes) al

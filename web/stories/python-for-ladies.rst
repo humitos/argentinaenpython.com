@@ -7,6 +7,13 @@
 .. description: 
 .. type: text
 
+.. class:: alert alert-warning
+
+   **¡Atentos!** Alcanzamos el cupo máximo de inscriptos. De cualquier
+   forma, inscribite para quedar en la lista de espera y en la semana
+   te confirmamos si podés asistir igual (ya sea porque alguien
+   canceló o porque conseguimos un aula más grande)
+
 
 .. image:: flyer.thumbnail.jpg
    :align: right

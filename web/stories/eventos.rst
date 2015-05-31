@@ -182,9 +182,11 @@ Requisitos
 
    * agregar el evento al `calendario oficial`_ de Python internacional
 
-¡Sumate a esta iniciativa! No es complicado organizar ninguno de estos
-eventos y podés ser uno de los pioneros en tu ciudad ayudando a la
-difusión de Python :)
+.. class:: lead
+
+   ¡Sumate a esta iniciativa! No es complicado organizar ninguno de
+   estos eventos y podés ser uno de los pioneros en tu ciudad ayudando
+   a la difusión de Python :)
 
 
 .. _la lista: http://python.org.ar/ListaDeCorreo

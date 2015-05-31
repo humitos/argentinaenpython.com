@@ -24,8 +24,8 @@ También, si te interesa apoyar el proyecto económicamente, podés
 visitar la :doc:`página de donaciones <donaciones>` para enterarte
 cómo hacerlo y así ayudar a que la rueda siga girando.
 
-:doc:`Mucha gente me ayudó a llegar hoy hasta acá: gracias a ellos
-<donaciones/colaboradores>`. Creo haberles hecho saber a cada uno de
+:doc:`Mucha gente <donaciones/colaboradores>` me ayudó a llegar hoy
+hasta acá: gracias a ellos. Creo haberles hecho saber a cada uno de
 ellos lo agradecido que estoy por haberme ayudado y sino, espero que
 se estén enterando ahora :)
 

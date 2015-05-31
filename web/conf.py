@@ -127,6 +127,7 @@ NAVIGATION_LINKS = {
             (
                 ("/eventos/", "Eventos"),
                 ("/eventos/charlas/", "Charlas"),
+                ("/galeria/", "Galería"),
             ),
             "Eventos"
         ),
@@ -164,6 +165,7 @@ NAVIGATION_LINKS = {
             (
                 ("/en/eventos/", "Events"),
                 ("/en/eventos/charlas/", "Talks"),
+                ("/galeria/", "Gallery"),
             ),
             "Events"
         ),

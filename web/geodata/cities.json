@@ -1,20 +1,6 @@
 {
     "next": [
         {
-            "address": "Encarnaci\u00f3n, Itap\u00faa, Regi\u00f3n Oriental, 6000, Paraguay", 
-            "country": "PY", 
-            "lat": -27.3385816, 
-            "lng": -55.8668456, 
-            "location": "encarnaci\u00f3n, paraguay", 
-            "osm_id": "243191014", 
-            "osm_type": "node", 
-            "postal": "6000", 
-            "provider": "osm", 
-            "quality": "town", 
-            "state": "Itap\u00faa", 
-            "status": "OK"
-        }, 
-        {
             "address": "La Colmena, Paraguar\u00ed, Regi\u00f3n Oriental, Paraguay", 
             "country": "PY", 
             "lat": -25.8856298, 
@@ -25,6 +11,20 @@
             "provider": "osm", 
             "quality": "town", 
             "state": "Paraguar\u00ed", 
+            "status": "OK"
+        }, 
+        {
+            "address": "Asunci\u00f3n, Distrito Capital de Paraguay, Regi\u00f3n Oriental, Paraguay", 
+            "city": "Asunci\u00f3n", 
+            "country": "PY", 
+            "lat": -25.2960638, 
+            "lng": -57.6311446, 
+            "location": "asunci\u00f3n, distrito capital de paraguay, paraguay", 
+            "osm_id": "249854726", 
+            "osm_type": "node", 
+            "provider": "osm", 
+            "quality": "city", 
+            "state": "Distrito Capital de Paraguay", 
             "status": "OK"
         }, 
         {
@@ -985,6 +985,20 @@
             "provider": "osm", 
             "quality": "administrative", 
             "state": "Misiones", 
+            "status": "OK"
+        },
+        {
+            "address": "Encarnaci\u00f3n, Itap\u00faa, Regi\u00f3n Oriental, 6000, Paraguay", 
+            "country": "PY", 
+            "lat": -27.3385816, 
+            "lng": -55.8668456, 
+            "location": "encarnaci\u00f3n, paraguay", 
+            "osm_id": "243191014", 
+            "osm_type": "node", 
+            "postal": "6000", 
+            "provider": "osm", 
+            "quality": "town", 
+            "state": "Itap\u00faa", 
             "status": "OK"
         }
     ]

@@ -7,6 +7,11 @@
 .. description: 
 .. type: text
 
+.. image:: mini-zen.thumbnail.jpg
+   :target: zen.jpg
+   :align: right
+
+
 Estos son los medios de contacto que usamos para organizar eventos y
 mantener actualizados a nuestros seguidores:
 

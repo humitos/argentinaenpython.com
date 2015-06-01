@@ -31,9 +31,10 @@ Junio
 
 #. El Viernes 5 y Sábado 6 de Junio se lleva a cabo el :doc:`python-for-ladies`.
 
-#. Tenemos pensado salir hacia Asunción el 10 de Junio siguiendo
-   :doc:`esta posible ruta <donde-esta-humitos>` (desde Encarnación por
-   RN1 a Asunción). ¿Qué rutas/lugares turísticos nos recomendás para
+#. Tenemos pensado salir desde Posadas, Misiones, Argentina hacia
+   Asunción, Central, Paraguay el 10 de Junio siguiendo :doc:`esta
+   posible ruta <donde-esta-humitos>` (desde Encarnación por RN1 a
+   Asunción). ¿Qué rutas/lugares turísticos nos recomendás para
    visitar de camino antes de llegar a Asunción?
 
 #. Pensamos que estaría buenísimo hacer un Sprint/Meetup en Asunción y

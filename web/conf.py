@@ -122,6 +122,7 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
+        ("/novedades/", "¡Novedades!"),
         ("/donde-esta-humitos/", "¿Dónde está humitos?"),
         (
             (
@@ -131,7 +132,6 @@ NAVIGATION_LINKS = {
             ),
             "Eventos"
         ),
-        ("/remeras/", "Remeras"),
         (
             (
                 ("/donaciones/", "Donaciones"),
@@ -149,9 +149,11 @@ NAVIGATION_LINKS = {
             ),
             "Historia"
         ),
-        ("http://elblogdehumitos.com.ar/categories/argentina-en-python/", "Blog"),
         (
             (
+                ("/nuestro-zen/", "Nuestro Zen"),
+                ("http://elblogdehumitos.com.ar/categories/argentina-en-python/", "Blog"),
+                ("/remeras/", "Remeras"),
                 ("/como-colaborar/", "¿Cómo colaborar?"),
                 ("/material-de-difusion/", "Material de difusión"),
             ),
@@ -159,7 +161,9 @@ NAVIGATION_LINKS = {
         ),
         ("/contacto/", "Contacto"),
     ),
+
     "en": (
+        ("/novedades/", "News!"),
         ("/en/donde-esta-humitos/", "Where is humitos?"),
         (
             (
@@ -169,7 +173,6 @@ NAVIGATION_LINKS = {
             ),
             "Events"
         ),
-        ("/en/remeras/", "T-Shirts"),
         (
             (
                 ("/en/donaciones/", "Donations"),
@@ -187,9 +190,11 @@ NAVIGATION_LINKS = {
             ),
             "History"
         ),
-        ("http://elblogdehumitos.com.ar/categories/argentina-en-python/", "Blog"),
         (
             (
+                ("/nuestro-zen/", "Our Zen"),
+                ("http://elblogdehumitos.com.ar/categories/argentina-en-python/", "Blog"),
+                ("/en/remeras/", "T-Shirts"),
                 ("/en/como-colaborar/", "How to contribute?"),
                 ("/en/material-de-difusion/", "Broadcasting Material"),
             ),

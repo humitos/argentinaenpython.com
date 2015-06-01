@@ -14,6 +14,7 @@ donaciones:
 
 .. slides::
 
+   unae.png
    fisadev.png
    pdelboca.png
    _joac.png
@@ -43,6 +44,7 @@ donaciones:
 Donaciones en general
 ---------------------
 
+* 29 de Mayo de 2015 - `Universidad Autónoma de Encarnación <http://www.unae.edu.py/>`_: ARS 500
 * 22 de Mayo de 2015 - `Juan Pedro Fisanotti <https://twitter.com/fisadev>`_: ARS 500
 * 22 de Mayo de 2015 - `Patricio Del Boca <https://twitter.com/pdelboca>`_: ARS 500
 

@@ -6,15 +6,25 @@
 .. link: 
 .. description: 
 .. type: text
-
+.. nocomments: False
 
 .. class:: alert alert-info
 
    Esta sección está en construcción y la idea es que cambie
    frecuentemente a medida que vayamos resolviendo nuestros destinos.
 
-Estas son las novedades del proyecto. ¡Ayudanos a organizarnos en
-nuestros próximos destinos!
+.. raw:: html
+
+    <div class="row">
+      <div class="col-md-4">
+	<a class="twitter-timeline" data-dnt="true" href="https://twitter.com/argenpython" data-widget-id="502105953106272256">
+	  Tweets por @argenpython
+	</a>
+	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+      </div>
+      <div class="col-md-8">
+
+¡Ayudanos a organizarnos en nuestros próximos destinos!
 
 Junio
 -----
@@ -56,6 +66,10 @@ Mayo
    tenemos preparado el :doc:`track-teen-scipy-la-2015`
 
 ----
+
+.. raw:: html
+
+     </div>
 
 .. admonition:: Nota
 

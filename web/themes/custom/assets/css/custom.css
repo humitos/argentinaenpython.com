@@ -20,3 +20,12 @@ body {
 div.flowr-row {
     margin-bottom: 5px;
 }
+
+footer {
+    background-color: #ebebeb;
+    padding: 15px;
+    bottom: 0;
+    position: relative;
+    width: 100%;
+}
+

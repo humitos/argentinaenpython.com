@@ -571,6 +571,12 @@ USE_FILENAME_AS_TITLE = False
 IMAGE_FOLDERS = {'images': ''}
 IMAGE_THUMBNAIL_SIZE = 580
 
+GALLERY_INDEX_TITLE = 'Galería'
+GALLERIES_USE_THUMBNAIL = True
+GALLERIES_DEFAULT_THUMBNAIL = None
+GALLERIES_COLUMNS = 3
+
+
 # #############################################################################
 # HTML fragments and diverse things that are used by the templates
 # #############################################################################
@@ -672,18 +678,18 @@ RSS_LINKS_APPEND_QUERY = False
 
 # A HTML fragment describing the license, for the sidebar.
 # (translatable)
-LICENSE = ""
+# LICENSE = ""
 # I recommend using the Creative Commons' wizard:
 # http://creativecommons.org/choose/
-# LICENSE = """
-# <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.5/ar/">
-# <img alt="Creative Commons License BY-NC-SA"
-# style="border-width:0; margin-bottom:12px;"
-# src="http://i.creativecommons.org/l/by-nc-sa/2.5/ar/88x31.png"></a>"""
+LICENSE = """
+<a style="float: right;" rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
+<img alt="Creative Commons License BY-SA"
+style="border-width:0; margin-bottom:12px;"
+src="http://i.creativecommons.org/l/by-sa/4.0/88x31.png"></a>"""
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
-CONTENT_FOOTER = '<hr><small>Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="http://getnikola.com" rel="nofollow">Nikola</a>         {license}</small>'
+CONTENT_FOOTER = '<small>&copy; 2014-{date} <a href="mailto:{email}">{author}</a> - Powered by <a href="http://getnikola.com" rel="nofollow">Nikola</a> {license}</small>'
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will

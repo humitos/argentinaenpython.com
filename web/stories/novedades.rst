@@ -31,7 +31,8 @@
 Junio
 -----
 
-#. El Viernes 5 y Sábado 6 de Junio se lleva a cabo el :doc:`python-for-ladies`.
+#. El Viernes 5 y Sábado 6 de Junio se lleva a cabo el
+   :doc:`python-for-ladies`.
 
 #. Tenemos pensado salir desde Posadas, Misiones, Argentina hacia
    Asunción, Central, Paraguay el 10 de Junio siguiendo :doc:`esta

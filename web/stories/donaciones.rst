@@ -50,8 +50,10 @@ El dinero será destinado a, por ejemplo:
   * Reparaciones al auto
   * Combustible
 
-Hacé click en el siguite botón para enterarte sobre cuáles son los
-medios disponibles a la fecha para realizar las donaciones:
+----
+
+Hacé click en el siguiente botón para enterarte sobre cuáles son los
+medios disponibles para realizar las donaciones:
 
 .. raw:: html
 

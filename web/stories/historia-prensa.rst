@@ -13,8 +13,7 @@ de alguna manera:
 Año 2014
 --------
 
-* Mayo - `Nota en el blog de Huayra sobre la visita a El
-  Quicho
+* Mayo - `Nota en el blog de Huayra sobre la visita a El Quicho
   <http://huayra.conectarigualdad.gob.ar/noticias/2014/05/27/el-viento-de-huayragnulinux-pas%C3%B3-una-vez-m%C3%A1s-por-el-noroeste-cordob%C3%A9s>`_
 
 * Noviembre - `Entrevista radial en FM del Sol, Capilla del Monte
@@ -58,3 +57,13 @@ Año 2015
 * Mayo - `Noticia sobre Track Teen SciPy LA en el sitio web de la
   Universidad Gastón Dachary
   <http://ugd.edu.ar/noticias/358-scipy-la-conferencia-latinoamericana-de-computacion-cientifica-con-python-en-la-ugd>`_
+
+* Mayo - `Noticia sobre la charla "Introducción a Python" en la
+  Universidad Autónoma de Encarnación
+  <http://www.unae.edu.py/v3/index.php/noticias/item/592-introducci%C3%B3n-a-python>`_
+
+* Mayo - `Presentación de Fernando Masanori (Slide 16 y 17)
+  <http://pt.slideshare.net/fmasanori/import-community>`_
+
+* Mayo - `Post en el blog de Javier Obregon
+  <http://javierobregon.com.ar/?p=1123>`_

@@ -80,4 +80,4 @@ todos felices:
        sea seguro.
 
 .. [#] también hacemos eventos ":doc:`a la gorra <donaciones>`" y, en caso de ser
-       necesario, podríamos hacer algún curso pago
+       necesario, podríamos hacer algún curso pago.

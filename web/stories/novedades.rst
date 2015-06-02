@@ -7,6 +7,8 @@
 .. description: 
 .. type: text
 .. nocomments: False
+.. template: storycomments.tmpl
+
 
 .. class:: alert alert-info
 

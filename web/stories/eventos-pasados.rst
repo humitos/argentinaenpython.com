@@ -9,6 +9,8 @@
 Eventos pasados
 ---------------
 
+* 20-05-2015: `SciPyLA 2015
+  <http://elblogdehumitos.com.ar/posts/scipyla-2015/>`_
 * 07-05-2015: `PyDay Apóstoles
   <http://elblogdehumitos.com.ar/posts/pydayapostoles-cambiando-el-futuro/>`_
 * 28-03-2015: `PyDay Asunción

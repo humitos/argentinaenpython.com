@@ -1,0 +1,31 @@
+server {
+    server_name     www.argentinaenpython.com.ar argentinaenpython.com.ar;
+
+
+    access_log      /var/log/nginx/www.argentinaenpython.com.ar-access.log;
+    error_log       /var/log/nginx/www.argentinaenpython.com.ar-error.log;
+
+
+    ## See the blacklist.conf file at the parent dir: /etc/nginx.
+    ## Deny access based on the User-Agent header.
+    if ($bad_bot) {
+        return 444;
+    }
+
+    location /assets {
+        root /home/humitos/apps/argentinaenpython.com.ar/;
+        expires modified +1m;
+    }
+
+    location / {
+        root /home/humitos/apps/argentinaenpython.com.ar/;
+        error_page 404 = @english_version;
+        expires modified +1m;
+        index index.html;
+    }
+
+    location @english_version {
+        rewrite ^/en(/.*) $1 last;
+    }
+
+}

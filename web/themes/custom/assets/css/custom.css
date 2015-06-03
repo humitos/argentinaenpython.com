@@ -22,6 +22,7 @@ div.flowr-row {
 }
 
 footer {
+    margin-top: 25px;
     background-color: #ebebeb;
     padding: 15px;
     bottom: 0;
@@ -29,3 +30,9 @@ footer {
     width: 100%;
 }
 
+iframe {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: auto;
+    margin-right: auto;
+}

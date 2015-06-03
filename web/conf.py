@@ -450,6 +450,7 @@ INDEX_PATH = "blog"
 # If you don't need any of these, just set to []
 REDIRECTIONS = [
     ('donaciones/misiones/index.html', '/donaciones/arreglo-de-vehiculo/'),
+    ('galeria/track-teen/index.html', '/galeria/track-teen-scipy-la-2015/'),
 ]
 
 # Presets of commands to execute to deploy. Can be anything, for

@@ -7,27 +7,21 @@
 .. description:
 .. type: text
 
-.. class:: alert alert-success
 
-   Desde el proyecto :doc:`Argentina en Python <index>` y, junto a
-   `@EllaQuimica <https://twitter.com/EllaQuimica>`_, ¡vamos a
-   participar de la `SciPy LA 2015 <http://scipyla.org/conf/2015/>`_!
+.. sidebar:: ¡Evento finalizado!
 
-.. raw:: html
+   El Track Teen se llevó a cabo el día Jueves 21 de Mayo en la
+   Universidad Gastón Dachary en el marco del evento SciPyLA. Tuvimos
+   una concurrencia de más de 55 chicos de secundaria de diferentes
+   edades, cursos y escuelas.
 
-  <div class="alert alert-info" style="text-align: center; font-size: 20px; width: 50%; margin-left: auto; margin-right: auto;">
-   <p style="font-weight: bold;">Jueves 21 de Mayo de 2015</p>
-   <p style="font-weight: bold;">Posadas, Misiones, Argentina</p>
+   `Leé nuestra visión
+   <http://elblogdehumitos.com.ar/posts/scipyla-2015/>`_ de lo que fue
+   el Track Teen y la SciPyLA en "El blog de Humitos".
 
-    <br/>
+   * `Ver Fotos </galeria/track-teen-scipy-la-2015/>`_
+   * :doc:`track-teen-scipy-la-2015/cronograma`
 
-    <div style="text-align: center">
-      <a class="btn btn-lg btn-primary" target="_blank" href="https://docs.google.com/forms/d/12HPNG8UGsJ5ihCyGBkbZgwltNjrkAKUpALy_88HnI1E/viewform">
-         ¡Inscribirme como asistente!
-      </a>
-    </div>
-
-  </div>
 
 .. image:: scipy-logo.png
    :align: right
@@ -136,4 +130,7 @@ Contactos
   - Email: ellaquimica@gmail.com
   - Twitter: `@EllaQuimica <https://twitter.com/EllaQuimica>`_
 
-¡Ayudanos con la difusión!
+
+.. class:: lead align-center
+
+   ¡Ayudanos con la difusión!

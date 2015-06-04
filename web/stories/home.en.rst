@@ -5,7 +5,7 @@
 .. category: 
 .. link: 
 .. description: Argentina en Python is a personal and communitary project that promotes the usage of Python
-.. previewimage: /index/logo.png
+.. previewimage: /index/logo.thumbnail.png
 .. type: text
 .. template: notitle.tmpl
 
@@ -24,7 +24,7 @@
    **News**: :doc:`track-teen-scipy-la-2015` and :doc:`python-for-ladies`.
    
 
-.. image:: /index/logo.png
+.. image:: /index/logo.thumbnail.png
    :width: 420px
    :align: right
 

@@ -9,6 +9,13 @@
 .. nocomments: False
 .. template: storycomments.tmpl
 
+.. raw:: html
+
+   <style>
+     ol li {
+       margin-bottom: 15px;
+     }
+   </style>
 
 .. class:: alert alert-info
 

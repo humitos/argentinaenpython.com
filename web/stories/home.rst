@@ -5,7 +5,7 @@
 .. category: 
 .. link: 
 .. description: Argentina en Python es un proyecto personal y comunitario que promueve el uso del lenguaje de programación Python
-.. previewimage: /index/logo.png
+.. previewimage: /index/logo.thumbnail.png
 .. type: text
 .. template: notitle.tmpl
 
@@ -25,7 +25,7 @@
    **Novedades**: :doc:`track-teen-scipy-la-2015` y :doc:`python-for-ladies`.
    
 
-.. image:: /index/logo.png
+.. image:: /index/logo.thumbnail.png
    :width: 420px
    :align: right
 
@@ -98,8 +98,8 @@ formas de vida.
      </a>
    </div>
 
-   <div class="row" style="margin-bottom: 50px;">
-     <a class="home-sections" href="/galeria/">
+   <a class="home-sections" href="/galeria/">
+     <div class="row" style="margin-bottom: 50px;">
        <div class="col-md-4">
 	 <p style="text-align: center"><i class="fa fa-photo fa-5x"></p>
 	 <h2 style="text-align: center">Fotos</h2>

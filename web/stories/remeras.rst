@@ -16,6 +16,14 @@
      }
    </style>
 
+
+.. class:: alert alert-warning
+
+   ¡**Se agotaron todas las remeras** en la `SciPyLA
+   <http://elblogdehumitos.com.ar/posts/scipyla-2015>`_! Igualmente
+   anotate, ya que tenemos ganas de hacer más en un futuro cercano...
+
+
 .. class:: lead align-center
 
    ¿Hace cuánto que estabas esperando la remera de

@@ -100,6 +100,9 @@ RaspberryPi + Minecraft
 
 ----
 
+Videos
+------
+
 Compartimos el video del "Taller Audiovisual" que hicimos en la `6ta
 Convención de Circo de Minga Guazú, Paraguay
 <http://www.circonvencionparaguay.com/>`_ que mostramos en el

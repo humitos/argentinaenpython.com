@@ -11,6 +11,9 @@
 
    <script defer src="/assets/js/argentina-en-python.js"></script>
 
+.. contents::  Contenido
+   :class: topic pull-right navbar alert alert-warning
+
 .. class:: alert alert-success
 
    Actualmente estamos cursando la `Tercera Etapa`_.

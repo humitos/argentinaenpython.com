@@ -71,7 +71,7 @@ Atronomía
    Una masa estuvo el track teen, estas cosas valen la pena, espero
    que siga!
 
-   -- Burno Sánchez
+   -- Bruno Sánchez
 
 ----
 

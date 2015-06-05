@@ -6,6 +6,7 @@
 .. description: 
 .. type: text
 
+
 Esta página muestra cuales son las necesidades para organizar
 diferentes tipos de eventos relacionados con Python impulsados por el
 proyecto y describe brevemente cada uno de ellos. Es solo una ayuda
@@ -182,7 +183,7 @@ Requisitos
 
    * agregar el evento al `calendario oficial`_ de Python internacional
 
-.. class:: lead
+.. class:: lead align-center width-70
 
    ¡Sumate a esta iniciativa! No es complicado organizar ninguno de
    estos eventos y podés ser uno de los pioneros en tu ciudad ayudando

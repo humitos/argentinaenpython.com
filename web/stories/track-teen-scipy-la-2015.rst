@@ -109,7 +109,7 @@ Experiencias previas
 
 En la Provincia de Corrientes y Formosa, realizamos dos Jornadas de
 *"Jugando al Científico loco"* (`ver fotos
-<https://www.facebook.com/media/set/?set=a.1534188323537367.1073741833.1525227431100123&type=3>`_)
+<https://www.facebook.com/media/set/?set=a.1534188323537367.1073741833.1525227431100123&type=3>`__)
 con chicos de 4 a 12 años. Lograr su atención durante la jornada fue
 el mayor reto pero lo conseguimos de muy buena manera haciéndolo
 interactivo y que ellos mismos sean quienes nos enseñen a nosotros.

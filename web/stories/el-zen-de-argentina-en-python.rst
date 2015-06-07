@@ -45,6 +45,8 @@ todos felices:
 
 #. Los eventos *deben* ser de entrada libre y gratuita para los asistentes. [#]_
 
+#. Cinturón de seguridad y "Máxima 110" son un *MUST*.
+
 .. _OpenStreetMap: http://osm.org/
 .. _Google Maps: http://maps.google.com/
 .. _CouchSurfing: http://www.couchsurfing.com/

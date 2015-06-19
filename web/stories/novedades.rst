@@ -38,6 +38,15 @@
 Junio
 -----
 
+#. El Sábado 20 de Junio se realiza "`Python Paraguay #1 Meetup
+   <http://www.meetup.com/Python-Paraguay/events/223289056/>`_" a
+   partir de las 9:30hs en las oficinas de Roshka.
+
+#. Hoy 17 de Junio llegamos nuevamente a Asunción, Central, Paraguay.
+
+#. A partir del 8 de Junio voy a estar utlizando el número de móvil
+   Tigo de Paraguay y el Whatsapp de Argentina.
+
 #. El Viernes 5 y Sábado 6 de Junio se lleva a cabo el
    :doc:`python-for-ladies`.
 

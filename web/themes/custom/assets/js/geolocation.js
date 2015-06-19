@@ -2,33 +2,6 @@ var map;
 var osmLayer;
 var layerControl;
 
-function add_gpx_layers() {
-    var gpxData = [
-	// http://osrm.at/acG
-	{url: '/assets/data/0-etapa.gpx', name: 'Etapa 0', colorLine: 'violet'},
-	// http://osrm.at/acH
-	{url: '/assets/data/primera-etapa.gpx', name: 'Primera Etapa', colorLine: 'blue'},
-	// http://osrm.at/acF
-	{url: '/assets/data/segunda-etapa.gpx', name: 'Segunda Etapa', colorLine: 'yellow'}
-    ];
-
-    $.each(gpxData, function(i, gpx) {
-	layer = new L.GPX(gpx.url, {
-	    async: false,
-	    marker_options: {
-		startIconUrl: '/assets/img/no-icon.png',
-		endIconUrl: '/assets/img/no-icon.png',
-		shadowUrl: '/assets/img/no-icon.png'
-	    },
-	    polyline_options: {
-		color: gpx.colorLine
-	    }
-	});
-	name = "<img src='/assets/img/" + gpx.colorLine + "-line.png' /> <span>" + gpx.name + "</span>"
-	layerControl.addOverlay(layer, name);
-    });
-}
-
 
 function route_destiny() {
     var waypoints = [];
@@ -45,9 +18,9 @@ function route_destiny() {
 	    } else {
 		l = L.Routing.line(routes[0], {
 		    styles: [
-			{color: 'gray', opacity: 0.3, weight: 3},
-			{color: 'gray', opacity: 0.3, weight: 3},
-			{color: 'gray', opacity: 0.3, weight: 3}
+			{color: 'green', opacity: 0.3, weight: 3},
+			{color: 'green', opacity: 0.3, weight: 3},
+			{color: 'green', opacity: 0.3, weight: 3}
 		    ],
 		    addWaypoints: false
 		}).addTo(map);
@@ -95,8 +68,6 @@ $(document).ready(function (){
 
 	layerControl = L.control.layers(null, null, {collapsed: false});
 	layerControl.addTo(map);
-
-	add_gpx_layers();
 
         $.getJSON('/assets/data/cities.json', function(data) {
             var layers = {};

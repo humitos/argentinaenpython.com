@@ -1,30 +1,102 @@
 {
     "next": [
         {
-            "address": "La Colmena, Paraguar\u00ed, Regi\u00f3n Oriental, Paraguay", 
-            "country": "PY", 
-            "lat": -25.8856298, 
-            "lng": -56.8404292, 
-            "location": "La Colmena, Paraguay", 
-            "osm_id": "164060308", 
-            "osm_type": "way", 
+            "accuracy": 0.39401684500863, 
+            "address": "Bermejo, Provincia Arce, TJA, Bolivia", 
+            "bbox": {
+                "northeast": [
+                    -22.6914541, 
+                    -64.3003166
+                ], 
+                "southwest": [
+                    -22.7714541, 
+                    -64.3803166
+                ]
+            }, 
+            "confidence": 4, 
+            "country": "Bolivia", 
+            "county": "Provincia Arce", 
+            "encoding": "utf-8", 
+            "geometry": {
+                "coordinates": [
+                    -64.3403166, 
+                    -22.7314541
+                ], 
+                "type": "Point"
+            }, 
+            "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_town.p.20.png", 
+            "importance": 0.39401684500863, 
+            "lat": -22.7314541, 
+            "lng": -64.3403166, 
+            "location": "bermejo, bolivia", 
+            "method": "geocode", 
+            "ok": true, 
+            "osm_id": "198437954", 
+            "osm_type": "node", 
+            "place_id": "525784", 
+            "place_rank": "18", 
             "provider": "osm", 
             "quality": "town", 
-            "state": "Paraguar\u00ed", 
-            "status": "OK"
+            "region": "TJA", 
+            "state": "TJA", 
+            "status": "OK", 
+            "town": "Bermejo", 
+            "type": "town"
         }, 
         {
-            "address": "Asunci\u00f3n, Distrito Capital de Paraguay, Regi\u00f3n Oriental, Paraguay", 
-            "city": "Asunci\u00f3n", 
-            "country": "PY", 
-            "lat": -25.2960638, 
-            "lng": -57.6311446, 
-            "location": "asunci\u00f3n, distrito capital de paraguay, paraguay", 
-            "osm_id": "249854726", 
+            "accuracy": 0.65917320224348, 
+            "address": "Tarija, Provincia Cercado, TJA, Bolivia", 
+            "bbox": {
+                "northeast": [
+                    -21.3749268, 
+                    -64.5715311
+                ], 
+                "southwest": [
+                    -21.6949268, 
+                    -64.8915311
+                ]
+            }, 
+            "city": "Tarija", 
+            "confidence": 1, 
+            "country": "Bolivia", 
+            "county": "Provincia Cercado", 
+            "encoding": "utf-8", 
+            "geometry": {
+                "coordinates": [
+                    -64.7315311, 
+                    -21.5349268
+                ], 
+                "type": "Point"
+            }, 
+            "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png", 
+            "importance": 0.65917320224348, 
+            "lat": -21.5349268, 
+            "lng": -64.7315311, 
+            "location": "tarija, bolivia", 
+            "method": "geocode", 
+            "ok": true, 
+            "osm_id": "319524032", 
             "osm_type": "node", 
+            "place_id": "1397652", 
+            "place_rank": "16", 
             "provider": "osm", 
             "quality": "city", 
-            "state": "Distrito Capital de Paraguay", 
+            "region": "TJA", 
+            "state": "TJA", 
+            "status": "OK", 
+            "type": "city"
+        }, 
+        {
+            "address": "Uyuni, Provincia Antonio Quijarro, Potos\u00ed, Bolivia", 
+            "country": "BO", 
+            "lat": -20.4599417, 
+            "lng": -66.8225116, 
+            "location": "uyuni, bolivia", 
+            "osm_id": "795493613", 
+            "osm_type": "node", 
+            "provider": "osm", 
+            "quality": "town", 
+            "state": "Potos\u00ed", 
             "status": "OK"
         }, 
         {
@@ -42,33 +114,6 @@
             "status": "OK"
         }, 
         {
-            "address": "Cochabamba, Provincia Cercado, CBA, Bolivia", 
-            "city": "Cochabamba", 
-            "country": "BO", 
-            "lat": -17.3935419, 
-            "lng": -66.1570139, 
-            "location": "cochabamba, bolivia", 
-            "osm_id": "313811401", 
-            "osm_type": "node", 
-            "provider": "osm", 
-            "quality": "city", 
-            "state": "CBA", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Uyuni, Provincia Antonio Quijarro, Potos\u00ed, Bolivia", 
-            "country": "BO", 
-            "lat": -20.4599417, 
-            "lng": -66.8225116, 
-            "location": "uyuni, bolivia", 
-            "osm_id": "795493613", 
-            "osm_type": "node", 
-            "provider": "osm", 
-            "quality": "town", 
-            "state": "Potos\u00ed", 
-            "status": "OK"
-        }, 
-        {
             "address": "Sucre, Provincia Oropeza, CHQ, Bolivia", 
             "city": "Sucre", 
             "country": "BO", 
@@ -83,6 +128,106 @@
             "status": "OK"
         }, 
         {
+            "accuracy": 0.68201488613777, 
+            "address": "Oruro, Provincia Cercado, ORU, Bolivia", 
+            "bbox": {
+                "northeast": [
+                    -17.8003802, 
+                    -66.9501439
+                ], 
+                "southwest": [
+                    -18.1203802, 
+                    -67.2701439
+                ]
+            }, 
+            "city": "Oruro", 
+            "confidence": 1, 
+            "country": "Bolivia", 
+            "county": "Provincia Cercado", 
+            "encoding": "utf-8", 
+            "geometry": {
+                "coordinates": [
+                    -67.1101439, 
+                    -17.9603802
+                ], 
+                "type": "Point"
+            }, 
+            "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png", 
+            "importance": 0.68201488613777, 
+            "lat": -17.9603802, 
+            "lng": -67.1101439, 
+            "location": "oruro, bolivia", 
+            "method": "geocode", 
+            "ok": true, 
+            "osm_id": "319780564", 
+            "osm_type": "node", 
+            "place_id": "1399364", 
+            "place_rank": "16", 
+            "provider": "osm", 
+            "quality": "city", 
+            "region": "ORU", 
+            "state": "ORU", 
+            "status": "OK", 
+            "type": "city"
+        }, 
+        {
+            "address": "Cochabamba, Provincia Cercado, CBA, Bolivia", 
+            "city": "Cochabamba", 
+            "country": "BO", 
+            "lat": -17.3935419, 
+            "lng": -66.1570139, 
+            "location": "cochabamba, bolivia", 
+            "osm_id": "313811401", 
+            "osm_type": "node", 
+            "provider": "osm", 
+            "quality": "city", 
+            "state": "CBA", 
+            "status": "OK"
+        }, 
+        {
+            "accuracy": 1.0641528440845, 
+            "address": "Santa Cruz de la Sierra, Provincia Andres Ibanez, SCZ, Bolivia", 
+            "bbox": {
+                "northeast": [
+                    -17.6236904, 
+                    -63.0221038
+                ], 
+                "southwest": [
+                    -17.9436904, 
+                    -63.3421038
+                ]
+            }, 
+            "city": "Santa Cruz de la Sierra", 
+            "confidence": 1, 
+            "country": "Bolivia", 
+            "county": "Provincia Andres Ibanez", 
+            "encoding": "utf-8", 
+            "geometry": {
+                "coordinates": [
+                    -63.1821038, 
+                    -17.7836904
+                ], 
+                "type": "Point"
+            }, 
+            "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png", 
+            "importance": 1.0641528440845, 
+            "lat": -17.7836904, 
+            "lng": -63.1821038, 
+            "location": "santa cruz de la sierra, bolivia", 
+            "method": "geocode", 
+            "ok": true, 
+            "osm_id": "415163462", 
+            "osm_type": "node", 
+            "place_id": "3832613", 
+            "place_rank": "16", 
+            "provider": "osm", 
+            "quality": "city", 
+            "region": "SCZ", 
+            "state": "SCZ", 
+            "status": "OK", 
+            "type": "city"
+        }, 
+        {
             "address": "La Paz, Provincia Murillo, LPZ, Bolivia", 
             "city": "La Paz", 
             "country": "BO", 
@@ -95,6 +240,49 @@
             "quality": "city", 
             "state": "LPZ", 
             "status": "OK"
+        }, 
+        {
+            "accuracy": 0.64761685113657, 
+            "address": "Copacabana, Provincia Manco Kapac, LPZ, Bolivia", 
+            "bbox": {
+                "northeast": [
+                    -16.1261162, 
+                    -69.0466975
+                ], 
+                "southwest": [
+                    -16.2061162, 
+                    -69.1266975
+                ]
+            }, 
+            "confidence": 4, 
+            "country": "Bolivia", 
+            "county": "Provincia Manco Kapac", 
+            "encoding": "utf-8", 
+            "geometry": {
+                "coordinates": [
+                    -69.0866975, 
+                    -16.1661162
+                ], 
+                "type": "Point"
+            }, 
+            "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_town.p.20.png", 
+            "importance": 0.64761685113657, 
+            "lat": -16.1661162, 
+            "lng": -69.0866975, 
+            "location": "copacabana, Manco Kapac, bolivia", 
+            "method": "geocode", 
+            "ok": true, 
+            "osm_id": "795662927", 
+            "osm_type": "node", 
+            "place_id": "7145283", 
+            "place_rank": "18", 
+            "provider": "osm", 
+            "quality": "town", 
+            "region": "LPZ", 
+            "state": "LPZ", 
+            "status": "OK", 
+            "town": "Copacabana", 
+            "type": "town"
         }
     ], 
     "previous": [
@@ -986,7 +1174,7 @@
             "quality": "administrative", 
             "state": "Misiones", 
             "status": "OK"
-        },
+        }, 
         {
             "address": "Encarnaci\u00f3n, Itap\u00faa, Regi\u00f3n Oriental, 6000, Paraguay", 
             "country": "PY", 
@@ -1000,6 +1188,228 @@
             "quality": "town", 
             "state": "Itap\u00faa", 
             "status": "OK"
+        }, 
+        {
+            "address": "La Colmena, Paraguar\u00ed, Regi\u00f3n Oriental, Paraguay", 
+            "country": "PY", 
+            "lat": -25.8856298, 
+            "lng": -56.8404292, 
+            "location": "La Colmena, Paraguay", 
+            "osm_id": "164060308", 
+            "osm_type": "way", 
+            "provider": "osm", 
+            "quality": "town", 
+            "state": "Paraguar\u00ed", 
+            "status": "OK"
+        }, 
+        {
+            "accuracy": 0.775, 
+            "address": "San Cosme y Dami\u00e1n, Itap\u00faa, Regi\u00f3n Oriental, Paraguay", 
+            "bbox": {
+                "northeast": [
+                    -27.3061213, 
+                    -56.3238366
+                ], 
+                "southwest": [
+                    -27.3249375, 
+                    -56.3387926
+                ]
+            }, 
+            "confidence": 7, 
+            "country": "Paraguay", 
+            "encoding": "utf-8", 
+            "geometry": {
+                "coordinates": [
+                    -56.3317449, 
+                    -27.3130757
+                ], 
+                "type": "Point"
+            }, 
+            "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_village.p.20.png", 
+            "importance": 0.775, 
+            "lat": -27.3130757, 
+            "lng": -56.3317449, 
+            "location": "san cosme y dami\u00e1n, paraguay", 
+            "method": "geocode", 
+            "ok": true, 
+            "osm_id": "161211630", 
+            "osm_type": "way", 
+            "place_id": "92534872", 
+            "place_rank": "19", 
+            "provider": "osm", 
+            "quality": "village", 
+            "region": "Itap\u00faa", 
+            "state": "Itap\u00faa", 
+            "status": "OK", 
+            "type": "village", 
+            "village": "San Cosme y Dami\u00e1n"
+        }, 
+        {
+            "accuracy": 0.64761685113657, 
+            "address": "San Ignacio Guaz\u00fa, Misiones, Regi\u00f3n Oriental, Paraguay", 
+            "bbox": {
+                "northeast": [
+                    -26.8732244, 
+                    -57.0027283
+                ], 
+                "southwest": [
+                    -26.9018622, 
+                    -57.0444846
+                ]
+            }, 
+            "confidence": 6, 
+            "country": "Paraguay", 
+            "encoding": "utf-8", 
+            "geometry": {
+                "coordinates": [
+                    -57.0245787, 
+                    -26.8904131
+                ], 
+                "type": "Point"
+            }, 
+            "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_town.p.20.png", 
+            "importance": 0.64761685113657, 
+            "lat": -26.8904131, 
+            "lng": -57.0245787, 
+            "location": "san ignacio guaz\u00fa, paraguay", 
+            "method": "geocode", 
+            "ok": true, 
+            "osm_id": "130657689", 
+            "osm_type": "way", 
+            "place_id": "84498198", 
+            "place_rank": "18", 
+            "provider": "osm", 
+            "quality": "town", 
+            "region": "Misiones", 
+            "state": "Misiones", 
+            "status": "OK", 
+            "town": "San Ignacio Guaz\u00fa", 
+            "type": "town"
+        }, 
+        {
+            "accuracy": 0.301, 
+            "address": "Parque nacional Ybycu\u00ed, Ramal Carapegu\u00e1 a la Rosada, Paraguar\u00ed, Regi\u00f3n Oriental, Paraguay", 
+            "bbox": {
+                "northeast": [
+                    -26.0461055, 
+                    -56.7841862
+                ], 
+                "southwest": [
+                    -26.1073584, 
+                    -56.8666438
+                ]
+            }, 
+            "confidence": 4, 
+            "country": "Paraguay", 
+            "encoding": "utf-8", 
+            "geometry": {
+                "coordinates": [
+                    -56.8199438866846, 
+                    -26.0771897
+                ], 
+                "type": "Point"
+            }, 
+            "importance": 0.301, 
+            "lat": -26.0771897, 
+            "lng": -56.8199438866846, 
+            "location": "parque nacional ybycui, paraguay", 
+            "method": "geocode", 
+            "ok": true, 
+            "osm_id": "343108721", 
+            "osm_type": "way", 
+            "place_id": "2584448581", 
+            "place_rank": "30", 
+            "provider": "osm", 
+            "quality": "nature_reserve", 
+            "region": "Paraguar\u00ed", 
+            "state": "Paraguar\u00ed", 
+            "status": "OK", 
+            "street": "Ramal Carapegu\u00e1 a la Rosada", 
+            "type": "nature_reserve"
+        }, 
+        {
+            "accuracy": 0.46123930027934, 
+            "address": "Sapuca\u00ed, Paraguar\u00ed, Regi\u00f3n Oriental, Paraguay", 
+            "bbox": {
+                "northeast": [
+                    -25.6577272, 
+                    -56.9399572
+                ], 
+                "southwest": [
+                    -25.6771459, 
+                    -56.970831
+                ]
+            }, 
+            "confidence": 7, 
+            "country": "Paraguay", 
+            "encoding": "utf-8", 
+            "geometry": {
+                "coordinates": [
+                    -56.9524852, 
+                    -25.6647857
+                ], 
+                "type": "Point"
+            }, 
+            "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_town.p.20.png", 
+            "importance": 0.46123930027934, 
+            "lat": -25.6647857, 
+            "lng": -56.9524852, 
+            "location": "sapuca\u00ed, paraguay", 
+            "method": "geocode", 
+            "ok": true, 
+            "osm_id": "133153159", 
+            "osm_type": "way", 
+            "place_id": "85092165", 
+            "place_rank": "18", 
+            "provider": "osm", 
+            "quality": "town", 
+            "region": "Paraguar\u00ed", 
+            "state": "Paraguar\u00ed", 
+            "status": "OK", 
+            "town": "Sapuca\u00ed", 
+            "type": "town"
+        }, 
+        {
+            "accuracy": 0.63940162059147, 
+            "address": "Paraguar\u00ed, Regi\u00f3n Oriental, Paraguay", 
+            "bbox": {
+                "northeast": [
+                    -25.5807309, 
+                    -57.1075978
+                ], 
+                "southwest": [
+                    -25.6607309, 
+                    -57.1875978
+                ]
+            }, 
+            "confidence": 4, 
+            "country": "Paraguay", 
+            "encoding": "utf-8", 
+            "geometry": {
+                "coordinates": [
+                    -57.1475978, 
+                    -25.6207309
+                ], 
+                "type": "Point"
+            }, 
+            "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_town.p.20.png", 
+            "importance": 0.63940162059147, 
+            "lat": -25.6207309, 
+            "lng": -57.1475978, 
+            "location": "paraguar\u00ed, paraguar\u00ed, paraguay", 
+            "method": "geocode", 
+            "ok": true, 
+            "osm_id": "313921866", 
+            "osm_type": "node", 
+            "place_id": "1351097", 
+            "place_rank": "18", 
+            "provider": "osm", 
+            "quality": "town", 
+            "region": "Paraguar\u00ed", 
+            "state": "Paraguar\u00ed", 
+            "status": "OK", 
+            "town": "Paraguar\u00ed", 
+            "type": "town"
         }
     ]
 }

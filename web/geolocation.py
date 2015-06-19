@@ -29,7 +29,7 @@ import geocoder
 import logging
 import configobj
 import collections
-
+import webbrowser
 from docopt import docopt
 from logging.handlers import RotatingFileHandler
 
@@ -132,6 +132,7 @@ def is_osmurl_valid(response):
     )
     logger.info('OSMUrl: %s', url)
     answer = None
+    webbrowser.open_new_tab(url)
     while answer not in ('y', 'yes', 'n', 'no'):
         answer = raw_input('Is this URL correct?\n    {}\n[y/n]: '.format(url))
     if answer in ('y', 'yes'):

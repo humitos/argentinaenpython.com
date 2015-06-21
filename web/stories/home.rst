@@ -20,11 +20,6 @@
    </style>
 
 
-.. class:: alert alert-success
-
-   **Novedades**: :doc:`track-teen-scipy-la-2015` y :doc:`python-for-ladies`.
-   
-
 .. image:: /index/logo.thumbnail.png
    :width: 420px
    :align: right

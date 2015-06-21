@@ -12,8 +12,11 @@ para el proyecto desde que ha iniciado (en orden descendente). Además,
 se muestran los tuits que se publicaron en el momento de recibir las
 donaciones:
 
-.. slides::
+.. fotorama::
+   :loop:
+   :autoplay: 2000
 
+   tin_nqn_.png
    unae.png
    fisadev.png
    pdelboca.png
@@ -44,6 +47,7 @@ donaciones:
 Donaciones en general
 ---------------------
 
+* 12 de Junio de 2015 - `Martín Gaitán <https://twitter.com/tin_nqn_>`_: ARS 100
 * 29 de Mayo de 2015 - `Universidad Autónoma de Encarnación <http://www.unae.edu.py/>`_: ARS 500
 * 22 de Mayo de 2015 - `Juan Pedro Fisanotti <https://twitter.com/fisadev>`_: ARS 500
 * 22 de Mayo de 2015 - `Patricio Del Boca <https://twitter.com/pdelboca>`_: ARS 500

@@ -56,8 +56,9 @@ archivo `my-position.json` que es dónde están las coordenadas de mi
 posición actual y lo muestro en el mapa:
 
 .. listing:: donde-esta-humitos/geolocation.js javascript
-   :start-line: 144
-   :end-line: 162
+   :start-line: 115
+   :end-line: 133
+
 
 #. Descarga el archivo `my-position.json`
 #. Crea el ícono del autito

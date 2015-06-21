@@ -7,12 +7,28 @@
 .. type: text
 .. previewimage: preview.jpg
 
+.. raw:: html
+
+   <style>
+     ul.simple {
+         list-style: none;
+     }
+   </style>
+
 This map is useful to know where I *approximately* am at this moment
 and which is my *planned route* for the next days/weeks/months. The
 map's goal is :doc:`to be in touch <contacto>` with people next to me
 (or my planned route) so we can :doc:`coordinate something related
 with the project <eventos>` (or anything of mutual interest) and
 organize to see each other in the proximities.
+
+* |ruta| *planned* route for months June, July and August 2015
+* |destinos| destinies we want to go in those months
+* |visitados| places already visited by the project since its start
+
+.. |ruta| image:: /assets/img/green-line.png
+.. |destinos| image:: /assets/img/marker-icon-red.png
+.. |visitados| image:: /assets/img/marker-icon-green.png
 
 .. raw:: html
 
@@ -39,8 +55,8 @@ where the coordinates of my current position are and show them into
 the map:
 
 .. listing:: donde-esta-humitos/geolocation.js javascript
-   :start-line: 144
-   :end-line: 162
+   :start-line: 115
+   :end-line: 133
 
 #. Download `my-position.json`
 #. Create the car's icon

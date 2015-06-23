@@ -184,9 +184,9 @@ def calc_my_position(output=MY_POSITION_FILENAME):
     save_json(response.latlng, output)
 
     command = 'scp {} ' \
-              'mkaufmann.com.ar:~/apps/blog.mkaufmann.com.ar/blog/' \
-              'nikola/output/assets/data/'.format(
-                  os.path.join(DIRNAME, 'geodata/my-position.json'),
+              'mkaufmann.com.ar:~/apps/argentinaenpython.com.ar/' \
+              'assets/data/'.format(
+                  MY_POSITION_FILENAME,
               )
 
     logger.debug(command)

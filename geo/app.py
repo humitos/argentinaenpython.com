@@ -8,6 +8,7 @@ import geocoder
 import logging
 from geolocation import (
     calc_my_position_address,
+    save_json,
     setup_logging,
     logger,
     MY_POSITION_FILENAME
@@ -38,7 +39,13 @@ def geolocation():
             response.province,
             response.country
         )
-        calc_my_position_address(address, MY_POSITION_FILENAME, upload=False)
+        response = calc_my_position_address(
+            address,
+            MY_POSITION_FILENAME,
+            upload=False
+        )
+        output = os.path.join('assets', 'data', 'my-position.json')
+        save_json(response.latlng, output)
 
     return 'OK'
 

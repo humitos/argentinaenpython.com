@@ -162,7 +162,7 @@ def create_symlinks(dirname=SYMLINKS_DIR):
             os.symlink(source, destination)
 
 
-def calc_my_position(output=MY_POSITION_FILENAME):
+def calc_my_position_ip(output=MY_POSITION_FILENAME):
     setup_output(output)
 
     if not config.get('activated', False):
@@ -176,13 +176,22 @@ def calc_my_position(output=MY_POSITION_FILENAME):
     logger.info('LatLng: %s', response.latlng)
     logger.info('Place: %s', response.address)
 
-    logger.info('Querying the server about "%s"...', response.address)
-    response = geocoder.osm(response.address)
+    return calc_my_position_address(response.address, output)
+
+
+def calc_my_position_address(address, output, upload=True):
+    logger.info('Querying the server about "%s"...', address)
+    response = geocoder.osm(address)
     logger.info('LatLng: %s', response.latlng)
     logger.info('Place: %s', response.address)
 
     save_json(response.latlng, output)
 
+    if upload:
+        upload_my_position()
+
+
+def upload_my_position():
     command = 'scp {} ' \
               'mkaufmann.com.ar:~/apps/argentinaenpython.com.ar/' \
               'assets/data/'.format(
@@ -193,8 +202,6 @@ def calc_my_position(output=MY_POSITION_FILENAME):
     logger.info('Uploading new "my-position.json" file...')
     os.system(command)
     logger.info('Upload Finished!')
-
-    return response
 
 
 def calc_address(address, when, output=CITIES_FILENAME):
@@ -286,7 +293,7 @@ if __name__ == '__main__':
             calc_address(q, when)
 
     if arguments['-m'] or arguments['--me']:
-        calc_my_position()
+        calc_my_position_ip()
 
     if arguments['--symlinks']:
         create_symlinks()

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <script type="text/javascript">
+      function send_geolocation_to_server(position) {
+	  var latitude = position.coords.latitude;
+	  var longitude = position.coords.longitude;
+	  // let's show a map or do something interesting!
+	  $.post("/ajax/", {'lat': latitude, 'lon': longitude}, function(data) {
+	      console.debug(data);
+	  });
+      }
+
+      function get_location() {
+	  navigator.geolocation.getCurrentPosition(send_geolocation_to_server);
+      }
+    </script>
+
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>¿Dónde está humitos?</title>
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body style="width: 75%; margin-left: auto; margin-right: auto;">
+    <h1>¿Dónde está humitos?</h1>
+
+    <div class="jumbotron">
+      <h1>Compartir geolocation con HTML5</h1>
+      <p>Una vez que presiones el botón se calculará tu posición y se actualizará el sitio <a href="http://argentinaenpython.com.ar/donde-esta-humitos/">¿Donde está humitos?</a></p>
+      <p><a class="btn btn-primary btn-lg" href="#" role="button" onclick="javascript:get_location()">Calcular posición</a></p>
+    </div>
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  </body>
+</html>

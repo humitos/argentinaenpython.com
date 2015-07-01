@@ -1,103 +1,46 @@
 {
     "next": [
         {
-            "accuracy": 0.39401684500863, 
-            "address": "Bermejo, Provincia Arce, TJA, Bolivia", 
+            "accuracy": 0.63050715237377, 
+            "address": "La Quiaca, Departamento Yavi, Jujuy, Argentina", 
             "bbox": {
                 "northeast": [
-                    -22.6914541, 
-                    -64.3003166
+                    -22.0964459, 
+                    -65.5791196
                 ], 
                 "southwest": [
-                    -22.7714541, 
-                    -64.3803166
+                    -22.1228275, 
+                    -65.6102195
                 ]
             }, 
-            "confidence": 4, 
-            "country": "Bolivia", 
-            "county": "Provincia Arce", 
+            "city": "La Quiaca", 
+            "confidence": 7, 
+            "country": "Argentina", 
             "encoding": "utf-8", 
             "geometry": {
                 "coordinates": [
-                    -64.3403166, 
-                    -22.7314541
+                    -65.596754, 
+                    -22.1046124
                 ], 
                 "type": "Point"
             }, 
-            "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_town.p.20.png", 
-            "importance": 0.39401684500863, 
-            "lat": -22.7314541, 
-            "lng": -64.3403166, 
-            "location": "bermejo, bolivia", 
+            "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png", 
+            "importance": 0.63050715237377, 
+            "lat": -22.1046124, 
+            "lng": -65.596754, 
+            "location": "la quiaca, jujuy, argentina", 
             "method": "geocode", 
             "ok": true, 
-            "osm_id": "198437954", 
-            "osm_type": "node", 
-            "place_id": "525784", 
-            "place_rank": "18", 
-            "provider": "osm", 
-            "quality": "town", 
-            "region": "TJA", 
-            "state": "TJA", 
-            "status": "OK", 
-            "town": "Bermejo", 
-            "type": "town"
-        }, 
-        {
-            "accuracy": 0.65917320224348, 
-            "address": "Tarija, Provincia Cercado, TJA, Bolivia", 
-            "bbox": {
-                "northeast": [
-                    -21.3749268, 
-                    -64.5715311
-                ], 
-                "southwest": [
-                    -21.6949268, 
-                    -64.8915311
-                ]
-            }, 
-            "city": "Tarija", 
-            "confidence": 1, 
-            "country": "Bolivia", 
-            "county": "Provincia Cercado", 
-            "encoding": "utf-8", 
-            "geometry": {
-                "coordinates": [
-                    -64.7315311, 
-                    -21.5349268
-                ], 
-                "type": "Point"
-            }, 
-            "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png", 
-            "importance": 0.65917320224348, 
-            "lat": -21.5349268, 
-            "lng": -64.7315311, 
-            "location": "tarija, bolivia", 
-            "method": "geocode", 
-            "ok": true, 
-            "osm_id": "319524032", 
-            "osm_type": "node", 
-            "place_id": "1397652", 
+            "osm_id": "2294361", 
+            "osm_type": "relation", 
+            "place_id": "127943274", 
             "place_rank": "16", 
             "provider": "osm", 
-            "quality": "city", 
-            "region": "TJA", 
-            "state": "TJA", 
+            "quality": "administrative", 
+            "region": "Jujuy", 
+            "state": "Jujuy", 
             "status": "OK", 
-            "type": "city"
-        }, 
-        {
-            "address": "Uyuni, Provincia Antonio Quijarro, Potos\u00ed, Bolivia", 
-            "country": "BO", 
-            "lat": -20.4599417, 
-            "lng": -66.8225116, 
-            "location": "uyuni, bolivia", 
-            "osm_id": "795493613", 
-            "osm_type": "node", 
-            "provider": "osm", 
-            "quality": "town", 
-            "state": "Potos\u00ed", 
-            "status": "OK"
+            "type": "administrative"
         }, 
         {
             "address": "Potos\u00ed, Provincia Tomas Frias, PSI, Bolivia", 
@@ -111,6 +54,19 @@
             "provider": "osm", 
             "quality": "city", 
             "state": "PSI", 
+            "status": "OK"
+        }, 
+        {
+            "address": "Uyuni, Provincia Antonio Quijarro, Potos\u00ed, Bolivia", 
+            "country": "BO", 
+            "lat": -20.4599417, 
+            "lng": -66.8225116, 
+            "location": "uyuni, bolivia", 
+            "osm_id": "795493613", 
+            "osm_type": "node", 
+            "provider": "osm", 
+            "quality": "town", 
+            "state": "Potos\u00ed", 
             "status": "OK"
         }, 
         {
@@ -1452,6 +1408,49 @@
             "status": "OK", 
             "town": "San Miguel", 
             "type": "town"
+        },
+        {
+            "accuracy": 0.96112680251344, 
+            "address": "San Salvador de Jujuy, Municipio de San Salvador de Jujuy, Departamento Doctor Manuel Belgrano, Jujuy, Argentina", 
+            "bbox": {
+                "northeast": [
+                    -24.1537114, 
+                    -65.2281767
+                ], 
+                "southwest": [
+                    -24.2763383, 
+                    -65.3787561
+                ]
+            }, 
+            "city": "San Salvador de Jujuy", 
+            "confidence": 2, 
+            "country": "Argentina", 
+            "county": "Municipio de San Salvador de Jujuy", 
+            "encoding": "utf-8", 
+            "geometry": {
+                "coordinates": [
+                    -65.2992907, 
+                    -24.1854687
+                ], 
+                "type": "Point"
+            }, 
+            "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png", 
+            "importance": 0.96112680251344, 
+            "lat": -24.1854687, 
+            "lng": -65.2992907, 
+            "location": "san salvador de jujuy, jujuy, argentina", 
+            "method": "geocode", 
+            "ok": true, 
+            "osm_id": "2294307", 
+            "osm_type": "relation", 
+            "place_id": "127992045", 
+            "place_rank": 16, 
+            "provider": "osm", 
+            "quality": "city", 
+            "region": "Jujuy", 
+            "state": "Jujuy", 
+            "status": "OK", 
+            "type": "city"
         }
     ]
 }

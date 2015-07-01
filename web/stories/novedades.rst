@@ -38,6 +38,16 @@
 Junio
 -----
 
+#. Gracias a todos los comentarios que hemos recibido nos organizamos
+   mejor con nuestras rutas y quedó `así
+   <http://argentinaenpython.com.ar/donde-esta-humitos/>`_
+
+#. Estamos planeando una charla de "Introducción a Python" para el
+   Martes 30 en la UNJU.
+
+#. A partir del 24 de Junio voy a estar utlizando el número de móvil
+   Personal de Argentina y el Whatsapp de Argentina.
+
 #. El Sábado 20 de Junio se realiza "`Python Paraguay #1 Meetup
    <http://www.meetup.com/Python-Paraguay/events/223289056/>`_" a
    partir de las 9:30hs en las oficinas de Roshka.

@@ -7,6 +7,11 @@
 .. description: 
 .. type: text
 
+.. class:: alert alert-success
+
+   Leé el post sobre este curso en "El Blog de Humitos" (`link
+   <http://elblogdehumitos.com.ar/posts/python-for-ladies/>`_)
+
 .. class:: alert alert-warning
 
    **¡Atentos!** Alcanzamos el cupo máximo de inscriptos. De cualquier

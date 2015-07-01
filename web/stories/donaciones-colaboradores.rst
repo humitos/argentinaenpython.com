@@ -14,8 +14,9 @@ donaciones:
 
 .. fotorama::
    :loop:
-   :autoplay: 2000
+   :autoplay: 3000
 
+   asnramos.png
    tin_nqn_.png
    unae.png
    fisadev.png
@@ -47,6 +48,7 @@ donaciones:
 Donaciones en general
 ---------------------
 
+* 1 de Julio de 2015 - `Ariel Ramos <https://twitter.com/asnramos>`_: ARS 500
 * 12 de Junio de 2015 - `Martín Gaitán <https://twitter.com/tin_nqn_>`_: ARS 100
 * 29 de Mayo de 2015 - `Universidad Autónoma de Encarnación <http://www.unae.edu.py/>`_: ARS 500
 * 22 de Mayo de 2015 - `Juan Pedro Fisanotti <https://twitter.com/fisadev>`_: ARS 500

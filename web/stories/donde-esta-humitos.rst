@@ -69,8 +69,8 @@ posición actual y lo muestro en el mapa:
 Ese `my-position.json` lo genero con un script Python.
 
 .. listing:: donde-esta-humitos/geolocation.py python
-   :start-line: 163
-   :end-line: 196
+   :start-line: 164
+   :end-line: 179
 
 
 #. Utiliza la librería *geocoder* para obtener las coordenadas de mi

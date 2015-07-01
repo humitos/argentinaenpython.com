@@ -24,8 +24,21 @@ También, si te interesa apoyar el proyecto económicamente, podés
 visitar la :doc:`página de donaciones <donaciones>` para enterarte
 cómo hacerlo y así ayudar a que la rueda siga girando.
 
-:doc:`Mucha gente <donaciones/colaboradores>` me ayudó a llegar hoy
-hasta acá: gracias a ellos. Creo haberles hecho saber a cada uno de
-ellos lo agradecido que estoy por haberme ayudado y sino, espero que
-se estén enterando ahora :)
+.. image:: banner.jpg
+   :align: center
 
+
+.. raw:: html
+
+   <style>
+     .lead {
+       margin-top: 20px;
+     }
+   </style>
+
+.. class:: lead align-center
+
+   :doc:`Mucha gente <donaciones/colaboradores>` me ayudó a llegar hoy
+   hasta acá: gracias a ellos. Creo haberles hecho saber a cada uno de
+   ellos lo agradecido que estoy por haberme ayudado y sino, espero que
+   se estén enterando ahora :)

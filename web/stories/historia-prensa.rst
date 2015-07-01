@@ -67,3 +67,13 @@ Año 2015
 
 * Mayo - `Post en el blog de Javier Obregon
   <http://javierobregon.com.ar/?p=1123>`_
+
+* Junio - `Post en el blog de Roshka
+  <http://blog.roshka.com/2015/06/primer-meetup-de-python-paraguay-en.html>`_
+
+* Junio - `#1 Meetup Python Paraguay - @proyectosbeta
+  <http://proyectosbeta.net/2015/06/1-meetup-python-paraguay/>`_
+
+* Junio - `Lo que ocurrió en el primer encuentro de Python Paraguay -
+  @proyectosbeta
+  <http://proyectosbeta.net/2015/06/lo-que-ocurrio-en-el-primer-encuentro-de-python-paraguay/>`_

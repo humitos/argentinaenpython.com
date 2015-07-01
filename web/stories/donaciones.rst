@@ -7,6 +7,12 @@
 .. type: text
 .. nocomments: True
 
+.. class:: alert alert-success
+
+   Leé sobre un caso de éxito que tuvimos con las :doc:`donaciones
+   para arreglar a nuestro querido Errante
+   <donaciones/arreglo-de-vehiculo>`.
+
 .. raw:: html
 
    <style type="text/css">

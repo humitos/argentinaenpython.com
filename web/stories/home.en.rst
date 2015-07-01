@@ -115,7 +115,7 @@ How?
        <div class="col-md-4">
 	 <p style="text-align: center"><i class="fa fa-dollar fa-5x"></p>
 	 <h2 style="text-align: center">Donations</h2>
-	 <p style="text-align: center">Collaborate with money to help us to keep working on the <em>crazy</em> project ;)</p>
+	 <p style="text-align: center">Collaborate with money to help us to keep working on this <em>crazy</em> project ;)</p>
        </div>
      </a>
 

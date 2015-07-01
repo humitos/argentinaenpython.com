@@ -90,6 +90,10 @@ OpenStreetMap: nuestros mapas (lightning talk)
 
 :Título: OpenStreetMap: nuestros mapas
 :Duración: 5 minutos
+:Videos: `OpenStreetMap: datos abiertos
+         <https://www.youtube.com/watch?v=I0s5ey73g_8>`_ |
+         `OpenStreetMap: nuestros mapas
+         <https://www.youtube.com/watch?v=twlwJLpX94g>`_
 :Slides: `SciPyLA 2015 Posadas, Misiones, Argentina <open-street-map-nuestros-mapas_scipyla2015_posadas.pdf>`_
 :Descripción: Breve pantallazo acerca de OpenStreetMap y de cómo
    colaborar con OSM; describiendo la importancia de los datos

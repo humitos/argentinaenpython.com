@@ -9,6 +9,13 @@
 Eventos pasados
 ---------------
 
+* 30-06-2015: Introducción a Python en la UNJu
+* 26-06-2015: Python, Sofware Libre y realidad laboral
+* 20-06-2015: Python Paraguay #1 Meetup
+* 11-06-2015: Taller Express
+* 05-06-2015: `Python For Ladies <http://elblogdehumitos.com.ar/posts/python-for-ladies/>`_
+* 29-05-2015: `Introducción a Python en la UNAE
+  <http://elblogdehumitos.com.ar/posts/introduccion-a-python-en-la-unae/>`_
 * 20-05-2015: `SciPyLA 2015
   <http://elblogdehumitos.com.ar/posts/scipyla-2015/>`_
 * 07-05-2015: `PyDay Apóstoles

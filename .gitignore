@@ -58,3 +58,5 @@ web/cache
 web/output
 web/.doit.db
 *~
+*#
+*.#*

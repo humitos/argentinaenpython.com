@@ -178,7 +178,7 @@ NAVIGATION_LINKS = {
                 ("/en/donaciones/", "Donations"),
                 ("/en/donaciones/arreglo-de-vehiculo/", "Car Fixes"),
                 ("/en/donaciones/colaboradores/", "Collaborators"),
-                ("/en/donaciones/medios/", "Peyment Methods"),
+                ("/en/donaciones/medios/", "Payment Methods"),
             ),
             "Donations",
         ),
@@ -192,7 +192,7 @@ NAVIGATION_LINKS = {
         ),
         (
             (
-                ("/nuestro-zen/", "Our Zen"),
+                ("/en/nuestro-zen/", "Our Zen"),
                 ("http://elblogdehumitos.com.ar/categories/argentina-en-python/", "Blog"),
                 ("/en/remeras/", "T-Shirts"),
                 ("/en/como-colaborar/", "How to contribute?"),

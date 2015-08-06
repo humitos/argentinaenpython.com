@@ -65,8 +65,10 @@ comprobante de la transacción para tener un registro y a futuro puedas
 recibir comentarios sobre el destino de tu donación si es que así lo
 solicitas.
 
-¡Muchas gracias por tu colaboración y por ayudarme a empujar este
-proyecto!
+.. class:: lead align-center width-70
+
+   ¡Muchas gracias por tu colaboración y por ayudarme a empujar este
+   proyecto!
 
 .. admonition:: Nota
 

@@ -1,5 +1,5 @@
-.. title: Medios disponibles para donaciones
-.. slug: donaciones/medios
+.. title: Payment methods
+.. slug: donations/payment-methods
 .. date: 2015-04-06 14:12:58 UTC-03:00
 .. tags: donaciones, argentina en python
 .. link: 
@@ -65,7 +65,9 @@ you got in the bank transfer / PayPal to keep registered this and you
 will get comments about the destination of your money if you request
 it.
 
-Thank you a lot for your collaboration and helping to keep working on
-this project!
+.. class:: lead align-center width-70
+
+   Thank you a lot for your collaboration and helping to keep working
+   on this project!
 
 .. _email: mailto:argentinaenpython@gmail.com

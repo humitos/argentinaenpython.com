@@ -1,5 +1,5 @@
 .. title: Where is humitos?
-.. slug: donde-esta-humitos
+.. slug: where-is-humitos
 .. date: 2014-11-24 13:50:09 UTC-03:00
 .. tags: argentina en python, mapas, blog, python
 .. link: 
@@ -17,9 +17,9 @@
 
 This map is useful to know where I *approximately* am at this moment
 and which is my *planned route* for the next days/weeks/months. The
-map's goal is :doc:`to be in touch <contacto>` with people next to me
+map's goal is :doc:`to be in touch <contact>` with people next to me
 (or my planned route) so we can :doc:`coordinate something related
-with the project <eventos>` (or anything of mutual interest) and
+with the project <events>` (or anything of mutual interest) and
 organize to see each other in the proximities.
 
 * |ruta| *planned* route for months June, July and August 2015

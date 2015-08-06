@@ -1,5 +1,5 @@
-.. title: Donaciones
-.. slug: donaciones
+.. title: Donations
+.. slug: donations
 .. date: 2014-11-25 21:32:58 UTC-03:00
 .. tags: donaciones, argentina en python
 .. link: 
@@ -10,7 +10,8 @@
 .. class:: alert alert-success
 
    Read about a success experience about :doc:`donations to fix our
-   lovely car called "Errante" <donaciones/arreglo-de-vehiculo>`.
+   lovely car called "Errante" <donaciones/arreglo-de-vehiculo>`
+   (Spanish only).
 
 .. raw:: html
 
@@ -63,12 +64,12 @@ different ways to make a donation:
 .. raw:: html
 
    <div style="text-align: center; margin-top: 25px; margin-bottom: 25px;">
-     <a class="btn btn-lg btn-primary" href="/en/donaciones/medios/">
+     <a class="btn btn-lg btn-primary" href="/en/donations/payment-methods/">
        Donate
      </a>
    </div>
 
 .. class:: lead align-center
 
-   Thank you a lot to all of our :doc:`collaborators
-   <donaciones/colaboradores>`!
+   Thanks a lot to all of our :doc:`collaborators
+   <donations/collaborators>`!

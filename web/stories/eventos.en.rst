@@ -1,5 +1,5 @@
 .. title: Events
-.. slug: eventos
+.. slug: events
 .. date: 2015-01-19 11:06:10 UTC-03:00
 .. tags: argentina en python, eventos, python, software libre, sprint, pyar
 .. link: 

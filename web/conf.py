@@ -152,10 +152,11 @@ NAVIGATION_LINKS = {
         (
             (
                 ("/nuestro-zen/", "Nuestro Zen"),
-                ("http://elblogdehumitos.com.ar/categories/argentina-en-python/", "Blog"),
-                ("/remeras/", "Remeras"),
+                ("/quiero-aprender-python/", "Quiero aprender Python"),
+                ("http://elblogdehumitos.com.ar/etiquetas/argentina-en-python/", "Blog"),
                 ("/como-colaborar/", "¿Cómo colaborar?"),
                 ("/material-de-difusion/", "Material de difusión"),
+                ("/remeras/", "Remeras"),
             ),
             "Extras"
         ),
@@ -164,43 +165,43 @@ NAVIGATION_LINKS = {
 
     "en": (
         ("/novedades/", "News!"),
-        ("/en/donde-esta-humitos/", "Where is humitos?"),
+        ("/en/where-is-humitos/", "Where is humitos?"),
         (
             (
-                ("/en/eventos/", "Events"),
-                ("/en/eventos/charlas/", "Talks"),
+                ("/en/events/", "Events"),
+                ("/eventos/charlas/", "Talks"),
                 ("/galeria/", "Gallery"),
             ),
             "Events"
         ),
         (
             (
-                ("/en/donaciones/", "Donations"),
+                ("/en/donations/", "Donations"),
                 ("/en/donaciones/arreglo-de-vehiculo/", "Car Fixes"),
-                ("/en/donaciones/colaboradores/", "Collaborators"),
-                ("/en/donaciones/medios/", "Payment Methods"),
+                ("/en/donations/collaborators/", "Collaborators"),
+                ("/en/donations/payment-methods/", "Payment Methods"),
             ),
             "Donations",
         ),
         (
             (
-                ("/en/historia/", "History"),
-                ("/en/historia/etapas/", "Stages"),
-                ("/en/historia/prensa/", "Press"),
+                ("/historia/", "History"),
+                ("/historia/etapas/", "Stages"),
+                ("/historia/prensa/", "Press"),
             ),
             "History"
         ),
         (
             (
-                ("/en/nuestro-zen/", "Our Zen"),
-                ("http://elblogdehumitos.com.ar/categories/argentina-en-python/", "Blog"),
+                ("/en/our-zen/", "Our Zen"),
+                ("http://elblogdehumitos.com.ar/etiquetas/argentina-en-python/", "Blog"),
                 ("/en/remeras/", "T-Shirts"),
                 ("/en/como-colaborar/", "How to contribute?"),
                 ("/en/material-de-difusion/", "Broadcasting Material"),
             ),
             "Extras"
         ),
-        ("/en/contacto/", "Contact"),
+        ("/en/contact/", "Contact"),
     ),
 }
 
@@ -450,6 +451,13 @@ INDEX_PATH = "blog"
 # If you don't need any of these, just set to []
 REDIRECTIONS = [
     ('donaciones/misiones/index.html', '/donaciones/arreglo-de-vehiculo/'),
+    ('en/donaciones/index.html', '/en/donations/'),
+    ('en/donaciones/medios/index.html', '/en/donations/payment-methods/'),
+    ('en/donaciones/medios/ways/index.html', '/en/donations/payment-methods/'),
+    ('en/donde-esta-humitos/index.html', '/en/where-is-humitos/'),
+    ('en/nuestro-zen/index.html', '/en/our-zen/'),
+    ('en/eventos/index.html', '/en/events/'),
+
     ('galeria/track-teen/index.html', '/galeria/track-teen-scipy-la-2015/'),
 ]
 
@@ -485,7 +493,7 @@ DEPLOY_COMMANDS = {
 
 # where the "cache" of partial generated content should be located
 # default: 'cache'
-# CACHE_FOLDER = 'cache'
+CACHE_FOLDER = '.cache'
 
 # Filters to apply to the output.
 # A directory where the keys are either: a file extensions, or
@@ -686,7 +694,7 @@ LICENSE = """
 <a style="float: right;" rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
 <img alt="Creative Commons License BY-SA"
 style="border-width:0; margin-bottom:12px;"
-src="http://i.creativecommons.org/l/by-sa/4.0/88x31.png"></a>"""
+src="/cc_by_sa-88x31.png"></a>"""
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
@@ -1074,3 +1082,15 @@ GLOBAL_CONTEXT = {}
 # GLOBAL_CONTEXT as parameter when the template is about to be
 # rendered
 GLOBAL_CONTEXT_FILLER = []
+
+
+# Default options for fotorama_directive plugin
+# To see all the options go to: http://fotorama.io
+FOTORAMA_OPTIONS = {
+    'nav': 'thumbs',
+    'ratio': '16/9',
+    'keyboard': 'true',
+    'thumbwidth': 150,
+    'thumbheight': 150,
+    'allowfullscreen': 'native'
+}

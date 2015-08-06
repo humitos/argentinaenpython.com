@@ -46,8 +46,8 @@ How?
    The method of the project to promote Python_ (among other personal
    interests) is travelling around different cities, following the
    energy of regional Software Libre communities and :doc:`getting in
-   contact <contacto>` with people interested in a :doc:`course or
-   lecture <eventos>` about these topics and also by simply sharing
+   contact <contact>` with people interested in a :doc:`course or
+   lecture <events>` about these topics and also by simply sharing
    time together, talking about other activities and getting in touch
    with different cultures and life styles.
 
@@ -69,7 +69,7 @@ How?
 
    <hr style="border-width: 10px 0 0;">
    <div class="row" style="margin-top: 50px;">
-     <a class="home-sections" href="/en/donde-esta-humitos/">
+     <a class="home-sections" href="/en/where-is-humitos/">
        <div class="col-md-4">
 	 <p style="text-align: center"><i class="fa fa-car fa-5x"></p>
 	 <h2 style="text-align: center">Where is <em>humitos?</em></h2>
@@ -77,7 +77,7 @@ How?
        </div>
      </a>
 
-     <a class="home-sections" href="/en/novedades/">
+     <a class="home-sections" href="/novedades/">
        <div class="col-md-4">
 	 <p style="text-align: center"><i class="fa fa-newspaper-o fa-5x"></p>
 	 <h2 style="text-align: center">News!</h2>
@@ -85,7 +85,7 @@ How?
        </div>
      </a>
 
-     <a class="home-sections" href="/en/nuestro-zen/">
+     <a class="home-sections" href="/en/our-zen/">
        <div class="col-md-4">
 	 <p style="text-align: center"><i class="fa fa-thumbs-o-up fa-5x"></p>
 	 <h2 style="text-align: center">Our Zen</h2>
@@ -103,7 +103,7 @@ How?
        </div>
      </a>
 
-     <a class="home-sections" href="/en/eventos/">
+     <a class="home-sections" href="/en/events/">
        <div class="col-md-4">
 	 <p style="text-align: center"><i class="fa fa-calendar fa-5x"></p>
 	 <h2 style="text-align: center">Upcoming events</h2>
@@ -111,7 +111,7 @@ How?
        </div>
      </a>
 
-     <a class="home-sections" href="/en/donaciones/">
+     <a class="home-sections" href="/en/donations/">
        <div class="col-md-4">
 	 <p style="text-align: center"><i class="fa fa-dollar fa-5x"></p>
 	 <h2 style="text-align: center">Donations</h2>

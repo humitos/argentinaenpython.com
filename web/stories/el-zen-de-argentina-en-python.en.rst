@@ -1,5 +1,5 @@
 .. title: The Zen of Argentina en Python
-.. slug: nuestro-zen
+.. slug: our-zen
 .. date: 2015-06-01 11:11:39 UTC-03:00
 .. tags: 
 .. category: 
@@ -80,6 +80,6 @@ make all of us happy:
 .. [#] we try to park the car under a roof at night, close to us or in
        a safe place.
 
-.. [#] we also deliver events ":doc:`a la gorra <donaciones>`"
+.. [#] we also deliver events ":doc:`a la gorra <donations>`"
        (collaboration) and, in case we really need it, we could make
        some paid course.

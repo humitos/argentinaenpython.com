@@ -22,6 +22,11 @@ organización de los eventos.
    *Python, el lenguaje de programación del momento, compartido por
    todo el país.*
 
+.. image:: logo-con-mapa.jpg
+   :align: center
+   :width: 60%
+
+
 Durante ese año se realizaron muchas actividades de una manera
 informal: compartiendo charlas de Software Libre con gente que no
 conoce el concepto y haciendo asistencia GNU/Linux en sistemas

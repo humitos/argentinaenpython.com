@@ -93,12 +93,12 @@ formas de vida.
      </a>
    </div>
 
-   <a class="home-sections" href="/galeria/">
-     <div class="row" style="margin-bottom: 50px;">
+   <div class="row" style="margin-bottom: 50px;">
+     <a class="home-sections" href="/quiero-aprender-python/">
        <div class="col-md-4">
-	 <p style="text-align: center"><i class="fa fa-photo fa-5x"></p>
-	 <h2 style="text-align: center">Fotos</h2>
-	 <p style="text-align: center">Fotos de los eventos que hemos participado y documentos del viaje</p>
+	 <p style="text-align: center"><i class="fa fa-mortar-board fa-5x"></p>
+	 <h2 style="text-align: center">Quiero aprender Python</h2>
+	 <p style="text-align: center">Tutoriales y documentación que te ayudarán a aprender Python de forma autodidacta</p>
        </div>
      </a>
 

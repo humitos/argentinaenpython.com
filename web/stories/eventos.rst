@@ -62,6 +62,52 @@ llegan a todos los asistentes.
 ----
 
 
+Charla
+======
+
+¿Qué es una charla de Python?
+-----------------------------
+
+Las charlas de Python están destinadas normalmente a estudiantes
+Universitarios de carreras referidas a sistemas, dónde los asistentes
+ya poseen un conocimientos sobre la programación procedural y
+orientada a objetos y trabajan con los lenguajes de programación
+tradicionales como ser: Java, PHP, .Net, Pascal, etc.
+
+En las charlas de `Introducción a Python
+<http://argentinaenpython.com.ar/eventos/charlas/#introduccion-a-python>`_
+se muestran las características principales de Python, su comunidad,
+algunas anécdotas laborales/personales y se hace una pequeña
+introducción al mundo profesional en el ámbito del Software
+Libre. También se estimula a los asistentes a que creen sus grupos de
+trabajos y que organicen futuros Meetup y/o Sprint en la ciudad.
+
+Estas charlas son una buena puerta de ingreso al mundo de la
+programación colaborativa, el trabajo en equipo y el aprendizaje
+autodidacta. Durante la charla se hace referencia a muchas tecnologías
+para su futura investigación y se detalla brevemente *por dónde
+empezar*.
+
+
+Requisitos
+----------
+
+* Un auditorio / aula / teatro / etc con la capacidad de 100 personas
+  sentadas aproximadamente.
+
+* Aire acondicionado.
+
+* Proyector para mostrar las presentaciones del disertante.
+
+* Mesa y silla para el disertante cerca del proyector (es necesario
+  escribir en la computadora).
+
+* Sistema de sonido (micrófono y parlantes).
+
+
+----
+
+
 Sprint
 ======
 
@@ -85,15 +131,12 @@ trabajar en ellos y se arman los grupos de trabajo.
 Requisitos
 ----------
 
-Es buena idea que el lugar en el que se realice cuente con éstas
-facilidades:
-
-* Aire acondicionado
-* Buena conectividad a internet, WiFi
-* Servicio de cocina
-* Posibilidad de juntar las mesas
-* Capacidad para 10 personas como mínimo
-* Abierto de corrido
+* Aire acondicionado.
+* Buena conectividad a internet, WiFi.
+* Servicio de cocina.
+* Posibilidad de juntar las mesas.
+* Capacidad para 10 personas como mínimo.
+* Abierto de corrido.
 
 
 Comentarios
@@ -115,9 +158,13 @@ Comentarios
   conexión a internet. Y, en lo posible, correctamente configurados
   para luego no perder tiempo haciendo esto.
 
-* Para no saturar internet, se puede `crear un caché`_
-  de pip_ y servirlo en la red interna. Se hace en menos de 10
-  minutos y tienen horas de ganancia ;)
+* Para no saturar internet, se puede `crear un caché`_ de pip_ y
+  servirlo en la red interna con una de las computadoras de los
+  asistentes. Se hace en menos de 10 minutos y tienen horas de
+  ganancia ;)
+
+* Por lo general nos juntamos de mañana temprano, programamos un par
+  de horas, luego almorzamos y por la tarde seguimos programando.
 
 .. _pip: https://pip.pypa.io/en/latest/
 .. _crear un caché: http://elblogdehumitos.com.ar/posts/pip-cache/
@@ -168,7 +215,92 @@ Requisitos
 
 * Proyector para mostrar las presentaciones de los disertantes.
 
-* Sistema de sonido.
+* Mesa y silla para el disertante cerca del proyector (es necesario
+  escribir en la computadora).
+
+* Sistema de sonido (micrófono y parlantes).
+
+----
+
+Curso
+=====
+
+¿Qué es un Curso?
+-----------------
+
+Un curso es un evento de 2 o 3 días destinado a las personas que
+quieren aprender a programar en Python y poseen poco conocimiento
+sobre el tema. Se explican conceptos básicos de programación y se
+plantean algunos ejercicios para trabajar entre todos. Si bien no es
+necesario tener un conocimiento previo de programación, manejar los
+conceptos básicos ayuda mucho a seguir el curso con una mayor fluidez.
+
+Por lo general, los cursos se pactan en 4~6 horas por día y tienen una
+capacidad máxima aproximada de 12 personas. Dependiendo del
+conocimiento sobre la programación de los asistentes, nos podemos
+separar en grupos y trabajar distintos conceptos (aunque no es lo más
+recomendable).
+
+Requisitos
+----------
+
+* Un auditorio / aula / hackblab / etc con capacidad de 12 personas
+  aproximadamente sentadas con mesa.
+
+* Aire acondicionado.
+
+* Buena conectividad a internet, WiFi.
+
+* Proyector para mostrar las presentaciones del disertante.
+
+* Mesa y silla para el disertante cerca del proyector (es necesario
+  escribir en la computadora).
+
+* Notebook por parte de los asistentes.
+
+----
+
+DjangoGirls
+===========
+
+¿Qué es DjangoGirls?
+--------------------
+
+`DjangoGirls <https://www.djangogirls.org/>`_ es una organización sin
+fines de lucro que promueve y ayuda a acercar a las mujeres a la
+programación. Para lograr este objetivo, se organizan talleres de un
+día destinado a 30~60 personas y se desarrolla un sitio web utilizando
+HTML, CSS, Python y Django.
+
+Estos talleres están pactados en ~8 horas; dónde se trabaja en grupos
+de 3 o 4 personas con un *guía* que los ayuda a llevar adelante el
+`tutorial escrito específicamente <http://tutorial.djangogirls.org/>`_
+para este propósito. Sin embargo, ¡son los mismos asistentes los que
+crean su propio sitio web!. Y mejor aún, ¡incluso sin tener
+conocimiento previo!
+
+
+Requisitos
+----------
+
+* Un auditorio / aula / hackblab / etc con capacidad de 30~60 personas
+  sentadas con mesa.
+
+* Aire acondicionado.
+
+* Buena conectividad a internet, WiFi.
+
+* Proyector para mostrar la presentación inicial.
+
+* Mesa y silla para el disertante cerca del proyector (es necesario
+  escribir en la computadora).
+
+* Notebook por parte de los asistentes.
+
+* Alargadores de corriente (zapatillas, extensiones eléctricas, etc)
+
+----
+
 
 .. admonition:: Nota
 

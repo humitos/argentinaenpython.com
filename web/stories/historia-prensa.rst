@@ -42,6 +42,9 @@ Año 2015
 * Marzo - `Noticia en Proyectos Beta sobre el PyDay Asunción
   <http://proyectosbeta.net/2015/03/la-mentalidad-del-informatico-paraguayo-esta-cambiando/>`_
 
+* Marzo - `Llamado a la presentación de trabajos #PyDayApostoles
+  <http://www.escuelaslibres.org.ar/2015/03/llamado-a-la-presentacion-de-trabajos-pydayapostoles/>`_
+
 * Abril - `Noticia en Proyectos Beta sobre el PyDay Asunción II
   <http://proyectosbeta.net/2015/04/gran-evento-pydayasuncion-2015/>`_
 
@@ -77,3 +80,12 @@ Año 2015
 * Junio - `Lo que ocurrió en el primer encuentro de Python Paraguay -
   @proyectosbeta
   <http://proyectosbeta.net/2015/06/lo-que-ocurrio-en-el-primer-encuentro-de-python-paraguay/>`_
+
+* Julio - `Mangocast habla del #1 Meetup de Python Paraguay
+  <http://elblogdehumitos.com.ar/posts/mangocast-habla-del-1-meetup-de-python-paraguay/>`_
+
+* Julio - `Lightning Talk de @cynpy en EuroPython 2015
+  <https://www.youtube.com/watch?v=22CKrkMeNqE&feature=youtu.be&t=4h14m0s>`_
+
+* Agosto - `Entrevista Pythoniza.me sobre Argentina en Python
+  <http://pythoniza.me/argentina-en-python/>`_

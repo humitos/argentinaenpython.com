@@ -35,12 +35,34 @@
 
 ¡Ayudanos a organizarnos en nuestros próximos destinos!
 
+Agosto
+------
+
+#. Llegamos a Cochabamba, Bolivia y estamos organizando `la primera
+   reunión <http://elblogdehumitos.com.ar/posts/cochabamba-latente/>`_
+   para coordinar los próximos eventos de las siguientes semanas.
+
+#. Nos encontramos en Oruro, Bolivia hablando con los contactos
+   locales para organizar diferentes tipos de eventos en las
+   escuelas. Eperemos que logremos coordinar el primer evento
+   DjangoGirls y un curso de Pilas Engine.
+
+Julio
+-----
+
+#. `Comentamos el destino de las donaciones
+   <http://elblogdehumitos.com.ar/posts/el-destino-de-tu-donacion/>`_
+   que recibimos para arreglar a Errante.
+
+#. Estamos varados en Sucre, Bolivia hasta que se resuelva la
+   situación de Potosí. Información sobre hospedaje/alojamiento o
+   estado de la situación en Potosí es bienvenida.
+
 Junio
 -----
 
 #. Gracias a todos los comentarios que hemos recibido nos organizamos
-   mejor con nuestras rutas y quedó `así
-   <http://argentinaenpython.com.ar/donde-esta-humitos/>`_
+   mejor con nuestras rutas y quedó :doc:`donde-esta-humitos`.
 
 #. Estamos planeando una charla de "Introducción a Python" para el
    Martes 30 en la UNJU.

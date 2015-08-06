@@ -82,15 +82,15 @@ costos.
  *Todo el dinero recaudado* será utilizado para el mantenimiento del
  vehículo.
 
-Como forma de agradecimiento personal y del proyecto
-:doc:`Argentina en Python <index>`, vamos a agregar tu nombre / empresa a la
-:doc:`lista de colaboradores
-<donaciones/colaboradores>` y si te parece
-apropiado también pondremos el logo en esta página y el monto
+Como forma de agradecimiento personal y del proyecto :doc:`Argentina
+en Python <index>`, vamos a agregar tu nombre / empresa a la
+:doc:`lista de colaboradores <donaciones/colaboradores>` y si te
+parece apropiado también pondremos el logo en esta página y el monto
 donado. Además de un Tweet en la cuenta de `@argenpython
 <http://twitter.com/argenpython/>`_ el día de la donación y
-agradecimientos en un post que se escribirá luego de concluídos los
-arreglos.
+agradecimientos en un `post
+<http://elblogdehumitos.com.ar/posts/el-destino-de-tu-donacion/>`_ que
+se escribirá luego de concluídos los arreglos.
 
 Al día de la fecha hemos recibido un total de *$ 11620.15 (193.67%)* en
 esta etapa de donaciones.

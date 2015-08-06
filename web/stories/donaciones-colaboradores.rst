@@ -16,6 +16,8 @@ donaciones:
    :loop:
    :autoplay: 3000
 
+   elegaok.png
+   angel-velasquez.png
    asnramos.png
    tin_nqn_.png
    unae.png
@@ -48,6 +50,8 @@ donaciones:
 Donaciones en general
 ---------------------
 
+* 2 de Agosto de 2015 - `El Ega <http://www.el-ega.com.ar/>`_: ARS 200
+* 2 de Julio de 2015 - Angel Rafael Velasquez: ARS 600
 * 1 de Julio de 2015 - `Ariel Ramos <https://twitter.com/asnramos>`_: ARS 500
 * 12 de Junio de 2015 - `Martín Gaitán <https://twitter.com/tin_nqn_>`_: ARS 100
 * 29 de Mayo de 2015 - `Universidad Autónoma de Encarnación <http://www.unae.edu.py/>`_: ARS 500
@@ -93,4 +97,10 @@ Donaciones en general
 .. El script utilizado para generar las imagenes es (con una captura
    de pantalla completa)
 
+   Muchos archivos:
+
    for x in `ls`; do convert "$x" -crop 685x400+333+188 "$x"; done
+
+   Un solo archivo:
+
+   X={file} ; convert "$X" -crop 685x400+333+188 "$X"

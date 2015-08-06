@@ -31,6 +31,8 @@ de ellos:
 
 :Telegram: @humitos / +54 9 343 4053434
 
+:Móv. Bolivia: +591 68381678
+
 :Móv. Argentina: +54 9 343 4053434
 
 :Móv. Paraguay: +595 9 82877917

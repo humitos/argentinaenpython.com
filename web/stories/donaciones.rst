@@ -7,6 +7,7 @@
 .. type: text
 .. nocomments: True
 
+
 .. class:: alert alert-success
 
    Leé sobre un caso de éxito que tuvimos con las :doc:`donaciones

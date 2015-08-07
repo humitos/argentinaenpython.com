@@ -84,6 +84,8 @@ más básico:
 
 * `Python Ya <http://pythonya.appspot.com/>`_
 
+* `Curso interactivo en Codecademy <https://www.codecademy.com/es/tracks/python-traduccion-al-espanol-america-latina-clone-1>`_
+
 ¿Por dónde seguir?
 ------------------
 
@@ -161,6 +163,16 @@ esté en inglés.
 
   * `Nikola <http://getnikola.com/>`_
 
+* Python para el ambito científico
+
+  * `Curso online: Introducción a Python para científicos e ingenieros <http://cacheme.org/curso-online-python-cientifico-ingenieros/>`_
+  
+  * `Curso de python cientifico (elaborado por @mgaitan) <https://github.com/mgaitan/curso-python-cientifico>`_
+  
+  * `CFD con python: 12 pasos para Navier Stokes *(en inglés)* <http://lorenabarba.com/blog/cfd-python-12-steps-to-navier-stokes/>`_
+  
+  * `Métodos numéricos con python *(en inglés)* <http://openedx.seas.gwu.edu/courses/GW/MAE6286/2014_fall/about>`_
+
 ----
 
 .. image:: DSC_0157.jpg
@@ -215,6 +227,12 @@ Python Bolivia
 
 * `Lista de correos <https://lists.riseup.net/www/subscribe/pythonbolivia>`__
 * `Twitter <https://twitter.com/pythonbolivia>`_
+
+Comunidad Latinoamericana de Python en la Ciencia
+--------------------------------------------------
+
+* `Sitio web <http://scipyla.org/es/>`_
+* `Lista de correos <https://groups.google.com/forum/#!forum/scipyla>`_
 
 
 .. class:: lead align-center width-70

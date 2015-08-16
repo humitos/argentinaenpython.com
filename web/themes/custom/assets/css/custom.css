@@ -42,3 +42,20 @@ iframe {
     margin-left: auto;
     margin-right: auto;
 }
+
+.fotorama__wrap {
+    margin: 0 auto;
+}
+
+iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1em;
+    border-radius: 10px;
+    border: 2px solid #DDDDDD;
+    padding: 4px;
+    -moz-border-radius: 30px;
+    -khtml-border-radius: 30px;
+    -webkit-border-radius: 30px;
+}

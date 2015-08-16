@@ -12,44 +12,15 @@ para el proyecto desde que ha iniciado (en orden descendente). Además,
 se muestran los tuits que se publicaron en el momento de recibir las
 donaciones:
 
-.. fotorama::
-   :loop:
-   :autoplay: 3000
-
-   elegaok.png
-   angel-velasquez.png
-   asnramos.png
-   tin_nqn_.png
-   unae.png
-   fisadev.png
-   pdelboca.png
-   _joac.png
-   ThePSF.png
-   helenlynn.png
-   marcosdione.png
-   nessita-mbordese.png
-   PythonArgentina.png
-   micabressan_.png
-   matuvarela.png
-   hectorksanchez.png
-   vkmc-linuxchixar.png
-   cynpy-linuxchixar.png
-   mgi1982.png
-   casivaagustin.png
-   _wille.png
-   JairoTrad.png
-   pancho_jay.png
-   facundobatista.png
-   luciotorre.png
-   lidia.png
-   phrase1.png
-   phrase2.png
+.. include:: stories/donaciones-colaboradores-fotorama.rst
 
 ----
 
 Donaciones en general
 ---------------------
 
+* 15 de Agosto de 2015 - `Gustavo Picon <https://twitter.com/tabo>`_: USD 100
+* 11 de Agosto de 2015 - `Francisco Capdevila <https://twitter.com/pancho_jay>`_: ARS 200
 * 2 de Agosto de 2015 - `El Ega <http://www.el-ega.com.ar/>`_: ARS 200
 * 2 de Julio de 2015 - Angel Rafael Velasquez: ARS 600
 * 1 de Julio de 2015 - `Ariel Ramos <https://twitter.com/asnramos>`_: ARS 500

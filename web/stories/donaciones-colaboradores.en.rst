@@ -12,43 +12,16 @@ received for this project since it started (in decendent
 order). Besides, here are shown all the tweets that were published at
 the moment the donation was made:
 
-.. fotorama::
-   :loop:
-   :autoplay: 3000
-
-   angel-velasquez.png
-   asnramos.png
-   tin_nqn_.png
-   unae.png
-   fisadev.png
-   pdelboca.png
-   _joac.png
-   ThePSF.png
-   helenlynn.png
-   marcosdione.png
-   nessita-mbordese.png
-   PythonArgentina.png
-   micabressan_.png
-   matuvarela.png
-   hectorksanchez.png
-   vkmc-linuxchixar.png
-   cynpy-linuxchixar.png
-   mgi1982.png
-   casivaagustin.png
-   _wille.png
-   JairoTrad.png
-   pancho_jay.png
-   facundobatista.png
-   luciotorre.png
-   lidia.png
-   phrase1.png
-   phrase2.png
+.. include:: stories/donaciones-colaboradores-fotorama.rst
 
 ----
 
 General donations
 -----------------
 
+* 15 August de 2015 - `Gustavo Picon <https://twitter.com/tabo>`_: USD 100
+* 11 August 2015 - `Francisco Capdevila <https://twitter.com/pancho_jay>`_: ARS 200
+* 2 August 2015 - `El Ega <http://www.el-ega.com.ar/>`_: ARS 200
 * 2 July 2015 - Angel Rafael Velasquez: ARS 600
 * 1 July 2015 - `Ariel Ramos <https://twitter.com/asnramos>`_: ARS 500
 * 12 June 2015 - `Martín Gaitán <https://twitter.com/tin_nqn_>`_: ARS 100

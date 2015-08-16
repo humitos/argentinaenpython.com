@@ -51,15 +51,27 @@ Logo Python Argentina
 
 ----
 
-Microtutorial Python
---------------------
+Microtutorial Argentina en Python
+---------------------------------
 
-.. figure:: microtutorial_portada_256.png
+.. figure:: microtutorial_argentina-en-python_portada_256.png
    :width: 256px
 
-* `Microtutorial 1024x1448 <microtutorial_1024.png>`_ (png fondo blanco)
-* `Microtutorial Escalable <microtutorial.svg>`_ (svg)
-* `Microtutorial Escalable (Zen de Python en Inglés) <microtutorial_ingles.svg>`_ (svg)
+* `Microtutorial 1024x1448 <microtutorial_argentina-en-python_1024.png>`_ (png fondo blanco)
+* `Microtutorial Imprimible <microtutorial_argentina-en-python.pdf>`_ (pdf)
+* `Microtutorial Escalable <microtutorial_argentina-en-python.svg>`_ (svg)
+
+----
+
+Microtutorial Python Argentina
+------------------------------
+
+.. figure:: microtutorial_pyar_portada_256.png
+   :width: 256px
+
+* `Microtutorial 1024x1448 <microtutorial_pyar_1024.png>`_ (png fondo blanco)
+* `Microtutorial Imprimible <microtutorial_pyar.pdf>`_ (pdf)
+* `Microtutorial Escalable <microtutorial_pyar.svg>`_ (svg)
 
 ----
 

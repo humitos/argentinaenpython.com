@@ -54,24 +54,32 @@ Logo Python Argentina
 Microtutorial Argentina en Python
 ---------------------------------
 
+.. class:: small
+
+   Diseñado por `@EllaQuimica <https://twitter.com/EllaQuimica>`_
+
 .. figure:: microtutorial_argentina-en-python_portada_256.png
    :width: 256px
 
-* `Microtutorial 1024x1448 <microtutorial_argentina-en-python_1024.png>`_ (png fondo blanco)
-* `Microtutorial Imprimible <microtutorial_argentina-en-python.pdf>`_ (pdf)
-* `Microtutorial Escalable <microtutorial_argentina-en-python.svg>`_ (svg)
+* `Microtutorial Argentina en Python 1024x1448 <microtutorial_argentina-en-python_1024.png>`_ (png fondo blanco)
+* `Microtutorial Argentina en Python Imprimible <microtutorial_argentina-en-python.pdf>`_ (pdf)
+* `Microtutorial Argentina en Python Escalable <microtutorial_argentina-en-python.svg>`_ (svg)
 
 ----
 
 Microtutorial Python Argentina
 ------------------------------
 
+.. class:: small
+
+   Diseñado por `@EllaQuimica <https://twitter.com/EllaQuimica>`_
+
 .. figure:: microtutorial_pyar_portada_256.png
    :width: 256px
 
-* `Microtutorial 1024x1448 <microtutorial_pyar_1024.png>`_ (png fondo blanco)
-* `Microtutorial Imprimible <microtutorial_pyar.pdf>`_ (pdf)
-* `Microtutorial Escalable <microtutorial_pyar.svg>`_ (svg)
+* `Microtutorial Python Argentina 1024x1448 <microtutorial_pyar_1024.png>`_ (png fondo blanco)
+* `Microtutorial Python Argentina Imprimible <microtutorial_pyar.pdf>`_ (pdf)
+* `Microtutorial Python Argentina Escalable <microtutorial_pyar.svg>`_ (svg)
 
 ----
 

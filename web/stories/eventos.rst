@@ -299,6 +299,8 @@ Requisitos
 
 * Alargadores de corriente (zapatillas, extensiones eléctricas, etc)
 
+* Un guía (con conocimientos básicos de Python y Django) cada 3 o 4 asistentes.
+
 ----
 
 

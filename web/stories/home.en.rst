@@ -94,12 +94,11 @@ How?
      </a>
    </div>
 
-   <a class="home-sections" href="/galeria/">
-     <div class="row" style="margin-bottom: 50px;">
+     <a class="home-sections" href="/quiero-aprender-python/">
        <div class="col-md-4">
-	 <p style="text-align: center"><i class="fa fa-photo fa-5x"></p>
-	 <h2 style="text-align: center">Photos</h2>
-	 <p style="text-align: center">Pictures of the whole trip and some events</p>
+	 <p style="text-align: center"><i class="fa fa-mortar-board fa-5x"></p>
+	 <h2 style="text-align: center">I want to learn Python</h2>
+	 <p style="text-align: center">Tutorials and documentation that will help you to learn Python in a autodidact way (Spanish only).</p>
        </div>
      </a>
 

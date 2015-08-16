@@ -1,7 +1,7 @@
 .. title: Python for Ladies / Python para chicas
 .. slug: python-for-ladies
 .. date: 2015-04-19 23:42:27 UTC-03:00
-.. tags: 
+.. tags: eventos, curso, python for ladies, posadas, misiones, argentina
 .. category: 
 .. link: 
 .. description: 

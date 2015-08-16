@@ -9,6 +9,12 @@
 .. type: text
 .. template: notitle.tmpl
 
+.. class:: alert alert-success
+
+   **Próximos eventos**: `Introducción a Python en Cochabamba, Bolivia
+   <http://elblogdehumitos.com.ar/posts/introduccion-a-python-en-cochabamba/>`_
+   y `Taller Django Girls en Cochabamba, Bolivia
+   <http://argentinaenpython.com.ar/django-girls-cochabamba/>`_.
 
 .. raw:: html
 

@@ -38,6 +38,10 @@
 Agosto
 ------
 
+#. Nos estamos poniendo en contacto con las comunidades de Perú para
+   ir alistando nuestra llegada y organizarnos mejor. :doc:`Ayudanos a
+   ponernos en contacto <como-colaborar>` con tus conocidos.
+
 #. Llegamos a Cochabamba, Bolivia y estamos organizando `la primera
    reunión <http://elblogdehumitos.com.ar/posts/cochabamba-latente/>`_
    para coordinar los próximos eventos de las siguientes semanas.

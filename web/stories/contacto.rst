@@ -21,6 +21,9 @@ mantener actualizados a nuestros seguidores:
 
 :Twitter: https://twitter.com/argenpython
 
+:IRC: @humitos en *#argentinaenpython* en irc.freenode.net (`cliente web
+      <https://kiwiirc.com/client/irc.freenode.net?channel=#argentinaenpython>`_)
+
 ----
 
 En caso de requerir una comunicación más directa, también podés

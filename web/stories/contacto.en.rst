@@ -21,6 +21,9 @@ an event or to keep updated about the project:
 
 :Twitter: https://twitter.com/argenpython
 
+:IRC: @humitos en #argentinaenpython en irc.freenode.net (`cliente web
+      <https://kiwiirc.com/client>`_)
+
 ----
 
 In case you need more instant communication, you can also use these

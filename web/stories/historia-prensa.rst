@@ -89,3 +89,12 @@ Año 2015
 
 * Agosto - `Entrevista Pythoniza.me sobre Argentina en Python
   <http://pythoniza.me/argentina-en-python/>`_
+
+* Agosto - `Python como una nueva alternativa en el software libre
+  <http://www.urbana.com.bo/innovaci%C3%B3n/pyton-como-una-nueva-alternativa-en-el-software-libre>`_
+
+* Agosto - `Paseando por la TV
+  <http://elblogdehumitos.com.ar/posts/paseando-por-la-tv/>`_
+
+* Agosto - `Taller de programación para mujeres: Django Girls
+  <http://www.lostiempos.com/diario/actualidad/vida-y-futuro/20150821/taller-de-programacion-para-mujeres-django-girls_312667_692494.html>`_

@@ -114,12 +114,6 @@ filosofía y objetivo del proyecto (creo que el actual lo hace muy
 bien).
 
 
-Nuevo diseño de micro-tutorial
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-
-
 Tickets de avión para PyCon Argentina 2015
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

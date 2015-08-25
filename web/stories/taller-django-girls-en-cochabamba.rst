@@ -9,6 +9,13 @@
 .. previewimage: flyer.png
 
 
+.. class:: alert alert-danger
+
+   ¡**Atención**!: hemos alcanzado el cupo máximo de inscriptos para el
+   taller. Sin embargo, si estás interesada en participar, inscribite
+   y pasarás a una lista de espera en caso de que alguien no pueda
+   asistir. Nos estaremos comunicando con vos.
+
 ¡Queremos animar a más mujeres a dominar la web! Es por eso que junto
 a el `mARTadero <http://martadero.org/>`_ estamos organizando un
 taller en el cual podrás construir tu propio sitio web desde cero en

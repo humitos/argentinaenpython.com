@@ -42,6 +42,7 @@ GPX_FILES = [
     os.path.join(DIRNAME, 'geodata/0-etapa.gpx'),
     os.path.join(DIRNAME, 'geodata/primera-etapa.gpx'),
     os.path.join(DIRNAME, 'geodata/segunda-etapa.gpx'),
+    os.path.join(DIRNAME, 'geodata/tercera-etapa.gpx'),
 ]
 CITIES_FILENAME = os.path.join(DIRNAME, 'geodata/cities.json')
 MY_POSITION_FILENAME = os.path.join(DIRNAME, 'geodata/my-position.json')
@@ -53,10 +54,10 @@ WAIT_BEFORE_QUERY = 5
 MAP_ZOOM = 14
 CONF_FILE = os.path.join(user.home, '.geolocation.ini')
 
+
 config = configobj.ConfigObj(
     infile=CONF_FILE,
     encoding='utf-8',
-    create_empty=True
 )
 
 
@@ -185,10 +186,11 @@ def calc_my_position_address(address, output, upload=True):
     logger.info('LatLng: %s', response.latlng)
     logger.info('Place: %s', response.address)
 
-    save_json(response.latlng, output)
-
     if upload:
+        save_json(response.latlng, output)
         upload_my_position()
+
+    return response
 
 
 def upload_my_position():

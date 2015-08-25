@@ -7,12 +7,25 @@
 .. description: 
 .. type: text
 
+
+.. los archivos .gpx fueron generados con http://map.project-osrm.org/
+   y simplificados con gpsbabel (geodata/simplify_gpx.sh)
+
 .. raw:: html
 
    <script defer src="/assets/js/argentina-en-python.js"></script>
 
 .. contents::  Contenido
-   :class: topic pull-right navbar alert alert-warning
+
+.. raw:: html
+
+   <script type="text/javascript">
+       contenido = document.getElementById('contenido');
+       contenido.classList.add('sidebar');
+       contenido.children[0].classList.add('sidebar-title');
+       contenido.children[0].classList.remove('topic-title');
+   </script>
+
 
 .. class:: alert alert-success
 
@@ -184,3 +197,25 @@ hemos visitado estos lugares:
 * El Dorado, Misiones, Argentina
 * Posadas, Misiones, Argentina
 * Apóstoles, Misiones, Argentina
+* Posadas, Misiones, Argentina
+* Encarnación, Itapúa, Paraguay
+* San Cosme y Damián, Itapúa, Paraguay
+* San Ignacio Guazú, Misiones, Paraguay
+* San Miguel, Misiones, Paraguay
+* La Colmena, Paraguarí, Paraguay
+* Sapucaí, Paraguarí, Paraguay
+* Paraguarí, Paraguarí, Paraguay
+* Asunción, Distrito Capital de Paraguay, Paraguay
+* Las Lomitas, Formosa, Argentina
+* San Salvador de Jujuy, Jujuy, Argentina
+* La Quiaca, Jujuy, Argentina
+* Potosí, Potosí, Bolivia
+* Uyuni, Potosí, Bolivia
+* Sucre, Chuquisaca, Bolivia
+* Oruro, Oruro, Bolivia
+* Cochabamba, Cochabamba, Bolivia
+
+.. raw:: html
+
+   <div id="map-third"></div>
+

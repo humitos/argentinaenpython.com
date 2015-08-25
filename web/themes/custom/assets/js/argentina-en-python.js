@@ -14,7 +14,9 @@ $(document).ready(function() {
 	// http://osrm.at/acH
 	{url: '/assets/data/primera-etapa.gpx', name: 'first', colorLine: 'blue'},
 	// http://osrm.at/acF
-	{url: '/assets/data/segunda-etapa.gpx', name: 'second', colorLine: 'yellow'}
+	{url: '/assets/data/segunda-etapa.gpx', name: 'second', colorLine: 'yellow'},
+	// http://osrm.at/f9d
+	{url: '/assets/data/tercera-etapa.gpx', name: 'third', colorLine: 'red'}
     ];
 
     maps = [];

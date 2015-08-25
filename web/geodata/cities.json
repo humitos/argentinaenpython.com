@@ -1268,7 +1268,7 @@
             "status": "OK", 
             "town": "San Miguel", 
             "type": "town"
-        },
+        }, 
         {
             "accuracy": 0.96112680251344, 
             "address": "San Salvador de Jujuy, Municipio de San Salvador de Jujuy, Departamento Doctor Manuel Belgrano, Jujuy, Argentina", 
@@ -1311,7 +1311,7 @@
             "state": "Jujuy", 
             "status": "OK", 
             "type": "city"
-        },
+        }, 
         {
             "accuracy": 0.63050715237377, 
             "address": "La Quiaca, Departamento Yavi, Jujuy, Argentina", 
@@ -1353,7 +1353,7 @@
             "state": "Jujuy", 
             "status": "OK", 
             "type": "administrative"
-        },
+        }, 
         {
             "address": "Potos\u00ed, Provincia Tomas Frias, PSI, Bolivia", 
             "city": "Potos\u00ed", 
@@ -1367,7 +1367,7 @@
             "quality": "city", 
             "state": "PSI", 
             "status": "OK"
-        },
+        }, 
         {
             "address": "Uyuni, Provincia Antonio Quijarro, Potos\u00ed, Bolivia", 
             "country": "BO", 
@@ -1394,7 +1394,7 @@
             "quality": "city", 
             "state": "CHQ", 
             "status": "OK"
-        },
+        }, 
         {
             "accuracy": 0.68201488613777, 
             "address": "Oruro, Provincia Cercado, ORU, Bolivia", 
@@ -1437,7 +1437,7 @@
             "state": "ORU", 
             "status": "OK", 
             "type": "city"
-        },
+        }, 
         {
             "address": "Cochabamba, Provincia Cercado, CBA, Bolivia", 
             "city": "Cochabamba", 
@@ -1452,5 +1452,47 @@
             "state": "CBA", 
             "status": "OK"
         }, 
+        {
+            "accuracy": 0.5423836653823, 
+            "address": "Las Lomitas, Departamento Pati\u00f1o, FSA, Argentina", 
+            "bbox": {
+                "northeast": [
+                    -24.688868, 
+                    -60.5778612
+                ], 
+                "southwest": [
+                    -24.7239565, 
+                    -60.612004
+                ]
+            }, 
+            "city": "Las Lomitas", 
+            "confidence": 6, 
+            "country": "Argentina", 
+            "encoding": "utf-8", 
+            "geometry": {
+                "coordinates": [
+                    -60.5943161, 
+                    -24.7060258
+                ], 
+                "type": "Point"
+            }, 
+            "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png", 
+            "importance": 0.5423836653823, 
+            "lat": -24.7060258, 
+            "lng": -60.5943161, 
+            "location": "las lomitas, formosa, argentina", 
+            "method": "geocode", 
+            "ok": true, 
+            "osm_id": "3498864", 
+            "osm_type": "relation", 
+            "place_id": "128103129", 
+            "place_rank": "16", 
+            "provider": "osm", 
+            "quality": "administrative", 
+            "region": "FSA", 
+            "state": "FSA", 
+            "status": "OK", 
+            "type": "administrative"
+        }
     ]
 }

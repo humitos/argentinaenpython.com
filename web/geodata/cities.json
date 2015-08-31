@@ -1,49 +1,6 @@
 {
     "next": [
         {
-            "accuracy": 1.0641528440845, 
-            "address": "Santa Cruz de la Sierra, Provincia Andres Ibanez, SCZ, Bolivia", 
-            "bbox": {
-                "northeast": [
-                    -17.6236904, 
-                    -63.0221038
-                ], 
-                "southwest": [
-                    -17.9436904, 
-                    -63.3421038
-                ]
-            }, 
-            "city": "Santa Cruz de la Sierra", 
-            "confidence": 1, 
-            "country": "Bolivia", 
-            "county": "Provincia Andres Ibanez", 
-            "encoding": "utf-8", 
-            "geometry": {
-                "coordinates": [
-                    -63.1821038, 
-                    -17.7836904
-                ], 
-                "type": "Point"
-            }, 
-            "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png", 
-            "importance": 1.0641528440845, 
-            "lat": -17.7836904, 
-            "lng": -63.1821038, 
-            "location": "santa cruz de la sierra, bolivia", 
-            "method": "geocode", 
-            "ok": true, 
-            "osm_id": "415163462", 
-            "osm_type": "node", 
-            "place_id": "3832613", 
-            "place_rank": "16", 
-            "provider": "osm", 
-            "quality": "city", 
-            "region": "SCZ", 
-            "state": "SCZ", 
-            "status": "OK", 
-            "type": "city"
-        }, 
-        {
             "address": "La Paz, Provincia Murillo, LPZ, Bolivia", 
             "city": "La Paz", 
             "country": "BO", 
@@ -99,6 +56,307 @@
             "status": "OK", 
             "town": "Copacabana", 
             "type": "town"
+        }, 
+        {
+            "accuracy": 0.64752681001962, 
+            "address": "Arequipa, Per\u00fa", 
+            "bbox": {
+                "northeast": [
+                    -16.313333, 
+                    -71.48
+                ], 
+                "southwest": [
+                    -16.353333, 
+                    -71.52
+                ]
+            }, 
+            "city": "Arequipa", 
+            "confidence": 6, 
+            "country": "Per\u00fa", 
+            "county": "Arequipa", 
+            "encoding": "utf-8", 
+            "geometry": {
+                "coordinates": [
+                    -71.5, 
+                    -16.333333
+                ], 
+                "type": "Point"
+            }, 
+            "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png", 
+            "importance": 0.64752681001962, 
+            "lat": -16.333333, 
+            "lng": -71.5, 
+            "location": "arequipa, peru", 
+            "method": "geocode", 
+            "ok": true, 
+            "osm_id": "1237030150", 
+            "osm_type": "node", 
+            "place_id": "12842538", 
+            "place_rank": "18", 
+            "provider": "osm", 
+            "quality": "region", 
+            "region": "Arequipa", 
+            "state": "Arequipa", 
+            "status": "OK", 
+            "type": "region"
+        }, 
+        {
+            "accuracy": 0.22027225158296, 
+            "address": "Mollendo, Islay, Arequipa, Per\u00fa", 
+            "bbox": {
+                "northeast": [
+                    -16.6750449, 
+                    -71.6664123
+                ], 
+                "southwest": [
+                    -17.0676269, 
+                    -72.0564955
+                ]
+            }, 
+            "city": "Mollendo", 
+            "confidence": 1, 
+            "country": "Per\u00fa", 
+            "county": "Islay", 
+            "encoding": "utf-8", 
+            "geometry": {
+                "coordinates": [
+                    -72.0155447, 
+                    -17.0292533
+                ], 
+                "type": "Point"
+            }, 
+            "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png", 
+            "importance": 0.22027225158296, 
+            "lat": -17.0292533, 
+            "lng": -72.0155447, 
+            "location": "mollendo, peru", 
+            "method": "geocode", 
+            "ok": true, 
+            "osm_id": "1879160", 
+            "osm_type": "relation", 
+            "place_id": "127848437", 
+            "place_rank": 16, 
+            "provider": "osm", 
+            "quality": "city", 
+            "region": "Arequipa", 
+            "state": "Arequipa", 
+            "status": "OK", 
+            "type": "city"
+        }, 
+        {
+            "accuracy": 0.554561534822, 
+            "address": "San Juan de Marcona, Nazca, Ica, Per\u00fa", 
+            "bbox": {
+                "northeast": [
+                    -15.2016802, 
+                    -75.0066217
+                ], 
+                "southwest": [
+                    -15.5216802, 
+                    -75.3266217
+                ]
+            }, 
+            "city": "San Juan de Marcona", 
+            "confidence": 1, 
+            "country": "Per\u00fa", 
+            "county": "Nazca", 
+            "encoding": "utf-8", 
+            "geometry": {
+                "coordinates": [
+                    -75.1666217, 
+                    -15.3616802
+                ], 
+                "type": "Point"
+            }, 
+            "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png", 
+            "importance": 0.554561534822, 
+            "lat": -15.3616802, 
+            "lng": -75.1666217, 
+            "location": "san juan de marcona, peru", 
+            "method": "geocode", 
+            "ok": true, 
+            "osm_id": "705117990", 
+            "osm_type": "node", 
+            "place_id": "6758737", 
+            "place_rank": "16", 
+            "provider": "osm", 
+            "quality": "city", 
+            "region": "Ica", 
+            "state": "Ica", 
+            "status": "OK", 
+            "type": "city"
+        }, 
+        {
+            "accuracy": 0.66433214892448, 
+            "address": "Cusco, Per\u00fa", 
+            "bbox": {
+                "northeast": [
+                    -13.3612349, 
+                    -71.8111244
+                ], 
+                "southwest": [
+                    -13.6812349, 
+                    -72.1311244
+                ]
+            }, 
+            "city": "Cusco", 
+            "confidence": 1, 
+            "country": "Per\u00fa", 
+            "county": "Cusco", 
+            "encoding": "utf-8", 
+            "geometry": {
+                "coordinates": [
+                    -71.9711244, 
+                    -13.5212349
+                ], 
+                "type": "Point"
+            }, 
+            "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png", 
+            "importance": 0.66433214892448, 
+            "lat": -13.5212349, 
+            "lng": -71.9711244, 
+            "location": "cusco, peru", 
+            "method": "geocode", 
+            "ok": true, 
+            "osm_id": "59115290", 
+            "osm_type": "node", 
+            "place_id": "250283", 
+            "place_rank": "16", 
+            "provider": "osm", 
+            "quality": "city", 
+            "region": "Cusco", 
+            "state": "Cusco", 
+            "status": "OK", 
+            "type": "city"
+        }, 
+        {
+            "accuracy": 0.79050664201722, 
+            "address": "Lima, Ate, Lima, Per\u00fa", 
+            "bbox": {
+                "northeast": [
+                    -11.98, 
+                    -76.813333
+                ], 
+                "southwest": [
+                    -12.02, 
+                    -76.853333
+                ]
+            }, 
+            "city": "Ate", 
+            "confidence": 6, 
+            "country": "Per\u00fa", 
+            "county": "Lima", 
+            "encoding": "utf-8", 
+            "geometry": {
+                "coordinates": [
+                    -76.833333, 
+                    -12.0
+                ], 
+                "type": "Point"
+            }, 
+            "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png", 
+            "importance": 0.79050664201722, 
+            "lat": -12.0, 
+            "lng": -76.833333, 
+            "location": "lima, peru", 
+            "method": "geocode", 
+            "ok": true, 
+            "osm_id": "1237030144", 
+            "osm_type": "node", 
+            "place_id": "12886919", 
+            "place_rank": "18", 
+            "provider": "osm", 
+            "quality": "region", 
+            "region": "Lima", 
+            "state": "Lima", 
+            "status": "OK", 
+            "type": "region"
+        }, 
+        {
+            "accuracy": 0.57105165553968, 
+            "address": "Chiclayo, Lambayeque, Per\u00fa", 
+            "bbox": {
+                "northeast": [
+                    -6.746667, 
+                    -79.83
+                ], 
+                "southwest": [
+                    -6.786667, 
+                    -79.87
+                ]
+            }, 
+            "city": "Chiclayo", 
+            "confidence": 6, 
+            "country": "Per\u00fa", 
+            "county": "Chiclayo", 
+            "encoding": "utf-8", 
+            "geometry": {
+                "coordinates": [
+                    -79.85, 
+                    -6.766667
+                ], 
+                "type": "Point"
+            }, 
+            "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png", 
+            "importance": 0.57105165553968, 
+            "lat": -6.766667, 
+            "lng": -79.85, 
+            "location": "chiclayo, peru", 
+            "method": "geocode", 
+            "ok": true, 
+            "osm_id": "1237030063", 
+            "osm_type": "node", 
+            "place_id": "12542007", 
+            "place_rank": "18", 
+            "provider": "osm", 
+            "quality": "region", 
+            "region": "Lambayeque", 
+            "state": "Lambayeque", 
+            "status": "OK", 
+            "type": "region"
+        }, 
+        {
+            "accuracy": 0.56385461349205, 
+            "address": "Loja, Ecuador", 
+            "bbox": {
+                "northeast": [
+                    -3.8501061, 
+                    -79.1373785
+                ], 
+                "southwest": [
+                    -4.1328624, 
+                    -79.2699454
+                ]
+            }, 
+            "city": "Loja", 
+            "confidence": 1, 
+            "country": "Ecuador", 
+            "county": "Loja", 
+            "encoding": "utf-8", 
+            "geometry": {
+                "coordinates": [
+                    -79.2015997, 
+                    -3.9967311
+                ], 
+                "type": "Point"
+            }, 
+            "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png", 
+            "importance": 0.56385461349205, 
+            "lat": -3.9967311, 
+            "lng": -79.2015997, 
+            "location": "loja, ecuador", 
+            "method": "geocode", 
+            "ok": true, 
+            "osm_id": "3651090", 
+            "osm_type": "relation", 
+            "place_id": "128163956", 
+            "place_rank": "16", 
+            "provider": "osm", 
+            "quality": "administrative", 
+            "region": "Loja", 
+            "state": "Loja", 
+            "status": "OK", 
+            "type": "administrative"
         }
     ], 
     "previous": [
@@ -1493,6 +1751,49 @@
             "state": "FSA", 
             "status": "OK", 
             "type": "administrative"
+        }, 
+        {
+            "accuracy": 1.0641528440845, 
+            "address": "Santa Cruz de la Sierra, Provincia Andres Ibanez, SCZ, Bolivia", 
+            "bbox": {
+                "northeast": [
+                    -17.6236904, 
+                    -63.0221038
+                ], 
+                "southwest": [
+                    -17.9436904, 
+                    -63.3421038
+                ]
+            }, 
+            "city": "Santa Cruz de la Sierra", 
+            "confidence": 1, 
+            "country": "Bolivia", 
+            "county": "Provincia Andres Ibanez", 
+            "encoding": "utf-8", 
+            "geometry": {
+                "coordinates": [
+                    -63.1821038, 
+                    -17.7836904
+                ], 
+                "type": "Point"
+            }, 
+            "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png", 
+            "importance": 1.0641528440845, 
+            "lat": -17.7836904, 
+            "lng": -63.1821038, 
+            "location": "santa cruz de la sierra, bolivia", 
+            "method": "geocode", 
+            "ok": true, 
+            "osm_id": "415163462", 
+            "osm_type": "node", 
+            "place_id": "3832613", 
+            "place_rank": "16", 
+            "provider": "osm", 
+            "quality": "city", 
+            "region": "SCZ", 
+            "state": "SCZ", 
+            "status": "OK", 
+            "type": "city"
         }
     ]
 }

@@ -6,6 +6,7 @@
 .. link: 
 .. description: 
 .. type: text
+.. template: storymap.tmpl
 
 
 .. los archivos .gpx fueron generados con http://map.project-osrm.org/

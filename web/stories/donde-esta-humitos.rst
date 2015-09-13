@@ -6,6 +6,7 @@
 .. description: 
 .. type: text
 .. previewimage: preview.jpg
+.. template: storymap.tmpl
 
 .. raw:: html
 

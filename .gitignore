@@ -60,3 +60,6 @@ web/.doit.db
 *~
 *#
 *.#*
+
+web/files/djangogirls
+web/files/djangogirls-recursos

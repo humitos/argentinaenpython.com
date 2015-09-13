@@ -1,20 +1,6 @@
 {
     "next": [
         {
-            "address": "La Paz, Provincia Murillo, LPZ, Bolivia", 
-            "city": "La Paz", 
-            "country": "BO", 
-            "lat": -16.5065951, 
-            "lng": -68.1295102, 
-            "location": "la paz, bolivia", 
-            "osm_id": "1975648720", 
-            "osm_type": "node", 
-            "provider": "osm", 
-            "quality": "city", 
-            "state": "LPZ", 
-            "status": "OK"
-        }, 
-        {
             "accuracy": 0.64761685113657, 
             "address": "Copacabana, Provincia Manco Kapac, LPZ, Bolivia", 
             "bbox": {
@@ -1794,6 +1780,20 @@
             "state": "SCZ", 
             "status": "OK", 
             "type": "city"
+        },
+        {
+            "address": "La Paz, Provincia Murillo, LPZ, Bolivia", 
+            "city": "La Paz", 
+            "country": "BO", 
+            "lat": -16.5065951, 
+            "lng": -68.1295102, 
+            "location": "la paz, bolivia", 
+            "osm_id": "1975648720", 
+            "osm_type": "node", 
+            "provider": "osm", 
+            "quality": "city", 
+            "state": "LPZ", 
+            "status": "OK"
         }
     ]
 }

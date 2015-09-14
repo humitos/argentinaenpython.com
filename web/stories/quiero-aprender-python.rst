@@ -4,7 +4,7 @@
 .. tags: 
 .. category: 
 .. link: 
-.. description: 
+.. description: Material para aprender Python desde lo básico
 .. type: text
 .. nocomments: False
 .. template: storycomments.tmpl
@@ -386,7 +386,7 @@ Muchísimo más material
 
    Si sabés de algún libro, documento, biblioteca o algo que te
    gustaría agregar a este sitio web, `enviame un email
-   <mailto:argentinaenpython@gmail.com>`_ (o dejá un comentario en
+   <mailto:argentinaenpython@openmailbox.org>`_ (o dejá un comentario en
    esta página) y lo revisaré.
 
    También podes dejar un comentario aquí mismo explicando porqué un
@@ -436,8 +436,12 @@ sugerido los lectos.
 
 .. collapse:: Python para niños
 
-   Libros dedicados a los niños para aprender a programar.
+   Libros dedicados a los niños para aprender a programar (todos en Español)
   
+   * `Inventa tus propios juegos de computadora con Python
+     <inventa-tus-propios-juegos-de-computadora-con-python.zip>`_
+   * `Code Combat (Interactivo) <https://codecombat.com/>`_
+   * `Lightbot (Interactivo) <http://lightbot.com/>`_
    * `La confusion de la Tortuga <la-confusion-de-la-tortuga.pdf>`_
    * Doma de serpientes para niños (`versión Linux
      <doma-de-serpientes-para-ninos_swfk-es-linux-0.0.4.pdf>`_)
@@ -476,3 +480,4 @@ sugerido los lectos.
 .. (py2) http://www.ceibal.edu.uy/contenidos/areas_conocimiento/aportes/Python_para_todos.pdf
 .. (py2) http://cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-python.pdf
 .. http://www.etnassoft.com/biblioteca/
+.. https://micarreralaboralenit.wordpress.com/2015/08/17/multiples-razones-juegos-y-apps-con-las-que-los-ninos-pueden-aprender-a-programar-infografia/

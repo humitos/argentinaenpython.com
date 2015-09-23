@@ -11,14 +11,14 @@
 
 .. class:: alert alert-success
 
-   **Próximos eventos**: :doc:`Taller Django Girls en Santa Cruz, Bolivia
-   <django-girls-santa-cruz>`.
+   **Novedades**: ¡Estamos :doc:`llegando a Perú <llegando-a-peru>`!
+
 
 .. raw:: html
 
    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
    <style>
-     article.storypage img {
+     article.storypage img.logo {
          margin-top: 40px;
      }
    </style>
@@ -27,6 +27,7 @@
 .. image:: /index/logo.thumbnail.png
    :width: 420px
    :align: right
+   :class: logo
 
 
 ¿Qué?
@@ -71,6 +72,7 @@ formas de vida.
    </style>
 
    <hr style="border-width: 10px 0 0;">
+
    <div class="row" style="margin-top: 50px;">
      <a class="home-sections" href="/donde-esta-humitos/">
        <div class="col-md-4">
@@ -80,11 +82,11 @@ formas de vida.
        </div>
      </a>
 
-     <a class="home-sections" href="/novedades/">
+     <a class="home-sections" href="/galeria/">
        <div class="col-md-4">
-	 <p style="text-align: center"><i class="fa fa-newspaper-o fa-5x"></p>
-	 <h2 style="text-align: center">¡Novedades!</h2>
-	 <p style="text-align: center">Qué estamos haciendo y lo que tenemos planeado en un futuro cercano</p>
+	 <p style="text-align: center"><i class="fa fa-picture-o fa-5x"></p>
+	 <h2 style="text-align: center">Fotos</h2>
+	 <p style="text-align: center">Galería de fotos de los eventos en los que hemos participado</p>
        </div>
      </a>
 
@@ -124,6 +126,46 @@ formas de vida.
 
    </div>
 
+   <hr style="border-width: 10px 0 0;">
+
+.. raw:: html
+
+
+	 <div class="row">
+	  <div class="col-sm-6 col-md-4">
+	    <div class="thumbnail">
+	      <a href="/galeria/introduccion-a-python-en-cochabamba/">
+		<img style="width: 340px; height: 255px;" src="/galeria/introduccion-a-python-en-cochabamba/DSC_9307_01.jpg" alt="Introducción a Python en Cochabamba"></a>
+	      <div class="caption">
+		<h3>Introducción a Python en Cochabamba</h3>
+		<p>Charla Introducción a Python en Cochabamba</p>
+	      </div>
+	    </div>
+	  </div>
+
+	  <div class="col-sm-6 col-md-4">
+	    <div class="thumbnail">
+	      <a href="/galeria/django-girls-cochabamba/">
+		<img style="width: 340px; height: 255px;" src="/galeria/django-girls-cochabamba/DSC_9433_01.jpg" alt="Django Girls Cochabamba"></a>
+	      <div class="caption">
+		<h3>Django Girls Cochabamba</h3>
+		<p>Workshop Django Girls</p>
+	      </div>
+	    </div>
+	  </div>
+
+	  <div class="col-sm-6 col-md-4">
+	    <div class="thumbnail">
+	      <a href="/galeria/django-girls-santacruz/">
+		<img style="width: 340px; height: 255px;" src="/galeria/django-girls-santacruz/IMG_20150829_104112.jpg" alt="Django Girls Santa Cruz"></a>
+	      <div class="caption">
+		<h3>Django Girls Santa Cruz</h3>
+		<p>Workshop Django Girls</p>
+	      </div>
+	    </div>
+	  </div>
+
+	  </div>
 
 .. class:: lead align-center
 

@@ -19,7 +19,9 @@ the moment the donation was made:
 General donations
 -----------------
 
-* 15 August de 2015 - `Gustavo Picon <https://twitter.com/tabo>`_: USD 100
+* 19 September 2015 - `Krishnan Nagarajan <mailto:krishnan.nagarajan@gmail.com>`_: USD 50
+* 25 August 2015 - `Python Software Foundation <https://www.python.org/psf/>`_: USD 5000
+* 15 August 2015 - `Gustavo Picon <https://twitter.com/tabo>`_: USD 100
 * 11 August 2015 - `Francisco Capdevila <https://twitter.com/pancho_jay>`_: ARS 200
 * 2 August 2015 - `El Ega <http://www.el-ega.com.ar/>`_: ARS 200
 * 2 July 2015 - Angel Rafael Velasquez: ARS 600

@@ -19,6 +19,8 @@ donaciones:
 Donaciones en general
 ---------------------
 
+* 19 de Septiembre de 2015 - `Krishnan Nagarajan <mailto:krishnan.nagarajan@gmail.com>`_: USD 50
+* 25 de Agosto de 2015 - `Python Software Foundation <https://www.python.org/psf/>`_: USD 5000
 * 15 de Agosto de 2015 - `Gustavo Picon <https://twitter.com/tabo>`_: USD 100
 * 11 de Agosto de 2015 - `Francisco Capdevila <https://twitter.com/pancho_jay>`_: ARS 200
 * 2 de Agosto de 2015 - `El Ega <http://www.el-ega.com.ar/>`_: ARS 200
@@ -74,4 +76,4 @@ Donaciones en general
 
    Un solo archivo:
 
-   X={file} ; convert "$X" -crop 685x400+333+188 "$X"
+   X={file} ; convert "$X" -crop 610x300+370+190 "$X"

@@ -15,14 +15,14 @@
 These are all the ways you can contact me in case you want to organize
 an event or to keep updated about the project:
 
-:Email: argentinaenpython@gmail.com
+:Email: argentinaenpython@openmailbox.org
 
 :Facebook: https://www.facebook.com/argentinaenpython
 
 :Twitter: https://twitter.com/argenpython
 
-:IRC: @humitos en #argentinaenpython en irc.freenode.net (`cliente web
-      <https://kiwiirc.com/client>`_)
+:IRC: @humitos en #argentinaenpython en irc.freenode.net (`web client
+      <https://kiwiirc.com/client/irc.freenode.net?channel=#argentinaenpython>`_)
 
 ----
 
@@ -32,7 +32,9 @@ ways, but I'm not really pending on them:
 
 :WhatsApp: +54 9 343 4053434
 
-:Telegram: @humitos / +54 9 343 4053434
+:Telegram: @humitos
+
+:Móv. Perú: +51 999077870
 
 :Cell Bolivia: +591 68381678
 

@@ -65,7 +65,7 @@ Año 2015
   Universidad Autónoma de Encarnación
   <http://www.unae.edu.py/v3/index.php/noticias/item/592-introducci%C3%B3n-a-python>`_
 
-* Mayo - `Presentación de Fernando Masanori (Slide 16 y 17)
+* Mayo - `Presentación de Fernando Masanori (Slide 19 y 20)
   <http://pt.slideshare.net/fmasanori/import-community>`_
 
 * Mayo - `Post en el blog de Javier Obregon
@@ -98,3 +98,4 @@ Año 2015
 
 * Agosto - `Taller de programación para mujeres: Django Girls
   <http://www.lostiempos.com/diario/actualidad/vida-y-futuro/20150821/taller-de-programacion-para-mujeres-django-girls_312667_692494.html>`_
+

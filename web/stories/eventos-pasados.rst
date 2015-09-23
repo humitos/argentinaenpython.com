@@ -9,8 +9,9 @@
 Eventos pasados
 ---------------
 
-.. * 29-08-2015: Taller Django Girls en Santa Cruz
-* 22-08-2015: Taller Django Girls en Cochabamba
+* 29-08-2015: Taller Django Girls en Santa Cruz
+* 22-08-2015: `Taller Django Girls en Cochabamba
+  <http://elblogdehumitos.com.ar/posts/django-girls-tecnologia-python-mujeres/>`_
 * 19-08-2015: Introducción a Python en mARTadero
 * 30-06-2015: Introducción a Python en la UNJu
 * 26-06-2015: Python, Sofware Libre y realidad laboral

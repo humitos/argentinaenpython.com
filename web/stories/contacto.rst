@@ -7,6 +7,7 @@
 .. description: 
 .. type: text
 
+
 .. image:: mini-zen.thumbnail.jpg
    :target: zen.jpg
    :align: right
@@ -15,7 +16,7 @@
 Estos son los medios de contacto que usamos para organizar eventos y
 mantener actualizados a nuestros seguidores:
 
-:Email: argentinaenpython@gmail.com
+:Email: argentinaenpython@openmailbox.org
 
 :Facebook: https://www.facebook.com/argentinaenpython
 
@@ -32,7 +33,9 @@ de ellos:
 
 :WhatsApp: +54 9 343 4053434
 
-:Telegram: @humitos / +54 9 343 4053434
+:Telegram: @humitos
+
+:Móv. Perú: +51 999077870
 
 :Móv. Bolivia: +591 68381678
 

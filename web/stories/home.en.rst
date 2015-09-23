@@ -79,9 +79,9 @@ How?
 
      <a class="home-sections" href="/novedades/">
        <div class="col-md-4">
-	 <p style="text-align: center"><i class="fa fa-newspaper-o fa-5x"></p>
-	 <h2 style="text-align: center">News!</h2>
-	 <p style="text-align: center">What we are doing and what we have planned for the near future</p>
+	 <p style="text-align: center"><i class="fa fa-picture-o fa-5x"></p>
+	 <h2 style="text-align: center">Photos</h2>
+	 <p style="text-align: center">Photo gallery for those events we participate</p>
        </div>
      </a>
 

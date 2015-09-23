@@ -303,6 +303,61 @@ Requisitos
 
 ----
 
+PyCamp
+======
+
+¿Qué es un PyCamp?
+------------------
+
+¡El PyCamp es uno de los eventos que más me gusta! Consiste en
+apoderarse de un lugar, como ser un Hotel Campestre, Colonia de
+Vacaciones, un espacio para Retiros Espirituales, etc; en el que un
+grupo de 30 a 40 programadores nos juntamos a programar durante 4 días
+completos. Los asistentes llevan los proyectos de Software Libre en
+los que están trabajando (o alguna idea loca que quieran implementar)
+y el resto se anota para colaborar en esos proyectos. Así, se
+determinan diferentes slots de tiempo para cada proyecto durante los 4
+días y cada programador trabaja, dentro de los slots asignados, en los
+proyectos que más le han llamado la atención.
+
+Esta dinámica se mantiene durante los 4 días que dura el evento,
+trabajando mañana, tarde y hasta la noche (en muchos casos). Es
+importante que el alojamiento y la comida no sea una preocupación de
+los asistentes sino que esté cubierto por parte de la organización y
+que se lleve a cabo en el mismo predio/lugar que dónde se realiza el
+trabajo en equipo.
+
+Hay que tener en cuenta que se el PyCamp trata de acaparar la mayor
+cantidad de participantes de diferentes regiones, es por eso que
+buscamos un lugar que sea accesible desde diferentes puntos del país y
+así poder lograr un evento a nivel nacional.
+
+Requisitos
+----------
+
+* Lugar "pycamp-friendly". Esto quiere decir que cumpla con las
+  siguientes condiciones:
+
+  * Retirado de la civilización
+  * Conexión a internet
+  * Espacio de trabajo donde quepan todos los asistentes
+  * Que cuente con espacios verdes
+  * Exclusividad para el PyCamp en el lugar
+  * Que cuente con alojamiento y servicio de comida
+
+* Pre-inscripción con el dinero necesario para los 4 días
+
+A la hora de elegir un lugar, se tiene en cuenta:
+
+* Formas de llegar (accesibilidad en bus, auto, etc)
+* El lugar en sí (espacios de trabajo y su comodidad)
+* Las habitaciones
+* La comida (sana)
+* Disponibilidad de fechas
+* Precio
+
+
+----
 
 .. admonition:: Nota
 

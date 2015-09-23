@@ -7,6 +7,8 @@
 .. description: 
 .. type: text
 
+
+
 Material de difusión utilizado en afiches, flyers, cronogramas,
 posters, microtutoriales, etc. Aquí podrás encontrar los formatos de
 archivo necesarios para realizar realizar cualquier tipo de

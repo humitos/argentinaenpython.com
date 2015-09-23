@@ -58,6 +58,16 @@ PayPal
      </form>
    </div>
 
+(hacé click en la imagen para donar)
+
+Bitcoin
+-------
+
+.. image:: bitcoin.png
+   :target: https://bitex.la/donate/argentina-en-python
+
+(hacé click en la imagen para donar)
+
 ----
 
 Como último favor, te pido que me envíes un `email`_ adjuntando el
@@ -78,4 +88,4 @@ solicitas.
    donación, y mi recepción de dinero, sea algo grato para ambos.
 
 
-.. _email: mailto:argentinaenpython@gmail.com
+.. _email: mailto:argentinaenpython@openmailbox.org

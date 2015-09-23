@@ -39,8 +39,8 @@ Hoy en día se está empujando una versión muy similar a `la última
 propuesta`_ en la que se trabajó a los inicios del proyecto. En
 resumen, consistía en dar charlas, cursos y talleres gratuitamente de
 forma itinerante a lo largo de todo el país. Además, ¡ya hemos
-visitado otros países, como ser Paraguay y queremos llegar a Bolivia
-próximamente!
+visitado otros países, como ser Paraguay, Bolivia y queremos llegar a
+Perú próximamente!
 
 .. _la última propuesta: argentina-en-python__proyecto_original.pdf
 

@@ -214,7 +214,7 @@ no involucre un territorio: Argentina, Latinoamérica o América.
    Por favor, si estás interesado en colaborar con cualquiera (¡o
    varios!) de estos puntos de la *lista de deseos*, ponete en
    `contacto con nosotros por email
-   <mailto:argentinaenpython@gmail.com>`_ para así coordinar el
+   <mailto:argentinaenpython@openmailbox.org>`_ para así coordinar el
    trabajo juntos y charlar sobre las necesidades específicas.
 
 ----

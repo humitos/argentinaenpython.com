@@ -3,7 +3,7 @@
 .. date: 2014-11-24 13:50:09 UTC-03:00
 .. tags: argentina en python, mapas, blog, python
 .. link: 
-.. description: 
+.. description: Este mapa es útil para saber en qué lugar estoy *aproximadamente* en este momento y cual es la ruta aproximada *planificada* a futuro
 .. type: text
 .. previewimage: preview.jpg
 .. template: storymap.tmpl
@@ -23,7 +23,7 @@ poder :doc:`coordinar algo relacionado al proyecto <eventos>` (u otra
 cosa de interés mutuo) y organizar para encontrarnos en las cercanías.
 
 
-* |ruta| ruta *planeada* para los meses Junio, Julio y Agosto de 2015
+* |ruta| ruta *planeada* para los meses Septiembre, Octubre y Noviembre de 2015
 * |destinos| destinos que tenemos pensado visitar en esos meses
 * |visitados| lugares visitados desde el inicio del proyecto
 
@@ -71,7 +71,7 @@ Ese `my-position.json` lo genero con un script Python.
 
 .. listing:: donde-esta-humitos/geolocation.py python
    :start-line: 164
-   :end-line: 179
+   :end-line: 181
 
 
 #. Utiliza la librería *geocoder* para obtener las coordenadas de mi

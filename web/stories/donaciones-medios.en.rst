@@ -58,6 +58,16 @@ PayPal
      </form>
    </div>
 
+(click on the image to donate)
+
+Bitcoin
+-------
+
+.. image:: bitcoin.png
+   :target: https://bitex.la/donate/argentina-en-python
+
+(click on the image to donate)
+
 ----
 
 As a last favor, I ask you to send me an `email`_ attaching the ticket
@@ -70,4 +80,4 @@ it.
    Thank you a lot for your collaboration and helping to keep working
    on this project!
 
-.. _email: mailto:argentinaenpython@gmail.com
+.. _email: mailto:argentinaenpython@openmailbox.org

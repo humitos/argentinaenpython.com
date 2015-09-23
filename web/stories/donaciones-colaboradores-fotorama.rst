@@ -2,6 +2,8 @@
    :loop:
    :autoplay: 3000
 
+   krishnan.nagarajan.png
+   ThePSF2.png
    tabo.png
    pancho_jay2.png
    elegaok.png

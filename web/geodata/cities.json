@@ -1,49 +1,6 @@
 {
     "next": [
         {
-            "accuracy": 0.64761685113657, 
-            "address": "Copacabana, Provincia Manco Kapac, LPZ, Bolivia", 
-            "bbox": {
-                "northeast": [
-                    -16.1261162, 
-                    -69.0466975
-                ], 
-                "southwest": [
-                    -16.2061162, 
-                    -69.1266975
-                ]
-            }, 
-            "confidence": 4, 
-            "country": "Bolivia", 
-            "county": "Provincia Manco Kapac", 
-            "encoding": "utf-8", 
-            "geometry": {
-                "coordinates": [
-                    -69.0866975, 
-                    -16.1661162
-                ], 
-                "type": "Point"
-            }, 
-            "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_town.p.20.png", 
-            "importance": 0.64761685113657, 
-            "lat": -16.1661162, 
-            "lng": -69.0866975, 
-            "location": "copacabana, Manco Kapac, bolivia", 
-            "method": "geocode", 
-            "ok": true, 
-            "osm_id": "795662927", 
-            "osm_type": "node", 
-            "place_id": "7145283", 
-            "place_rank": "18", 
-            "provider": "osm", 
-            "quality": "town", 
-            "region": "LPZ", 
-            "state": "LPZ", 
-            "status": "OK", 
-            "town": "Copacabana", 
-            "type": "town"
-        }, 
-        {
             "accuracy": 0.64752681001962, 
             "address": "Arequipa, Per\u00fa", 
             "bbox": {
@@ -1780,7 +1737,7 @@
             "state": "SCZ", 
             "status": "OK", 
             "type": "city"
-        },
+        }, 
         {
             "address": "La Paz, Provincia Murillo, LPZ, Bolivia", 
             "city": "La Paz", 
@@ -1794,6 +1751,92 @@
             "quality": "city", 
             "state": "LPZ", 
             "status": "OK"
+        }, 
+        {
+            "accuracy": 0.64761685113657, 
+            "address": "Copacabana, Provincia Manco Kapac, LPZ, Bolivia", 
+            "bbox": {
+                "northeast": [
+                    -16.1261162, 
+                    -69.0466975
+                ], 
+                "southwest": [
+                    -16.2061162, 
+                    -69.1266975
+                ]
+            }, 
+            "confidence": 4, 
+            "country": "Bolivia", 
+            "county": "Provincia Manco Kapac", 
+            "encoding": "utf-8", 
+            "geometry": {
+                "coordinates": [
+                    -69.0866975, 
+                    -16.1661162
+                ], 
+                "type": "Point"
+            }, 
+            "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_town.p.20.png", 
+            "importance": 0.64761685113657, 
+            "lat": -16.1661162, 
+            "lng": -69.0866975, 
+            "location": "copacabana, Manco Kapac, bolivia", 
+            "method": "geocode", 
+            "ok": true, 
+            "osm_id": "795662927", 
+            "osm_type": "node", 
+            "place_id": "7145283", 
+            "place_rank": "18", 
+            "provider": "osm", 
+            "quality": "town", 
+            "region": "LPZ", 
+            "state": "LPZ", 
+            "status": "OK", 
+            "town": "Copacabana", 
+            "type": "town"
+        },
+        {
+            "accuracy": 0.66592892122287, 
+            "address": "Puno, Per\u00fa", 
+            "bbox": {
+                "northeast": [
+                    -15.8197634, 
+                    -70.0001265
+                ], 
+                "southwest": [
+                    -15.8712609, 
+                    -70.0391562
+                ]
+            }, 
+            "city": "Puno", 
+            "confidence": 6, 
+            "country": "Per\u00fa", 
+            "county": "Puno", 
+            "encoding": "utf-8", 
+            "geometry": {
+                "coordinates": [
+                    -70.0278865, 
+                    -15.8405697
+                ], 
+                "type": "Point"
+            }, 
+            "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png", 
+            "importance": 0.66592892122287, 
+            "lat": -15.8405697, 
+            "lng": -70.0278865, 
+            "location": "ciudad, puno, per\u00fa", 
+            "method": "geocode", 
+            "ok": true, 
+            "osm_id": "91649030", 
+            "osm_type": "way", 
+            "place_id": "74622567", 
+            "place_rank": 16, 
+            "provider": "osm", 
+            "quality": "city", 
+            "region": "Puno", 
+            "state": "Puno", 
+            "status": "OK", 
+            "type": "city"
         }
     ]
 }

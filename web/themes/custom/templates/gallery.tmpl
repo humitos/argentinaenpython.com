@@ -5,11 +5,7 @@
 
 <%block name="content">
     %if title:
-      %if title == 'galleries':
-        <h1>Galerías</h1>
-      %else:
-        <h1>${title|h}</h1>
-      %endif     
+    <h1>${title|h}</h1>
     %endif
     %if post:
     <p>
@@ -17,18 +13,20 @@
     </p>
     %endif
     %if folders:
+    % if galleries_use_thumbnail:
     % for folder, ftitle, fpost in folders:
-        <!-- <li><a href="${folder}"><i class="glyphicon glyphicon-folder-open"></i> &nbsp;${ftitle}</a></li> -->
-	% if loop.index % 3 == 0:
+	% if loop.index % galleries_columns == 0:
 	<div class="row">
 	% endif
 	  <div class="col-sm-6 col-md-4">
 	    <div class="thumbnail">
 	      <a href="${folder}">
 		% if fpost and getattr(fpost, 'previewimage', None):
-		<img src="${folder}${fpost.previewimage}" alt="${ftitle}">
+		<img style="width: 340px; height: 255px;" src="${folder}${fpost.previewimage}" alt="${ftitle}">
+		% elif galleries_default_thumbnail:
+		<img src="${galleries_default_thumbnail}" alt="${ftitle}">
 		% else:
-		<img src="/index/logo.png" alt="${ftitle}">
+		<div style="height: 250px; background-color: #eee;"></div>
 		% endif
 	      </a>
 	      <div class="caption">
@@ -39,10 +37,18 @@
 	      </div>
 	    </div>
 	  </div>
-	% if loop.index % 3 == 2:
+	% if loop.index % galleries_columns == (galleries_columns - 1):
 	</div>
 	% endif
     % endfor
+
+    % else:
+        <ul>
+            % for folder, ftitle in folders:
+                <li><a href="${folder}"><i class="glyphicon glyphicon-folder-open"></i>&nbsp;${ftitle}</a></li>
+            % endfor
+        </ul>
+    % endif
     %endif
 
 <div id="gallery_container"></div>
@@ -50,8 +56,8 @@
 <noscript>
 <ul class="thumbnails">
     %for image in photo_array:
-        <li><a href="${image['url']}" class="thumbnail image-reference">
-            <img src="${image['url_thumb']}" /></a></li>
+        <li><a href="${image['url']}" class="thumbnail image-reference" title="${image['title']}">
+            <img src="${image['url_thumb']}" alt="${image['title']}" /></a>
     %endfor
 </ul>
 </noscript>

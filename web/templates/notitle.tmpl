@@ -10,6 +10,13 @@
 
 
 <%block name="content">
+% if lang == 'en':
+    <p class="alert alert-warning">
+      This page is a translation from the Spanish one and maybe it's outdated. Please, read the Spanish version to be up to date.
+    </p>
+% endif
+
+
 <article class="storypage" itemscope="itemscope" itemtype="http://schema.org/Article">
     <div itemprop="articleBody text">
     ${post.text()}

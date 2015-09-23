@@ -25,7 +25,7 @@ SITE_URL = 'http://argentinaenpython.com.ar/'
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://argentinaenpython.com.ar/"
-BLOG_EMAIL = "argentinaenpython@gmail.com"
+BLOG_EMAIL = "argentinaenpython@openmailbox.org"
 BLOG_DESCRIPTION = "Proyecto personal y comunitario"  # (translatable)
 
 # Nikola is multilingual!
@@ -122,7 +122,7 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/novedades/", "¡Novedades!"),
+        ("/el-equipo/", "El equipo"),
         ("/donde-esta-humitos/", "¿Dónde está humitos?"),
         (
             (
@@ -156,6 +156,7 @@ NAVIGATION_LINKS = {
                 ("http://elblogdehumitos.com.ar/etiquetas/argentina-en-python/", "Blog"),
                 ("/como-colaborar/", "¿Cómo colaborar?"),
                 ("/material-de-difusion/", "Material de difusión"),
+                ("/mapear-con-osmtracker/", "Mapear con OSMTracker"),
                 ("/remeras/", "Remeras"),
             ),
             "Extras"
@@ -164,7 +165,7 @@ NAVIGATION_LINKS = {
     ),
 
     "en": (
-        ("/novedades/", "News!"),
+        ("/el-equipo/", "The team"),
         ("/en/where-is-humitos/", "Where is humitos?"),
         (
             (
@@ -198,6 +199,7 @@ NAVIGATION_LINKS = {
                 ("/en/remeras/", "T-Shirts"),
                 ("/en/como-colaborar/", "How to contribute?"),
                 ("/en/material-de-difusion/", "Broadcasting Material"),
+                ("/mapear-con-osmtracker/", "Mapping with OSMTracker"),
             ),
             "Extras"
         ),
@@ -945,15 +947,6 @@ RSS_TEASERS = False
 # in the default template (base.tmpl).
 # (translatable)
 BODY_END = """
-   <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
-   <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
-   <link href='//api.tiles.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v0.0.2/leaflet.fullscreen.css' rel='stylesheet' />
-   <link rel="stylesheet" href="/assets/css/leaflet-routing-machine.css" />
-   <script src="/assets/js/leaflet-routing-machine.js"></script>
-   <script src='//api.tiles.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v0.0.2/Leaflet.fullscreen.min.js'></script>
-   <script src="/assets/js/gpx.js"></script>
-   <script src="/assets/js/geolocation.js"></script>
-
    <!-- Piwik -->
    <script type="text/javascript">
       var _paq = _paq || [];
@@ -1094,4 +1087,19 @@ FOTORAMA_OPTIONS = {
     'thumbwidth': 150,
     'thumbheight': 150,
     'allowfullscreen': 'native'
+}
+
+# Default options for nanogallery_directive plugin
+# To see all the options go to: http://nanogallery.brisbois.fr/
+NANOGALLERY_OPTIONS = {
+    'theme': 'clean',
+    'maxitemsperline': 4,
+    'thumbnailgutterwidth': 10,
+    'thumbnailgutterheight': 10,
+    'locationhash': False,
+    'colorscheme': 'lightBackground',
+    'thumbnailwidth': 250,
+    'thumbnailheight': 'auto',
+    'thumbnailhovereffect': 'imageScale150',
+    'thumbnaillabel': {'display': 'false'},
 }

@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Copyright © 2015 Manuel Kaufmann
+# Copyright © 2015 Manuel Kaufmann & Leandro E. Colombo Viña
 
 # Permission is hereby granted, free of charge, to any
 # person obtaining a copy of this software and associated
@@ -24,26 +24,29 @@
 # OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 # SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-from __future__ import unicode_literals
-
 from docutils import nodes
 from docutils.parsers.rst import Directive, directives
 
 from nikola.plugin_categories import RestExtension
 
+"""Accordion and Collapse group directive for reStructuredText"""
+
 
 class Plugin(RestExtension):
+    """Plugin for accordion and collapse reST directive"""
 
-    name = "collapse_directive"
+    name = "collapse"
 
     def set_site(self, site):
+        """Set Nikola site."""
         self.site = site
         Collapse.site = site
+        directives.register_directive('collapse', Collapse)
         return super(Plugin, self).set_site(site)
 
 
 class Collapse(Directive):
-    """ Restructured text extension for inserting collapsible groups or accordion."""
+    """ reStructuredText extension for inserting collapsible groups or accordion."""
 
     # TODO: http://www.tutorialspoint.com/bootstrap/bootstrap_collapse_plugin.htm
     option_spec = {
@@ -62,7 +65,8 @@ class Collapse(Directive):
 
     def run(self):
         if len(self.content) == 0:
-            return
+            msg = 'collapse directive with no content'
+            return [nodes.raw('', '<div class="text-error">{0}</div>'.format(msg), format='html')]
 
         # from nikola.plugins.compile.rest import rst2html
         # content = rst2html('\n'.join(self.content))
@@ -84,4 +88,4 @@ class Collapse(Directive):
         return [nodes.raw('', output, format='html')]
 
 
-directives.register_directive('collapse', Collapse)
+#directives.register_directive('collapse', Collapse)

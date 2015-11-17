@@ -77,7 +77,7 @@ How?
        </div>
      </a>
 
-     <a class="home-sections" href="/novedades/">
+     <a class="home-sections" href="/galeria/">
        <div class="col-md-4">
 	 <p style="text-align: center"><i class="fa fa-picture-o fa-5x"></p>
 	 <h2 style="text-align: center">Photos</h2>
@@ -98,7 +98,7 @@ How?
        <div class="col-md-4">
 	 <p style="text-align: center"><i class="fa fa-mortar-board fa-5x"></p>
 	 <h2 style="text-align: center">I want to learn Python</h2>
-	 <p style="text-align: center">Tutorials and documentation that will help you to learn Python in a autodidact way (Spanish only).</p>
+	 <p style="text-align: center">Tutorials and documentation that will help you to learn Python in a autodidact way.</p>
        </div>
      </a>
 
@@ -119,6 +119,47 @@ How?
      </a>
 
    </div>
+
+   <hr style="border-width: 10px 0 0;">
+
+.. raw:: html
+
+
+	 <div class="row">
+
+	  <div class="col-sm-6 col-md-4">
+	    <div class="thumbnail">
+	      <a href="/galeria/django-girls-mendoza/">
+		<img style="width: 340px; height: 255px;" src="/galeria/django-girls-mendoza/IMG_20151112_162414.jpg" alt="Django Girls Mendoza"></a>
+	      <div class="caption">
+		<h3>Django Girls Mendoza</h3>
+		<p>Workshop Django Girls</p>
+	      </div>
+	    </div>
+	  </div>
+
+	  <div class="col-sm-6 col-md-4">
+	    <div class="thumbnail">
+	      <a href="/galeria/django-girls-puno/">
+		<img style="width: 340px; height: 255px;" src="/galeria/django-girls-puno/DSC_0740_01.jpg" alt="Django Girls Puno"></a>
+	      <div class="caption">
+		<h3>Django Girls Puno</h3>
+		<p>Workshop Django Girls</p>
+	      </div>
+	    </div>
+	  </div>
+
+	  <div class="col-sm-6 col-md-4">
+	    <div class="thumbnail">
+	      <a href="/galeria/django-girls-santacruz/">
+		<img style="width: 340px; height: 255px;" src="/galeria/django-girls-santacruz/IMG_20150829_104112.jpg" alt="Django Girls Santa Cruz"></a>
+	      <div class="caption">
+		<h3>Django Girls Santa Cruz</h3>
+		<p>Workshop Django Girls</p>
+	      </div>
+	    </div>
+	  </div>
+	 </div>
 
 .. class:: lead align-center
 

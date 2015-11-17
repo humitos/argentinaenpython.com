@@ -18,6 +18,7 @@ Argentina en Python
 :Slides: 
    * `PyConAr 2014, Rafaela, Santa Fe, Argentina <argentina-en-python_pyconar2014_humitos.pdf>`_
    * `PyDay Formosa, Formosa, Argentina 2014 <argentina-en-python_pyday_formosa_2015_humitos.pdf>`_
+   * `PyDay Litoral, Santa Fe, Argentina 2015 <argentina-en-python_pyday_litoral_2015.pdf>`_
 :Videos: `PyConAr 2014, Rafaela, Santa Fe, Argentina
          <https://www.youtube.com/watch?v=eNQ9O_3ySs8>`__
 :Descripción: En Enero de 2014 empecé a viajar con un proyecto
@@ -119,3 +120,10 @@ pilas-engine: aprende a programar, ¡jugando!
    principales del framework con la idea de estimular la investigación
    y la curiosidad en los asistentes; mostrando algunas de sus
    características más novedosas y sorprendentes.
+
+
+----
+
+PyFi Spot al rescate
+--------------------
+

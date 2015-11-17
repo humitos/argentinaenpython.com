@@ -215,6 +215,12 @@ hemos visitado estos lugares:
 * Sucre, Chuquisaca, Bolivia
 * Oruro, Oruro, Bolivia
 * Cochabamba, Cochabamba, Bolivia
+* Santa Cruz, Santa Cruz, Bolivia
+* La Paz, La Paz, Bolivia
+* El Alto, La Paz, Bolivia
+* Copacabana, La Paz, Bolivia
+* Puno, Puno, Perú
+
 
 .. raw:: html
 

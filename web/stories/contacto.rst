@@ -49,3 +49,9 @@ de ellos:
 
 Si querés saber más sobre mí, también podés visitar `mi blog personal
 <http://elblogdehumitos.com.ar/>`_.
+
+
+.. admonition:: Código QR
+
+   También podés escanear el código QR con tu celular y agregar el
+   contacto a la agenda de tu teléfono en un segundo.

@@ -6,6 +6,7 @@
 .. link: 
 .. description: 
 .. type: text
+.. preview: manuel-kaufmann.png
 
 .. raw:: html
 

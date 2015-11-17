@@ -99,3 +99,31 @@ Año 2015
 * Agosto - `Taller de programación para mujeres: Django Girls
   <http://www.lostiempos.com/diario/actualidad/vida-y-futuro/20150821/taller-de-programacion-para-mujeres-django-girls_312667_692494.html>`_
 
+* Septiembre - `Con esfuerzo y contactando con la gente apropiada no
+  hay nada que no se pueda lograr
+  <http://pillku.org/article/con-esfuerzo-y-contactando-con-la-gente-apropiada-/>`_
+
+* Septiembre - `Entrevista a Manuel Kaufmann - Argentina en Python
+  <https://goblinrefuge.com/mediagoblin/u/danicotillas/m/entrevista-a-manuel-kaufmann-argentina-en-python/>`_
+
+* Octubre - `PyDay Recap: PyDay y otras yerbas
+  <http://juanfgs.eosweb.info/post/56>`_
+
+* Noviembre - `Helping to spread OSM in South America
+  <http://www.openstreetmap.org/user/wille/diary/36225>`_
+
+* Noviembre - `El taller de Django Girls y de Python para iniciantes
+  @pyconar @argenpython
+  <http://radiocut.fm/audiocut/el-taller-de-django-girls-y-de-python-para-iniciantes-pyconar-argenpython/>`_
+
+* Noviembre - `Vamos a comernos el mundo y [Argentina] en Python
+  <http://pybonacci.org/2015/11/08/vamos-a-comernos-el-mundo-y-argentina-en-python/>`_
+
+.. http://blog.openstreetmap.de/blog/2015/09/wochennotiz-nr-270/
+.. http://www.weeklyosm.eu/archives/5056
+.. http://pyday.lugli.org.ar/
+.. http://createsend.com/t/i-361AF48ED4423E63
+.. http://faccionlatina.org/project/la-internet-se-escribe-en-femenino/
+.. http://wiki.huayra.conectarigualdad.gob.ar/index.php/Python
+.. http://www.martadero.org/noticias/noticia.html&id_noticia=169
+

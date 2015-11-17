@@ -63,7 +63,7 @@ Lista de deseos / Wishlist
 .. contents:: Contenido
    :local:
 
-:Actualizado: 10 de Agosto de 2015
+:Actualizado: 7 de Octubre de 2015
 
 
 .. raw:: html
@@ -128,27 +128,6 @@ Cusco, Perú y por lo que `estuve averiguando
 rondan los USD 400 los pasajes de ida y vuelta. Esto creo que es una
 oportunidad para las empresas de ser Sponsor del proyecto y *llevar a
 humitos a la PyCon 2015*.
-
-
-Tickets de avión para PyCon España 2015
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-A modo de «wishlist**2», me gustaría asistir a `PyCon España 2015 en
-Valencia <http://2015.es.pycon.org/es/>`_ que está pegadito de
-Pycon Argentina.
-
-Como está muy cerca de PyCon Argentina, es probable que convenga
-comprar los pasajes desde alguna ciudad de Argentina (Buenos Aires,
-Mendoza, etc). Los pasajes de avión están cerca de USD 800 ida y
-vuelta.
-
-Digo que es está en la *lista de deseos al cuadrado* porque es
-demasiado pedir ya. Sin embargo, voy a ver cómo estoy de plata en
-cuanto a lo personal y lo que mi familia me pueda ayudar ya que
-considero que ir a España y conocer la comunidad de Python del otro
-lado del emisferio me va a ayudar muchísimo a entender cuestiones
-sociales, probarlas en Latinoamérica y también empezar a preparar el
-terreno cuando crucemos el Atlántico con Errante.
 
 
 Traductor

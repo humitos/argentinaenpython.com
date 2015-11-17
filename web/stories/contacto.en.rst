@@ -34,7 +34,7 @@ ways, but I'm not really pending on them:
 
 :Telegram: @humitos
 
-:Móv. Perú: +51 999077870
+:Cell Perú: +51 999077870
 
 :Cell Bolivia: +591 68381678
 
@@ -48,3 +48,9 @@ ways, but I'm not really pending on them:
 
 If you want to know more about me, you can also `visit my personal
 blog <http://elblogdehumitos.com.ar/>`_.
+
+
+.. admonition:: QR Code
+
+   Also, you can scan the QR code with your smartphone and add my
+   contact to your contacts in seconds.

@@ -6,6 +6,7 @@
 .. link: 
 .. description: 
 .. type: text
+.. preview: remera.jpg
 
 .. raw:: html
 
@@ -17,17 +18,10 @@
    </style>
 
 
-.. class:: alert alert-warning
-
-   ¡**Se agotaron todas las remeras** en la `SciPyLA
-   <http://elblogdehumitos.com.ar/posts/scipyla-2015>`_! Igualmente
-   anotate, ya que tenemos ganas de hacer más en un futuro cercano...
-
-
 .. class:: lead align-center
 
-   ¿Hace cuánto que estabas esperando la remera de
-   :doc:`Argentina en Python <index>`?
+   ¿Hace cuánto que estabas esperando la remera de :doc:`Argentina en
+   Python <index>`?
 
    Hoy tengo una buena noticia para darte: **¡las estamos haciendo!**
 
@@ -41,12 +35,12 @@ El diseño elegido en esta oportunidad [#]_ es el siguiente:
 .. image:: remera.jpg
    :align: center
 
-El costo de la remera es de **$ 100** *(Gs 50.000 / USD 10)*. *La
-compra de tu remera nos ayuda a seguir viajando, compartiendo el
-conocimiento y acercando a más gente a la programación.*
+El costo de la remera es de **$ 150**. *La compra de tu remera nos
+ayuda a seguir viajando, compartiendo el conocimiento y acercando a
+más gente a la programación.*
 
 Si querés tener una remera del proyecto porque te parece buena onda,
-porque te gusta el diseño o porque simplemente te sobran $ 100 y no
+porque te gusta el diseño o porque simplemente te sobran $ 150 y no
 sabés dónde tirarlos: ¡estás en el lugar adecuado!
 
 Hacé click en el botón "*¡Quiero una remera!*" y completá el
@@ -56,15 +50,15 @@ el modo de entrega.
 .. raw:: html
 
    <div style="text-align: center; margin-top: 25px; margin-bottom: 25px;">
-     <a class="btn btn-lg btn-primary" target="_blank" href="https://docs.google.com/forms/d/1AnigBeSf_FlWBeL1Qftnwl8XA_5O8J0wBi4mfz6rUyA/viewform">
+     <a class="btn btn-lg btn-primary" target="_blank" href="http://goo.gl/forms/k3Tf9b2jMX">
        ¡Quiero una remera!
      </a>
    </div>
 
-¡No te desanimes, vamos a estar en Argentina, Paraguay, Bolivia y más
-países de sudamérica! Consultá el :doc:`mapa de ruta
-<donde-esta-humitos>` y ponete en contacto con nosotros para coordinar
-fechas de entrega.
+Vamos a entregar las remeras *personalmente* en la `PyCon Argentina
+Mendoza 2015 <http://ar.pycon.org/>`_ durante los días 12, 13 y 14 de
+Noviembre.
+
 
 ----
 

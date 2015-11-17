@@ -9,11 +9,6 @@
 .. type: text
 .. template: notitle.tmpl
 
-.. class:: alert alert-success
-
-   **Novedades**: ¡Estamos :doc:`llegando a Perú <llegando-a-peru>`!
-
-
 .. raw:: html
 
    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
@@ -130,25 +125,25 @@ formas de vida.
 
 .. raw:: html
 
-
 	 <div class="row">
+
 	  <div class="col-sm-6 col-md-4">
 	    <div class="thumbnail">
-	      <a href="/galeria/introduccion-a-python-en-cochabamba/">
-		<img style="width: 340px; height: 255px;" src="/galeria/introduccion-a-python-en-cochabamba/DSC_9307_01.jpg" alt="Introducción a Python en Cochabamba"></a>
+	      <a href="/galeria/django-girls-mendoza/">
+		<img style="width: 340px; height: 255px;" src="/galeria/django-girls-mendoza/IMG_20151112_162414.jpg" alt="Django Girls Mendoza"></a>
 	      <div class="caption">
-		<h3>Introducción a Python en Cochabamba</h3>
-		<p>Charla Introducción a Python en Cochabamba</p>
+		<h3>Django Girls Mendoza</h3>
+		<p>Workshop Django Girls</p>
 	      </div>
 	    </div>
 	  </div>
 
 	  <div class="col-sm-6 col-md-4">
 	    <div class="thumbnail">
-	      <a href="/galeria/django-girls-cochabamba/">
-		<img style="width: 340px; height: 255px;" src="/galeria/django-girls-cochabamba/DSC_9433_01.jpg" alt="Django Girls Cochabamba"></a>
+	      <a href="/galeria/django-girls-puno/">
+		<img style="width: 340px; height: 255px;" src="/galeria/django-girls-puno/DSC_0740_01.jpg" alt="Django Girls Puno"></a>
 	      <div class="caption">
-		<h3>Django Girls Cochabamba</h3>
+		<h3>Django Girls Puno</h3>
 		<p>Workshop Django Girls</p>
 	      </div>
 	    </div>
@@ -165,7 +160,7 @@ formas de vida.
 	    </div>
 	  </div>
 
-	  </div>
+	 </div>
 
 .. class:: lead align-center
 

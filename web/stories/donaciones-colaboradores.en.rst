@@ -19,6 +19,14 @@ the moment the donation was made:
 General donations
 -----------------
 
+* 2 November 2015 - `Cynthia Gabriela Monastirsky <https://twitter.com/cynpy>`_: ARS 400
+* 26 October 2015 - `Francisco Capdevila <https://twitter.com/pancho_jay>`_: ARS 200
+* 26 October 2015 - `Erick Navarro <https://twitter.com/erickgnavar>`_: USD 20
+* 26 October 2015 - `Matías Barriento <https://twitter.com/BarrientoMatias/>`_: ARS 500
+* 20 October 2015 - `PyDayLitoral <http://pyday.lugli.org.ar/>`_: ARS 3000
+* 19 October 2015 - Donante Anónimo: ARS 1000
+* 29 September 2015 - Fraire Willemoes Santiago Ernesto: ARS 300
+* 28 September 2015 - `German Dario Bortoli <https://twitter.com/Germanazo>`_: USD 5
 * 19 September 2015 - `Krishnan Nagarajan <mailto:krishnan.nagarajan@gmail.com>`_: USD 50
 * 25 August 2015 - `Python Software Foundation <https://www.python.org/psf/>`_: USD 5000
 * 15 August 2015 - `Gustavo Picon <https://twitter.com/tabo>`_: USD 100

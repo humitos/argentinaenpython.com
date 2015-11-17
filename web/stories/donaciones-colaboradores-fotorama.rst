@@ -2,6 +2,13 @@
    :loop:
    :autoplay: 3000
 
+   pancho_jay3.png
+
+   cynpy.png
+   erickgnavar.png
+   BarrientoMatias.png
+   pydaylitoral.png
+   Germanazo.png
    krishnan.nagarajan.png
    ThePSF2.png
    tabo.png

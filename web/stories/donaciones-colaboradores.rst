@@ -19,6 +19,14 @@ donaciones:
 Donaciones en general
 ---------------------
 
+* 2 de Noviembre de 2015 - `Cynthia Gabriela Monastirsky <https://twitter.com/cynpy>`_: ARS 400
+* 26 de Octubre 2015 - `Francisco Capdevila <https://twitter.com/pancho_jay>`_: ARS 200
+* 26 de Octubre de 2015 - `Erick Navarro <https://twitter.com/erickgnavar>`_: USD 20
+* 26 de Octubre de 2015 - `Matías Barriento <https://twitter.com/BarrientoMatias/>`_: ARS 500
+* 20 de Octubre de 2015 - `PyDayLitoral <http://pyday.lugli.org.ar/>`_: ARS 3000
+* 19 de Octubre de 2015 - Donante Anónimo: ARS 1000
+* 29 de Septiembre de 2015 - Fraire Willemoes Santiago Ernesto: ARS 300
+* 28 de Septiembre de 2015 - `German Dario Bortoli <https://twitter.com/Germanazo>`_: USD 5
 * 19 de Septiembre de 2015 - `Krishnan Nagarajan <mailto:krishnan.nagarajan@gmail.com>`_: USD 50
 * 25 de Agosto de 2015 - `Python Software Foundation <https://www.python.org/psf/>`_: USD 5000
 * 15 de Agosto de 2015 - `Gustavo Picon <https://twitter.com/tabo>`_: USD 100
@@ -57,6 +65,7 @@ Donaciones específicas para :doc:`arreglo de vehículo <donaciones/arreglo-de-v
 * 10 de Abril de 2015 - `Facundo Batista <http://taniquetil.com.ar/>`_: ARS 314,15
 * 7 de Abril de 2015 - `Lucio Torre <https://twitter.com/luciotorre>`_: ARS 750
 
+
 Donaciones en general
 ---------------------
 
@@ -77,3 +86,9 @@ Donaciones en general
    Un solo archivo:
 
    X={file} ; convert "$X" -crop 610x300+370+190 "$X"
+
+   Capturar la pantalla desde consola
+
+   X={file} ; import "$X" ; convert "$X" -crop 655x510+348+122 "$X"
+
+   X={file} ; import "$X" ; convert "$X" -crop 575x450+380+135 "$X"

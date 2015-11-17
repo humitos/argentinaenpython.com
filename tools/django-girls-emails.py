@@ -4,8 +4,8 @@ EMAIL_CONFIRMATION = {
     'subject': 'Confirmación: Taller Django Girls en {city}',
     'body': '''Hola!
 
-Te escribimos para comentarte que estás *CONFIRMADA* para participar
-en el evento "Taller Django Girls en {city}".
+Te escribimos para comentarte que tu asistencia está *CONFIRMADA* para
+participar en el evento "Taller Django Girls en {city}".
 
 Fecha: {date}
 
@@ -21,7 +21,7 @@ auditorio.
 
 Es importante que descargues previamente los recursos necesarios para
 poder hacer el taller. Hemos creado un solo archivo para que este
-proceso sea mucho más fácil. Descargalo de aquí (116 Mb):
+proceso sea mucho más fácil. Descargalo de aquí (~130 Mb):
 
 ​http://argentinaenpython.com.ar/django-girls/djangogirls-recursos.zip
 
@@ -35,7 +35,8 @@ Muchas gracias,
 
 --
 
-Manuel Kaufmann -- ​http://argentinaenpython.com.ar/'''
+Manuel Kaufmann
+-- ​http://argentinaenpython.com.ar/'''
 }
 
 EMAIL_WAITING_LIST = {
@@ -71,17 +72,18 @@ Muchas gracias,
 
 --
 
-Manuel Kaufmann -- ​http://argentinaenpython.com.ar/'''
+Manuel Kaufmann
+-- ​http://argentinaenpython.com.ar/'''
 }
 
 EMAIL_COACH = {
     'subject': 'Guía: Taller Django Girls en {city}',
     'body': '''Hola!
 
-Te escribimos para comentarte que estás *CONFIRMADO* para participar
-en el evento "Taller Django Girls en {city}" como *GUÍA /
+Te escribimos para comentarte que tu asistencia está *CONFIRMADA* para
+participar en el evento "Taller Django Girls en {city}" como *GUÍA /
 COACH*. ¡Muchísimas gracias! Este evento no podría ser posible sin tu
-ayuda
+ayuda.
 
 Fecha: {date}
 
@@ -110,7 +112,7 @@ descomprimido en un pendrive. Esto nos servirá en caso de tener algún
 inconveniente con Internet y/o para acelerar el proceso.
 
 Hemos creado un solo archivo para que este proceso sea mucho más
-fácil. Descargalo de aquí (116 Mb):
+fácil. Descargalo de aquí (~130 Mb):
 
 ​http://argentinaenpython.com.ar/django-girls/djangogirls-recursos.zip
 
@@ -124,14 +126,15 @@ Muchas gracias,
 
 --
 
-Manuel Kaufmann -- ​http://argentinaenpython.com.ar/'''
+Manuel Kaufmann
+-- ​http://argentinaenpython.com.ar/'''
 }
 
-DATE = 'Sábado 3 de Octubre de 2015'
+DATE = 'Jueves 12 de Noviembre de 2015'
 HOUR = '8:30hs (puntual) a 18:30hs'
-PLACE = 'Universidad X, ubicada en calle Y'
-CITY = 'Puno'
-URL = 'http://argentinaenpython.com.ar/django-girls-puno/'
+PLACE = 'Centro Cultura Julio Le Parc (calle Mitre, entre Jorge O\' Brien y Emilio Civit), Mendoza, Mendoza, Argentina'
+CITY = 'Mendoza'
+URL = 'http://argentinaenpython.com.ar/django-girls-en-pyconar-mdz/'
 
 emails = [EMAIL_CONFIRMATION, EMAIL_WAITING_LIST, EMAIL_COACH]
 

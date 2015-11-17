@@ -7,7 +7,6 @@
 .. description: ¡Queremos animar a más mujeres a dominar la web!
 .. type: text
 .. previewimage: flyer.png
-.. password: pirulin
 
 
 ¡Queremos animar a más mujeres a dominar la web! Es por eso que junto
@@ -72,14 +71,13 @@ mujer con vos que también realice el taller [#]_.
 ¿Dónde y cuándo?
 ----------------
 
-* Lugar a confirmar, Puno, Perú.
+* Universidad Andina Néstor Cáceres Velázques, Jr. Tacna, Puno, Perú.
 
 * Sábado 3 de Octubre de 2015 de 8:30hs (puntual) a 18:30hs.
 
 .. raw:: html
 
-   <iframe style="width: 100%; height: 320px;" src="http://www.openstreetmap.org/export/embed.html?bbox=-70.03535270690918%2C-15.841513101000077%2C-70.01140594482422%2C-15.829271597273157&amp;layer=mapnik&amp;marker=-15.835402763539472%2C-70.02337932586669"></iframe>
-
+   <iframe style="width: 100%; height: 320px;" src="http://www.openstreetmap.org/export/embed.html?bbox=-70.02507984638214%2C-15.842955505884728%2C-70.02208650112152%2C-15.841425369422437&amp;layer=mapnik&amp;marker=-15.842191729268702%2C-70.02358317375183"></iframe>
 
 .. sidebar:: Contacto
 
@@ -118,6 +116,14 @@ Tené en cuenta que...
 
 * ... al momento de llenar el formulario, pon mucha atención en tu
   dirección de email, ya que es el único contacto tuyo que tenemos.
+
+
+.. class:: alert alert-danger
+
+   ¡**Atención**!: hemos alcanzado el cupo máximo de inscriptos para el
+   taller. Sin embargo, si estás interesada en participar, inscribite
+   y pasarás a una lista de espera en caso de que alguien no pueda
+   asistir. Nos estaremos comunicando con vos.
 
 .. raw:: html
 

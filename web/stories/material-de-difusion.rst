@@ -35,11 +35,26 @@ Inforgrafía
 
    Diseñado por `@srmanuq <https://twitter.com/srmanuq>`_
 
-.. figure:: infografia_256.png
-   :width: 200px
+.. figure:: infografia_512.png
+   :width: 512px
 
 * `Infografía 3508x2480 <infografia.png>`_ (png fondo blanco)
 * `Infografía <infografia.pdf>`_ (pdf)
+
+----
+
+Gacetilla de Prensa: Django Girls
+---------------------------------
+
+.. class:: small
+
+   Colaboración de `@MAbeeTT <https://twitter.com/MAbeeTT>`_
+
+.. figure:: gacetilla_djangogirls_256.png
+   :width: 256px
+
+* `Gacetilla <gacetilla_djangogirls.pdf>`_ (pdf)
+* `Gacetilla Editable <gacetilla_djangogirls.odt>`_ (odt)
 
 ----
 

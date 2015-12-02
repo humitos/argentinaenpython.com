@@ -28,6 +28,21 @@ Logo Argentina en Python
 
 ----
 
+Inforgrafía
+-----------
+
+.. class:: small
+
+   Diseñado por `@srmanuq <https://twitter.com/srmanuq>`_
+
+.. figure:: infografia_256.png
+   :width: 200px
+
+* `Infografía 3508x2480 <infografia.png>`_ (png fondo blanco)
+* `Infografía <infografia.pdf>`_ (pdf)
+
+----
+
 Folleto Argentina en Python
 ---------------------------
 

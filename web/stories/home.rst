@@ -19,6 +19,11 @@
    </style>
 
 
+.. class:: alert alert-success
+
+   Próximos eventos: `9 de Enero, Django Girls Lima <http://argentinaenpython.com.ar/django-girls-lima/>`_, `23 de Enero, Django Girls Piura <http://argentinaenpython.com.ar/django-girls-piura/>`_, 5 de Marzo, PyDay Chiclayo
+
+
 .. image:: /index/logo.thumbnail.png
    :width: 420px
    :align: right
@@ -164,4 +169,5 @@ formas de vida.
 
 .. class:: lead align-center
 
-   ¡Muchas gracias por seguirnos y ayudarnos a empujar este proyecto!
+   Recorre Latinoamérica y el mundo compartiendo conocimiento, Python
+   y su filosofía.

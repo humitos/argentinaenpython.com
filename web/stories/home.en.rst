@@ -163,4 +163,5 @@ How?
 
 .. class:: lead align-center
 
-   Thank you a lot for following and help us to keep working on this proyect!
+   Travels around Latin America and the world by sharing knowledge,
+   Python and its philosophy.

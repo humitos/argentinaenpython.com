@@ -20,16 +20,16 @@ Logo Argentina en Python
 .. figure:: logo_256.png
    :width: 200px
 
-* `128x122 <logo_128.png>`_ (png transparente)
-* `256x244 <logo_256.png>`_ (png transparente)
-* `512x489 <logo_512.png>`_ (png transparente)
-* `1024x978 <logo_1024.png>`_ (png fondo blanco)
-* `Escalable <logo_oficial.svg>`_ (svg)
+* `Logo 128x122 <logo_128.png>`_ (png transparente)
+* `Logo 256x244 <logo_256.png>`_ (png transparente)
+* `Logo 512x489 <logo_512.png>`_ (png transparente)
+* `Logo 1024x978 <logo_1024.png>`_ (png fondo blanco)
+* `Logo Escalable <logo_oficial.svg>`_ (svg)
 
 ----
 
-Inforgrafía
------------
+Infografía
+----------
 
 .. class:: small
 
@@ -39,7 +39,10 @@ Inforgrafía
    :width: 512px
 
 * `Infografía 3508x2480 <infografia.png>`_ (png fondo blanco)
-* `Infografía <infografia.pdf>`_ (pdf)
+* `Infografía Imprimible <infografia.pdf>`_ (pdf)
+* `Infografía Editable <infografia.svg>`_ (svg)
+
+  * `Fuente utilizada <FjallaOne-Regular.ttf>`_ (ttf)
 
 ----
 

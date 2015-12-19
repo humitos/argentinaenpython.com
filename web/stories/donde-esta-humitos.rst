@@ -23,7 +23,7 @@ poder :doc:`coordinar algo relacionado al proyecto <eventos>` (u otra
 cosa de interés mutuo) y organizar para encontrarnos en las cercanías.
 
 
-* |ruta| ruta *planeada* para los meses Septiembre, Octubre y Noviembre de 2015
+* |ruta| ruta *planeada* para los meses Diciembre, Enero, Febrero y Marzo de 2016
 * |destinos| destinos que tenemos pensado visitar en esos meses
 * |visitados| lugares visitados desde el inicio del proyecto
 

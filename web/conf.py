@@ -129,6 +129,7 @@ NAVIGATION_LINKS = {
                 ("/eventos/", "Eventos"),
                 ("/eventos/charlas/", "Charlas"),
                 ("/galeria/", "Galería"),
+                ("/eventos/organizar/", "Organizar"),
             ),
             "Eventos"
         ),
@@ -477,7 +478,8 @@ REDIRECTIONS = [
 DEPLOY_COMMANDS = {
     'default': [
         "python geolocation.py --verbose --symlinks",
-        "rsync -rav --delete-after --copy-links output/* humitos@mkaufmann.com.ar:apps/argentinaenpython.com.ar/",
+        "rsync -rav --delete-after --copy-links --bwlimit=50 output/* humitos@mkaufmann.com.ar:apps/argentinaenpython.com.ar/",
+        "rsync -rav --delete-after --copy-links --bwlimit=50 ~/Source/argentinaenpython.com.ar/web/output/* alarm@raspberrypi.redlibre:~/apps/argentinaenpython.com.ar",
     ]
 }
 

@@ -106,6 +106,9 @@ Año 2015
 * Septiembre - `Entrevista a Manuel Kaufmann - Argentina en Python
   <https://goblinrefuge.com/mediagoblin/u/danicotillas/m/entrevista-a-manuel-kaufmann-argentina-en-python/>`_
 
+* Septiembre - `La Internet se escribe en femenino
+  <http://faccionlatina.org/project/la-internet-se-escribe-en-femenino/>`_
+
 * Octubre - `PyDay Recap: PyDay y otras yerbas
   <http://juanfgs.eosweb.info/post/56>`_
 
@@ -118,6 +121,9 @@ Año 2015
 
 * Noviembre - `Vamos a comernos el mundo y [Argentina] en Python
   <http://pybonacci.org/2015/11/08/vamos-a-comernos-el-mundo-y-argentina-en-python/>`_
+
+* Diciembre - `Python en Argentina #devHangout 127 con @argenpython
+  <https://www.youtube.com/watch?v=BxyidumbvHA>`_
 
 .. http://blog.openstreetmap.de/blog/2015/09/wochennotiz-nr-270/
 .. http://www.weeklyosm.eu/archives/5056

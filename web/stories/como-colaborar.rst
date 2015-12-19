@@ -63,7 +63,7 @@ Lista de deseos / Wishlist
 .. contents:: Contenido
    :local:
 
-:Actualizado: 7 de Octubre de 2015
+:Actualizado: 1 de Diciembre de 2015
 
 
 .. raw:: html
@@ -112,23 +112,6 @@ ya que no me gustaría que interfiera en la creatividad de las otras
 propuestas. Lo que sí me gustaría es que refleje lo más posible la
 filosofía y objetivo del proyecto (creo que el actual lo hace muy
 bien).
-
-
-Tickets de avión para PyCon Argentina 2015
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-¡Tengo muchas, pero muchas ganas de ir a `PyCon Argentina 2015 en
-Mendoza <http://ar.pycon.org/>`_! Es por eso que estoy viendo la forma
-de financiar los pasajes de avión para poder asistir como
-disertante/tallerista (estamos charlando algunas cositas ya).
-
-Aproximadamente para esa fecha (10 de Noviembre) estimamos estar en
-Cusco, Perú y por lo que `estuve averiguando
-<http://www.despegar.com.pe/shop/flights/results/roundtrip/LIM/MDZ/2015-11-10/2015-12-10/1/0/0>`_
-rondan los USD 400 los pasajes de ida y vuelta. Esto creo que es una
-oportunidad para las empresas de ser Sponsor del proyecto y *llevar a
-humitos a la PyCon 2015*.
-
 
 Traductor
 ~~~~~~~~~

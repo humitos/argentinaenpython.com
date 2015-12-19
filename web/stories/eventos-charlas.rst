@@ -122,8 +122,7 @@ pilas-engine: aprende a programar, ¡jugando!
    características más novedosas y sorprendentes.
 
 
-----
+.. ----
 
-PyFi Spot al rescate
---------------------
+.. PyFi Spot al rescate
 

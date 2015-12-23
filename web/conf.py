@@ -158,6 +158,7 @@ NAVIGATION_LINKS = {
                 ("/como-colaborar/", "¿Cómo colaborar?"),
                 ("/material-de-difusion/", "Material de difusión"),
                 ("/mapear-con-osmtracker/", "Mapear con OSMTracker"),
+                ("/encuesta/", "Encuesta"),
                 ("/remeras/", "Remeras"),
             ),
             "Extras"
@@ -166,7 +167,7 @@ NAVIGATION_LINKS = {
     ),
 
     "en": (
-        ("/el-equipo/", "The team"),
+        ("/en/the-team/", "The team"),
         ("/en/where-is-humitos/", "Where is humitos?"),
         (
             (
@@ -682,13 +683,13 @@ INDEX_TEASERS = True
 # 'Read more...' for the index page, if INDEX_TEASERS is True (translatable)
 INDEX_READ_MORE_LINK = '<p class="more"><a href="{link}">{read_more}…</a></p>'
 # 'Read more...' for the RSS_FEED, if RSS_TEASERS is True (translatable)
-RSS_READ_MORE_LINK = '<p><a href="{link}">{read_more}…</a> ({min_remaining_read})</p>'
+FEED_READ_MORE_LINK = '<p><a href="{link}">{read_more}…</a> ({min_remaining_read})</p>'
 
 # Append a URL query to the RSS_READ_MORE_LINK and the //rss/item/link in
 # RSS feeds. Minimum example for Piwik "pk_campaign=rss" and Google Analytics
 # "utm_source=rss&utm_medium=rss&utm_campaign=rss". Advanced option used for
 # traffic source tracking.
-RSS_LINKS_APPEND_QUERY = False
+FEED_LINKS_APPEND_QUERY = False
 
 # A HTML fragment describing the license, for the sidebar.
 # (translatable)
@@ -887,7 +888,7 @@ GENERATE_RSS = False
 
 # Show only teasers in the RSS feed? Default to True
 # RSS_TEASERS = True
-RSS_TEASERS = False
+FEED_TEASERS = False
 
 # Strip HTML in the RSS feed? Default to False
 # RSS_PLAIN = False

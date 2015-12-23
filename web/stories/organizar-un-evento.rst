@@ -32,9 +32,10 @@ estas secciones del sitio web:
 * :doc:`eventos`
 * :doc:`el-equipo`
 
-Una vez que hayas completado el formulario (sé lo más concreto
-posible, por favor), nos pondremos en contacto contigo en las próximas
-semanas para afinar detalles, tareas y confirmar una fecha posible.
+Una vez que hayas completado el formulario (sé lo más extenso, pero
+concreto posible, por favor), nos pondremos en contacto contigo en las
+próximas semanas para afinar detalles, tareas y confirmar una fecha
+posible.
 
 .. raw:: html
 

@@ -21,7 +21,7 @@ auditorio.
 
 Es importante que descargues previamente los recursos necesarios para
 poder hacer el taller. Hemos creado un solo archivo para que este
-proceso sea mucho más fácil. Descargalo de aquí (~130 Mb):
+proceso sea mucho más fácil. Descargalo de aquí (~175 Mb):
 
 ​http://argentinaenpython.com.ar/django-girls/djangogirls-recursos.zip
 
@@ -30,6 +30,9 @@ confirmarnos que vas a asistir ya que hemos sobrepasado la cantidad de
 inscriptos y hemos creado una lista de espera. Entonces, *cualquier
 inconveniente* que tengas y no puedas asistir al taller, envianos un
 email así otro puede ocupar ese lugar.
+
+Si no contestas este email confirmando tu asistencia hasta 5 días
+antes del evento, lamentablemente perderás tu cupo.
 
 Muchas gracias,
 
@@ -112,7 +115,7 @@ descomprimido en un pendrive. Esto nos servirá en caso de tener algún
 inconveniente con Internet y/o para acelerar el proceso.
 
 Hemos creado un solo archivo para que este proceso sea mucho más
-fácil. Descargalo de aquí (~130 Mb):
+fácil. Descargalo de aquí (~175 Mb):
 
 ​http://argentinaenpython.com.ar/django-girls/djangogirls-recursos.zip
 
@@ -122,6 +125,9 @@ inscriptos y hemos creado una lista de espera. Entonces, *cualquier
 inconveniente* que tengas y no puedas asistir al taller, envianos un
 email.
 
+Si no contestas este email confirmando tu asistencia hasta 5 días
+antes del evento, lamentablemente perderás tu cupo.
+
 Muchas gracias,
 
 --
@@ -130,11 +136,11 @@ Manuel Kaufmann
 -- ​http://argentinaenpython.com.ar/'''
 }
 
-DATE = 'Jueves 12 de Noviembre de 2015'
+DATE = 'Sábado 9 de Enero de 2016'
 HOUR = '8:30hs (puntual) a 18:30hs'
-PLACE = 'Centro Cultura Julio Le Parc (calle Mitre, entre Jorge O\' Brien y Emilio Civit), Mendoza, Mendoza, Argentina'
-CITY = 'Mendoza'
-URL = 'http://argentinaenpython.com.ar/django-girls-en-pyconar-mdz/'
+PLACE = 'Laboratoria LA (Ave. Pardo 601 oficina 1104 - Piso 11, Miraflores, Lima, Perú)'
+CITY = 'Lima'
+URL = 'http://argentinaenpython.com.ar/django-girls-lima/'
 
 emails = [EMAIL_CONFIRMATION, EMAIL_WAITING_LIST, EMAIL_COACH]
 

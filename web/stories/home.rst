@@ -21,7 +21,7 @@
 
 .. class:: alert alert-success
 
-   Próximos eventos: `9 de Enero, Django Girls Lima <http://argentinaenpython.com.ar/django-girls-lima/>`_, `23 de Enero, Django Girls Piura <http://argentinaenpython.com.ar/django-girls-piura/>`_, 5 de Marzo, PyDay Chiclayo
+   **Próximos eventos**: `9 de Enero, Django Girls Lima <http://argentinaenpython.com.ar/django-girls-lima/>`_, `23 de Enero, Django Girls Piura <http://argentinaenpython.com.ar/django-girls-piura/>`_, 5 de Marzo, PyDay Chiclayo
 
 
 .. image:: /index/logo.thumbnail.png

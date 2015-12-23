@@ -87,6 +87,42 @@
             "type": "region"
         }, 
         {
+            "accuracy": 0.6695308559712, 
+            "address": "Piura, Per\u00fa", 
+            "bbox": {
+                "northeast": [
+                    -5.0349017, 
+                    -80.4722999
+                ], 
+                "southwest": [
+                    -5.3549017, 
+                    -80.7922999
+                ]
+            }, 
+            "city": "Piura", 
+            "confidence": 1, 
+            "country": "Per\u00fa", 
+            "county": "Piura", 
+            "encoding": "utf-8", 
+            "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png", 
+            "importance": 0.6695308559712, 
+            "lat": -5.1949017, 
+            "lng": -80.6322999, 
+            "location": "piura, per\u00fa", 
+            "ok": true, 
+            "osm_id": "272379571", 
+            "osm_type": "node", 
+            "place_id": "805463", 
+            "place_rank": "16", 
+            "provider": "osm", 
+            "quality": "city", 
+            "region": "Piura", 
+            "state": "Piura", 
+            "status": "OK", 
+            "status_code": 200, 
+            "type": "city"
+        }, 
+        {
             "accuracy": 0.56385461349205, 
             "address": "Loja, Ecuador", 
             "bbox": {
@@ -130,40 +166,75 @@
             "type": "administrative"
         }, 
         {
-            "accuracy": 0.6695308559712, 
-            "address": "Piura, Per\u00fa", 
+            "accuracy": 0.81712250845332, 
+            "address": "Quito, Pichincha, Ecuador", 
             "bbox": {
                 "northeast": [
-                    -5.0349017, 
-                    -80.4722999
+                    -0.047208, 
+                    -78.4413152
                 ], 
                 "southwest": [
-                    -5.3549017, 
-                    -80.7922999
+                    -0.3658892, 
+                    -78.6195449
                 ]
             }, 
-            "city": "Piura", 
+            "city": "Quito", 
             "confidence": 1, 
-            "country": "Per\u00fa", 
-            "county": "Piura", 
+            "country": "Ecuador", 
+            "county": "Quito", 
             "encoding": "utf-8", 
             "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png", 
-            "importance": 0.6695308559712, 
-            "lat": -5.1949017, 
-            "lng": -80.6322999, 
-            "location": "piura, per\u00fa", 
+            "importance": 0.81712250845332, 
+            "lat": -0.155388, 
+            "lng": -78.4862308, 
+            "location": "quito, ecuador", 
             "ok": true, 
-            "osm_id": "272379571", 
-            "osm_type": "node", 
-            "place_id": "805463", 
-            "place_rank": "16", 
+            "osm_id": "330794", 
+            "osm_type": "relation", 
+            "place_id": "2605957438", 
+            "place_rank": 16, 
             "provider": "osm", 
             "quality": "city", 
-            "region": "Piura", 
-            "state": "Piura", 
+            "region": "Pichincha", 
+            "state": "Pichincha", 
             "status": "OK", 
             "status_code": 200, 
             "type": "city"
+        }, 
+        {
+            "accuracy": 1.05, 
+            "address": "Santo Domingo de los Tsachilas, Provincia de Santo Domingo de los Ts\u00e1chilas, Ecuador", 
+            "bbox": {
+                "northeast": [
+                    0.0191171, 
+                    -78.7445174
+                ], 
+                "southwest": [
+                    -0.6986918, 
+                    -79.5478742
+                ]
+            }, 
+            "confidence": 1, 
+            "country": "Ecuador", 
+            "county": "Santo Domingo de los Tsachilas", 
+            "encoding": "utf-8", 
+            "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png", 
+            "importance": 1.05, 
+            "lat": -0.33954755, 
+            "lng": -79.1716523866611, 
+            "location": "santo domingo de los tsachilas, ecuador", 
+            "ok": true, 
+            "osm_id": "113720", 
+            "osm_type": "relation", 
+            "place_id": "127746393", 
+            "place_rank": "12", 
+            "provider": "osm", 
+            "quality": "administrative", 
+            "region": "Provincia de Santo Domingo de los Ts\u00e1chilas", 
+            "state": "Provincia de Santo Domingo de los Ts\u00e1chilas", 
+            "status": "OK", 
+            "status_code": 200, 
+            "type": "administrative"
         }
     ], 
     "previous": [
@@ -2085,6 +2156,77 @@
             "status_code": 200, 
             "street": "Carretera Hiram Bingham", 
             "type": "attraction"
+        }, 
+        {
+            "accuracy": 0.575, 
+            "address": "Paracas, Pisco, Ica, Per\u00fa", 
+            "bbox": {
+                "northeast": [
+                    -13.8150425, 
+                    -76.2296219
+                ], 
+                "southwest": [
+                    -13.8550425, 
+                    -76.2696219
+                ]
+            }, 
+            "confidence": 6, 
+            "country": "Per\u00fa", 
+            "county": "Pisco", 
+            "encoding": "utf-8", 
+            "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_village.p.20.png", 
+            "importance": 0.575, 
+            "lat": -13.8350425, 
+            "lng": -76.2496219, 
+            "location": "paracas, ica, per\u00fa", 
+            "ok": true, 
+            "osm_id": "258308774", 
+            "osm_type": "node", 
+            "place_id": "2592298050", 
+            "place_rank": "19", 
+            "provider": "osm", 
+            "quality": "village", 
+            "region": "Ica", 
+            "state": "Ica", 
+            "status": "OK", 
+            "status_code": 200, 
+            "type": "village", 
+            "village": "Paracas"
+        }, 
+        {
+            "accuracy": 0.33958297447186, 
+            "address": "Chancay, Huaral, Lima, Per\u00fa", 
+            "bbox": {
+                "northeast": [
+                    -11.3854799, 
+                    -77.2040299
+                ], 
+                "southwest": [
+                    -11.6143129, 
+                    -77.3826933
+                ]
+            }, 
+            "city": "Chancay", 
+            "confidence": 1, 
+            "country": "Per\u00fa", 
+            "encoding": "utf-8", 
+            "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png", 
+            "importance": 0.33958297447186, 
+            "lat": -11.5631124, 
+            "lng": -77.2696868, 
+            "location": "chancay, per\u00fa", 
+            "ok": true, 
+            "osm_id": "1944709", 
+            "osm_type": "relation", 
+            "place_id": "127900904", 
+            "place_rank": "16", 
+            "provider": "osm", 
+            "quality": "administrative", 
+            "region": "Lima", 
+            "state": "Lima", 
+            "status": "OK", 
+            "status_code": 200, 
+            "type": "administrative"
         }
     ]
 }

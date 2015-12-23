@@ -19,6 +19,7 @@ donaciones:
 Donaciones en general
 ---------------------
 
+* 22 de Diciembre de 2015 - `Daniel Moisset <https://twitter.com/dmoisset>`_: ARS 5000
 * 2 de Noviembre de 2015 - `Cynthia Gabriela Monastirsky <https://twitter.com/cynpy>`_: ARS 400
 * 26 de Octubre 2015 - `Francisco Capdevila <https://twitter.com/pancho_jay>`_: ARS 200
 * 26 de Octubre de 2015 - `Erick Navarro <https://twitter.com/erickgnavar>`_: USD 20
@@ -89,6 +90,7 @@ Donaciones en general
 
    Capturar la pantalla desde consola
 
-   X={file} ; import "$X" ; convert "$X" -crop 655x510+348+122 "$X"
+   sleep 3 ; X={file} ; import "$X" ; convert "$X" -crop 655x510+348+122 "$X"
 
-   X={file} ; import "$X" ; convert "$X" -crop 575x450+380+135 "$X"
+   sleep 3 ; X={file} ; import "$X" ; convert "$X" -crop 635x455+358+130 "$X"
+

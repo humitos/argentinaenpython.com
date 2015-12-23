@@ -2,6 +2,7 @@
    :loop:
    :autoplay: 3000
 
+   dmoisset.png
    pancho_jay3.png
 
    cynpy.png

@@ -32,10 +32,10 @@ cada uno de nuestros `guías <#guias-entrenadores>`_ que nos van a
 ayudar durante todo el día con los problemas que se nos vayan
 presentando.
 
-Una vez que estamos listos, comenzamos leyendo el tutorial
-*autoguiado* escrito por `Django Girls
-<http://tutorial.djangogirls.org/es/index.html>`_ (una fundación sin
-fines de lucro que motiva a las mujeres a programar, organizando estos
+Una vez que estamos listos, comenzamos leyendo el `tutorial
+<http://tutorial.djangogirls.org/es/index.html>`_ *autoguiado* escrito
+por `Django Girls <http://djangogirls.org/>`_ (una fundación sin fines
+de lucro que motiva a las mujeres a programar, organizando estos
 eventos en todo el mundo) especialmente para vos :). Leyendo este
 tutorial aprenderemos conceptos básicos sobre cómo funciona internet y
 luego nos sumergiremos en el desarrollo de nuestro primer sitio web:

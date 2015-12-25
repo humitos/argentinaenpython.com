@@ -99,6 +99,13 @@ Año 2015
 * Agosto - `Taller de programación para mujeres: Django Girls
   <http://www.lostiempos.com/diario/actualidad/vida-y-futuro/20150821/taller-de-programacion-para-mujeres-django-girls_312667_692494.html>`_
 
+* Agosto - `Taller de programación para mujeres: Django Girls
+  <http://www.entornointeligente.com/articulo/6757988/Taller-de-programacion-para-mujeres-Django-Girls>`_
+
+* Agosto - `EL SÁBADO, EN EL MARTADERO Taller de programación para
+  mujeres: Django Girls
+  <http://www.telecombol.com/2015/08/el-sabado-en-el-martadero-taller-de.html>`_
+
 * Septiembre - `Con esfuerzo y contactando con la gente apropiada no
   hay nada que no se pueda lograr
   <http://pillku.org/article/con-esfuerzo-y-contactando-con-la-gente-apropiada-/>`_

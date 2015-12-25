@@ -15,7 +15,7 @@ $(document).ready(function() {
 	{url: '/assets/data/primera-etapa.gpx', name: 'first', colorLine: 'blue'},
 	// http://osrm.at/acF
 	{url: '/assets/data/segunda-etapa.gpx', name: 'second', colorLine: 'yellow'},
-	// http://osrm.at/f9d
+	// http://bit.ly/argenpython-gpx-tercera-etapa
 	{url: '/assets/data/tercera-etapa.gpx', name: 'third', colorLine: 'red'}
     ];
 

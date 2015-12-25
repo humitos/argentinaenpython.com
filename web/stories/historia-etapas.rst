@@ -12,6 +12,8 @@
 .. los archivos .gpx fueron generados con http://map.project-osrm.org/
    y simplificados con gpsbabel (geodata/simplify_gpx.sh)
 
+.. los .gpx se encuentran en geodata/{primera,segunda,tercera}-etapa.gpx
+
 .. raw:: html
 
    <script defer src="/assets/js/argentina-en-python.js"></script>
@@ -220,7 +222,16 @@ hemos visitado estos lugares:
 * El Alto, La Paz, Bolivia
 * Copacabana, La Paz, Bolivia
 * Puno, Puno, Perú
-
+* Arequipa, Arequipa, Perú
+* Mollendo, Arequipa, Perú
+* Tacna, Tacna, Perú
+* Arica, Arica, Chile
+* Nasca, Ica, Perú
+* Ica, Ica, Perú
+* Cusco, Cusco, Perú
+* Paracas, Ica, Perú
+* Chancay, Lima, Perú
+* Huacho, Lima, Perú
 
 .. raw:: html
 

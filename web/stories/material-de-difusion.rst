@@ -38,7 +38,7 @@ Infografía
 .. figure:: infografia_512.png
    :width: 512px
 
-* `Infografía 3508x2480 <infografia.png>`_ (png fondo blanco)
+* `Infografía 1280x904 <infografia.png>`_ (png fondo blanco)
 * `Infografía Imprimible <infografia.pdf>`_ (pdf)
 * `Infografía Editable <infografia.svg>`_ (svg)
 

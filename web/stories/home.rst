@@ -65,6 +65,10 @@ formas de vida.
 	 color: #333;
      }
 
+     .home-sections > div {
+          min-height: 250px;
+     }
+
      .home-sections:hover {
 	 opacity: 0.7;
      }

@@ -2,6 +2,9 @@
    :loop:
    :autoplay: 3000
 
+   santiago_fraire.png
+   pancho_jay4.png
+   machinalis_sprint-crush.png
    dmoisset.png
    pancho_jay3.png
 

@@ -32,10 +32,10 @@ cada uno de nuestros `guías <#guias-entrenadores>`_ que nos van a
 ayudar durante todo el día con los problemas que se nos vayan
 presentando.
 
-Una vez que estamos listos, comenzamos leyendo el tutorial
-*autoguiado* escrito por `Django Girls
-<http://tutorial.djangogirls.org/es/index.html>`_ (una fundación sin
-fines de lucro que motiva a las mujeres a programar, organizando estos
+Una vez que estamos listos, comenzamos leyendo el `tutorial
+<http://tutorial.djangogirls.org/es/index.html>`_ *autoguiado* escrito
+por `Django Girls <http://djangogirls.org/>`_ (una fundación sin fines
+de lucro que motiva a las mujeres a programar, organizando estos
 eventos en todo el mundo) especialmente para vos :). Leyendo este
 tutorial aprenderemos conceptos básicos sobre cómo funciona internet y
 luego nos sumergiremos en el desarrollo de nuestro primer sitio web:
@@ -67,17 +67,15 @@ lo has logrado!
 *¡No te preocupés, podés sumarte igual!*. La condición: llevar a una
 mujer con vos que también realice el taller [#]_.
 
-
 ¿Dónde y cuándo?
 ----------------
 
-* Lugar XXX, Piura, Piura, Perú
+* Lugar: A confirmar, Piura, Piura, Perú
 
 * Sábado 23 de Enero de 2016 de 8:30hs (puntual) a 18:30hs.
 
-.. raw:: html
-
-   <iframe style="width: 100%; height: 450px;" src="http://www.openstreetmap.org/export/embed.html?bbox=-80.6350028514862%2C-5.196929549039538%2C-80.62901616096495%2C-5.19376151787666&amp;layer=mapnik&amp;marker=-5.195348206638854%2C-80.63200950622559"></iframe>
+.. template:: iframe
+   :src: http://www.openstreetmap.org/export/embed.html?bbox=-80.6350028514862%2C-5.196929549039538%2C-80.62901616096495%2C-5.19376151787666&amp;layer=mapnik&amp;marker=-5.195348206638854%2C-80.63200950622559
 
 .. sidebar:: Contacto
 
@@ -100,6 +98,11 @@ Tené en cuenta que...
   esperar** una confirmación por parte de los organizadores para poder
   asistir.
 
+* ... te recomendamos seguirnos en Twitter (`@argenpython
+  <https://twitter.com/argenpython>`_) y/o Facebook (`Argentina en
+  Python <https://facebook.com/argentinaenpython/>`__) donde
+  publicaremos novedades sobre el evento.
+
 * ... no es necesario saber programar o tener algún conocimiento
   previo de programación.
 
@@ -115,7 +118,7 @@ Tené en cuenta que...
 * ... debes **revisar el email** durante los 15 días previos al evento
   para saber si recibiste la confirmación (incluso la carpeta de *SPAM*).
 
-* ... debes registrarte como Asistente o como Guía -no ambos.
+* ... debes registrarte como *Asistente* o como *Guía* -no ambos.
 
 * ... al momento de llenar el formulario, pon mucha atención en tu
   dirección de email, ya que es el único contacto tuyo que tenemos.
@@ -131,13 +134,10 @@ Tené en cuenta que...
 ..     y pasarás a una lista de espera que, en caso de que alguien no pueda
 ..     asistir, nos estaremos comunicando con vos para informarte.
 
-.. raw:: html
+.. template:: bootstrap3/button
+   :href: http://goo.gl/forms/5wQoexMzfN
 
-   <div style="text-align: center; margin-top: 25px; margin-bottom: 25px;">
-     <a class="btn btn-lg btn-primary" target="_blank" href="http://goo.gl/forms/5wQoexMzfN">
-       ¡Quiero inscribirme!
-     </a>
-   </div>
+   ¡Quiero inscribirme!
 
 .. class:: lead align-center
 
@@ -158,13 +158,10 @@ nuestra ayuda durante todo el día del evento en esos momentos de caos,
 registrate en el siguiente formulario.
 
 
-.. raw:: html
+.. template:: bootstrap3/button
+   :href: http://goo.gl/forms/e5fUcPnVMg
 
-   <div style="text-align: center; margin-top: 25px; margin-bottom: 25px;">
-     <a class="btn btn-lg btn-primary" target="_blank" href="http://goo.gl/forms/e5fUcPnVMg">
-       ¡Quiero participar como guía!
-     </a>
-   </div>
+   ¡Quiero participar como guía!
 
 
 Colaboradores
@@ -172,6 +169,8 @@ Colaboradores
 
 .. image:: colaboradores.png
    :align: center
+
+----
 
 .. class:: lead
 

@@ -61,6 +61,19 @@ Gacetilla de Prensa: Django Girls
 
 ----
 
+
+Presentación Sponsors: Django Girls Ecuador
+-------------------------------------------
+
+.. figure:: presentacion-sponsors-django-girls-ecuador_512.png
+   :width: 512px
+
+* `Presentación <presentacion-sponsors-django-girls-ecuador.pdf>`_ (pdf)
+* `Presentación Editable <presentacion-sponsors-django-girls-ecuador.pdf>`_ (odp)
+
+----
+
+
 Folleto Argentina en Python
 ---------------------------
 

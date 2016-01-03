@@ -12,9 +12,9 @@ Eventos pasados
 * 12-11-2015: `Taller Django Girls en Mendoza
   <http://argentinaenpython.com.ar/galeria/django-girls-mendoza/>`_
 * 24-10-2015: Charla sobre PyFi Spot en Buenos Aires Meetup
-* 17-10-2015: Charla sobre Argentina en Python en #PyDayLitoral
-* 03-10-2015: Taller Django Girls en Puno
-* 29-08-2015: Taller Django Girls en Santa Cruz
+* 17-10-2015: Charla sobre Argentina en Python en `#PyDayLitoral <http://pyday.lugli.org.ar/>`_
+* 03-10-2015: `Taller Django Girls en Puno <http://argentinaenpython.com.ar/galeria/django-girls-puno/>`_
+* 29-08-2015: `Taller Django Girls en Santa Cruz <http://argentinaenpython.com.ar/galeria/django-girls-santacruz/>`_
 * 22-08-2015: `Taller Django Girls en Cochabamba
   <http://elblogdehumitos.com.ar/posts/django-girls-tecnologia-python-mujeres/>`_
 * 19-08-2015: Introducción a Python en mARTadero

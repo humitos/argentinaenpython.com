@@ -100,7 +100,7 @@ Año 2015
   <http://www.lostiempos.com/diario/actualidad/vida-y-futuro/20150821/taller-de-programacion-para-mujeres-django-girls_312667_692494.html>`_
 
 * Agosto - `Taller de programación para mujeres: Django Girls
-  <http://www.entornointeligente.com/articulo/6757988/Taller-de-programacion-para-mujeres-Django-Girls>`_
+  <http://www.entornointeligente.com/articulo/6757988/Taller-de-programacion-para-mujeres-Django-Girls>`__
 
 * Agosto - `EL SÁBADO, EN EL MARTADERO Taller de programación para
   mujeres: Django Girls
@@ -131,6 +131,13 @@ Año 2015
 
 * Diciembre - `Python en Argentina #devHangout 127 con @argenpython
   <https://www.youtube.com/watch?v=BxyidumbvHA>`_
+
+Año 2016
+--------
+
+* Enero - `Taller gratuito de programación para mujeres con Django Girls
+  <http://pymex.pe/eventos-empresariales/notas-de-prensa/taller-gratuito-de-programacion-para-mujeres-con-django-girls/>`_
+
 
 .. http://blog.openstreetmap.de/blog/2015/09/wochennotiz-nr-270/
 .. http://www.weeklyosm.eu/archives/5056

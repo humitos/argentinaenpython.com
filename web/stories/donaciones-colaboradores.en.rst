@@ -19,6 +19,11 @@ the moment the donation was made:
 General donations
 -----------------
 
+* 30 December 2015 - Fraire Willemoes Santiago Ernesto: ARS 200
+* 30 December 2015 - `Francisco Capdevila <https://twitter.com/pancho_jay>`_: ARS 400
+* 29 December 2015 - `Machinalis <https://twitter.com/dmoisset>`_ y `Python Argentina <https://twitter.com/PythonArgentina>`_: ARS 5000
+* 23 December 2015 - Donante Anónimo: ARS 1000
+* 22 December 2015 - `Daniel Moisset <https://twitter.com/dmoisset>`_: ARS 5000
 * 2 November 2015 - `Cynthia Gabriela Monastirsky <https://twitter.com/cynpy>`_: ARS 400
 * 26 October 2015 - `Francisco Capdevila <https://twitter.com/pancho_jay>`_: ARS 200
 * 26 October 2015 - `Erick Navarro <https://twitter.com/erickgnavar>`_: USD 20

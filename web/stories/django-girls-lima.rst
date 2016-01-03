@@ -99,6 +99,11 @@ Tené en cuenta que...
   esperar** una confirmación por parte de los organizadores para poder
   asistir.
 
+* ... te recomendamos seguirnos en Twitter (`@argenpython
+  <https://twitter.com/argenpython>`_) y/o Facebook (`Argentina en
+  Python <https://facebook.com/argentinaenpython/>`__) donde
+  publicaremos novedades sobre el evento.
+
 * ... no es necesario saber programar o tener algún conocimiento
   previo de programación.
 
@@ -172,12 +177,15 @@ Colaboradores
 .. image:: colaboradores.png
    :align: center
 
+----
+
 .. class:: lead
 
    ¿Te gustaría que tu empresa sea parte de este evento?
 
 Contáctanos para hacerlo posible y así apoyar a que haya más eventos
-de programación en la ciudad.
+de programación en la ciudad (`ver presentación
+<presentacion-sponsors.pdf>`_)
 
 
 Python Software Foundation

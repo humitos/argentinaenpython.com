@@ -14,15 +14,16 @@
 
    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
    <style>
-     article.storypage img {
-         margin-top: 40px;
+     article.storypage img.logo {
+	 margin-top: 20px;
+	 max-width: 38%;
      }
    </style>
 
 
 .. image:: /index/logo.thumbnail.png
-   :width: 420px
    :align: right
+   :class: logo
 
 
 
@@ -61,6 +62,10 @@ How?
 	 color: #333;
      }
 
+     .home-sections > div {
+          min-height: 250px;
+     }
+
      .home-sections:hover {
 	 opacity: 0.7;
      }
@@ -68,6 +73,7 @@ How?
    </style>
 
    <hr style="border-width: 10px 0 0;">
+
    <div class="row" style="margin-top: 50px;">
      <a class="home-sections" href="/en/where-is-humitos/">
        <div class="col-md-4">
@@ -92,7 +98,6 @@ How?
 	 <p style="text-align: center">Some rules we follow to make the trip and events a great success</p>
        </div>
      </a>
-   </div>
 
      <a class="home-sections" href="/quiero-aprender-python/">
        <div class="col-md-4">

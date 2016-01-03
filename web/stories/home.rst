@@ -24,6 +24,10 @@
 
    **Próximos eventos**: `9 de Enero, Django Girls Lima <http://argentinaenpython.com.ar/django-girls-lima/>`_, `23 de Enero, Django Girls Piura <http://argentinaenpython.com.ar/django-girls-piura/>`_, 5 de Marzo, PyDay Chiclayo
 
+.. class:: alert alert-warning
+
+   ¡En estas fiestas, regalanos tu opinión! Ayudanos a sumar más KM y
+   compartir Python en más lugares, :doc:`contestando esta encuesta <encuesta>`.
 
 .. image:: /index/logo.thumbnail.png
    :align: right

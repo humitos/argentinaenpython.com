@@ -2,6 +2,7 @@
    :loop:
    :autoplay: 3000
 
+   nubis_bruno__ravenio.png
    santiago_fraire.png
    pancho_jay4.png
    machinalis_sprint-crush.png

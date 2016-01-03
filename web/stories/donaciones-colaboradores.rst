@@ -24,16 +24,19 @@ Donaciones en general
 * 29 de Diciembre de 2015 - `Machinalis <https://twitter.com/dmoisset>`_ y `Python Argentina <https://twitter.com/PythonArgentina>`_: ARS 5000
 * 23 de Diciembre de 2015 - Donante Anónimo: ARS 1000
 * 22 de Diciembre de 2015 - `Daniel Moisset <https://twitter.com/dmoisset>`_: ARS 5000
+* 5 de Noviembre de 2015 - `Federico Reiven <https://twitter.com/ravenio>`_: BTC 0.125
 * 2 de Noviembre de 2015 - `Cynthia Gabriela Monastirsky <https://twitter.com/cynpy>`_: ARS 400
 * 26 de Octubre 2015 - `Francisco Capdevila <https://twitter.com/pancho_jay>`_: ARS 200
 * 26 de Octubre de 2015 - `Erick Navarro <https://twitter.com/erickgnavar>`_: USD 20
 * 26 de Octubre de 2015 - `Matías Barriento <https://twitter.com/BarrientoMatias/>`_: ARS 500
+* 21 de Octubre de 2015 - `Federico Reiven <https://twitter.com/ravenio>`_: USD 45
 * 20 de Octubre de 2015 - `PyDayLitoral <http://pyday.lugli.org.ar/>`_: ARS 3000
 * 19 de Octubre de 2015 - Donante Anónimo: ARS 1000
 * 29 de Septiembre de 2015 - Fraire Willemoes Santiago Ernesto: ARS 300
 * 28 de Septiembre de 2015 - `German Dario Bortoli <https://twitter.com/Germanazo>`_: USD 5
 * 19 de Septiembre de 2015 - `Krishnan Nagarajan <mailto:krishnan.nagarajan@gmail.com>`_: USD 50
 * 25 de Agosto de 2015 - `Python Software Foundation <https://www.python.org/psf/>`_: USD 5000
+* 20 de Agosto de 2015 - `Cristian Bruno <https://twitter.com/nubis_bruno>`_: BTC 0.05
 * 15 de Agosto de 2015 - `Gustavo Picon <https://twitter.com/tabo>`_: USD 100
 * 11 de Agosto de 2015 - `Francisco Capdevila <https://twitter.com/pancho_jay>`_: ARS 200
 * 2 de Agosto de 2015 - `El Ega <http://www.el-ega.com.ar/>`_: ARS 200

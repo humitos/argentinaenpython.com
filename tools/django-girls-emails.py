@@ -31,8 +31,15 @@ inscriptos y hemos creado una lista de espera. Entonces, *cualquier
 inconveniente* que tengas y no puedas asistir al taller, envianos un
 email así otro puede ocupar ese lugar.
 
-Si no contestas este email confirmando tu asistencia hasta 5 días
+Si no contestas este email confirmando tu asistencia hasta {days} días
 antes del evento, lamentablemente perderás tu cupo.
+
+Además, te recomendamos que nos sigas en las redes sociales para estar
+al tanto de las últimas novedades sobre este taller y otros eventos de
+programación en Python que organizamos:
+
+ * Twitter: https://twitter.com/argenpython/
+ * Facebook: http://facebook.com/argentinaenpython/
 
 Muchas gracias,
 
@@ -70,6 +77,13 @@ asistencia.
 
 Sí aún sigues interesada en participar, por favor responde a este
 email.
+
+Además, te recomendamos que nos sigas en las redes sociales para estar
+al tanto de las últimas novedades sobre este taller y otros eventos de
+programación en Python que organizamos:
+
+ * Twitter: https://twitter.com/argenpython/
+ * Facebook: http://facebook.com/argentinaenpython/
 
 Muchas gracias,
 
@@ -125,8 +139,15 @@ inscriptos y hemos creado una lista de espera. Entonces, *cualquier
 inconveniente* que tengas y no puedas asistir al taller, envianos un
 email.
 
-Si no contestas este email confirmando tu asistencia hasta 5 días
+Si no contestas este email confirmando tu asistencia hasta {days} días
 antes del evento, lamentablemente perderás tu cupo.
+
+Además, te recomendamos que nos sigas en las redes sociales para estar
+al tanto de las últimas novedades sobre este taller y otros eventos de
+programación en Python que organizamos:
+
+ * Twitter: https://twitter.com/argenpython/
+ * Facebook: http://facebook.com/argentinaenpython/
 
 Muchas gracias,
 
@@ -141,6 +162,7 @@ HOUR = '8:30hs (puntual) a 18:30hs'
 PLACE = 'Laboratoria LA (Ave. Pardo 601 oficina 1104 - Piso 11, Miraflores, Lima, Perú)'
 CITY = 'Lima'
 URL = 'http://argentinaenpython.com.ar/django-girls-lima/'
+DAYS = 5
 
 emails = [EMAIL_CONFIRMATION, EMAIL_WAITING_LIST, EMAIL_COACH]
 
@@ -154,6 +176,7 @@ for email in emails:
             place=PLACE,
             city=CITY,
             url=URL,
+            days=DAYS,
         ), end='\n\n')
 
     input('Presiona una tecla para ver el siguiente email...')

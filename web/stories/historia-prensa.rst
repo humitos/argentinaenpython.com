@@ -276,6 +276,20 @@ Año 2015
 
 
 .. template:: prensa-image
+   :title: Juanjo Conti
+   :description: PyConAr 2015
+   :src: 2015_noviembre_3-340x255.png
+   :href: http://www.juanjoconti.com/posts/pyconar-2015/
+
+
+.. template:: prensa-image
+   :title: Marcos Dione
+   :description: Went to pycon.ar 2015
+   :src: 2015_noviembre_4-340x255.png
+   :href: http://www.grulic.org.ar/~mdione/glob/posts/went-to-pycon.ar-2015/
+
+
+.. template:: prensa-image
    :title: devAcademy
    :description: Python en Argentina #devHangout 127 con @argenpython
    :src: 2015_diciembre_0-340x255.png

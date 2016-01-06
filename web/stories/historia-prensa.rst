@@ -227,6 +227,13 @@ Año 2015
 
 
 .. template:: prensa-image
+   :title: Django Girls Dispatch
+   :description: Recent Django Girls events
+   :src: 2015_agosto_6-340x255.png
+   :href: http://createsend.com/t/i-361AF48ED4423E63
+
+
+.. template:: prensa-image
    :title: Pillku
    :description: Con esfuerzo y contactando con la gente apropiada no hay nada que no se pueda lograr
    :src: 2015_septiembre_0-340x255.png
@@ -245,6 +252,26 @@ Año 2015
    :description: La Internet se escribe en femenino
    :src: 2015_septiembre_2-340x255.png
    :href: http://faccionlatina.org/project/la-internet-se-escribe-en-femenino/
+
+.. template:: prensa-image
+   :title: OpenStreetMap
+   :description: Wochennotiz Nr. 270
+   :src: 2015_septiembre_3-340x255.png
+   :href: http://blog.openstreetmap.de/blog/2015/09/wochennotiz-nr-270/
+
+
+.. template:: prensa-image
+   :title: OpenStreetMap
+   :description: Weekly Nr. 270
+   :src: 2015_septiembre_4-340x255.png
+   :href: http://www.weeklyosm.eu/archives/5056
+
+
+.. template:: prensa-image
+   :title: Proyecto mARTadero
+   :description: La Internet se escribe en femenino
+   :src: 2015_septiembre_5-340x255.png
+   :href: http://www.martadero.org/noticias/noticia.html&id_noticia=169
 
 
 .. template:: prensa-image
@@ -303,14 +330,16 @@ Año 2016
 
    </div>
 
+----
 
-.. http://blog.openstreetmap.de/blog/2015/09/wochennotiz-nr-270/
-.. http://www.weeklyosm.eu/archives/5056
+.. tip::
+
+   Si quitas el `-340x255` del nombre del archivo de la imagen usada
+   como thumbnail obtienes la imagen completa (sin recortar) en su
+   tamaño real.
+
 .. http://pyday.lugli.org.ar/
-.. http://createsend.com/t/i-361AF48ED4423E63
-.. http://faccionlatina.org/project/la-internet-se-escribe-en-femenino/
-.. http://wiki.huayra.conectarigualdad.gob.ar/index.php/Python
-.. http://www.martadero.org/noticias/noticia.html&id_noticia=169
+
 
 
 .. Las imágenes fueron capturadas con la extensión "Full Page Screen

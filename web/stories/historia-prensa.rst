@@ -10,7 +10,7 @@
 Estas son algunas de las notas en donde el proyecto ha sido publicado
 de alguna manera:
 
-Año 2014
+Año 2016
 --------
 
 .. raw:: html
@@ -18,38 +18,10 @@ Año 2014
    <div class="row">
 
 .. template:: prensa-image
-   :title: Huayra Linux
-   :description: El viento de Huayra/GnuLinux pasó una vez más por el noroeste cordobés
-   :src: 2014_mayo_0-340x255.png
-   :href: http://huayra.conectarigualdad.gob.ar/noticias/2014/05/27/el-viento-de-huayragnulinux-pas%C3%B3-una-vez-m%C3%A1s-por-el-noroeste-cordob%C3%A9s
-
-
-.. template:: prensa-image
-   :title: FM del Sol
-   :description: Entrevista radial
-   :src: 2014_noviembre_0-340x255.png
-   :href: http://elblogdehumitos.com.ar/posts/argentina-en-python-en-la-radio
-
-
-.. template:: prensa-image
-   :title: Blog de La Nación
-   :description: Sexto encuentro nacional de Python Argentina
-   :src: 2014_noviembre_1-340x255.png
-   :href: http://blogs.lanacion.com.ar/data/argentina/sexto-encuentro-nacional-de-python-argentina/
-
-
-.. template:: prensa-image
-   :title: Conectar Igualdad
-   :description: Curso de Python en Paraná
-   :src: 2014_noviembre_2-340x255.png
-   :href: http://www.conectarigualdad.gob.ar/noticia/curso-de-python-en-parana-1925
-
-
-.. template:: prensa-image
-   :title: Las Breñas digital
-   :description: Charla sobre "OpenStreetMap" y su utilidad
-   :src: 2014_diciembre_0-340x255.png
-   :href: http://www.lasbrenasdigital.com.ar/2014/sociales/9020-charla-sobre-open-street-map-y-su-utilidad.html
+   :title: pymex
+   :description: Taller gratuito de programación para mujeres con Django Girls
+   :src: 2016_enero_0-340x255.png
+   :href: http://pymex.pe/eventos-empresariales/notas-de-prensa/taller-gratuito-de-programacion-para-mujeres-con-django-girls/
 
 .. raw:: html
 
@@ -132,7 +104,7 @@ Año 2015
    :title: Universidad Autónoma de Encarnación
    :description: Introducción a Python
    :src: 2015_mayo_2-340x255.png
-   :href: http://www.unae.edu.py/v3/index.php/noticias/item/592-introducci%C3%B3n-a-python
+   :href: http://www.unae.edu.py/tv/index.php?option=com_content&view=article&id=465:introduccion-a-python-evento-de-extension-universitaria&catid=79&Itemid=228
 
 
 .. template:: prensa-image
@@ -142,11 +114,12 @@ Año 2015
    :href: http://pt.slideshare.net/fmasanori/import-community
 
 
-.. template:: prensa-image
-   :title: Javier Obregon
-   :description: None
-   :src: 2015_mayo_4-340x255.png
-   :href: http://javierobregon.com.ar/?p=1123
+..
+   .. template:: prensa-image
+      :title: Javier Obregon
+      :description: None
+      :src: 2015_mayo_4-340x255.png
+      :href: http://javierobregon.com.ar/?p=1123
 
 
 .. template:: prensa-image
@@ -312,8 +285,9 @@ Año 2015
 
    </div>
 
+----
 
-Año 2016
+Año 2014
 --------
 
 .. raw:: html
@@ -321,16 +295,45 @@ Año 2016
    <div class="row">
 
 .. template:: prensa-image
-   :title: pymex
-   :description: Taller gratuito de programación para mujeres con Django Girls
-   :src: 2016_enero_0-340x255.png
-   :href: http://pymex.pe/eventos-empresariales/notas-de-prensa/taller-gratuito-de-programacion-para-mujeres-con-django-girls/
+   :title: Huayra Linux
+   :description: El viento de Huayra/GnuLinux pasó una vez más por el noroeste cordobés
+   :src: 2014_mayo_0-340x255.png
+   :href: http://huayra.conectarigualdad.gob.ar/noticias/2014/05/27/el-viento-de-huayragnulinux-pas%C3%B3-una-vez-m%C3%A1s-por-el-noroeste-cordob%C3%A9s
+
+
+.. template:: prensa-image
+   :title: FM del Sol
+   :description: Entrevista radial
+   :src: 2014_noviembre_0-340x255.png
+   :href: http://elblogdehumitos.com.ar/posts/argentina-en-python-en-la-radio
+
+
+.. template:: prensa-image
+   :title: Blog de La Nación
+   :description: Sexto encuentro nacional de Python Argentina
+   :src: 2014_noviembre_1-340x255.png
+   :href: http://blogs.lanacion.com.ar/data/argentina/sexto-encuentro-nacional-de-python-argentina/
+
+
+.. template:: prensa-image
+   :title: Conectar Igualdad
+   :description: Curso de Python en Paraná
+   :src: 2014_noviembre_2-340x255.png
+   :href: http://www.conectarigualdad.gob.ar/noticia/curso-de-python-en-parana-1925
+
+
+.. template:: prensa-image
+   :title: Las Breñas digital
+   :description: Charla sobre "OpenStreetMap" y su utilidad
+   :src: 2014_diciembre_0-340x255.png
+   :href: http://www.lasbrenasdigital.com.ar/2014/sociales/9020-charla-sobre-open-street-map-y-su-utilidad.html
 
 .. raw:: html
 
    </div>
 
 ----
+
 
 .. tip::
 

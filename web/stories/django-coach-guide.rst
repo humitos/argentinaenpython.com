@@ -13,6 +13,20 @@
 :Traductores: `Kiko Correoso <https://github.com/kikocorreoso>`_ y `Erick Navarro <https://github.com/erickgnavar>`_
 :Original: http://coach.djangogirls.org/
 
+
+.. contents:: Contenido
+   :depth: 1
+
+.. raw:: html
+
+   <script type="text/javascript">
+       contenido = document.getElementById('contenido');
+       contenido.classList.add('sidebar');
+       contenido.children[0].classList.add('sidebar-title');
+       contenido.children[0].classList.remove('topic-title');
+   </script>
+
+
 Este manual es un conjunto de tips y trucos útiles que los Guías Django
 Girls pueden usar. Ser un guía es una tarea muy difícil y por eso hemos
 recolectado muchas cosas que hemos aprendido durante los talleres para

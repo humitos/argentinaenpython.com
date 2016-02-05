@@ -1,5 +1,6 @@
 ## -*- coding: utf-8 -*-
 <%namespace name="base" file="base_helper.tmpl" import="*" />
+<%namespace name="footer" file="base_footer.tmpl" import="*" />
 <%namespace name="notes" file="annotation_helper.tmpl" import="*" />
 ${set_locale(lang)}
 ${base.html_headstart()}
@@ -24,11 +25,11 @@ ${template_hooks['extra_head']()}
             </button>
             <a class="navbar-brand" href="${abs_link(_link("root", None, lang))}">
             %if logo_url:
-                <img src="${logo_url}" alt="${blog_title}" id="logo">
+                <img src="${logo_url}" alt="${blog_title|h}" id="logo">
             %endif
 
             % if show_blog_title:
-                <span id="blog-title">${blog_title}</span>
+                <span id="blog-title">${blog_title|h}</span>
             % endif
             </a>
         </div><!-- /.navbar-header -->
@@ -70,11 +71,7 @@ ${template_hooks['extra_head']()}
 </div>
 
 
-<footer>
-    ${content_footer}
-    ${template_hooks['page_footer']()}
-</footer>
-
+${footer.html_footer()}
 
 ${base.late_load_js()}
     <script>$('a.image-reference:not(.islink) img:not(.islink)').parent().colorbox({rel:"gal",maxWidth:"100%",maxHeight:"100%",scalePhotos:true});</script>

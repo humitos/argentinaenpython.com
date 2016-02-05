@@ -22,12 +22,43 @@ div.flowr-row {
 }
 
 footer {
+    padding-top: 7px !important;
     margin-top: 25px;
     background-color: #ebebeb;
-    padding: 15px;
+    /* padding: 15px; */
     bottom: 0;
-    position: relative;
+    /* position: relative; */
     width: 100%;
+}
+
+footer .social-list {
+    list-style: none;
+    padding-top: 5px;
+}
+
+footer .social-list > li {
+    display: inline-block;
+    overflow: hidden;
+    margin-left: 5px;
+}
+
+footer .social-list > li > a {
+    color: #777;
+    text-decoration: none;
+    display: block;
+}
+
+.nikola-content-footer {
+    background-color: #D0D0D0;
+    padding-top: 15px;
+}
+
+.social-twitter:hover {
+    color: rgb(0, 172, 237);
+}
+
+.social-facebook:hover {
+    color: rgb(59, 89, 152);
 }
 
 iframe {

@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 
 from __future__ import unicode_literals
+import os
 import time
 
 # !! This is the configuration of Nikola. !! #
@@ -670,13 +671,33 @@ CACHE_FOLDER = '.cache'
 #
 # Many filters are shipped with Nikola. A list is available in the manual:
 # <https://getnikola.com/handbook.html#post-processing-filters>
-#
+
+
+def resize_historia_prensa_images(filename):
+    abspath = os.path.abspath(filename)
+    print(abspath)
+    # TODO: improve the path check
+    if 'historia/prensa' in abspath:
+        # from doit import tools
+        # tools.set_trace()
+
+        # TODO: use the OUTPUT variable here
+        cmd = "convert -resize 340x -crop 340x255+0 '{}' output/historia/prensa/`basename '{}' .png`-340x255.png"
+        cmd = cmd.format(abspath, abspath)
+        os.system(cmd)
+
+
 # from nikola import filters
-# FILTERS = {
-#    ".html": [filters.typogrify],
-#    ".js": [filters.closure_compiler],
-#    ".jpg": ["jpegoptim --strip-all -m75 -v %s"],
-# }
+FILTERS = {
+   # ".html": [filters.typogrify],
+   # ".js": [filters.closure_compiler],
+   # ".jpg": ["jpegoptim --strip-all -m75 -v %s"],
+    ".html": ["rpl {old_email} {new_email} %s".format(
+        old_email=BLOG_EMAIL,
+        new_email=BLOG_EMAIL.replace('@', 'ð').replace('.', 'ø')
+    )],
+    ".png": [resize_historia_prensa_images],
+}
 
 # Expert setting! Create a gzipped copy of each generated file. Cheap server-
 # side optimization for very high traffic sites or low memory servers.

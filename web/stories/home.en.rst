@@ -4,7 +4,7 @@
 .. tags: 
 .. category: 
 .. link: 
-.. description: Argentina en Python is a personal and communitary project that promotes the usage of Python
+.. description: Argentina en Python is a personal and communitary project that promotes the usage of Python in different countries
 .. previewimage: /index/logo.thumbnail.png
 .. type: text
 .. template: notitle.tmpl
@@ -12,7 +12,6 @@
 
 .. raw:: html
 
-   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
    <style>
      article.storypage img.logo {
 	 margin-top: 20px;
@@ -127,44 +126,23 @@ How?
 
    <hr style="border-width: 10px 0 0;">
 
-.. raw:: html
+.. template:: bootstrap3/thumbnail-index
+   :href: /galeria/django-girls-piura/
+   :src: DSC_2518_01.jpg
+   :title: Django Girls Piura
+   :description: Workshop Django Girls
 
+.. template:: bootstrap3/thumbnail-index
+   :href: /galeria/django-girls-lima/
+   :src: DSC_2140_01.jpg
+   :title: Django Girls Lima
+   :description: Workshop Django Girls
 
-	 <div class="row">
-
-	  <div class="col-sm-6 col-md-4">
-	    <div class="thumbnail">
-	      <a href="/galeria/django-girls-mendoza/">
-		<img style="width: 340px; height: 255px;" src="/galeria/django-girls-mendoza/IMG_20151112_162414.jpg" alt="Django Girls Mendoza"></a>
-	      <div class="caption">
-		<h3>Django Girls Mendoza</h3>
-		<p>Workshop Django Girls</p>
-	      </div>
-	    </div>
-	  </div>
-
-	  <div class="col-sm-6 col-md-4">
-	    <div class="thumbnail">
-	      <a href="/galeria/django-girls-puno/">
-		<img style="width: 340px; height: 255px;" src="/galeria/django-girls-puno/DSC_0740_01.jpg" alt="Django Girls Puno"></a>
-	      <div class="caption">
-		<h3>Django Girls Puno</h3>
-		<p>Workshop Django Girls</p>
-	      </div>
-	    </div>
-	  </div>
-
-	  <div class="col-sm-6 col-md-4">
-	    <div class="thumbnail">
-	      <a href="/galeria/django-girls-santacruz/">
-		<img style="width: 340px; height: 255px;" src="/galeria/django-girls-santacruz/IMG_20150829_104112.jpg" alt="Django Girls Santa Cruz"></a>
-	      <div class="caption">
-		<h3>Django Girls Santa Cruz</h3>
-		<p>Workshop Django Girls</p>
-	      </div>
-	    </div>
-	  </div>
-	 </div>
+.. template:: bootstrap3/thumbnail-index
+   :href: /galeria/django-girls-mendoza/
+   :src: IMG_20151112_162414.jpg
+   :title: Django Girls Mendoza
+   :description: Workshop Django Girls
 
 .. class:: lead align-center
 

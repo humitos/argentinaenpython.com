@@ -481,3 +481,6 @@ sugerido los lectos.
 .. (py2) http://cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-python.pdf
 .. http://www.etnassoft.com/biblioteca/
 .. https://micarreralaboralenit.wordpress.com/2015/08/17/multiples-razones-juegos-y-apps-con-las-que-los-ninos-pueden-aprender-a-programar-infografia/
+.. http://jonathanpumares.com/desarrollo-de-un-api-rest-con-django-rest-framework-tutorial-1-serializacion/
+.. https://kivy.org/docs/tutorials/pong.html
+.. https://github.com/juancarlospaco/python-course#python-course

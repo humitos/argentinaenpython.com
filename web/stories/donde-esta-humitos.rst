@@ -24,7 +24,7 @@ poder :doc:`coordinar algo relacionado al proyecto
 encontrarnos en las cercanías.
 
 
-* |ruta| ruta *planeada* para los meses Diciembre, Enero, Febrero y Marzo de 2016
+* |ruta| ruta *planeada* para los meses Enero, Febrero y Marzo de 2016
 * |destinos| destinos que tenemos pensado visitar en esos meses
 * |visitados| lugares visitados desde el inicio del proyecto
 

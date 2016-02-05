@@ -22,7 +22,7 @@ map's goal is :doc:`to be in touch <contact>` with people next to me
 with the project <events>` (or anything of mutual interest) and
 organize to see each other in the proximities.
 
-* |ruta| *planned* route for months December, January, February and March 2016
+* |ruta| *planned* route for months January, February and March 2016
 * |destinos| destinies we want to go in those months
 * |visitados| places already visited by the project since its start
 

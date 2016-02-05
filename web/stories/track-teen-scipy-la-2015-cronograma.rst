@@ -63,7 +63,7 @@ Atronomía
 
 :Disertante: Bruno Sánchez
 :Invitado: Juan Luis Cano
-:Diapositivas: `Descargar <astrononia-track-teen.pdf>`__
+:Diapositivas: `Descargar <astronomia-track-teen.pdf>`__
 :Web: `Facebook Observatorio Astronómico de Córdoba <https://www.facebook.com/#/pages/Observatorio-Astron%C3%B3mico-de-C%C3%B3rdoba-OAC/108460115866648>`_
 
 .. epigraph::

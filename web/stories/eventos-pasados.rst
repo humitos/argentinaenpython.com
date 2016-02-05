@@ -9,6 +9,10 @@
 Eventos pasados
 ---------------
 
+* 23-01-2016: `Taller Django Girls en Piura
+  <http://argentinaenpython.com.ar/galeria/django-girls-piura/>`_
+* 09-01-2016: `Taller Django Girls en Lima
+  <http://argentinaenpython.com.ar/galeria/django-girls-lima/>`_
 * 12-11-2015: `Taller Django Girls en Mendoza
   <http://argentinaenpython.com.ar/galeria/django-girls-mendoza/>`_
 * 24-10-2015: Charla sobre PyFi Spot en Buenos Aires Meetup

@@ -7,7 +7,7 @@
 .. description: 
 .. type: text
 
-Es muy importante para mí `hacer contactos
+Es muy importante para nosotros `hacer contactos
 <http://elblogdehumitos.com.ar/posts/mendoza-tiene-agite>`_ con gente
 interesada en la programación, el Software Libre, las diferentes
 ciencias y demás, para poder coordinar a la distancia algunas
@@ -23,7 +23,8 @@ ofrezca alojamiento. Eso, es un punto extra muy importante.
 
 También, si te interesa apoyar el proyecto económicamente, podés
 visitar la :doc:`página de donaciones <donaciones>` para enterarte
-cómo hacerlo y así ayudar a que la rueda siga girando.
+cómo hacerlo y así ayudar a que la rueda siga girando para que se
+multipliquen los eventos.
 
 .. raw:: html
 

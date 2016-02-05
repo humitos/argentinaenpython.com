@@ -75,7 +75,7 @@ total`_ del ticket aéreo en LAN. Lamentablemente, cuánto más demoremos
 en juntar el dinero, el precio de los tickets aéreos irá
 aumentando. ¡Es por eso que debemos apurarnos a juntarlo!
 
-Al día de la fecha hemos recibido un total de ~ *$ 2500 (33 %)* en
+Al día de la fecha hemos recibido un total de ~ *USD 425 (85.1 %)* en
 esta etapa de donaciones.
 
 .. figure:: donaciones-djangomdz.thumbnail.png

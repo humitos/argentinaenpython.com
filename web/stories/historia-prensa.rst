@@ -23,6 +23,49 @@ Año 2016
    :src: 2016_enero_0-340x255.png
    :href: http://pymex.pe/eventos-empresariales/notas-de-prensa/taller-gratuito-de-programacion-para-mujeres-con-django-girls/
 
+
+.. template:: prensa-image
+   :title: timov
+   :description: Taller Django Girls en Lima
+   :src: 2016_enero_1-340x255.png
+   :href: http://timov.pe/events/community/taller-django-girls-en-lima
+
+
+.. template:: prensa-image
+   :title: Django Girls
+   :description: Workshops in 3 countries of Latin America
+   :src: 2016_enero_2-340x255.png
+   :href: http://blog.djangogirls.org/post/137154038518/workshops-in-3-countries-of-latin-america
+
+
+.. template:: prensa-image
+   :title: Django Planet
+   :description: Workshops in 3 countries of Latin America
+   :src: 2016_enero_3-340x255.png
+   :href: http://django-planet.com/posts/6298/workshops-in-3-countries-of-latin-america/
+
+
+.. template:: prensa-image
+   :title: RPP Noticias
+   :description: Jóvenes recorren Sudamérica promoviendo tecnología
+   :src: 2016_enero_4-340x255.png
+   :href: http://rpp.pe/peru/piura/jovenes-recorren-sudamerica-promoviendo-tecnologica-noticia-931815
+
+
+.. template:: prensa-image
+   :title: devAcademy
+   :description: Ionic Framework #devHangout con @nicobytes
+   :src: 2016_enero_5-340x255.png
+   :href: http://blog.devacademy.la/post/137709314921/ionic-framework-devhangout-con-nicobytes
+
+
+.. template:: prensa-image
+   :title: Diario Marañón
+   :description: Jóvenes recorren Sudamérica promoviendo tecnológica
+   :src: 2016_enero_6-340x255.png
+   :href: diario-maranon_enero-2016.pdf
+
+
 .. raw:: html
 
    </div>

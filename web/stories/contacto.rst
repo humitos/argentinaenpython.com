@@ -22,8 +22,7 @@ mantener actualizados a nuestros seguidores:
 
 :Twitter: https://twitter.com/argenpython
 
-:IRC: @humitos en *#argentinaenpython* en irc.freenode.net (`cliente web
-      <https://kiwiirc.com/client/irc.freenode.net?channel=#argentinaenpython>`_)
+:IRC: *humitos* en irc.freenode.net
 
 ----
 
@@ -34,6 +33,8 @@ de ellos:
 :WhatsApp: +54 9 343 4053434
 
 :Telegram: @humitos
+
+:Móv. Ecuador: +593 0990632940
 
 :Móv. Perú: +51 999077870
 

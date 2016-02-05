@@ -17,6 +17,9 @@
      }
    </style>
 
+.. class:: alert alert-danger
+
+   Esta página quedo obsoleta. Actualmente no estamos realizando remeras... :(
 
 .. class:: lead align-center
 

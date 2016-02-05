@@ -21,7 +21,7 @@ import time
 BLOG_AUTHOR = "Manuel Kaufmann"  # (translatable)
 BLOG_TITLE = {
     'es': 'Argentina en Python',
-    'en': 'Argenitna in Python',
+    'en': 'Argentina in Python',
 }
 # This is the main URL for your site. It will be used
 # in a prominent link
@@ -32,7 +32,7 @@ SITE_URL = 'http://argentinaenpython.com.ar/'
 BLOG_EMAIL = "argentinaenpython@openmailbox.org"
 BLOG_DESCRIPTION = {
     'es': 'Recorre latinoamerica y el mundo compartiendo conocimiento, Python y su filosofía',
-    'en': 'Travel around latinamerica and the world sharing kwnoledge, Python and its philosophy',
+    'en': 'Travel around latinamerica and the world sharing knowledge, Python and its philosophy',
 }
 
 # Nikola is multilingual!
@@ -172,6 +172,7 @@ NAVIGATION_LINKS = {
                 ("/como-colaborar/", "¿Cómo colaborar?"),
                 ("/material-de-difusion/", "Material de difusión"),
                 ("/mapear-con-osmtracker/", "Mapear con OSMTracker"),
+                ("/mapas-de-openstreetmap-para-garmin/", "Mapas OSM para Garmin"),
                 ("/encuesta/", "Encuesta"),
                 ("/remeras/", "Remeras"),
             ),
@@ -216,6 +217,7 @@ NAVIGATION_LINKS = {
                 ("/en/como-colaborar/", "How to contribute?"),
                 ("/en/material-de-difusion/", "Broadcasting Material"),
                 ("/mapear-con-osmtracker/", "Mapping with OSMTracker"),
+                ("/mapas-de-openstreetmap-para-garmin/", "Mapas OSM para Garmin"),
             ),
             "Extras"
         ),
@@ -627,8 +629,8 @@ REDIRECTIONS = [
 DEPLOY_COMMANDS = {
     'default': [
         "python geolocation.py --verbose --symlinks",
-        "rsync -rav --delete-after --copy-links --bwlimit=50 output/* humitos@mkaufmann.com.ar:apps/argentinaenpython.com.ar/",
-        "rsync -rav --delete-after --copy-links --bwlimit=50 ~/Source/argentinaenpython.com.ar/web/output/* alarm@raspberrypi.redlibre:~/apps/argentinaenpython.com.ar",
+        "rsync -rav --delete-after --exclude=osm-data.json --exclude=gmapsupp.img --copy-links --bwlimit=50 output/* humitos@mkaufmann.com.ar:apps/argentinaenpython.com.ar/",
+        "rsync -rav --delete-after --exclude=osm-data.json --exclude=gmapsupp.img --copy-links --bwlimit=50 ~/Source/argentinaenpython.com.ar/web/output/* alarm@raspberrypi.redlibre:~/apps/argentinaenpython.com.ar",
     ]
 }
 
@@ -1180,7 +1182,10 @@ GENERATE_RSS = False
 # Extra things you want in the pages HEAD tag. This will be added right
 # before </head>
 # (translatable)
-# EXTRA_HEAD_DATA = ""
+EXTRA_HEAD_DATA = """
+   <link rel="stylesheet" href="/assets/css/font-awesome.min.css">
+"""
+
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
 # (translatable)
@@ -1197,9 +1202,22 @@ BODY_END = """
         var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
         g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
       })();
-    </script>
-    <noscript><p><img src="//elblogdehumitos.com.ar/piwik/piwik.php?idsite=3" style="border:0;" alt="" /></p></noscript>
-    <!-- End Piwik Code -->
+   </script>
+   <noscript><p><img src="//elblogdehumitos.com.ar/piwik/piwik.php?idsite=3" style="border:0;" alt="" /></p></noscript>
+   <!-- End Piwik Code -->
+
+   <script type="application/javascript">
+      // de-obfuscate emails
+      window.onload = function() {
+        var e = document.getElementsByClassName('reference external');
+        for (i=0; i < e.length; i++) {
+          if (e[i].href.indexOf("mailto:") == 0) {
+            e[i].href = e[i].href.replace("%C3%B0", "@").replace("%C3%B8", ".");
+            e[i].text = e[i].text.replace(/ð/, "@").replace(/ø/, ".");
+          }
+        }
+      };
+   </script>
 """
 
 

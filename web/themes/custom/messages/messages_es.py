@@ -1,4 +1,5 @@
-# -*- encoding:utf-8 -*-
+# -*- coding: utf-8 -*-
+
 from __future__ import unicode_literals
 
 MESSAGES = {
@@ -32,8 +33,9 @@ MESSAGES = {
     "Subcategories:": "Subcategorías:",
     "Tags and Categories": "Etiquetas y Categorías",
     "Tags": "Etiquetas",
-    "Write your page here.": "",
-    "Write your post here.": "",
+    "Write your page here.": "Escribe tu post aquí.",
+    "Write your post here.": "Escribe tu página aquí.",
     "old posts, page %d": "publicaciones antiguas, página %d",
     "page %d": "página %d",
+    "Note": "Nota",
 }

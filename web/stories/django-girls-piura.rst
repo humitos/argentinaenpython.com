@@ -12,9 +12,9 @@
 ¡Queremos animar a más mujeres a dominar la web! Es por eso que desde
 `Argentina en Python <http://argentinaenpython.com.ar>`_ estamos
 organizando un taller en el cual podrás construir tu propio sitio web
-desde cero en un día. Además, vamos a utilizar todas las herramientas
-que programadores profesionales utilizan diariamente. ¡Y de una manera
-muy sencilla!
+*desde cero* en un día. Además, vamos a utilizar todas las
+herramientas que programadores profesionales utilizan diariamente. ¡Y
+de una manera muy sencilla!
 
 .. class:: lead
 
@@ -34,15 +34,15 @@ presentando.
 
 Una vez que estamos listos, comenzamos leyendo el `tutorial
 <http://tutorial.djangogirls.org/es/index.html>`_ *autoguiado* escrito
-por `Django Girls <http://djangogirls.org/>`_ (una fundación sin fines
-de lucro que motiva a las mujeres a programar, organizando estos
-eventos en todo el mundo) especialmente para vos :). Leyendo este
+especialmente para vos por `Django Girls <http://djangogirls.org/>`_
+(una fundación sin fines de lucro que motiva a las mujeres a
+programar, organizando estos eventos en todo el mundo). Leyendo este
 tutorial aprenderemos conceptos básicos sobre cómo funciona internet y
 luego nos sumergiremos en el desarrollo de nuestro primer sitio web:
 ¡un blog!
 
-Aprenderemos a utilizar las herramientas básicas al principio como así
-también los conceptos de programación para comenzar a programar
+Aprenderemos a utilizar las herramientas básicas al principio, como
+así también los conceptos de programación para comenzar a programar
 nosotros mismos nuestro blog.
 
 Habrá descansos programados dentro del tutorial, y al medio día un
@@ -52,7 +52,7 @@ taller libremente.
 
 Durante la tarde seguiremos trabajando para finalmente montar nuestro
 sitio web en internet y así tener una dirección (¡en internet!) para
-poder compartir con nuestros amigos y que vean la obra de arte que
+poder compartir con nuestros amigos y que vean la *obra de arte* que
 acabamos de crear ;)
 
 Finalmente, una charla de despedida y una tormenta de ideas y
@@ -70,12 +70,15 @@ mujer con vos que también realice el taller [#]_.
 ¿Dónde y cuándo?
 ----------------
 
-* Lugar: A confirmar, Piura, Piura, Perú
+* Lugar: UDEP - `Universidad de Piura <http://udep.edu.pe/>`_ - Aula
+  T-14 de la Escuela Tecnológica Superior, Av. Ramón Mugica 131,
+  Piura, Piura, Perú
 
 * Sábado 23 de Enero de 2016 de 8:30hs (puntual) a 18:30hs.
 
 .. template:: iframe
-   :src: http://www.openstreetmap.org/export/embed.html?bbox=-80.6350028514862%2C-5.196929549039538%2C-80.62901616096495%2C-5.19376151787666&amp;layer=mapnik&amp;marker=-5.195348206638854%2C-80.63200950622559
+   :src: http://www.openstreetmap.org/export/embed.html?bbox=-80.66286563873291%2C-5.184636644404112%2C-80.61497211456299%2C-5.159291457016948&amp;layer=mapnik&amp;marker=-5.171985547870882%2C-80.63891887664795
+
 
 .. sidebar:: Contacto
 
@@ -127,12 +130,13 @@ Tené en cuenta que...
   (ver Preguntas frecuentes).
 
 
-..  .. class:: alert alert-danger
+.. class:: alert alert-danger
 
-..     ¡**Atención**!: hemos alcanzado el cupo máximo de inscriptos para el
-..     taller. Sin embargo, si estás interesada en participar, inscribite
-..     y pasarás a una lista de espera que, en caso de que alguien no pueda
-..     asistir, nos estaremos comunicando con vos para informarte.
+   ¡**Atención**!: hemos alcanzado el cupo máximo de inscriptos para
+   el taller. Sin embargo, si estás interesada en participar,
+   inscribite y pasarás automáticamente a una lista de espera que, en
+   caso de que alguien no pueda asistir, nos estaremos comunicando con
+   vos para informarte.
 
 .. template:: bootstrap3/button
    :href: http://goo.gl/forms/5wQoexMzfN
@@ -155,7 +159,8 @@ Internet, consola de GNU/Linux, programación básica y otros.
 
 Si querés colaborar con este evento y sumarte a los *guías* que serán
 nuestra ayuda durante todo el día del evento en esos momentos de caos,
-registrate en el siguiente formulario.
+registrate en el siguiente formulario y nos pondremos en contacto
+contigo para coordinar los detalles.
 
 
 .. template:: bootstrap3/button
@@ -234,7 +239,7 @@ escribinos un email y nos pondremos en contacto con vos.
    más. Te vamos a estar comunicando como hacerlo una vez que te
    registres.
 
-.. collapse:: No soy mujer, ¿Puedo ir?
+.. collapse:: No soy mujer, ¿puedo ir?
 
    ¡Claro! Sólo ten en cuenta que este taller es una iniciativa para
    acercar a más mujeres a la tecnología, por lo tanto se les dará
@@ -321,4 +326,3 @@ escribinos un email y nos pondremos en contacto con vos.
 
 .. [#] Registrate en el formulario y comentá con quién vas. Además,
        decile a ella que también se registre e indique que va con vos.
-

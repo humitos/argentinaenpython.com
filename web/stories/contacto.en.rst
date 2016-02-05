@@ -21,8 +21,7 @@ an event or to keep updated about the project:
 
 :Twitter: https://twitter.com/argenpython
 
-:IRC: @humitos en #argentinaenpython en irc.freenode.net (`web client
-      <https://kiwiirc.com/client/irc.freenode.net?channel=#argentinaenpython>`_)
+:IRC: *humitos* en irc.freenode.net
 
 ----
 
@@ -33,6 +32,8 @@ ways, but I'm not really pending on them:
 :WhatsApp: +54 9 343 4053434
 
 :Telegram: @humitos
+
+:Cell Ecuador: +593 0990632940
 
 :Cell Perú: +51 999077870
 

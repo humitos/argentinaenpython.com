@@ -10,6 +10,8 @@
 :Fecha: 18 de Enero de 2016
 :Versión en PDF: `Descargar <djangogirls-manual-de-guia.pdf>`_
 :Código fuente: https://github.com/PyAr/djangogirls-coach-manual-es
+:Traductores: `Kiko Correoso <https://github.com/kikocorreoso>`_ y `Erick Navarro <https://github.com/erickgnavar>`_
+:Original: http://coach.djangogirls.org/
 
 Este manual es un conjunto de tips y trucos útiles que los Guías Django
 Girls pueden usar. Ser un guía es una tarea muy difícil y por eso hemos

@@ -4,7 +4,7 @@
 .. tags: 
 .. category: 
 .. link: 
-.. description: 
+.. description: ¡Estamos llegando a Perú y necesitamos tu ayuda!
 .. type: text
 .. previewimage: mapa.jpg
 

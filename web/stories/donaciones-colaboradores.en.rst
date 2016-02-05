@@ -16,6 +16,13 @@ the moment the donation was made:
 
 ----
 
+Donations to fix Errante
+------------------------
+
+* 25 January 2016 - `Juanjo Conti <http://juanjoconti.com/>`_: ARS 502
+* 15 January 2016 - `Lucie Daeye <http://blog.djangogirls.org/post/128559723068/your-django-story-meet-lucie-daeye>`_: USD 15
+* 15 January 2016 - `Ana Almada <https://twitter.com/anitalmada/>`_: ARS 518
+
 General donations
 -----------------
 

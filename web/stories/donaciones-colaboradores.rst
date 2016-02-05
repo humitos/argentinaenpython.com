@@ -16,6 +16,13 @@ donaciones:
 
 ----
 
+Donaciones para reparar a Errante
+---------------------------------
+
+* 25 de Enero de 2016 - `Juanjo Conti <http://juanjoconti.com/>`_: ARS 502
+* 15 de Enero de 2016 - `Lucie Daeye <http://blog.djangogirls.org/post/128559723068/your-django-story-meet-lucie-daeye>`_: USD 15
+* 15 de Enero de 2016 - `Ana Almada <https://twitter.com/anitalmada/>`_: ARS 518
+
 Donaciones en general
 ---------------------
 

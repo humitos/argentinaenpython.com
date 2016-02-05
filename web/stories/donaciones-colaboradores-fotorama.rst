@@ -2,6 +2,9 @@
    :loop:
    :autoplay: 3000
 
+   jjconti.png
+   lucie_daeye.png
+   anitalmada.png
    nubis_bruno__ravenio.png
    santiago_fraire.png
    pancho_jay4.png

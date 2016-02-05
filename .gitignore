@@ -61,5 +61,6 @@ web/.doit.db
 *#
 *.#*
 
-web/files/djangogirls
-web/files/djangogirls-recursos
+.venv
+web/files/django-girls/djangogirls-recursos.zip
+web/files/django-girls/djangogirls-material-impreso.zip

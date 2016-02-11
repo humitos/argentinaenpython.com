@@ -4,7 +4,7 @@
 .. tags: 
 .. category: 
 .. link: 
-.. description: 
+.. description: Estos son los medios de contacto que usamos para organizar eventos y mantener actualizados a nuestros seguidores
 .. type: text
 
 

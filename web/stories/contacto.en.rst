@@ -4,7 +4,7 @@
 .. tags: 
 .. category: 
 .. link: 
-.. description: 
+.. description: These are our ways to be in touch, organize events and update our followers with the latest news
 .. type: text
 
 .. image:: mini-zen.thumbnail.jpg

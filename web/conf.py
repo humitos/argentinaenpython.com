@@ -629,8 +629,7 @@ REDIRECTIONS = [
 DEPLOY_COMMANDS = {
     'default': [
         "python geolocation.py --verbose --symlinks",
-        "rsync -rav --delete-after --exclude=osm-data.json --exclude=gmapsupp.img --copy-links --bwlimit=50 output/* humitos@mkaufmann.com.ar:apps/argentinaenpython.com.ar/",
-        "rsync -rav --delete-after --exclude=osm-data.json --exclude=gmapsupp.img --copy-links --bwlimit=50 ~/Source/argentinaenpython.com.ar/web/output/* alarm@raspberrypi.redlibre:~/apps/argentinaenpython.com.ar",
+        "./deploy-rsync.sh",
     ]
 }
 
@@ -689,15 +688,27 @@ def resize_historia_prensa_images(filename):
         os.system(cmd)
 
 
+def rpl_email(filename):
+    old_email = BLOG_EMAIL
+    new_email = BLOG_EMAIL.replace('@', 'ð').replace('.', 'ø')
+
+    with open(filename, 'r') as fh:
+        content = fh.read()
+        content = content.replace(old_email, new_email)
+
+    with open(filename, 'w') as fh:
+        fh.write(content)
+
+
 # from nikola import filters
 FILTERS = {
-   # ".html": [filters.typogrify],
-   # ".js": [filters.closure_compiler],
-   # ".jpg": ["jpegoptim --strip-all -m75 -v %s"],
-    ".html": ["rpl {old_email} {new_email} %s".format(
-        old_email=BLOG_EMAIL,
-        new_email=BLOG_EMAIL.replace('@', 'ð').replace('.', 'ø')
-    )],
+    ".html": [rpl_email],
+    # ".js": [filters.closure_compiler],
+    # ".jpg": ["jpegoptim --strip-all -m75 -v %s"],
+    # ".html": ["rpl {old_email} {new_email} %s".format(
+    #     old_email=BLOG_EMAIL,
+    #     new_email=BLOG_EMAIL.replace('@', 'ð').replace('.', 'ø')
+    # )],
     ".png": [resize_historia_prensa_images],
 }
 

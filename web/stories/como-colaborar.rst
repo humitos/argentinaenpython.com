@@ -64,7 +64,7 @@ Lista de deseos / Wishlist
 .. contents:: Contenido
    :local:
 
-:Actualizado: 1 de Diciembre de 2015
+:Actualizado: 23 de Febrero de 2016
 
 
 .. raw:: html
@@ -82,9 +82,9 @@ esta sección y mejor aún, seguro que tenés los conocimientos
 necesarios y la buena onda para ayudarnos ;)
 
 Esta es una *lista de deseos*, y siendo fiel a su definición, están
-listadas varias cosas en las que necesito trabajar o bien *deseo*
-hacer en un futuro cercano y me gustaría que la comunidad (en
-diferentes eventos o tiempo libre) y/o empresas me ayuden a
+listadas varias cosas en las que necesitamos trabajar o bien
+*deseamos* hacer en un futuro cercano y nos gustaría que la comunidad
+(en diferentes eventos o tiempo libre) y/o empresas nos ayuden a
 concretarlo.
 
 
@@ -118,14 +118,15 @@ Traductor
 ~~~~~~~~~
 
 Estaría bueno, aunque no es *necesario*, tener más páginas de este
-sitio web traducidas al inglés. Las pocas páginas que hoy tenemos me
-han ayudado a darle una mayor visibilidad al proyecto en países de
-habla inglesa, y gracias a ello hemos conseguido algunas donaciones
-económicas de gente que se ha copado con la idea.
+sitio web traducidas a otros idiomas (ya hemos comenzado con
+Inglés). Las pocas páginas que hoy tenemos nos han ayudado a darle una
+mayor visibilidad al proyecto en países de habla inglesa, y gracias a
+ello hemos conseguido algunas donaciones económicas de gente que se ha
+copado con la idea.
 
 Además, si logramos hacer el proyecto sostenible, es posible que
-logremos alcanzar países de habla inglesa en un futuro y para eso es
-importante que desde ahora empiece a tener esa visibilidad
+logremos alcanzar países con diferentes idiomas en un futuro y para
+eso es importante que desde ahora empiece a tener esa visibilidad
 internacional.
 
 Soñar no cuesta nada. Y a veces, los sueños se hacen realidad y te
@@ -184,7 +185,7 @@ no involucre un territorio: Argentina, Latinoamérica o América.
 
 .. class:: lead align-center
 
-   :doc:`Mucha gente <donaciones/colaboradores>` me ayudó a llegar hoy
-   hasta acá: gracias a ellos. Creo haberles hecho saber a cada uno de
-   ellos lo agradecido que estoy por haberme ayudado y sino, espero que
-   se estén enterando ahora :)
+   :doc:`Mucha gente <donaciones/colaboradores>` nos ayudó a llegar
+   hoy hasta acá: gracias a ellos. Creemos haberles hecho saber a cada
+   uno de ellos lo agradecido que estamos por habernos ayudado y sino,
+   espero que se estén enterando ahora :)

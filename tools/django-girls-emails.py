@@ -157,6 +157,29 @@ Manuel Kaufmann
 -- ​http://argentinaenpython.com.ar/'''
 }
 
+
+EMAIL_SURVEY = {
+    'subject': 'Comentarios post Django Girls',
+    'body': '''Hola,
+
+Nos gustaría saber tu opinión sobre el "Taller de programación para
+mujeres" que se realizó el {date} en {place}. Para eso hemos creado
+una pequeña encuesta donde podés dejarnos tu opinión de forma anónima
+y ayudarnos a mejorar los próximos talleres.
+
+Ingresando al siguiente link podrás responder todas las preguntas que
+quieras y dejarnos tus comentarios y/o sugerencias.
+
+{link}
+
+¡Muchas gracias!
+
+--
+
+Manuel Kaufmann
+-- ​http://argentinaenpython.com.ar/'''
+}
+
 DATE = 'Sábado 9 de Enero de 2016'
 HOUR = '8:30hs (puntual) a 18:30hs'
 PLACE = 'Laboratoria LA (Ave. Pardo 601 oficina 1104 - Piso 11, Miraflores, Lima, Perú)'

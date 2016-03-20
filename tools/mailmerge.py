@@ -103,6 +103,9 @@ if __name__ == '__main__':
             for f in fields:
                 argument = '--{}'.format(f.replace('_', '-'))
                 if f in ['first_name', 'last_name', 'email']:
+                    if f == 'last_name' and arguments[argument] == None:
+                        orow.append('')  # first_name and last_name are not divided
+                        continue
                     value = row[int(arguments[argument])]
                     if arguments['--title'] and f != 'email':
                         value = value.title()

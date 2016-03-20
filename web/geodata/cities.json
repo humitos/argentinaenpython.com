@@ -44,42 +44,6 @@
             "type": "administrative"
         },
         {
-            "accuracy": 0.60671998773647,
-            "address": "Machala, Provincia El Oro, Ecuador",
-            "bbox": {
-                "northeast": [
-                    -3.0871998,
-                    -79.8421827
-                ],
-                "southwest": [
-                    -3.3551508,
-                    -80.1069005
-                ]
-            },
-            "city": "Machala",
-            "confidence": 1,
-            "country": "Ecuador",
-            "county": "Machala",
-            "encoding": "utf-8",
-            "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png",
-            "importance": 0.60671998773647,
-            "lat": -3.2587493,
-            "lng": -79.9595132,
-            "location": "machala, ecuador",
-            "ok": true,
-            "osm_id": "2670341",
-            "osm_type": "relation",
-            "place_id": "145119886",
-            "place_rank": "16",
-            "provider": "osm",
-            "quality": "administrative",
-            "region": "Provincia El Oro",
-            "state": "Provincia El Oro",
-            "status": "OK",
-            "status_code": 200,
-            "type": "administrative"
-        },
-        {
             "accuracy": 0.78245217444264,
             "address": "Guayaquil, Cedros, Urdesa, Guayaquil, Provincia del Guayas, PUNTO 10, Ecuador",
             "bbox": {
@@ -189,46 +153,80 @@
             "status": "OK",
             "status_code": 200,
             "type": "administrative"
-        },
-        {
-            "accuracy": 0.95,
-            "address": "Cuenca, Provincia del Azuay, Ecuador",
-            "bbox": {
-                "northeast": [
-                    -2.5578081,
-                    -78.8482146
-                ],
-                "southwest": [
-                    -3.1757924,
-                    -79.598348
-                ]
-            },
-            "confidence": 1,
-            "country": "Ecuador",
-            "county": "Cuenca",
-            "encoding": "utf-8",
-            "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png",
-            "importance": 0.95,
-            // "lat": -2.86669065,
-            // "lng": -79.1933340336761,
-	    "lat": -2.8971,
-	    "lng": -79.0037,
-            "location": "cuenca, Provincia del Azuay, ecuador",
-            "ok": true,
-            "osm_id": "107724",
-            "osm_type": "relation",
-            "place_id": "143356897",
-            "place_rank": "12",
-            "provider": "osm",
-            "quality": "administrative",
-            "region": "Provincia del Azuay",
-            "state": "Provincia del Azuay",
-            "status": "OK",
-            "status_code": 200,
-            "type": "administrative"
         }
     ],
     "previous": [
+      {
+        "accuracy": 0.95,
+        "address": "Cuenca, Provincia del Azuay, Ecuador",
+        "bbox": {
+          "northeast": [
+                   -2.5578081,
+                  -78.8482146
+          ],
+          "southwest": [
+                   -3.1757924,
+                  -79.598348
+          ]
+        },
+        "confidence": 1,
+        "country": "Ecuador",
+        "county": "Cuenca",
+        "encoding": "utf-8",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png",
+        "importance": 0.95,
+	"lat": -2.8971,
+	"lng": -79.0037,
+        "location": "cuenca, Provincia del Azuay, ecuador",
+        "ok": true,
+        "osm_id": "107724",
+        "osm_type": "relation",
+        "place_id": "143356897",
+        "place_rank": "12",
+        "provider": "osm",
+        "quality": "administrative",
+        "region": "Provincia del Azuay",
+        "state": "Provincia del Azuay",
+        "status": "OK",
+        "status_code": 200,
+        "type": "administrative"
+      },
+      {
+        "accuracy": 0.60671998773647,
+        "address": "Machala, Provincia El Oro, Ecuador",
+        "bbox": {
+          "northeast": [
+                   -3.0871998,
+                  -79.8421827
+          ],
+          "southwest": [
+                   -3.3551508,
+                  -80.1069005
+          ]
+        },
+        "city": "Machala",
+        "confidence": 1,
+        "country": "Ecuador",
+        "county": "Machala",
+        "encoding": "utf-8",
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png",
+        "importance": 0.60671998773647,
+        "lat": -3.2587493,
+        "lng": -79.9595132,
+        "location": "machala, ecuador",
+        "ok": true,
+        "osm_id": "2670341",
+        "osm_type": "relation",
+        "place_id": "145119886",
+        "place_rank": "16",
+        "provider": "osm",
+        "quality": "administrative",
+        "region": "Provincia El Oro",
+        "state": "Provincia El Oro",
+        "status": "OK",
+        "status_code": 200,
+        "type": "administrative"
+      },
         {
             "address": "Rafaela, Municipio de Rafaela, Departamento Castellanos, Santa Fe, Argentina",
             "city": "Rafaela",

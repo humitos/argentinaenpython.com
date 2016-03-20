@@ -19,12 +19,19 @@
    </style>
 
 
+..
+   .. class:: alert alert-success
+
+      **NOVEDADES**: Nos quedamos 6 meses en Cuenca, Ecuador y
+      :doc:`estos son nuestros planes
+      <estadia-de-6-meses-en-cuenca-ecuador>`.
+
 .. class:: alert alert-success
 
-   Estamos `llegando a Ecuador
-   <http://argentinaenpython.com.ar/llegando-a-ecuador/#pk_campaign=llegando-a-ecuador&pk_kwd=link-home>`_
-   y necesitamos tu ayuda para organizar nuestros próximos meses allí.
+   **NOVEDADES**: ¡Se viene el primer :doc:`Django Girls en Cuenca
+    <django-girls-cuenca>`, Ecuador!
 
+      
 .. class:: alert alert-warning
 
    ¡Regalanos tu opinión! Ayudanos a sumar más KM y compartir Python

@@ -16,6 +16,11 @@ the moment the donation was made:
 
 ----
 
+General donations
+-----------------
+
+* 14 February 2016 - `Francisco Capdevila <https://twitter.com/pancho_jay>`_: ARS 300
+
 Donations to fix Errante
 ------------------------
 

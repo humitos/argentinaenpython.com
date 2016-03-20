@@ -37,10 +37,11 @@ improve the reach of the project in any valid direction for itself.
 
 The money will be used for, for example:
 
-* Courses
+* Events
 
   * Logistics and organization
   * Rent rooms
+  * Coffee Breaks
 
 * Broadcasting material
 
@@ -54,6 +55,7 @@ The money will be used for, for example:
 
   * Car's fixes
   * Gas
+  * Lodging
 
 ----
 

@@ -16,6 +16,11 @@ donaciones:
 
 ----
 
+Donaciones en general
+---------------------
+
+* 14 de Febrero de 2016 - `Francisco Capdevila <https://twitter.com/pancho_jay>`_: ARS 300
+
 Donaciones para reparar a Errante
 ---------------------------------
 

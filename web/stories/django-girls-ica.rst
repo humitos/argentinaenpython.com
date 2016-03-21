@@ -72,7 +72,7 @@ mujer con vos que también realice el taller [#]_.
 
 * Lugar: #devHouse :: Calle Orovilca E-41 Urb. Sol de Ica, Ica, Ica, Perú
 
-* Sábado 2 de Abril de 2016 de 8:30hs (puntual) a 18:30hs.
+* Sábado 9 de Abril de 2016 de 8:30hs (puntual) a 18:30hs.
 
 .. template:: iframe
    :src: http://www.openstreetmap.org/export/embed.html?bbox=-75.72810530662537%2C-14.079097106911858%2C-75.72399616241455%2C-14.076011543793536&amp;layer=mapnik&amp;marker=-14.077556932216577%2C-75.72605073451996
@@ -81,13 +81,20 @@ mujer con vos que también realice el taller [#]_.
 .. sidebar:: Contacto
 
    Cualquier duda que tengas sobre el taller, nos puedes escribir a
-   `argentinaenpython@openmailbox.org
-   <mailto:argentinaenpython@openmailbox.org>`_ para ponerte en
-   contacto con nosotros.
+   `daniela.parionac@gmail.com <mailto:daniela.parionac@gmail.com>`_
+   para ponerte en contacto con nosotros.
 
-   .. image:: organizadores.png
-      :align: center
+   .. template:: bootstrap3/dg-organizador
+      :style: col-md-6
+      :src: daniela-pariona.png
+      :href: https://twitter.com/danielapc21
+      :title: Daniela Pariona
 
+   .. template:: bootstrap3/dg-organizador
+      :style: col-md-6
+      :src: nicolas-molina.png
+      :href: https://twitter.com/nicobytes
+      :title: Nicolás Molina
 
 Tené en cuenta que...
 ---------------------
@@ -149,6 +156,26 @@ Tené en cuenta que...
 
 Guías / Entrenadores
 --------------------
+
+.. template:: bootstrap3/dg-guia
+   :style: col-md-3 col-sm-6
+   :src: farid-ivanir.jpg
+   :title: Farid Ivanir Escate
+
+.. template:: bootstrap3/dg-guia
+   :style: col-md-3 col-sm-6
+   :src: rosa-orellana.jpg
+   :title: Rosa Orellana
+
+.. template:: bootstrap3/dg-guia
+   :style: col-md-3 col-sm-6
+   :src: moises-nanez.jpg
+   :title: Moises Ñañez
+
+.. template:: bootstrap3/dg-guia
+   :style: col-md-3 col-sm-6
+   :src: kattya-cuevas.png
+   :title: Kattya Cuevas
 
 Los *guías* son una parte muy importante del evento. Son las personas
 que tienen conocimiento sobre programación (no necesariamente

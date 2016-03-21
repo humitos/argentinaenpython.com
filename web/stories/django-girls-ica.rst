@@ -81,8 +81,8 @@ mujer con vos que también realice el taller [#]_.
 .. sidebar:: Contacto
 
    Cualquier duda que tengas sobre el taller, nos puedes escribir a
-   `daniela.parionac@gmail.com <mailto:daniela.parionac@gmail.com>`_
-   para ponerte en contacto con nosotros.
+   `ica@djangogirls.org <mailto:ica@djangogirls.org>`_ para ponerte en
+   contacto con nosotros.
 
    .. template:: bootstrap3/dg-organizador
       :style: col-md-6
@@ -190,7 +190,7 @@ contigo para coordinar los detalles.
 
 
 .. template:: bootstrap3/button
-   :href: #home
+   :href: https://goo.gl/Crzlpt
 
    ¡Quiero participar como guía!
 

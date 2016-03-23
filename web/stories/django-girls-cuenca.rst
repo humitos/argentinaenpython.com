@@ -178,8 +178,8 @@ contigo para coordinar los detalles.
    ¡Quiero participar como guía!
 
 
-Colaboradores
--------------
+Con el Apoyo de
+---------------
 
 .. image:: colaboradores.png
    :align: center

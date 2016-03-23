@@ -28,8 +28,7 @@
 
 .. class:: alert alert-success
 
-   **NOVEDADES**: ¡Se viene el primer :doc:`Django Girls en Cuenca
-    <django-girls-cuenca>`, Ecuador!
+   **NOVEDADES**: ¡Se viene el primer :doc:`Django Girls en Cuenca <django-girls-cuenca>`, Ecuador!
 
       
 .. class:: alert alert-warning

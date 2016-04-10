@@ -73,7 +73,7 @@ mujer con vos que también realice el taller [#]_.
 * Lugar: La Casa Chaguarchimbana, Calle Herrerías y Av. 10 de Agosto
   en Cuenca, Azuay, Ecuador
 
-* Sábado 30 de Abril de 2016 de 8:30hs (puntual) a 18:30hs.
+* Fecha: Sábado 30 de Abril de 2016 de 8:30hs (puntual) a 18:30hs.
 
 .. template:: iframe
    :src: http://www.openstreetmap.org/export/embed.html?bbox=-78.9956447482109%2C-2.9146680629216837%2C-78.99265140295029%2C-2.9130795694342932&amp;layer=mapnik&amp;marker=-2.913875155828759%2C-78.99414807558058
@@ -115,7 +115,7 @@ Tené en cuenta que...
   aceptan donaciones <donaciones>` para que el proyecto pueda realizar
   más talleres gratuitos.
 
-* ... en lo posible, debes de llevar un extensor de corriente.
+* ... en lo posible, debes llevar un extensor de corriente.
 
 * ... debes **revisar el email** durante los 15 días previos al evento
   para saber si recibiste la confirmación (incluso la carpeta de *SPAM*).
@@ -173,7 +173,7 @@ contigo para coordinar los detalles.
 
 
 .. template:: bootstrap3/button
-   :href: http://goo.gl/forms/e5fUcPnVMg
+   :href: http://goo.gl/forms/Mzmr0p7OOy
 
    ¡Quiero participar como guía!
 

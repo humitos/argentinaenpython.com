@@ -33,7 +33,7 @@ Al día siguiente `enviaba un email a Python Argentina
 <http://listas.python.org.ar/pipermail/pyar/2016-March/037858.html>`_
 para comentar esta situación y explicar un poco mejor sobre cómo viene
 nuestra organización.
-
+   
 Debido a que la solicitud de Grant Proposal fue enviada en Diciembre
 del año pasado y hasta Febrero nosotros no sabíamos si la iban a
 aceptar o no, me ví obligado a aceptar una excitante oferta de trabajo
@@ -41,6 +41,22 @@ como Python/Django Backend Developer en Mozio_ ya que nos estamos
 quedando sin dinero y el apoyo en donaciones por parte de la comunidad
 no es suficiente para cubrir todos los gastos. Esto tiene una parte
 buena y una parte mala:
+
+.. sidebar:: Novedades
+
+   Si deseas colaborar con la organización de estos eventos en Ecuador
+   (quizás en la ciudad en la que vives), ¡nos ayudarías muchísimo!
+   Las tareas son muy sencillas, quizas pegar un afiche en la
+   universidad o hablar con un docente para conseguir el auditorio de
+   la misma, o simplemente hacer difusión a través de las redes
+   sociales que utilices.
+
+   Para que toda la organización sea un éxito, utilizamos Trello_ para
+   las tareas puntuales y Slack_ para chatear sobre las decisiones.
+
+   ¿Te gustaría ver cómo es la organización de los eventos desde
+   adentro? ¡No dejes de ponerte en :doc:`contacto con nosotros
+   <contacto>`!
 
 * **la parte mala**: en pocas palabras, vuelvo a los inicios del
   proyecto donde la mayor parte del día me la pasaba trabajando y no
@@ -61,7 +77,7 @@ lo que nos debería ser mucho más sencillo organizar los eventos sin
 *perder tiempo* en todo lo que corresponde a "estar viajando".
 
 En fin, como primer objetivo nos estamos proponiendo realizar un
-taller de `Django Girls`_ por mes y una `Meetup de Python en Ecuador`_
+taller de `Django Girls`_ por mes y una `Meetup de Python Ecuador`_
 puntualmente en Cuenca cada 15 días con la idea de promover la
 comunidad local.
 

@@ -7,9 +7,11 @@
 <%block name="extra_js">
    <script type="text/javascript">
     $(document).ready(function (){
-	$.getJSON('/mapas-de-openstreetmap-para-garmin/osm-data.json', function(data) {
-	    $.each(data, function(key, value) {
-		document.body.innerHTML = document.body.innerHTML.replace(key, value);		
+	$.each(['peru', 'ecuador'], function(i, country){
+	    $.getJSON('/mapas-de-openstreetmap-para-garmin/' + country + '_osm-data.json', function(data) {
+		$.each(data, function(key, value) {
+		    document.body.innerHTML = document.body.innerHTML.replace(key, value);
+		});
 	    });
 	});
     });

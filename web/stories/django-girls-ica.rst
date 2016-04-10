@@ -157,6 +157,10 @@ Tené en cuenta que...
 Guías / Entrenadores
 --------------------
 
+.. raw:: html
+
+   <div style="display: inline-block;">
+
 .. template:: bootstrap3/dg-guia
    :style: col-md-3 col-sm-6
    :src: farid-ivanir.jpg
@@ -176,6 +180,15 @@ Guías / Entrenadores
    :style: col-md-3 col-sm-6
    :src: kattya-cuevas.png
    :title: Kattya Cuevas
+
+.. template:: bootstrap3/dg-guia
+   :style: col-md-3 col-sm-6
+   :src:  oliver-etchebarne.jpg
+   :title:  Oliver Etchebarne
+
+.. raw:: html
+
+   </div>
 
 Los *guías* son una parte muy importante del evento. Son las personas
 que tienen conocimiento sobre programación (no necesariamente

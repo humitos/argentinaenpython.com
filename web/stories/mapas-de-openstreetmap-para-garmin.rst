@@ -36,14 +36,29 @@ luego de ese tiempo llegamos a Perú y el mapa que Martín genera no
 cubre este país. Es por eso que hemos decidido generarlos nosotros
 mismos y ponerlos a disposición de ustedes en caso de que les sirvan.
 
-:Archivo: `gmapsupp.img <gmapsupp.img>`_ (para Perú)
-:Tamaño: {{size}}
-:Fecha: {{date}}
+Perú
+----
+
+:Archivo: `gmapsupp.img <peru/gmapsupp.img>`_
+:Tamaño: {{peru_size}}
+:Fecha: {{peru_date}}
 :Copyright: © Colaboradores de `OpenStreetMap`_, `ODbL
 	    <http://www.openstreetmap.org/copyright>`_
-:MD5: {{md5}}
-:SHA1: {{sha1}}
-:SHA256: {{sha256}}
+:MD5: {{peru_md5}}
+:SHA1: {{peru_sha1}}
+:SHA256: {{peru_sha256}}
+
+Ecuador
+-------
+
+:Archivo: `gmapsupp.img <ecuador/gmapsupp.img>`__
+:Tamaño: {{ecuador_size}}
+:Fecha: {{ecuador_date}}
+:Copyright: © Colaboradores de `OpenStreetMap`_, `ODbL
+	    <http://www.openstreetmap.org/copyright>`_
+:MD5: {{ecuador_md5}}
+:SHA1: {{ecuador_sha1}}
+:SHA256: {{ecuador_sha256}}
 
 Los mapas se actualizan semanalmente mediante una `tarea de CRON
 <https://github.com/humitos/garmin-osm>`_ automática y sin supervisión

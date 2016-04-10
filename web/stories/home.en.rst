@@ -53,6 +53,21 @@ How?
 
 .. _Python: http://docs.python.org.ar/tutorial/3/real-index.html
 
+
+.. raw:: html
+
+   <hr style="border-width: 10px 0 0;">
+
+
+.. epigraph::
+
+   RESOLVED, that the Python Software Foundation grant $750 per month
+   for three months to Manuel Kaufmann for a trial "*Python Ambassador*"
+   outreach and education effort. The guidelines for this trial have
+   been discussed and decided upon by the board.
+
+   -- Python Software Foundation (source_)
+
 .. raw:: html
 
    <style>
@@ -148,3 +163,5 @@ How?
 
    Travels around Latin America and the world by sharing knowledge,
    Python and its philosophy.
+
+.. _source: https://www.python.org/psf/records/board/minutes/2016-02-25/#new-business

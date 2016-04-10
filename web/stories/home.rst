@@ -70,6 +70,21 @@ formas de vida.
 
 .. raw:: html
 
+   <hr style="border-width: 10px 0 0;">
+
+
+.. epigraph::
+
+   RESUELTO, que la Python Software Foundation otorga $750 por mes
+   durante tres meses a Manuel Kaufmann a modo de "*Embajador de
+   Python*" como compromiso con la comunidad y el esfuerzo
+   educativo. Las pautas ya fueron discutidas y decididas por la
+   junta.
+   
+   -- Python Software Foundation (fuente_)
+
+.. raw:: html
+
    <style>
      .home-sections {
 	 text-decoration: none;
@@ -163,3 +178,5 @@ formas de vida.
 
    Recorre Latinoamérica y el mundo compartiendo conocimiento, Python
    y su filosofía.
+
+.. _fuente: https://www.python.org/psf/records/board/minutes/2016-02-25/#new-business

@@ -429,12 +429,12 @@ POSTS_SECTIONS = True
 # output / TRANSLATION[lang] / TAG_PATH / index.html (list of tags)
 # output / TRANSLATION[lang] / TAG_PATH / tag.html (list of posts for a tag)
 # output / TRANSLATION[lang] / TAG_PATH / tag.xml (RSS feed for a tag)
- # (translatable)
+# (translatable)
 # TAG_PATH = "categories"
 
 # See TAG_PATH's "list of tags" for the default setting value. Can be overwritten
 # here any path relative to the output directory.
- # (translatable)
+# (translatable)
 # TAGS_INDEX_PATH = "tags.html"
 
 # If TAG_PAGES_ARE_INDEXES is set to True, each tag's page will contain
@@ -700,9 +700,9 @@ def rpl_email(filename):
         fh.write(content)
 
 
-# from nikola import filters
+from nikola import filters
 FILTERS = {
-    ".html": [rpl_email],
+    ".html": [rpl_email, filters.typogrify],
     # ".js": [filters.closure_compiler],
     # ".jpg": ["jpegoptim --strip-all -m75 -v %s"],
     # ".html": ["rpl {old_email} {new_email} %s".format(

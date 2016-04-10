@@ -65,6 +65,24 @@ Año 2016
    :src: 2016_enero_6-340x255.png
    :href: diario-maranon_enero-2016.pdf
 
+.. template:: prensa-image
+   :title: Radio Eme 96.3
+   :description: Fantásticas Mentiras Bailables
+   :src: 2016_marzo_1-340x255.png
+   :href: http://elblogdehumitos.com.ar/posts/entrevista-fantasticas-mentiras-bailables/
+
+.. template:: prensa-image
+   :title: Cuyker
+   :description: Taller de programación para Mujeres Django Girls Cuenca
+   :src: 2016_marzo_2-340x255.png
+   :href: http://www.cuyker.com/index.php/welcome/detail?id=5765
+
+.. template:: prensa-image
+   :title: El Tiempo
+   :description: Evento Meetup Python se cumple hoy
+   :src: 2016_abril_1-340x255.png
+   :href: http://www.eltiempo.com.ec/noticias-cuenca/181084-evento-meetup-python-se-cumple-hoy/
+
 
 .. raw:: html
 
@@ -404,6 +422,10 @@ Año 2014
 
 .. Las imágenes fueron capturadas con la extensión "Full Page Screen
    Capture" de Google Chrome.
+
+.. Shift + F2 -> "screenshot --fullpage"
+.. http://stackoverflow.com/questions/13158083/take-a-full-page-screenshot-with-firefox
+   
 .. Luego fueron achicadas y cortadas con "convert" de ImageMagick
 
 .. resize to 340 width and crop to 255 height

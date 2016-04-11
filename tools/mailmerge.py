@@ -11,7 +11,7 @@
 #   --city Piura \
 #   --place "UDEP - Universidad de Piura, Av. Ramón Mugica 131, Piura, Piura, Perú" \
 #   --hour "8:30 (puntual) a 18:30 hs." \
-#   --days 5 \
+#   --confirm-date "Sábado 16 de Enero de 2016" \
 #   --filter-column 21 --filter-column-text "Esperando respuesta"
 
 """Create .csv file to use with Mail Merge's Thunderbird plugin
@@ -23,7 +23,7 @@ Usage:
 
 Options:
   -i, --input IFILE            Input .csv file
-  -o, --output IFILE           Output .csv file
+  -o, --output OFILE           Output .csv file
 
   -e, --email=COLUMN           Email column
   -f, --first-name=COLUMN      FirstName column
@@ -34,10 +34,10 @@ Options:
   -h, --hour=TEXT              Hour of the event
   -p, --place=TEXT             Place of the event
   -u, --url=TEXT               Url of the event
-  -s, --days=TEXT              Days before event to confirm
+  -s, --confirm-date=TEXT      Date before the event to confirm assistance
 
-  --filter-column=COLUMN          Apply filter on this column number
-  --filter-column-text=TEXT       Look for this TEXT in the filtered row
+  --filter-column=COLUMN       Apply filter on this column number
+  --filter-column-text=TEXT    Look for this TEXT in the filtered row
 
   --title                      Apply .title() to the value
   --strip                      Apply .strip() to the value
@@ -80,7 +80,7 @@ if __name__ == '__main__':
     fields = [
         'city',
         'date',
-        'days',
+        'confirm_date',
         'email',
         'first_name',
         'hour',

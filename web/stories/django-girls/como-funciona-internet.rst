@@ -80,7 +80,7 @@ cómo se distribuyen en cada oficina.
    Figura 1.4
 
 Sí, es tan simple como eso. Enviar mensajes y esperar alguna respuesta.
-Por supuesto, en vez de papel y lapicera usas bytes de datos, ¡pero la
+Por supuesto, en vez de papel y lapicero usas bytes de datos, ¡pero la
 idea es la misma!
 
 En lugar de direcciones con el nombre de la calle, ciudad, código postal

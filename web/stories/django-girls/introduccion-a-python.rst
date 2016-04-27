@@ -343,7 +343,7 @@ a mayor. ¡Enhorabuena!
     >>> print(lottery)
     [59, 42, 30, 19, 12, 3]
 
-Fácil, ¿no? Si quieres añadir algo a tu lista, puedes hacerlo
+Fácil, ¿no? Si quieres agregar algo a tu lista, puedes hacerlo
 escribiendo este comando:
 
 ::
@@ -720,27 +720,27 @@ utiliza la terminal para **cambiar los directorios** e ir al escritorio.
 
 .. admonition:: Nota
 
-   Reemplaza ``<your_name>`` incluyendo los signos ``<`` y ``>`` con
+   Reemplaza ``<tu_nombre>`` incluyendo los signos ``<`` y ``>`` con
    tu nombre de usuario)
 
 En una Mac, el comando se verá algo como esto:
 
 ::
 
-    $ cd /Users/<your_name>/Desktop
+    $ cd /Users/<tu_nombre>/Desktop
 
 En Linux, va a ser así (la palabra "Desktop" puede estar traducida a tu
 idioma):
 
 ::
 
-    $ cd /home/<your_name>/Desktop
+    $ cd /home/<tu_nombre>/Desktop
 
 Y en Windows, será así:
 
 ::
 
-    > cd C:\Users\<your_name>\Desktop
+    > cd C:\Users\<tu_nombre>\Desktop
 
 Si te quedas atascada, sólo pide ayuda.
 
@@ -791,9 +791,9 @@ Python imprima "It works!". Cambia tu código en el archivo
 ¿Observas cómo hemos indentado la siguiente línea de código con 4
 espacios? Necesitamos hacer esto para que Python sepa que código
 ejecutar si es resultado es verdadero. Puedes poner un espacio, pero
-casi todas las programadores y los programadores Python hacen 4 espacios
-para hacer que el código sea más legible. Un solo ``tab`` también cuenta
-como 4 espacios.
+casi todos los programadores Python usan 4 espacios para hacer que el
+código sea más legible. Un solo ``tab`` también cuenta como 4
+espacios.
 
 Guárdalo y ejecútalo de nuevo:
 
@@ -1034,9 +1034,9 @@ Bucles
 
 Esta es la última parte. Bien rápido, ¿cierto? :)
 
-A las programadoras no les gusta repetirse a si mismas. Programar es
-sobre automatizar cosas, entonces no queremos saludar a cada persona por
-su nombre manualmente, ¿no? Ahí es donde los loops son útiles.
+A los programadores no les gusta repetirse a si mismos. Programar es
+sobre automatizar cosas, entonces no queremos saludar a cada persona
+por su nombre manualmente, ¿no? Ahí es donde los loops son útiles.
 
 ¿Todavía recuerdas las listas? Hagamos una lista de las chicas:
 

@@ -27,7 +27,7 @@ URL recibida para encontrar la vista correcta.
 ¿Cómo funcionan las URLs en Django?
 ===================================
 
-Vamos a abrir el fichero ``mysite/urls.py`` en el editor de código de tu
+Vamos a abrir el archivo ``mysite/urls.py`` en el editor de código de tu
 elección y ver lo que tiene:
 
 .. code:: python
@@ -72,6 +72,8 @@ vamos a entrar en detalle de cómo funcionan.
 Si aún así quieres entender cómo hemos creado los patrones, aquí hay un
 ejemplo del proceso. Sólo necesitaremos un grupo limitado de reglas para
 expresar el patrón que estamos buscando, en concreto:
+
+.. FIXME: no debería ser código, sino una lista
 
 ::
 

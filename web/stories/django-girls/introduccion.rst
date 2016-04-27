@@ -62,9 +62,9 @@ otros podrán ver tu trabajo!
 Se verá (más o menos) como ésta:
 
 .. figure:: application.png
-   :alt: Figura 0.1
+   :alt: Figura 1.0
 
-   Figura 0.1
+   Figura 1.0
 
 Bien, `empecemos por el principio... <#como-funciona-internet>`__
 

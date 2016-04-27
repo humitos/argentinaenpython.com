@@ -42,7 +42,7 @@ que recibe una petición, ``request``, y devuelve, ``return``, un método
 ``render`` que renderizará (construirá) la plantilla
 ``blog/post_list.html``.
 
-Guarda el fichero, ve a http://127.0.0.1:8000/ y veamos lo que tenemos
+Guarda el archivo, ve a http://127.0.0.1:8000/ y veamos lo que tenemos
 ahora.
 
 ¡Otro error! Leamos lo que está pasando ahora:

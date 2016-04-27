@@ -152,7 +152,7 @@ Y guárdalo como ``.gitignore`` en la primera carpeta "djangogirls".
 
    ¡El punto al principio del nombre del archivo es importante! Si
    tienes dificultades para crearlo (a los Mac no les gusta que crees
-   ficheros que empiezan por punto desde Finder, por ejemplo), usa la
+   archivos que empiezan por punto desde Finder, por ejemplo), usa la
    opción "Guardar como" en tu editor, eso no falla.
 
 .. admonition:: Nota
@@ -162,7 +162,7 @@ Y guárdalo como ``.gitignore`` en la primera carpeta "djangogirls".
    los artículos de blog son guardados. No queremos agregar esto a tu
    repositorio porque tu sitio web en PythonAnywhere usará una base de
    datos diferente. Esa base de datos puede ser SQLite, como en tu
-   máquina de desarollo, pero usualmente usarás una llamada MySQL que
+   máquina de desarrollo, pero usualmente usarás una llamada MySQL que
    puede manejar mucho más visitantes a tu sitio que SQLite.  De
    cualquier manera, ignorar tu base de datos SQLite en la copia de
    GitHub significa que todos los artículos de blog que crees van a
@@ -174,7 +174,7 @@ Y guárdalo como ``.gitignore`` en la primera carpeta "djangogirls".
 
 Es buena idea utilizar el comando ``git status`` antes de ``git add`` o
 en cualquier momento en que no estés segura de lo que ha cambiado. Esto
-ayudará a evitar sorpresas como añadir o hacer commit de los ficheros
+ayudará a evitar sorpresas como agregar o hacer commit de los archivos
 equivocados. El comando ``git status`` devuelve información sobre los
 archivos sin seguimiento (untracked), modificados, preparados (staged),
 el estado de la rama y mucho más. La salida debería ser similar a:
@@ -443,7 +443,7 @@ Borra todo el contenido y reemplázalo con algo como esto:
     import os
     import sys
 
-    path = '/home/<your-username>/my-first-blog'  # use your own username here
+    path = '/home/<tu_nombre_de_usuario>/mi-primer-blog'  # use your own username here
     if path not in sys.path:
         sys.path.append(path)
 
@@ -472,7 +472,7 @@ aplicación web y cómo se llama el archivo de configuración de Django.
 
 La línea con ``StaticFilesHandler`` es para manejar nuestros CSS. De
 esto se ocupa automáticamente el comando ``runserver`` durante el
-desarollo local. Encontrás un poco más sobre archivos estáticos luego en
+desarrollo local. Encontrarás un poco más sobre archivos estáticos luego en
 este tutorial, cuando edites los CSS de tu sitio.
 
 Dale a **Save** y vuelve a la pestaña **Web**.
@@ -498,7 +498,7 @@ recientes están al final. Los problemas más comunes incluyen:
 -  Cometer un error en la ruta del virtualenv en la pestaña Web; suele
    haber un mensajito de error de color rojo, si hay algún problema.
 
--  Cometer un error en el fichero de configuración WSGI; ¿has puesto
+-  Cometer un error en el archivo de configuración WSGI; ¿has puesto
    bien la ruta a la carpeta mi-primer-blog?
 
 -  ¿Has elegido la misma versión de Python para el virtualenv y para la
@@ -513,9 +513,9 @@ Y recuerda, ¡tu tutora está ahí para ayudarte!
 ===============
 
 La página predeterminada de tu sitio debería decir "Welcome to Django",
-igual que en tu Pc local. Intenta añadir ``/admin/`` al final de la URL
+igual que en tu PC local. Intenta agregar ``/admin/`` al final de la URL
 y te redirigirá al panel de administración. Ingresa con tu nombre de
-usuario y contraseña y verás que puedes añadir nuevas entradas en el
+usuario y contraseña y verás que puedes agregar nuevas entradas en el
 servidor.
 
 Una vez que hayas creado algunos artículos de blog, puedes volver a tu

@@ -30,13 +30,13 @@ mantener una cierta estructura para poder encontrar cosas importantes.}
     ``source myvenv/bin/activate`` en Mac OS / Linux.
 
 En MacOS o Linux deberías ejecutar el siguiente comando en la consola;
-**no te olvides de añadir el punto ``.`` al final**:
+**no te olvides de agregar el punto ``.`` al final**:
 
 ::
 
     (myvenv) ~/djangogirls$ django-admin startproject mysite .
 
-En Windows; **no te olvides de añadir el punto ``.`` al final**:
+En Windows; **no te olvides de agregar el punto ``.`` al final**:
 
 ::
 
@@ -78,7 +78,7 @@ El archivo ``settings.py`` contiene la configuración de tu sitio web.
 entregar una carta? El archivo ``urls.py`` contiene una lista de los
 patrones utilizados por ``urlresolver``.
 
-Por ahora vamos a ignorar el resto de ficheros porque no los vamos a
+Por ahora vamos a ignorar el resto de archivos porque no los vamos a
 cambiar. ¡Sólo acuérdate de no borrarlos accidentalmente!
 
 Cambiar la configuración

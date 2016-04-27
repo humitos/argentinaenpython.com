@@ -286,7 +286,7 @@ Descarga tu nuevo código a PythonAnywhere y actualiza tu aplicación web
 
 ::
 
-    $ cd ~/my-first-blog
+    $ cd ~/mi-primer-blog
     $ git pull
     [...]
 

@@ -119,7 +119,7 @@ Ahora ya podemos crear nuestra entrada:
 Añade más entradas
 ------------------
 
-Ahora puedes divertirte un poco y añadir más entradas para ver cómo
+Ahora puedes divertirte un poco y agregar más entradas para ver cómo
 funciona. Añade 2 o 3 más y avanza a la siguiente parte.
 
 Filtrar objetos
@@ -129,7 +129,7 @@ Una parte importante de los QuerySets es la habilidad para filtrarlos.
 Digamos que queremos encontrar todas las entradas cuyo autor sea el User
 ola. Usaremos ``filter`` en vez de ``all`` en ``Post.objects.all()``.
 Entre paréntesis estableceremos qué condición (o condiciones) debe
-cumplir una entrada del blog para terminar en nuestro queryset. En
+cumplir una entrada del blog para terminar en nuestro QuerySet. En
 nuestro caso sería ``author`` es igual a ``me``. La forma de escribirlo
 en Django es: ``author=me``. Ahora nuestro bloque de código tiene este
 aspecto:

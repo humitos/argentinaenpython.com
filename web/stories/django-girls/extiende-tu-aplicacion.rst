@@ -75,11 +75,11 @@ Vamos a crear una URL en ``urls.py`` para nuestra *vista*
 Queremos que el detalle de la primera entrada se visualice en esta
 **URL**: http://127.0.0.1:8000/post/1/
 
-Vamos a crear una URL en el fichero ``blog/urls.py`` que dirija a Django
+Vamos a crear una URL en el archivo ``blog/urls.py`` que dirija a Django
 hacia una *vista* llamada ``post_detail``, que mostrará una entrada de
 blog completa. Añade la línea
 ``url(r'^post/(?P<pk>\d+)/$', views.post_detail, name='post_detail'),``
-al fichero ``blog/urls.py``. El archivo debería parecerse a esto:
+al archivo ``blog/urls.py``. El archivo debería parecerse a esto:
 
 .. code:: python
 
@@ -272,7 +272,7 @@ Sería bueno verificar que tu sitio web aún funcionará en PythonAnywhere,
 
 ::
 
-    $ cd my-first-blog
+    $ cd mi-primer-blog
     $ git pull
     [...]
 

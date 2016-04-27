@@ -225,15 +225,15 @@ puedes hacer de esta manera:
 
 ::
 
-    $ mkdir practice
+    $ mkdir ejercicio
 
 Windows:
 
 ::
 
-    > mkdir practice
+    > mkdir ejercicio
 
-Este pequeño comando creará una carpeta con el nombre ``practice`` en el
+Este pequeño comando creará una carpeta con el nombre ``ejercicio`` en el
 escritorio. ¡Puedes comprobar si está ahí mirando en el escritorio o
 ejecutando el comando ``ls`` o ``dir``! Inténtalo :)
 
@@ -247,7 +247,7 @@ ejecutando el comando ``ls`` o ``dir``! Inténtalo :)
 ¡Ejercicios!
 ------------
 
-Un pequeño reto para ti: en el recién creado directorio ``practice``
+Un pequeño reto para ti: en el recién creado directorio ``ejercicio``
 crea un directorio llamado ``test``. Utiliza los comandos ``cd`` y
 ``mkdir``.
 
@@ -256,7 +256,7 @@ Solución:
 
 ::
 
-    $ cd practice
+    $ cd ejercicio
     $ mkdir test
     $ ls
     test
@@ -265,7 +265,7 @@ Windows:
 
 ::
 
-    > cd practice
+    > cd ejercicio
     > mkdir test
     > dir
     05/08/2014 07:28 PM <DIR>      test
@@ -309,7 +309,7 @@ Windows:
     > cd
     C:\Users\olasitarska\Desktop
 
-Es el momento de eliminar el directorio ``practice``:
+Es el momento de eliminar el directorio ``ejercicio``:
 
 .. admonition:: Atención
 
@@ -320,14 +320,14 @@ Es el momento de eliminar el directorio ``practice``:
 
 ::
 
-    $ rm -r practice
+    $ rm -r ejercicio
 
 Windows:
 
 ::
 
-    > rmdir /S practice
-    practice, Are you sure <Y/N>? Y
+    > rmdir /S ejercicio
+    ejercicio, Are you sure <Y/N>? Y
 
 ¡Hecho! Para asegurarnos de que realmente se ha eliminado, vamos a
 comprobarlo:

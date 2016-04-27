@@ -133,7 +133,7 @@ proyecto deberían parecerse a esto:
 
 Después de crear una aplicación también necesitamos decirle a Django que
 debe utilizarla. Lo hacemos en el archivo ``mysite/settings.py``.
-Tenemos que encontrar ``INSTALLED_APPS`` y añadir una línea que contiene
+Tenemos que encontrar ``INSTALLED_APPS`` y agregar una línea que contiene
 ``'blog',`` justo por encima de ``)``. El producto final debe tener este
 aspecto:
 
@@ -190,7 +190,7 @@ Da un poco de miedo, ¿no? Pero no te preocupes, ¡vamos a explicar qué
 significan estas líneas!
 
 Todas las líneas que comienzan con ``from`` o ``import`` son líneas para
-añadir algo de otros archivos. Así que en vez de copiar y pegar las
+agregar algo de otros archivos. Así que en vez de copiar y pegar las
 mismas cosas en cada archivo, podemos incluir algunas partes con
 ``from... import ...``.
 
@@ -249,7 +249,7 @@ poco más sentido para ti ahora!
 Crear tablas para los modelos en tu base de datos
 -------------------------------------------------
 
-El último paso es añadir nuestro nuevo modelo a la base de datos.
+El último paso es agregar nuestro nuevo modelo a la base de datos.
 Primero tenemos que hacer saber a Django que hemos hecho cambios en el
 modelo (¡lo acabamos de crear!). Escribe
 ``python manage.py makemigrations blog``. Se verá así:
@@ -261,7 +261,7 @@ modelo (¡lo acabamos de crear!). Escribe
       0001_initial.py:
       - Create model Post
 
-Django nos ha preparado un fichero de migración que ahora tenemos que
+Django nos ha preparado un archivo de migración que ahora tenemos que
 aplicar a nuestra base de datos. Escribe
 ``python manage.py migrate blog`` y el resultado debería ser:
 

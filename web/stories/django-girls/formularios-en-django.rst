@@ -62,7 +62,7 @@ vista y una plantilla.
 Enlace a una página con el formulario
 =====================================
 
-Es hora de abrir ``blog/templates/blog/base.html``. Vamos a añadir un
+Es hora de abrir ``blog/templates/blog/base.html``. Vamos a agregar un
 enlace en ``div`` llamado ``page-header``:
 
 .. code:: html
@@ -128,7 +128,7 @@ Y el código final tendrá este aspecto:
     ]
 
 Después de actualizar el sitio, veremos un ``AttributeError``, puesto
-que no tenemos la vista ``post_new`` implementada. Vamos a añadirla
+que no tenemos la vista ``post_new`` implementada. Vamos a agregarla
 ahora.
 
 Vista post_new
@@ -167,7 +167,7 @@ necesitamos varias cosas:
 -  necesitamos un botón ``Guardar``. Lo hacemos con un botón HTML:
    ``<button type='submit'>Save</button>``
 -  y por último justo después de abrir la etiqueta ``<form ...>``
-   tenemos que añadir ``{% csrf_token %}``. ¡Esto
+   tenemos que agregar ``{% csrf_token %}``. ¡Esto
    es muy importante ya que hace que tus formularios sean seguros!
    Django se quejará si te olvidas de esta parte cuando intente guardar
    el formulario.
@@ -233,7 +233,7 @@ cuál es la diferencia).
 En nuestra *view* tenemos dos posibles situaciones a contemplar.
 Primero: cuando accedemos a la página por primera vez y queremos un
 formulario en blanco. Segundo: cuando volvemos a la *view* con los datos
-del formulario que acabamos de escribir. Así que tenemos que añadir una
+del formulario que acabamos de escribir. Así que tenemos que agregar una
 condición (utilizaremos ``if`` para eso).
 
 .. code:: python
@@ -270,7 +270,7 @@ Básicamente, tenemos que hacer dos cosas aquí: guardamos el formulario
 con ``form.save`` y agregamos un autor (ya que no había ningún campo de
 ``author`` en el ``PostForm`` y este campo es obligatorio).
 ``commit=False`` significa que no queremos guardar el modelo ``Post``
-todavía - queremos añadir el autor primero. La mayoría de las veces
+todavía - queremos agregar el autor primero. La mayoría de las veces
 utilizarás ``form.save()``, sin ``commit=False``, pero en este caso,
 tenemos que hacerlo. ``post.save()`` conservará los cambios (añadiendo a
 autor) y se creará una nuevo post en el blog.
@@ -327,7 +327,7 @@ publicar* en el libro **Django Girls Tutorial: Extensions**.
     Django, el sistema sabe que hemos iniciado sesión. Hay algunas
     situaciones que podrían llevarnos a desconectarnos (cerrar el
     navegador, reiniciar la base de datos, etc.). Si estás obteniendo
-    errores al crear un artículo de blog indicando que no has iniciado
+    errores al crear una entrada de blog indicando que no has iniciado
     sesión, ve a la página principal del administrado de Django
     http://127.0.0.1:8000/admin e inicia sesión nuevamente. Esto
     solucionará el problema temporalmente. Hay una forma permanente de
@@ -473,7 +473,7 @@ y la etiqueta de enlace que has puesto ahí antes. Debería ser algo como:
 
     <a href="{% url 'post_new' %}" class="top-menu"><span class="glyphicon glyphicon-plus"></span></a>
 
-Vamos a añadir otra etiqueta ``{% if %}`` que hará que el enlace sólo
+Vamos a agregar otra etiqueta ``{% if %}`` que hará que el enlace sólo
 parezca para los usuarios que hayan iniciado sesión en el admin. Ahora
 mismo, ¡eres sólo tú! Cambia la etiqueta ``<a>`` para que se parezca a
 esto:
@@ -533,7 +533,7 @@ despliegue!
 
 ::
 
-    $ cd my-first-blog
+    $ cd mi-primer-blog
     $ git pull
     [...]
 

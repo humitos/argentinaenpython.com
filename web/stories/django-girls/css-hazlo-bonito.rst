@@ -14,7 +14,7 @@ Trátalo como maquillaje para nuestra página web ;).
 
 Pero no queremos empezar de cero otra vez, ¿verdad? Una vez más,
 usaremos algo que ya ha sido hecho por programadores y publicado en
-Internet de forma gratuita. Ya sabes, reinventar la rueda no es
+Internet de forma gratuita. Ya sabes, re-inventar la rueda no es
 divertido.
 
 ¡Vamos a usar Bootstrap!
@@ -29,7 +29,7 @@ siendo desarrollado por voluntarios de todo el mundo.
 Instalar Bootstrap
 ==================
 
-Para instalar Bootstrap, tienes que añadir esto al ``<head>`` en tu
+Para instalar Bootstrap, tienes que agregar esto al ``<head>`` en tu
 archivo ``.html`` (``blog/templates/blog/post_list.html``):
 
 .. code:: html
@@ -60,7 +60,7 @@ Dónde poner los archivos estáticos para Django
 ----------------------------------------------
 
 Django ya sabe dónde encontrar los archivos estáticos para la aplicación
-"admin". Ahora necesitamos añadir algunos archivos estáticos para
+"admin". Ahora necesitamos agregar algunos archivos estáticos para
 nuestra propia aplicación, ``blog``.
 
 Hacemos esto creando una carpeta llamada ``static`` dentro de la
@@ -81,7 +81,7 @@ contenido como archivos estáticos.
 ¡Tu primer archivo CSS!
 =======================
 
-Creemos un archivo CSS ahora, para añadir tu propio estilo a tu página
+Creemos un archivo CSS ahora, para agregar tu propio estilo a tu página
 web. Crea un nuevo directorio llamado ``css`` dentro de tu directorio
 ``static``. Después crea un nuevo archivo llamado ``blog.css`` dentro de
 este directorio ``css``. ¿Lista?
@@ -110,7 +110,7 @@ http://www.colorpicker.com/. También puedes utilizar `colores
 predefinidos <http://www.w3schools.com/cssref/css_colornames.asp>`__
 utilizando su nombre en inglés, como ``red`` y ``green``.
 
-En tu archivo ``blog/static/css/blog.css`` deberías añadir el siguiente
+En tu archivo ``blog/static/css/blog.css`` deberías agregar el siguiente
 código:
 
 .. code:: css
@@ -130,7 +130,7 @@ En el archivo CSS se definen los estilos de los elementos que se
 encuentran en el archivo HTML. Los elementos se identifican por el
 nombre del elemento (p. ej. ``a``. ``h1``, ``body``), el atributo
 ``class`` o el atributo ``id``. Class e id son nombres que le asignas tú
-misma al elemento. Classes definen grupos de elementos e ids apuntan a
+misma al elemento. Clases definen grupos de elementos e ids apuntan a
 elementos específicos. Por ejemplo, la siguiente etiqueta puede
 identificarse mediante CSS usando el nombre de etiqueta ``a``, la clase
 ``external_link`` o el id ``link_to_wiki_page``:
@@ -153,7 +153,7 @@ añade esta línea al principio del todo:
 Aquí sólo estamos cargando archivos estáticos :). Luego, entre el
 ``<head>`` y ``</head>``, después de los enlaces a los archivos CSS de
 Bootstrap (el navegador lee los archivos en el orden que son dados, de
-ese modo el código en nuestro archivo puede sobreescribir el código en
+ese modo el código en nuestro archivo puede sobre-escribir el código en
 los archivos de Bootstrap), añade la siguiente línea:
 
 .. code:: html
@@ -162,7 +162,7 @@ los archivos de Bootstrap), añade la siguiente línea:
 
 El navegador lee los archivos en el orden en que el que son presentados,
 por lo tanto nos tenemos que asegurar que están en el lugar correcto. De
-otra forma el código en nuestro archivo quizás sobreescriba el código de
+otra forma el código en nuestro archivo quizás sobre-escriba el código de
 los archivos de Bootstrap. Le acabamos de decir a nuestra plantilla
 dónde se encuentra nuestro archivo CSS.
 
@@ -272,7 +272,7 @@ del blog.
         <p>{{ post.text|linebreaks }}</p>
     </div>
 
-Ahora añadiremos bloques de declaración a diferentes selectores. Los
+Ahora agregaremos bloques de declaración a diferentes selectores. Los
 selectores que comienzan con ``.`` hacen referencia a clases. Hay muchos
 tutoriales y explicaciones sobre CSS en la Web para ayudarte a entender
 el siguiente código. Por ahora, simplemente copia y pega este bloque de

@@ -30,7 +30,7 @@ dobles con el nombre de la variable dentro, así:
 
 Pruébalo en la plantilla ``blog/templates/blog/post_list.html``.
 Sustituye todo desde el segundo ``<div>`` al tercer ``</div>`` por
-``{{ posts }}``. Guarda el fichero y refresca la página para ver el
+``{{ posts }}``. Guarda el archivo y refresca la página para ver el
 resultado:
 
 .. figure:: dt_step1.png
@@ -119,7 +119,7 @@ Aquí va un resumen de los pasos...
 
 ::
 
-    $ cd my-first-blog
+    $ cd mi-primer-blog
     $ git pull
     [...]
 
@@ -131,8 +131,8 @@ Aquí va un resumen de los pasos...
    computadora local y la de Python Anywhere no se sincronizan con el
    resto de tus archivos.
 
-¡Enhorabuena! Ahora ve e intenta añadir una nueva entrada desde el panel
-de administrador de Django (¡recuerda añadir published\_date!) y luego
+¡Enhorabuena! Ahora ve e intenta agregar una nueva entrada desde el panel
+de administrador de Django (¡recuerda agregar published\_date!) y luego
 actualiza tu página para ver si aparece la nueva entrada.
 
 ¿Funciona de maravilla? ¡Estamos orgullosas! Aléjate un rato del

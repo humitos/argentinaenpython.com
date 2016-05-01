@@ -181,10 +181,10 @@ como este:
         def __str__(self):
             return self.title
 
-    Comprueba que has usado dos guiones bajos (``_``) en cada lado del
-    ``str``. Esta convención se usa en Python con mucha frecuencia y a
-    veces también se llaman "dunder" (abreviatura de "double-underscore"
-    o, en español, "doble guión bajo").
+Comprueba que has usado dos guiones bajos (``_``) en cada lado del
+``str``. Esta convención se usa en Python con mucha frecuencia y a
+veces también se llaman "dunder" (abreviatura de "double-underscore"
+o, en español, "doble guión bajo").
 
 Da un poco de miedo, ¿no? Pero no te preocupes, ¡vamos a explicar qué
 significan estas líneas!

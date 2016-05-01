@@ -72,7 +72,7 @@ Seguir el tutorial en casa
 ==========================
 
 Es increíble ser parte de un taller de Django Girls, pero sabemos que
-nos siempre es posible asistir a uno de ellos. Es por eso que tratamos
+no siempre es posible asistir a uno de ellos. Es por eso que tratamos
 de animarte a que sigas el tutorial en tu casa. Para los lectores en
 casa hemos preparado algunos videos que van a hacer más fácil seguir el
 tutorial uno mismo. Todavía es un trabajo en progreso, pero más y más

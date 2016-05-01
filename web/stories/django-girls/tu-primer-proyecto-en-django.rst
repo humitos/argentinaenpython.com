@@ -30,31 +30,31 @@ mantener una cierta estructura para poder encontrar cosas importantes.}
     ``source myvenv/bin/activate`` en Mac OS / Linux.
 
 En MacOS o Linux deberías ejecutar el siguiente comando en la consola;
-**no te olvides de agregar el punto ``.`` al final**:
+**no te olvides de agregar el punto (.) al final**:
 
 ::
 
     (myvenv) ~/djangogirls$ django-admin startproject mysite .
 
-En Windows; **no te olvides de agregar el punto ``.`` al final**:
+En Windows; **no te olvides de agregar el punto (.) al final**:
 
 ::
 
     (myvenv) C:\Users\Name\djangogirls> django-admin startproject mysite .
 
-    El punto ``.`` es crucial porque le dice al script que instale
-    Django en el directorio actual (para el cual el punto ``.`` sirve de
-    abreviatura)
+El punto ``.`` es crucial porque le dice al script que instale Django
+en el directorio actual (para el cual el punto ``.`` sirve de
+abreviatura)
 
 .. admonition:: Nota
 
    Cuando escribas los comandos de arriba acuérdate de que sólo tienes
    que escribir la parte que empieza por ``django-admin`` o
-   ``django-admin.py``. Las partes de ``(myvenv) ~/djangogirls$`` y
+   ``django-admin``. Las partes de ``(myvenv) ~/djangogirls$`` y
    ``(myvenv) C:\Users\Name\djangogirls>`` que mostramos aquí son sólo
    ejemplos del mensaje que aparecerá en tu línea de comandos.
 
-``django-admin.py`` es un script que creará los archivos y directorios
+``django-admin`` es un script que creará los archivos y directorios
 para ti. Ahora deberías tener una estructura de directorios parecida a
 esto:
 

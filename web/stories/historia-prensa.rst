@@ -83,6 +83,12 @@ Año 2016
    :src: 2016_abril_1-340x255.png
    :href: http://www.eltiempo.com.ec/noticias-cuenca/181084-evento-meetup-python-se-cumple-hoy/
 
+.. template:: prensa-image
+   :title: El Mercurio
+   :description: Mujeres se capacitan en programación
+   :src: 2016_mayo_0-340x255.png
+   :href: http://www.elmercurio.com.ec/526210-mujeres-se-capacitan-en-programacion/
+
 
 .. raw:: html
 

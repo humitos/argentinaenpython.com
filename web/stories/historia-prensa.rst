@@ -1,10 +1,10 @@
 .. title: Prensa
 .. slug: historia/prensa
 .. date: 2015-05-03 21:47:51 UTC-03:00
-.. tags: 
-.. category: 
-.. link: 
-.. description: 
+.. tags:
+.. category:
+.. link:
+.. description:
 .. type: text
 
 Estas son algunas de las notas en donde el proyecto ha sido publicado
@@ -17,39 +17,40 @@ Año 2016
 
    <div class="row">
 
-.. template:: prensa-image
-   :title: pymex
-   :description: Taller gratuito de programación para mujeres con Django Girls
-   :src: 2016_enero_0-340x255.png
-   :href: http://pymex.pe/eventos-empresariales/notas-de-prensa/taller-gratuito-de-programacion-para-mujeres-con-django-girls/
-
 
 .. template:: prensa-image
-   :title: timov
-   :description: Taller Django Girls en Lima
-   :src: 2016_enero_1-340x255.png
-   :href: http://timov.pe/events/community/taller-django-girls-en-lima
+   :title: El Mercurio
+   :description: Mujeres se capacitan en programación
+   :src: 2016_mayo_0-340x255.png
+   :href: http://www.elmercurio.com.ec/526210-mujeres-se-capacitan-en-programacion/
 
 
 .. template:: prensa-image
-   :title: Django Girls
-   :description: Workshops in 3 countries of Latin America
-   :src: 2016_enero_2-340x255.png
-   :href: http://blog.djangogirls.org/post/137154038518/workshops-in-3-countries-of-latin-america
+   :title: El Tiempo
+   :description: Evento Meetup Python se cumple hoy
+   :src: 2016_abril_1-340x255.png
+   :href: http://www.eltiempo.com.ec/noticias-cuenca/181084-evento-meetup-python-se-cumple-hoy/
 
 
 .. template:: prensa-image
-   :title: Django Planet
-   :description: Workshops in 3 countries of Latin America
-   :src: 2016_enero_3-340x255.png
-   :href: http://django-planet.com/posts/6298/workshops-in-3-countries-of-latin-america/
+   :title: Cuyker
+   :description: Taller de programación para Mujeres Django Girls Cuenca
+   :src: 2016_marzo_2-340x255.png
+   :href: http://www.cuyker.com/index.php/welcome/detail?id=5765
 
 
 .. template:: prensa-image
-   :title: RPP Noticias
-   :description: Jóvenes recorren Sudamérica promoviendo tecnología
-   :src: 2016_enero_4-340x255.png
-   :href: http://rpp.pe/peru/piura/jovenes-recorren-sudamerica-promoviendo-tecnologica-noticia-931815
+   :title: Radio Eme 96.3
+   :description: Fantásticas Mentiras Bailables
+   :src: 2016_marzo_1-340x255.png
+   :href: http://elblogdehumitos.com.ar/posts/entrevista-fantasticas-mentiras-bailables/
+
+
+.. template:: prensa-image
+   :title: Diario Marañón
+   :description: Jóvenes recorren Sudamérica promoviendo tecnológica
+   :src: 2016_enero_6-340x255.png
+   :href: diario-maranon_enero-2016.pdf
 
 
 .. template:: prensa-image
@@ -60,34 +61,38 @@ Año 2016
 
 
 .. template:: prensa-image
-   :title: Diario Marañón
-   :description: Jóvenes recorren Sudamérica promoviendo tecnológica
-   :src: 2016_enero_6-340x255.png
-   :href: diario-maranon_enero-2016.pdf
+   :title: RPP Noticias
+   :description: Jóvenes recorren Sudamérica promoviendo tecnología
+   :src: 2016_enero_4-340x255.png
+   :href: http://rpp.pe/peru/piura/jovenes-recorren-sudamerica-promoviendo-tecnologica-noticia-931815
+
 
 .. template:: prensa-image
-   :title: Radio Eme 96.3
-   :description: Fantásticas Mentiras Bailables
-   :src: 2016_marzo_1-340x255.png
-   :href: http://elblogdehumitos.com.ar/posts/entrevista-fantasticas-mentiras-bailables/
+   :title: Django Planet
+   :description: Workshops in 3 countries of Latin America
+   :src: 2016_enero_3-340x255.png
+   :href: http://django-planet.com/posts/6298/workshops-in-3-countries-of-latin-america/
+
 
 .. template:: prensa-image
-   :title: Cuyker
-   :description: Taller de programación para Mujeres Django Girls Cuenca
-   :src: 2016_marzo_2-340x255.png
-   :href: http://www.cuyker.com/index.php/welcome/detail?id=5765
+   :title: Django Girls
+   :description: Workshops in 3 countries of Latin America
+   :src: 2016_enero_2-340x255.png
+   :href: http://blog.djangogirls.org/post/137154038518/workshops-in-3-countries-of-latin-america
+
 
 .. template:: prensa-image
-   :title: El Tiempo
-   :description: Evento Meetup Python se cumple hoy
-   :src: 2016_abril_1-340x255.png
-   :href: http://www.eltiempo.com.ec/noticias-cuenca/181084-evento-meetup-python-se-cumple-hoy/
+   :title: timov
+   :description: Taller Django Girls en Lima
+   :src: 2016_enero_1-340x255.png
+   :href: http://timov.pe/events/community/taller-django-girls-en-lima
+
 
 .. template:: prensa-image
-   :title: El Mercurio
-   :description: Mujeres se capacitan en programación
-   :src: 2016_mayo_0-340x255.png
-   :href: http://www.elmercurio.com.ec/526210-mujeres-se-capacitan-en-programacion/
+   :title: pymex
+   :description: Taller gratuito de programación para mujeres con Django Girls
+   :src: 2016_enero_0-340x255.png
+   :href: http://pymex.pe/eventos-empresariales/notas-de-prensa/taller-gratuito-de-programacion-para-mujeres-con-django-girls/
 
 
 .. raw:: html
@@ -104,81 +109,180 @@ Año 2015
 
    <div class="row">
 
-.. template:: prensa-image
-   :title: Python Software Foundation
-   :description: Manuel Kaufmann and Python in Argentina
-   :src: 2015_marzo_0-340x255.png
-   :href: http://pyfound.blogspot.com.ar/2015/03/manuel-kaufmann-and-python-in-argentina.html
-
 
 .. template:: prensa-image
-   :title: Proyectos Beta
-   :description: Se viene el PyDay Asunción 2015
-   :src: 2015_marzo_1-340x255.png
-   :href: http://proyectosbeta.net/2015/03/se-viene-el-pyday-asuncion-2015/
+   :title: devAcademy
+   :description: Python en Argentina #devHangout 127 con @argenpython
+   :src: 2015_diciembre_0-340x255.png
+   :href: https://www.youtube.com/watch?v=BxyidumbvHA
 
 
 .. template:: prensa-image
-   :title: Proyectos Beta
-   :description: La mentalidad del informático paraguayo está cambiando
-   :src: 2015_marzo_2-340x255.png
-   :href: http://proyectosbeta.net/2015/03/la-mentalidad-del-informatico-paraguayo-esta-cambiando/
+   :title: Marcos Dione
+   :description: Went to pycon.ar 2015
+   :src: 2015_noviembre_4-340x255.png
+   :href: http://www.grulic.org.ar/~mdione/glob/posts/went-to-pycon.ar-2015/
 
 
 .. template:: prensa-image
-   :title: Escuelas Libres
-   :description: Llamado a la presentación de trabajos #PyDayApostoles
-   :src: 2015_marzo_3-340x255.png
-   :href: http://www.escuelaslibres.org.ar/2015/03/llamado-a-la-presentacion-de-trabajos-pydayapostoles/
+   :title: Juanjo Conti
+   :description: PyConAr 2015
+   :src: 2015_noviembre_3-340x255.png
+   :href: http://www.juanjoconti.com/posts/pyconar-2015/
 
 
 .. template:: prensa-image
-   :title: Proyectos Beta
-   :description: Gran evento: PyDay Asunción 2015
-   :src: 2015_abril_0-340x255.png
-   :href: http://proyectosbeta.net/2015/04/gran-evento-pydayasuncion-2015/
+   :title: Pybonacci
+   :description: Vamos a comernos el mundo y [Argentina] en Python
+   :src: 2015_noviembre_2-340x255.png
+   :href: http://pybonacci.org/2015/11/08/vamos-a-comernos-el-mundo-y-argentina-en-python/
 
 
 .. template:: prensa-image
-   :title: Agustín Casiva
-   :description: Ayudalo a humitos a seguir humeando
-   :src: 2015_abril_1-340x255.png
-   :href: http://casivaagustin.com.ar/index.php/ayudalo-a-humitos-a-seguir-humeando/
+   :title: Malos Días | FM UTN Mendoza 94.5
+   :description: El taller de Django Girls y de Python para iniciantes @pyconar @argenpython
+   :src: 2015_noviembre_1-340x255.png
+   :href: http://radiocut.fm/audiocut/el-taller-de-django-girls-y-de-python-para-iniciantes-pyconar-argenpython/
 
 
 .. template:: prensa-image
-   :title: Python Sofware Foundation
-   :description: Highly Contagious: Python Spreads through South America!
-   :src: 2015_abril_2-340x255.png
-   :href: http://pyfound.blogspot.com.ar/2015/04/highly-contagious-python-spreads.html
+   :title: Wille Marcel
+   :description: Helping to spread OSM in South America
+   :src: 2015_noviembre_0-340x255.png
+   :href: http://www.openstreetmap.org/user/wille/diary/36225
+
+
+.. template:: prensa-image
+   :title: Juan Francisco Giménez Silva
+   :description: PyDay Recap: PyDay y otras yerbas
+   :src: 2015_octubre_0-340x255.png
+   :href: http://juanfgs.eosweb.info/post/56
+
+
+.. template:: prensa-image
+   :title: Proyecto mARTadero
+   :description: La Internet se escribe en femenino
+   :src: 2015_septiembre_5-340x255.png
+   :href: http://www.martadero.org/noticias/noticia.html&id_noticia=169
+
+
+.. template:: prensa-image
+   :title: OpenStreetMap
+   :description: Weekly Nr. 270
+   :src: 2015_septiembre_4-340x255.png
+   :href: http://www.weeklyosm.eu/archives/5056
+
+
+.. template:: prensa-image
+   :title: OpenStreetMap
+   :description: Wochennotiz Nr. 270
+   :src: 2015_septiembre_3-340x255.png
+   :href: http://blog.openstreetmap.de/blog/2015/09/wochennotiz-nr-270/
+
+
+.. template:: prensa-image
+   :title: Facción Latina
+   :description: La Internet se escribe en femenino
+   :src: 2015_septiembre_2-340x255.png
+   :href: http://faccionlatina.org/project/la-internet-se-escribe-en-femenino/
+
+
+.. template:: prensa-image
+   :title: Daniel Cotillas
+   :description: Entrevista a Manuel Kaufmann
+   :src: 2015_septiembre_1-340x255.png
+   :href: https://goblinrefuge.com/mediagoblin/u/danicotillas/m/entrevista-a-manuel-kaufmann-argentina-en-python/
+
+
+.. template:: prensa-image
+   :title: Pillku
+   :description: Con esfuerzo y contactando con la gente apropiada no hay nada que no se pueda lograr
+   :src: 2015_septiembre_0-340x255.png
+   :href: http://pillku.org/article/con-esfuerzo-y-contactando-con-la-gente-apropiada-/
+
+
+.. template:: prensa-image
+   :title: Django Girls Dispatch
+   :description: Recent Django Girls events
+   :src: 2015_agosto_6-340x255.png
+   :href: http://createsend.com/t/i-361AF48ED4423E63
+
+
+.. template:: prensa-image
+   :title: Telecombol
+   :description: El Sábado, en el mARTadero: Taller de programación para mujeres: Django Girls
+   :src: 2015_agosto_5-340x255.png
+   :href: http://www.telecombol.com/2015/08/el-sabado-en-el-martadero-taller-de.html
+
+
+.. template:: prensa-image
+   :title: Entorno Inteligente
+   :description: Taller de programación para mujeres: Django Girls
+   :src: 2015_agosto_4-340x255.png
+   :href: http://www.entornointeligente.com/articulo/6757988/Taller-de-programacion-para-mujeres-Django-Girls
+
+
+.. template:: prensa-image
+   :title: Los Tiempos
+   :description: Taller de programación para mujeres: Django Girls
+   :src: 2015_agosto_3-340x255.png
+   :href: http://www.lostiempos.com/diario/actualidad/vida-y-futuro/20150821/taller-de-programacion-para-mujeres-django-girls_312667_692494.html
+
+
+.. template:: prensa-image
+   :title: UNITV
+   :description: Paseando por la TV
+   :src: 2015_agosto_2-340x255.png
+   :href: http://elblogdehumitos.com.ar/posts/paseando-por-la-tv/
+
+
+.. template:: prensa-image
+   :title: Urbana Web
+   :description: Python como una nueva alternativa en el software libre
+   :src: 2015_agosto_1-340x255.png
+   :href: http://www.urbana.com.bo/innovaci%C3%B3n/pyton-como-una-nueva-alternativa-en-el-software-libre
+
+
+.. template:: prensa-image
+   :title: Pythoniza.me
+   :description: Entrevista Pythoniza.me sobre Argentina en Python
+   :src: 2015_agosto_0-340x255.png
+   :href: http://pythoniza.me/argentina-en-python/
+
+
+.. template:: prensa-image
+   :title: EuroPython 2015
+   :description: Lightning Talk de @cynpy en EuroPython 2015
+   :src: 2015_julio_1-340x255.png
+   :href: https://www.youtube.com/watch?v=22CKrkMeNqE&feature=youtu.be&t=4h14m0s
 
 
 .. template:: prensa-image
    :title: Mangocast
-   :description: Entrevista en Mangocast por Pablo Santa Cruz
-   :src: 2015_mayo_0-340x255.png
-   :href: http://elblogdehumitos.com.ar/posts/entrevista-argentina-en-python-pyday-asuncion/
+   :description: Mangocast habla del #1 Meetup de Python Paraguay
+   :src: 2015_julio_0-340x255.png
+   :href: http://elblogdehumitos.com.ar/posts/mangocast-habla-del-1-meetup-de-python-paraguay/
 
 
 .. template:: prensa-image
-   :title: Universidad Gastón Dachary
-   :description: SciPy LA, Conferencia Latinoamericana de Computación Científica con Python en la UGD 
-   :src: 2015_mayo_1-340x255.png
-   :href: http://ugd.edu.ar/noticias/358-scipy-la-conferencia-latinoamericana-de-computacion-cientifica-con-python-en-la-ugd
+   :title: Proyectos Beta
+   :description: Lo que ocurrió en el primer encuentro de Python Paraguay
+   :src: 2015_junio_2-340x255.png
+   :href: http://proyectosbeta.net/2015/06/lo-que-ocurrio-en-el-primer-encuentro-de-python-paraguay/
 
 
 .. template:: prensa-image
-   :title: Universidad Autónoma de Encarnación
-   :description: Introducción a Python
-   :src: 2015_mayo_2-340x255.png
-   :href: http://www.unae.edu.py/tv/index.php?option=com_content&view=article&id=465:introduccion-a-python-evento-de-extension-universitaria&catid=79&Itemid=228
+   :title: Proyectos Beta
+   :description: #1 Meetup Python Paraguay
+   :src: 2015_junio_1-340x255.png
+   :href: http://proyectosbeta.net/2015/06/1-meetup-python-paraguay/
 
 
 .. template:: prensa-image
-   :title: Presentación de Fernando Masanori
-   :description: Slide 19 y 20
-   :src: 2015_mayo_3-340x255.png
-   :href: http://pt.slideshare.net/fmasanori/import-community
+   :title: Roshka
+   :description: Primer Meetup de Python Paraguay en Roshka!
+   :src: 2015_junio_0-340x255.png
+   :href: http://blog.roshka.com/2015/06/primer-meetup-de-python-paraguay-en.html
 
 
 ..
@@ -190,177 +294,81 @@ Año 2015
 
 
 .. template:: prensa-image
-   :title: Roshka
-   :description: Primer Meetup de Python Paraguay en Roshka!
-   :src: 2015_junio_0-340x255.png
-   :href: http://blog.roshka.com/2015/06/primer-meetup-de-python-paraguay-en.html
+   :title: Presentación de Fernando Masanori
+   :description: Slide 19 y 20
+   :src: 2015_mayo_3-340x255.png
+   :href: http://pt.slideshare.net/fmasanori/import-community
 
 
 .. template:: prensa-image
-   :title: Proyectos Beta
-   :description: #1 Meetup Python Paraguay
-   :src: 2015_junio_1-340x255.png
-   :href: http://proyectosbeta.net/2015/06/1-meetup-python-paraguay/
+   :title: Universidad Autónoma de Encarnación
+   :description: Introducción a Python
+   :src: 2015_mayo_2-340x255.png
+   :href: http://www.unae.edu.py/tv/index.php?option=com_content&view=article&id=465:introduccion-a-python-evento-de-extension-universitaria&catid=79&Itemid=228
 
 
 .. template:: prensa-image
-   :title: Proyectos Beta
-   :description: Lo que ocurrió en el primer encuentro de Python Paraguay
-   :src: 2015_junio_2-340x255.png
-   :href: http://proyectosbeta.net/2015/06/lo-que-ocurrio-en-el-primer-encuentro-de-python-paraguay/
+   :title: Universidad Gastón Dachary
+   :description: SciPy LA, Conferencia Latinoamericana de Computación Científica con Python en la UGD
+   :src: 2015_mayo_1-340x255.png
+   :href: http://ugd.edu.ar/noticias/358-scipy-la-conferencia-latinoamericana-de-computacion-cientifica-con-python-en-la-ugd
 
 
 .. template:: prensa-image
    :title: Mangocast
-   :description: Mangocast habla del #1 Meetup de Python Paraguay
-   :src: 2015_julio_0-340x255.png
-   :href: http://elblogdehumitos.com.ar/posts/mangocast-habla-del-1-meetup-de-python-paraguay/
+   :description: Entrevista en Mangocast por Pablo Santa Cruz
+   :src: 2015_mayo_0-340x255.png
+   :href: http://elblogdehumitos.com.ar/posts/entrevista-argentina-en-python-pyday-asuncion/
 
 
 .. template:: prensa-image
-   :title: EuroPython 2015
-   :description: Lightning Talk de @cynpy en EuroPython 2015
-   :src: 2015_julio_1-340x255.png
-   :href: https://www.youtube.com/watch?v=22CKrkMeNqE&feature=youtu.be&t=4h14m0s
+   :title: Python Sofware Foundation
+   :description: Highly Contagious: Python Spreads through South America!
+   :src: 2015_abril_2-340x255.png
+   :href: http://pyfound.blogspot.com.ar/2015/04/highly-contagious-python-spreads.html
 
 
 .. template:: prensa-image
-   :title: Pythoniza.me
-   :description: Entrevista Pythoniza.me sobre Argentina en Python
-   :src: 2015_agosto_0-340x255.png
-   :href: http://pythoniza.me/argentina-en-python/
+   :title: Agustín Casiva
+   :description: Ayudalo a humitos a seguir humeando
+   :src: 2015_abril_1-340x255.png
+   :href: http://casivaagustin.com.ar/index.php/ayudalo-a-humitos-a-seguir-humeando/
 
 
 .. template:: prensa-image
-   :title: Urbana Web
-   :description: Python como una nueva alternativa en el software libre
-   :src: 2015_agosto_1-340x255.png
-   :href: http://www.urbana.com.bo/innovaci%C3%B3n/pyton-como-una-nueva-alternativa-en-el-software-libre
+   :title: Proyectos Beta
+   :description: Gran evento: PyDay Asunción 2015
+   :src: 2015_abril_0-340x255.png
+   :href: http://proyectosbeta.net/2015/04/gran-evento-pydayasuncion-2015/
 
 
 .. template:: prensa-image
-   :title: UNITV
-   :description: Paseando por la TV
-   :src: 2015_agosto_2-340x255.png
-   :href: http://elblogdehumitos.com.ar/posts/paseando-por-la-tv/
+   :title: Escuelas Libres
+   :description: Llamado a la presentación de trabajos #PyDayApostoles
+   :src: 2015_marzo_3-340x255.png
+   :href: http://www.escuelaslibres.org.ar/2015/03/llamado-a-la-presentacion-de-trabajos-pydayapostoles/
 
 
 .. template:: prensa-image
-   :title: Los Tiempos
-   :description: Taller de programación para mujeres: Django Girls
-   :src: 2015_agosto_3-340x255.png
-   :href: http://www.lostiempos.com/diario/actualidad/vida-y-futuro/20150821/taller-de-programacion-para-mujeres-django-girls_312667_692494.html
+   :title: Proyectos Beta
+   :description: La mentalidad del informático paraguayo está cambiando
+   :src: 2015_marzo_2-340x255.png
+   :href: http://proyectosbeta.net/2015/03/la-mentalidad-del-informatico-paraguayo-esta-cambiando/
 
 
 .. template:: prensa-image
-   :title: Entorno Inteligente
-   :description: Taller de programación para mujeres: Django Girls
-   :src: 2015_agosto_4-340x255.png
-   :href: http://www.entornointeligente.com/articulo/6757988/Taller-de-programacion-para-mujeres-Django-Girls
+   :title: Proyectos Beta
+   :description: Se viene el PyDay Asunción 2015
+   :src: 2015_marzo_1-340x255.png
+   :href: http://proyectosbeta.net/2015/03/se-viene-el-pyday-asuncion-2015/
 
 
 .. template:: prensa-image
-   :title: Telecombol
-   :description: El Sábado, en el mARTadero: Taller de programación para mujeres: Django Girls
-   :src: 2015_agosto_5-340x255.png
-   :href: http://www.telecombol.com/2015/08/el-sabado-en-el-martadero-taller-de.html
+   :title: Python Software Foundation
+   :description: Manuel Kaufmann and Python in Argentina
+   :src: 2015_marzo_0-340x255.png
+   :href: http://pyfound.blogspot.com.ar/2015/03/manuel-kaufmann-and-python-in-argentina.html
 
-
-.. template:: prensa-image
-   :title: Django Girls Dispatch
-   :description: Recent Django Girls events
-   :src: 2015_agosto_6-340x255.png
-   :href: http://createsend.com/t/i-361AF48ED4423E63
-
-
-.. template:: prensa-image
-   :title: Pillku
-   :description: Con esfuerzo y contactando con la gente apropiada no hay nada que no se pueda lograr
-   :src: 2015_septiembre_0-340x255.png
-   :href: http://pillku.org/article/con-esfuerzo-y-contactando-con-la-gente-apropiada-/
-
-
-.. template:: prensa-image
-   :title: Daniel Cotillas
-   :description: Entrevista a Manuel Kaufmann
-   :src: 2015_septiembre_1-340x255.png
-   :href: https://goblinrefuge.com/mediagoblin/u/danicotillas/m/entrevista-a-manuel-kaufmann-argentina-en-python/
-
-
-.. template:: prensa-image
-   :title: Facción Latina
-   :description: La Internet se escribe en femenino
-   :src: 2015_septiembre_2-340x255.png
-   :href: http://faccionlatina.org/project/la-internet-se-escribe-en-femenino/
-
-.. template:: prensa-image
-   :title: OpenStreetMap
-   :description: Wochennotiz Nr. 270
-   :src: 2015_septiembre_3-340x255.png
-   :href: http://blog.openstreetmap.de/blog/2015/09/wochennotiz-nr-270/
-
-
-.. template:: prensa-image
-   :title: OpenStreetMap
-   :description: Weekly Nr. 270
-   :src: 2015_septiembre_4-340x255.png
-   :href: http://www.weeklyosm.eu/archives/5056
-
-
-.. template:: prensa-image
-   :title: Proyecto mARTadero
-   :description: La Internet se escribe en femenino
-   :src: 2015_septiembre_5-340x255.png
-   :href: http://www.martadero.org/noticias/noticia.html&id_noticia=169
-
-
-.. template:: prensa-image
-   :title: Juan Francisco Giménez Silva
-   :description: PyDay Recap: PyDay y otras yerbas
-   :src: 2015_octubre_0-340x255.png
-   :href: http://juanfgs.eosweb.info/post/56
-
-
-.. template:: prensa-image
-   :title: Wille Marcel
-   :description: Helping to spread OSM in South America
-   :src: 2015_noviembre_0-340x255.png
-   :href: http://www.openstreetmap.org/user/wille/diary/36225
-
-
-.. template:: prensa-image
-   :title: Malos Días | FM UTN Mendoza 94.5
-   :description: El taller de Django Girls y de Python para iniciantes @pyconar @argenpython
-   :src: 2015_noviembre_1-340x255.png
-   :href: http://radiocut.fm/audiocut/el-taller-de-django-girls-y-de-python-para-iniciantes-pyconar-argenpython/
-
-
-.. template:: prensa-image
-   :title: Pybonacci
-   :description: Vamos a comernos el mundo y [Argentina] en Python
-   :src: 2015_noviembre_2-340x255.png
-   :href: http://pybonacci.org/2015/11/08/vamos-a-comernos-el-mundo-y-argentina-en-python/
-
-
-.. template:: prensa-image
-   :title: Juanjo Conti
-   :description: PyConAr 2015
-   :src: 2015_noviembre_3-340x255.png
-   :href: http://www.juanjoconti.com/posts/pyconar-2015/
-
-
-.. template:: prensa-image
-   :title: Marcos Dione
-   :description: Went to pycon.ar 2015
-   :src: 2015_noviembre_4-340x255.png
-   :href: http://www.grulic.org.ar/~mdione/glob/posts/went-to-pycon.ar-2015/
-
-
-.. template:: prensa-image
-   :title: devAcademy
-   :description: Python en Argentina #devHangout 127 con @argenpython
-   :src: 2015_diciembre_0-340x255.png
-   :href: https://www.youtube.com/watch?v=BxyidumbvHA
 
 .. raw:: html
 
@@ -375,25 +383,12 @@ Año 2014
 
    <div class="row">
 
-.. template:: prensa-image
-   :title: Huayra Linux
-   :description: El viento de Huayra/GnuLinux pasó una vez más por el noroeste cordobés
-   :src: 2014_mayo_0-340x255.png
-   :href: http://huayra.conectarigualdad.gob.ar/noticias/2014/05/27/el-viento-de-huayragnulinux-pas%C3%B3-una-vez-m%C3%A1s-por-el-noroeste-cordob%C3%A9s
-
 
 .. template:: prensa-image
-   :title: FM del Sol
-   :description: Entrevista radial
-   :src: 2014_noviembre_0-340x255.png
-   :href: http://elblogdehumitos.com.ar/posts/argentina-en-python-en-la-radio
-
-
-.. template:: prensa-image
-   :title: Blog de La Nación
-   :description: Sexto encuentro nacional de Python Argentina
-   :src: 2014_noviembre_1-340x255.png
-   :href: http://blogs.lanacion.com.ar/data/argentina/sexto-encuentro-nacional-de-python-argentina/
+   :title: Las Breñas digital
+   :description: Charla sobre "OpenStreetMap" y su utilidad
+   :src: 2014_diciembre_0-340x255.png
+   :href: http://www.lasbrenasdigital.com.ar/2014/sociales/9020-charla-sobre-open-street-map-y-su-utilidad.html
 
 
 .. template:: prensa-image
@@ -404,10 +399,25 @@ Año 2014
 
 
 .. template:: prensa-image
-   :title: Las Breñas digital
-   :description: Charla sobre "OpenStreetMap" y su utilidad
-   :src: 2014_diciembre_0-340x255.png
-   :href: http://www.lasbrenasdigital.com.ar/2014/sociales/9020-charla-sobre-open-street-map-y-su-utilidad.html
+   :title: Blog de La Nación
+   :description: Sexto encuentro nacional de Python Argentina
+   :src: 2014_noviembre_1-340x255.png
+   :href: http://blogs.lanacion.com.ar/data/argentina/sexto-encuentro-nacional-de-python-argentina/
+
+
+.. template:: prensa-image
+   :title: FM del Sol
+   :description: Entrevista radial
+   :src: 2014_noviembre_0-340x255.png
+   :href: http://elblogdehumitos.com.ar/posts/argentina-en-python-en-la-radio
+
+
+.. template:: prensa-image
+   :title: Huayra Linux
+   :description: El viento de Huayra/GnuLinux pasó una vez más por el noroeste cordobés
+   :src: 2014_mayo_0-340x255.png
+   :href: http://huayra.conectarigualdad.gob.ar/noticias/2014/05/27/el-viento-de-huayragnulinux-pas%C3%B3-una-vez-m%C3%A1s-por-el-noroeste-cordob%C3%A9s
+
 
 .. raw:: html
 
@@ -431,7 +441,7 @@ Año 2014
 
 .. Shift + F2 -> "screenshot --fullpage"
 .. http://stackoverflow.com/questions/13158083/take-a-full-page-screenshot-with-firefox
-   
+
 .. Luego fueron achicadas y cortadas con "convert" de ImageMagick
 
 .. resize to 340 width and crop to 255 height

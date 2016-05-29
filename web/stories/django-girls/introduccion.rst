@@ -17,6 +17,8 @@ Tutorial de Django Girls
      }
    </script>
    
+.. section-numbering::
+   :depth: 2
     
 .. contents:: Contenido
    :depth: 1

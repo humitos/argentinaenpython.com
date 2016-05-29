@@ -76,4 +76,3 @@ https://docs.djangoproject.com/en/1.9/ref/contrib/admin/
 Este probablemente sea un buen momento para tomar un café (o té) o algo
 para comer y re-energizarte. Creaste tu primer modelo de Django -
 ¡mereces un pequeño recreo!
-

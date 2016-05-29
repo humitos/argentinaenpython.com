@@ -2,6 +2,7 @@
    :loop:
    :autoplay: 3000
 
+   _joac2.png
    pancho_jay5.png
    jjconti.png
    lucie_daeye.png

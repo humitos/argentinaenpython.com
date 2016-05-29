@@ -19,6 +19,7 @@ donaciones:
 Donaciones en general
 ---------------------
 
+* 13 de Mayo de 2016 - `Joaquín Sorianello <https://twitter.com/_joac>`_: ARS 1000
 * 14 de Febrero de 2016 - `Francisco Capdevila <https://twitter.com/pancho_jay>`_: ARS 300
 
 Donaciones para reparar a Errante
@@ -113,3 +114,4 @@ Donaciones en general
 
    sleep 3 ; X={file} ; import "$X" ; convert "$X" -crop 635x455+358+130 "$X"
 
+   sleep 3 ; X={file} ; import "$X" ; convert "$X" -crop 625x355+370+150 "$X"

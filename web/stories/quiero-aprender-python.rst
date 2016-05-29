@@ -196,6 +196,7 @@ una de ellas:
   
    * `Spyder <https://github.com/spyder-ide/spyder>`_
    * `Ninja-IDE <http://ninja-ide.org/>`_
+   * `PyCharm <https://www.jetbrains.com/pycharm/>`_
   
 .. collapse:: Entornos virtuales
 

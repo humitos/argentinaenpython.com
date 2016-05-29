@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 
-"""Calculate a position from an IP or Address and save it into a file
+"""
+Calculate a position from an IP or Address and save it into a file.
 
 Usage:
   geolocation.py [(-v | --verbose)] [--no-wait] (-m | --me)
@@ -21,18 +22,17 @@ Options:
   --version            Show version.
 """
 
-import os
-import json
-import time
-import user
-import geocoder
-import logging
-import configobj
 import collections
+import json
+import logging
+import os
+import time
 import webbrowser
-from docopt import docopt
 from logging.handlers import RotatingFileHandler
 
+import configobj
+import geocoder
+from docopt import docopt
 
 logger = logging.getLogger('geolocation')
 
@@ -52,7 +52,7 @@ SYMLINK_FILES = [
 ] + GPX_FILES
 WAIT_BEFORE_QUERY = 5
 MAP_ZOOM = 14
-CONF_FILE = os.path.join(user.home, '.geolocation.ini')
+CONF_FILE = os.path.join('~', '.geolocation.ini')
 
 
 config = configobj.ConfigObj(
@@ -88,7 +88,7 @@ def save_json(data, output):
 
 
 def load_json(output):
-    data = open(output, 'r').read().decode('utf8')
+    data = open(output, 'r').read()
     cities = json.loads(
         data,
         object_pairs_hook=collections.OrderedDict
@@ -135,7 +135,7 @@ def is_osmurl_valid(response):
     answer = None
     webbrowser.open_new_tab(url)
     while answer not in ('y', 'yes', 'n', 'no'):
-        answer = raw_input('Is this URL correct?\n    {}\n[y/n]: '.format(url))
+        answer = input('Is this URL correct?\n    {}\n[y/n]: '.format(url))
     if answer in ('y', 'yes'):
         return True
     return False
@@ -166,9 +166,11 @@ def create_symlinks(dirname=SYMLINKS_DIR):
 def calc_my_position_ip(output=MY_POSITION_FILENAME):
     setup_output(output)
 
-    if not config.get('activated', False):
-        logger.info('Exiting: not activated')
-        return
+    # print(config.get('activated'))
+
+    # if not config.get('activated', False):
+    #     logger.info('Exiting: not activated')
+    #     return
 
     logger.info('Waiting %s seconds...', WAIT_BEFORE_QUERY)
     time.sleep(WAIT_BEFORE_QUERY)
@@ -283,7 +285,7 @@ if __name__ == '__main__':
         deactivate()
 
     if arguments['-a'] or arguments['--address']:
-        q = arguments['<address>'].decode('utf8')
+        q = arguments['<address>']  # .decode('utf8')
 
         if arguments['--remove']:
             response = remove_address(q)

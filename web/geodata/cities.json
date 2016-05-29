@@ -1,49 +1,6 @@
 {
     "next": [
         {
-            "accuracy": 0.56385461349205,
-            "address": "Loja, Ecuador",
-            "bbox": {
-                "northeast": [
-                    -3.8501061,
-                    -79.1373785
-                ],
-                "southwest": [
-                    -4.1328624,
-                    -79.2699454
-                ]
-            },
-            "city": "Loja",
-            "confidence": 1,
-            "country": "Ecuador",
-            "county": "Loja",
-            "encoding": "utf-8",
-            "geometry": {
-                "coordinates": [
-                    -79.2015997,
-                    -3.9967311
-                ],
-                "type": "Point"
-            },
-            "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png",
-            "importance": 0.56385461349205,
-            "lat": -3.9967311,
-            "lng": -79.2015997,
-            "location": "loja, ecuador",
-            "method": "geocode",
-            "ok": true,
-            "osm_id": "3651090",
-            "osm_type": "relation",
-            "place_id": "128163956",
-            "place_rank": "16",
-            "provider": "osm",
-            "quality": "administrative",
-            "region": "Loja",
-            "state": "Loja",
-            "status": "OK",
-            "type": "administrative"
-        },
-        {
             "accuracy": 0.78245217444264,
             "address": "Guayaquil, Cedros, Urdesa, Guayaquil, Provincia del Guayas, PUNTO 10, Ecuador",
             "bbox": {
@@ -2439,6 +2396,49 @@
             "status": "OK",
             "status_code": 200,
             "type": "city"
-        }
+        },
+      {
+        "accuracy": 0.56385461349205,
+        "address": "Loja, Ecuador",
+        "bbox": {
+          "northeast": [
+                   -3.8501061,
+                  -79.1373785
+          ],
+          "southwest": [
+                   -4.1328624,
+                  -79.2699454
+          ]
+        },
+        "city": "Loja",
+        "confidence": 1,
+        "country": "Ecuador",
+        "county": "Loja",
+        "encoding": "utf-8",
+        "geometry": {
+          "coordinates": [
+                   -79.2015997,
+                  -3.9967311
+          ],
+          "type": "Point"
+        },
+        "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png",
+        "importance": 0.56385461349205,
+        "lat": -3.9967311,
+        "lng": -79.2015997,
+        "location": "loja, ecuador",
+        "method": "geocode",
+        "ok": true,
+        "osm_id": "3651090",
+        "osm_type": "relation",
+        "place_id": "128163956",
+        "place_rank": "16",
+        "provider": "osm",
+        "quality": "administrative",
+        "region": "Loja",
+        "state": "Loja",
+        "status": "OK",
+        "type": "administrative"
+      }
     ]
 }

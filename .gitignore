@@ -64,6 +64,8 @@ web/.doit.db
 .venv
 web/files/django-girls/djangogirls-recursos.zip
 web/files/django-girls/djangogirls-material-impreso.zip
+web/state_data.json
+web/tmp
 
 *_flymake.py
 *.bak

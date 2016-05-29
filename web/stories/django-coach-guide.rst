@@ -11,6 +11,7 @@
 :Versión en PDF: `Descargar <djangogirls-manual-de-guia.pdf>`_
 :Código fuente: https://github.com/PyAr/djangogirls-coach-manual-es
 :Traductores: `Kiko Correoso <https://github.com/kikocorreoso>`_ y `Erick Navarro <https://github.com/erickgnavar>`_
+:Editor: `Manuel Kaufmann <https://github.com/humitos>`_
 :Original: http://coach.djangogirls.org/
 
 
@@ -57,7 +58,7 @@ necesitas:
    para principiantes (incluso si eso significa que la respuesta no sea
    técnicamente precisa) a lo largo de la duración del taller.
 -  Algún tiempo para revisar el
-   `Tutorial <http://tutorial.djangogirls.org>`__ antes del evento.
+   `Tutorial <http://argentinaenpython.com.ar/django-girls/tutorial/>`__ antes del evento.
 -  ¡Tiempo libre durante el fin de semana!
 -  ¡Curiosidad!
 

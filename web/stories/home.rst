@@ -26,9 +26,10 @@
       :doc:`estos son nuestros planes
       <estadia-de-6-meses-en-cuenca-ecuador>`.
 
-.. class:: alert alert-success
+..
+   .. class:: alert alert-success
 
-   **NOVEDADES**: ¡Se viene el primer :doc:`Django Girls en Cuenca <django-girls-cuenca>`, Ecuador!
+      **NOVEDADES**: ¡Se viene el primer :doc:`Django Girls en Cuenca <django-girls-cuenca>`, Ecuador!
 
       
 .. class:: alert alert-warning
@@ -157,6 +158,12 @@ formas de vida.
    <hr style="border-width: 10px 0 0;">
 
 .. template:: bootstrap3/thumbnail-index
+   :href: /galeria/django-girls-cuenca/
+   :src: DSC_2576_01.jpg
+   :title: Django Girls Cuenca
+   :description: Workshop Django Girls
+
+.. template:: bootstrap3/thumbnail-index
    :href: /galeria/django-girls-piura/
    :src: DSC_2518_01.jpg
    :title: Django Girls Piura
@@ -166,12 +173,6 @@ formas de vida.
    :href: /galeria/django-girls-lima/
    :src: DSC_2140_01.jpg
    :title: Django Girls Lima
-   :description: Workshop Django Girls
-
-.. template:: bootstrap3/thumbnail-index
-   :href: /galeria/django-girls-mendoza/
-   :src: IMG_20151112_162414.jpg
-   :title: Django Girls Mendoza
    :description: Workshop Django Girls
 
 .. class:: lead align-center

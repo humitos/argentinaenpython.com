@@ -35,6 +35,17 @@
    original en la plataforma Crowdin
    <https://crowdin.com/project/django-girls-tutorial>`_.
 
+.. class:: alert alert-success
+
+   Este tutorial ha sido traducido de Inglés a Español por un grupo
+   maravilloso de voluntarios. Agradecemos especialmente a Victoria
+   Martinez de la Cruz, Kevin Morales, Joshua Aranda, Silvia Frias,
+   Leticia, Andrea Gonzalez, Adrian Manjarres, Rodrigo Caicedo, Maria
+   Chavez, Marcelo Nicolas Manso, Rosa Durante, Moises, Israel
+   Martinez Vargas, JuanCarlos, N0890Dy, Ivan Yivoff, Khaterine
+   Castellano, Erick Navarro, cyncyncyn, ZeroSoul13, Erick Aguayo,
+   Ernesto Rico-Schmidt, Miguel Lozano, osueboy, dynarro, Geraldina
+   Garcia Alvarez y Manuel Kaufmann.
 
 .. include:: stories/django-girls/introduccion.rst
 .. include:: stories/django-girls/como-funciona-internet.rst

@@ -33,13 +33,13 @@ ayudar durante todo el día con los problemas que se nos vayan
 presentando.
 
 Una vez que estamos listos, comenzamos leyendo el `tutorial
-<http://tutorial.djangogirls.org/es/index.html>`_ *autoguiado* escrito
-especialmente para vos por `Django Girls <http://djangogirls.org/>`_
-(una fundación sin fines de lucro que motiva a las mujeres a
-programar, organizando estos eventos en todo el mundo). Leyendo este
-tutorial aprenderemos conceptos básicos sobre cómo funciona internet y
-luego nos sumergiremos en el desarrollo de nuestro primer sitio web:
-¡un blog!
+<http://argentinaenpython.com.ar/django-girls/tutorial/>`_
+*autoguiado* escrito especialmente para vos por `Django Girls
+<http://djangogirls.org/>`_ (una fundación sin fines de lucro que
+motiva a las mujeres a programar, organizando estos eventos en todo el
+mundo). Leyendo este tutorial aprenderemos conceptos básicos sobre
+cómo funciona internet y luego nos sumergiremos en el desarrollo de
+nuestro primer sitio web: ¡un blog!
 
 Aprenderemos a utilizar las herramientas básicas al principio, como
 así también los conceptos de programación para comenzar a programar
@@ -138,19 +138,18 @@ Timeline (*línea de tiempo*)
 .. image:: timeline.png
    :align: center
 
-..
-   .. class:: alert alert-danger
-
-      ¡**Atención**!: hemos alcanzado el cupo máximo de inscriptos para
-      el taller. Sin embargo, si estás interesada en participar,
-      inscribite y pasarás automáticamente a una lista de espera que, en
-      caso de que alguien no pueda asistir, nos estaremos comunicando con
-      vos para informarte.
-
 .. template:: bootstrap3/button
    :href: http://goo.gl/forms/kBacr10LyD
 
    ¡Quiero inscribirme!
+
+.. class:: alert alert-danger
+
+   ¡**Atención**!: hemos alcanzado el cupo máximo de inscriptos para
+   el taller. Sin embargo, si estás interesada en participar,
+   inscribite y pasarás automáticamente a una lista de espera que, en
+   caso de que alguien no pueda asistir, nos estaremos comunicando con
+   vos para informarte.
 
 .. class:: lead align-center
 

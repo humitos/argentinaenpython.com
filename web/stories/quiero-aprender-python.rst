@@ -194,6 +194,7 @@ una de ellas:
    sugerencias de autocompletado con las funciones disponibles y un
    sin fin de herramientas más.
   
+  * `PyCharm CE <https://www.jetbrains.com/pycharm/>`_
    * `Spyder <https://github.com/spyder-ide/spyder>`_
    * `Ninja-IDE <http://ninja-ide.org/>`_
   

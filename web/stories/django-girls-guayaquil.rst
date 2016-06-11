@@ -7,6 +7,7 @@
 .. description: ¡Queremos animar a más mujeres a dominar la web!
 .. type: text
 .. previewimage: flyer.png
+.. .. template: django-girls-snake.tmpl
 
 
 ¡Queremos animar a más mujeres a dominar la web! Es por eso que desde
@@ -70,12 +71,13 @@ mujer con vos que también realice el taller [#]_.
 ¿Dónde y cuándo?
 ----------------
 
-* Lugar: (a confirmar) Guayaquil, Ecuador
+* Lugar: Innobis_ (Calle Leopoldo Benítez y Joaquín Orrantia, Ciudad
+  del Sol, Edificio Trade Building, Torre B, PB.) Guayaquil, Ecuador
 
-* Fecha: (a confirmar)
+* Fecha: 9 de Julio de 2016 de 8:30hs (puntual) a 19:00hs.
 
 .. template:: iframe
-   :src: http://www.openstreetmap.org/export/embed.html?bbox=-79.89367246627808%2C-2.1929963459763546%2C-79.8816990852356%2C-2.1866387923657915&amp;layer=mapnik&amp;marker=-2.189822933043399%2C-79.88768577575684
+   :src: http://www.openstreetmap.org/export/embed.html?bbox=-79.89125579595566%2C-2.155941508562105%2C-79.88920122385025%2C-2.1543520836734227&amp;layer=mapnik&amp;marker=-2.155148136481068%2C-79.89022850990295
 
 .. sidebar:: Contacto
 
@@ -109,9 +111,9 @@ Tené en cuenta que...
 * ... es necesario **llevar notebook** para poder trabajar con ella
   durante todo el día.
 
-* ... el curso es de entrada libre y gratuita. Sin embargo, :doc:`se
-  aceptan donaciones <donaciones>` para que el proyecto pueda realizar
-  más talleres gratuitos.
+* ... el curso es gratuito. Sin embargo, :doc:`se aceptan donaciones
+  <donaciones>` para que el proyecto pueda realizar más talleres
+  gratuitos.
 
 * ... en lo posible, debes llevar un extensor de corriente.
 
@@ -127,6 +129,9 @@ Tené en cuenta que...
 * ... al momento de llenar el formulario, pon mucha atención en tu
   dirección de email, ya que es el único contacto tuyo que tenemos.
 
+* ... el lugar cuenta con aire acondicionado, por lo tanto te
+  recomendamos llevar un abrigo.
+
 * ... todos los participantes deben seguir el **Código de Conducta**
   (ver Preguntas frecuentes).
 
@@ -135,11 +140,6 @@ Timeline (*línea de tiempo*)
   
 .. image:: timeline.png
    :align: center
-
-.. template:: bootstrap3/button
-   :href: http://goo.gl/forms/kBacr10LyD
-
-   ¡Quiero inscribirme!
 
 ..
    .. class:: alert alert-danger
@@ -150,9 +150,15 @@ Timeline (*línea de tiempo*)
       caso de que alguien no pueda asistir, nos estaremos comunicando con
       vos para informarte.
 
+.. template:: bootstrap3/button
+   :href: http://goo.gl/forms/fUtaiDOTmP43kaue2
+
+   ¡Quiero inscribirme!
+
 .. class:: lead align-center
 
-   ¡Sólo necesitás tener buena onda y muchas ganas de aprender! ¡Sumate!
+   ¡Sólo necesitás tener buena onda, el sábado completo libre y muchas
+   ganas de aprender! ¡Sumate!
 
 
 Guías / Entrenadores
@@ -171,13 +177,13 @@ contigo para coordinar los detalles.
 
 
 .. template:: bootstrap3/button
-   :href: http://goo.gl/forms/Mzmr0p7OOy
+   :href: http://goo.gl/forms/2WsaduiNGyn8EvM63
 
    ¡Quiero participar como guía!
 
 
-Con el Apoyo de
----------------
+Colaboradores
+-------------
 
 .. image:: colaboradores.png
    :align: center
@@ -333,3 +339,6 @@ escribinos un email y nos pondremos en contacto con vos.
 
 .. [#] Registrate en el formulario y comentá con quién vas. Además,
        decile a ella que también se registre e indique que va con vos.
+
+
+.. _Innobis: http://www.innobis.ec/

@@ -26,10 +26,9 @@
       :doc:`estos son nuestros planes
       <estadia-de-6-meses-en-cuenca-ecuador>`.
 
-..
-   .. class:: alert alert-success
+.. class:: alert alert-success
 
-      **NOVEDADES**: ¡Se viene el primer :doc:`Django Girls en Cuenca <django-girls-cuenca>`, Ecuador!
+   **NOVEDADES**: ¡Se viene el :doc:`Django Girls en Guayaquil <django-girls-guayaquil>`, Ecuador este Sábado 9 de Julio!
 
       
 .. class:: alert alert-warning

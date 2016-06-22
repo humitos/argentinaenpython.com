@@ -4,7 +4,7 @@
 .. tags:
 .. category:
 .. link:
-.. description:
+.. description: Notas en donde el proyecto Argentina en Python ha sido mencionado.
 .. type: text
 
 Estas son algunas de las notas en donde el proyecto ha sido publicado
@@ -16,6 +16,20 @@ Año 2016
 .. raw:: html
 
    <div class="row">
+
+
+.. template:: prensa-image
+   :title: Vistazo
+   :description: Taller gratuito de programación para mujeres en Guayaquil
+   :src: 2016_junio_1-340x255.png
+   :href: http://vistazo.com/seccion/tecnologia/taller-gratuito-de-programacion-para-mujeres-en-guayaquil
+
+
+.. template:: prensa-image
+   :title: SciPyLA 2016 Florianópolis
+   :description: Import Community, Fernando Masanori
+   :src: 2016_junio_0-340x255.png
+   :href: https://youtu.be/eFOPZ-2AgoY?t=10m33s
 
 
 .. template:: prensa-image

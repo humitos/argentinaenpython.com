@@ -33,6 +33,13 @@ Año 2016
 
 
 .. template:: prensa-image
+   :title: UNSION TV
+   :description: Django Girls en "Vive UNSION"
+   :src: 2016_mayo_1-340x255.png
+   :href: https://www.youtube.com/watch?v=X6w1w4XI0vw
+
+
+.. template:: prensa-image
    :title: El Mercurio
    :description: Mujeres se capacitan en programación
    :src: 2016_mayo_0-340x255.png

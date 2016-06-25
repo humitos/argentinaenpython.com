@@ -19,6 +19,13 @@ Año 2016
 
 
 .. template:: prensa-image
+   :title: ZZRadio
+   :description: Entrevista a Johanna Sanchez
+   :src: 2016_junio_2-340x255.png
+   :href: https://soundcloud.com/manuel-kaufmann-5/entrevista-django-girls-zzradio-guayaquil-ecuador-johanna-sanchez
+
+
+.. template:: prensa-image
    :title: Vistazo
    :description: Taller gratuito de programación para mujeres en Guayaquil
    :src: 2016_junio_1-340x255.png
@@ -460,6 +467,7 @@ Año 2014
 .. Las imágenes fueron capturadas con la extensión "Full Page Screen
    Capture" de Google Chrome.
 
+.. En Firefox:
 .. Shift + F2 -> "screenshot --fullpage"
 .. http://stackoverflow.com/questions/13158083/take-a-full-page-screenshot-with-firefox
 

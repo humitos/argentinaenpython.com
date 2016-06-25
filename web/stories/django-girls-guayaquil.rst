@@ -141,14 +141,14 @@ Timeline (*línea de tiempo*)
 .. image:: timeline.png
    :align: center
 
-..
-   .. class:: alert alert-danger
 
-      ¡**Atención**!: hemos alcanzado el cupo máximo de inscriptos para
-      el taller. Sin embargo, si estás interesada en participar,
-      inscribite y pasarás automáticamente a una lista de espera que, en
-      caso de que alguien no pueda asistir, nos estaremos comunicando con
-      vos para informarte.
+.. class:: alert alert-danger
+
+   ¡**Atención**!: hemos alcanzado el cupo máximo de inscriptos para
+   el taller. Sin embargo, si estás interesada en participar,
+   inscribite y pasarás automáticamente a una lista de espera que, en
+   caso de que alguien no pueda asistir, nos estaremos comunicando con
+   vos para informarte.
 
 .. template:: bootstrap3/button
    :href: http://goo.gl/forms/fUtaiDOTmP43kaue2

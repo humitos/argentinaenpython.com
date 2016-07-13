@@ -19,6 +19,27 @@ Año 2016
 
 
 .. template:: prensa-image
+   :title: La Revista
+   :description: Taller
+   :src: 2016_julio_1-340x255.png
+   :href: http://quiosco.eluniverso.com/eluniverso/books/160703larevista/#/7/
+
+
+.. template:: prensa-image
+   :title: weeklyOSM 310
+   :description: Semanario internacional de OpenStreetMap
+   :src: 2016_junio_4-340x255.png
+   :href: http://www.weeklyosm.eu/archives/7765
+
+
+.. template:: prensa-image
+   :title: Eventocal
+   :description: Taller Django Girls en Guayaquil
+   :src: 2016_junio_3-340x255.png
+   :href: http://eventocal.com/evento/taller-django-girls-en-guayaquil/
+
+
+.. template:: prensa-image
    :title: ZZRadio
    :description: Entrevista a Johanna Sanchez
    :src: 2016_junio_2-340x255.png

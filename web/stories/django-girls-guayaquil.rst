@@ -9,6 +9,12 @@
 .. previewimage: flyer.png
 .. .. template: django-girls-snake.tmpl
 
+.. class:: alert alert-success
+
+   El Sábado 2 de Julio se abrieron algunos cupos y *CONFIRMAMOS* por
+   email a algunas personas que se encontraban en *Lista de
+   espera*. Por favor, revisa tu correo electrónico (incluso en la
+   carpeta SPAM / Correo no deseado) para verificar tu situación.
 
 ¡Queremos animar a más mujeres a dominar la web! Es por eso que desde
 `Argentina en Python <http://argentinaenpython.com.ar>`_ estamos

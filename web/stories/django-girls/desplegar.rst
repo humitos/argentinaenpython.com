@@ -443,7 +443,7 @@ Borra todo el contenido y reemplázalo con algo como esto:
     import os
     import sys
 
-    path = '/home/<tu_nombre_de_usuario>/mi-primer-blog'  # use your own username here
+    path = '/home/<tu_nombre_de_usuario>/mi-primer-blog/mysite'  # use your own username here
     if path not in sys.path:
         sys.path.append(path)
 

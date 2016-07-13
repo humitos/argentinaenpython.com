@@ -26,15 +26,16 @@
       :doc:`estos son nuestros planes
       <estadia-de-6-meses-en-cuenca-ecuador>`.
 
-.. class:: alert alert-success
+..
+   .. class:: alert alert-success
 
-   **NOVEDADES**: ¡Se viene el :doc:`Django Girls en Guayaquil <django-girls-guayaquil>`, Ecuador este Sábado 9 de Julio!
+      **NOVEDADES**: ¡Se viene el :doc:`Django Girls en Guayaquil <django-girls-guayaquil>`, Ecuador este Sábado 9 de Julio!
 
-      
-.. class:: alert alert-warning
 
-   ¡Regalanos tu opinión! Ayudanos a sumar más KM y compartir Python
-   en más lugares, :doc:`contestando esta encuesta <encuesta>`.
+   .. class:: alert alert-warning
+
+      ¡Regalanos tu opinión! Ayudanos a sumar más KM y compartir Python
+      en más lugares, :doc:`contestando esta encuesta <encuesta>`.
 
 .. image:: /index/logo.thumbnail.png
    :align: right

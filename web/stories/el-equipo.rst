@@ -250,6 +250,62 @@ la rueda del aprendizaje colaborativo.
 
 
 .. template:: bootstrap3/thumbnail-el-equipo-extra
+   :name: Tonet Pascualet Jallo Colquehuanca
+   :image: tonet_jallo.png
+   :place: Puno, Puno, Perú
+   :community: Fedora Project, Código Linux, Escuelab, APESOL
+   :email: tonet666p@fedoraproject.org
+   :web: https://fedoraproject.org/wiki/User:Tonet666p
+   :github: https://github.com/tonet666p
+   :bitbucket: 
+   :twitter: https://twitter.com/tonet666p
+   :linkedin: 
+   :facebook: https://www.facebook.com/tonet666p
+
+
+.. template:: bootstrap3/thumbnail-el-equipo-extra
+   :name: Karina Maidana
+   :image: karina_maidana.png
+   :place: Encarnación, Itapúa, Paraguay
+   :community: Universidad Autónoma de Encarnación
+   :email: karilombardo@gmail.com
+   :web: 
+   :github:
+   :bitbucket: 
+   :twitter:
+   :linkedin: 
+   :facebook: https://www.facebook.com/kari.maidana.1
+
+
+.. template:: bootstrap3/thumbnail-el-equipo-extra
+   :name: Agustín Fontaine
+   :image: agustin_fontaine.png
+   :place: Capilla del Monte, Córdoba, Argentina
+   :community: Uritorco Libre, Cooperativa Viarava
+   :email: agustinfontaine@gmail.com
+   :web:  http://viarava.org.ar/
+   :github:
+   :bitbucket: 
+   :twitter: https://twitter.com/agustinfontaine
+   :linkedin: https://www.linkedin.com/in/agustinfontaine
+   :facebook: https://www.facebook.com/agustinfontaine
+
+
+.. template:: bootstrap3/thumbnail-el-equipo-extra
+   :name: Daniela Pariona Coronado
+   :image: daniela_pariona.png
+   :place: Ica, Ica, Perú
+   :community: Icanux
+   :email: daniela.parionac@gmail.com
+   :web: 
+   :github: https://github.com/Danielapariona
+   :bitbucket: 
+   :twitter: https://twitter.com/Danielapc21
+   :linkedin: https://www.linkedin.com/in/danielaparionac
+   :facebook: https://www.facebook.com/danielaparionac
+
+
+.. template:: bootstrap3/thumbnail-el-equipo-extra
    :name: ¿Vos?
    :image: proximo.png
    :place:

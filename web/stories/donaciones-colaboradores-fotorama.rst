@@ -1,7 +1,8 @@
 .. fotorama::
    :loop:
-   :autoplay: 3000
+   :autoplay: 5000
 
+   nicopace.png
    _joac2.png
    pancho_jay5.png
    jjconti.png

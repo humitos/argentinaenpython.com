@@ -9,6 +9,8 @@
 Eventos pasados
 ---------------
 
+* 09-07-2016: `Taller Django Girls en Guayaquil
+  <http://argentinaenpython.com.ar/galeria/django-girls-guayaquil/>`_
 * 30-04-2016: `Taller Django Girls en Cuenca
   <http://argentinaenpython.com.ar/galeria/django-girls-cuenca/>`_
 * 23-01-2016: `Taller Django Girls en Piura

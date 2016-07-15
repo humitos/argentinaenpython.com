@@ -9,7 +9,8 @@
 
 Si querés apoyar el proyecto :doc:`Argentina en Python <index>` de
 forma ecónomica, lo podés hacer mediante un depósito, transferencia
-bancaria o utilizado PayPal_ con el monto que puedas -*todo suma*.
+bancaria o utilizado PayPal_, Bitcoin y Payoneer con el monto que
+puedas -*todo suma*.
 
 .. _PayPal: https://www.paypal.com/
 
@@ -26,6 +27,16 @@ Transferencia desde Argentina
 
 :CUIT: 20-31995222-6
 
+
+Transferencias desde Ecuador
+----------------------------
+
+:Banco: Banco Pichincha
+
+:Titular: Manuel Kaufmann
+
+:Nro de cuenta: 2202982252
+       
 
 Transferencia desde otros países
 --------------------------------
@@ -70,6 +81,15 @@ Bitcoin
    :class: islink
 
 (hacé click en la imagen para donar)
+
+
+Payoneer
+--------
+
+.. image:: payoneer.png
+
+(debes realizar una transferencia al email humitos@gmail.com)
+
 
 ----
 

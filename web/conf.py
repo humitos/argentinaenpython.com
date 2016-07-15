@@ -1,8 +1,11 @@
 # -*- coding: utf-8 -*-
 
-from __future__ import unicode_literals
+from __future__ import division, print_function, unicode_literals
+
 import os
 import time
+
+from nikola import filters
 
 # !! This is the configuration of Nikola. !! #
 # !!  You should edit it to your liking.  !! #
@@ -690,12 +693,10 @@ CACHE_FOLDER = '.cache'
 
 def resize_historia_prensa_images(filename):
     abspath = os.path.abspath(filename)
-    print(abspath)
     # TODO: improve the path check
     if 'historia/prensa' in abspath:
         # from doit import tools
         # tools.set_trace()
-
         # TODO: use the OUTPUT variable here
         cmd = "convert -resize 340x -crop 340x255+0 '{}' output/historia/prensa/`basename '{}' .png`-340x255.png"
         cmd = cmd.format(abspath, abspath)
@@ -714,7 +715,6 @@ def rpl_email(filename):
         fh.write(content)
 
 
-from nikola import filters
 FILTERS = {
     ".html": [rpl_email, filters.typogrify],
     # ".js": [filters.closure_compiler],

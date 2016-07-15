@@ -19,6 +19,27 @@ Año 2016
 
 
 .. template:: prensa-image
+   :title: Espol TV
+   :description: Argentina en Python - Entrevista Johanna Sánchez
+   :src: 2016_julio_4-340x255.png
+   :href: https://www.youtube.com/watch?v=A4jnSW5tXoM
+
+
+.. template:: prensa-image
+   :title: Espol TV
+   :description: Django Girls- Argentina en Python
+   :src: 2016_julio_3-340x255.png
+   :href: https://www.youtube.com/watch?v=2vinvVeDkOs
+
+
+.. template:: prensa-image
+   :title: Espol TV
+   :description: Politécnicos participan en taller Django Girls
+   :src: 2016_julio_2-340x255.png
+   :href: https://www.youtube.com/watch?v=K8aw5kC0qiU
+
+
+.. template:: prensa-image
    :title: La Revista
    :description: Taller
    :src: 2016_julio_1-340x255.png

@@ -19,6 +19,13 @@ Año 2016
 
 
 .. template:: prensa-image
+   :title: Keynote Speaker PyCon España 2016
+   :description: Argentina en Python: comunidad, sueños, viajes y aprendizaje
+   :src: 2016_julio_5-340x255.png
+   :href: http://2016.es.pycon.org/es/
+
+
+.. template:: prensa-image
    :title: Espol TV
    :description: Argentina en Python - Entrevista Johanna Sánchez
    :src: 2016_julio_4-340x255.png

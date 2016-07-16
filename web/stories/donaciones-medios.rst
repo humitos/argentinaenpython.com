@@ -9,10 +9,11 @@
 
 Si querés apoyar el proyecto :doc:`Argentina en Python <index>` de
 forma ecónomica, lo podés hacer mediante un depósito, transferencia
-bancaria o utilizado PayPal_, Bitcoin y Payoneer con el monto que
+bancaria o utilizado PayPal_, Bitcoin y Payoneer_ con el monto que
 puedas -*todo suma*.
 
 .. _PayPal: https://www.paypal.com/
+.. _Payoneer: http://payoneer.com/
 
 Transferencia desde Argentina
 -----------------------------

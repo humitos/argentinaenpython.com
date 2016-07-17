@@ -20,6 +20,7 @@ Donaciones en general
 ---------------------
 
 * 14 de Julio de 2016 - `Nicolás Pace <https://twitter.com/nicopace>`_: USD 50
+* 31 de Mayo de 2016 - `Federico Reiven <https://twitter.com/ravenio>`_: BTC 0.00963799
 * 13 de Mayo de 2016 - `Joaquín Sorianello <https://twitter.com/_joac>`_: ARS 1000
 * 14 de Febrero de 2016 - `Francisco Capdevila <https://twitter.com/pancho_jay>`_: ARS 300
 

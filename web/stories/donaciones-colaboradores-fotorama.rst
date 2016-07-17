@@ -2,6 +2,7 @@
    :loop:
    :autoplay: 5000
 
+   ravenio.png
    nicopace.png
    _joac2.png
    pancho_jay5.png

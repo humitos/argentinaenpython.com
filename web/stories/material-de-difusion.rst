@@ -26,6 +26,28 @@ Logo Argentina en Python
 * `Logo 1024x978 <logo_1024.png>`_ (png fondo blanco)
 * `Logo Escalable <logo_oficial.svg>`_ (svg)
 
+.. admonition:: Nota
+
+   Este logo *no se debería* utilizar más debido a que tiene algunos
+   conflictos con las `reglas de trademark
+   <https://www.python.org/psf/trademarks/>`_ de la Python Software
+   Foundation y no es válido como `logo derivado
+   <https://www.python.org/psf/trademarks/#derived-logos>`_.
+
+----
+   
+Logo Argentina en Python (temporal)
+-----------------------------------
+
+.. figure:: logo_temporal_256.png
+   :width: 200px
+
+* `Logo 128x122 <logo_temporal_128.png>`__ (png transparente)
+* `Logo 256x244 <logo_temporal_256.png>`__ (png transparente)
+* `Logo 512x489 <logo_temporal_512.png>`__ (png transparente)
+* `Logo 1024x978 <logo_temporal_1024.png>`__ (png fondo blanco)
+* `Logo Escalable <logo_temporal_oficial.svg>`__ (svg)
+
 ----
 
 Infografía
@@ -35,12 +57,12 @@ Infografía
 
    Diseñado por `@srmanuq <https://twitter.com/srmanuq>`_
 
-.. figure:: infografia_512.png
+.. figure:: infografia-2016_512.png
    :width: 512px
 
-* `Infografía 1280x904 <infografia.png>`_ (png fondo blanco)
-* `Infografía Imprimible <infografia.pdf>`_ (pdf)
-* `Infografía Editable <infografia.svg>`_ (svg)
+* `Infografía 1280x904 <infografia-2016.png>`_ (png fondo blanco)
+* `Infografía Imprimible <infografia-2016.pdf>`_ (pdf)
+* `Infografía Editable <infografia-2016.svg>`_ (svg)
 
   * `Fuente utilizada <FjallaOne-Regular.ttf>`_ (ttf)
 

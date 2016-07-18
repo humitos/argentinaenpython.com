@@ -19,6 +19,13 @@ Año 2016
 
 
 .. template:: prensa-image
+   :title: La Revista
+   :description: Taller para mujeres programadoras
+   :src: 2016_julio_6-340x255.png
+   :href: http://www.larevista.ec/piqueo/taller-para-mujeres-programadoras-09-07-2016
+
+
+.. template:: prensa-image
    :title: Keynote Speaker PyCon España 2016
    :description: Argentina en Python: comunidad, sueños, viajes y aprendizaje
    :src: 2016_julio_5-340x255.png
@@ -51,6 +58,13 @@ Año 2016
    :description: Taller
    :src: 2016_julio_1-340x255.png
    :href: http://quiosco.eluniverso.com/eluniverso/books/160703larevista/#/7/
+
+
+.. template:: prensa-image
+   :title: VIVIR
+   :description: Programación para mujeres en un día
+   :src: 2016_junio_5-340x255.png
+   :href: los-padres-de-la-tecnologia_junio-2016.pdf
 
 
 .. template:: prensa-image

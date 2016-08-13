@@ -19,6 +19,12 @@
    </style>
 
 
+.. class:: alert alert-success
+
+   ¡Queremos comernos el mundo! Pero para eso necesitamos tu ayuda
+   para ir a `@PyConEs <https://twitter.com/PyConES>`_ y `@pyconar
+   <https://twitter.com/pyconar>`_. :doc:`¡Colabora con nosotros aquí! <donaciones/avanza-30-casilleros>`
+
 ..
    .. class:: alert alert-success
 

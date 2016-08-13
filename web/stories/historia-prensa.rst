@@ -19,6 +19,13 @@ Año 2016
 
 
 .. template:: prensa-image
+   :title: Software Libre para una Cultura Libre
+   :description: Tesis de grado, Melisa Puccinelli
+   :src: 2016_agosto_1-340x255.png
+   :href: software-libre-para-una-cultura-libre.pdf
+
+
+.. template:: prensa-image
    :title: La Revista
    :description: Taller para mujeres programadoras
    :src: 2016_julio_6-340x255.png

@@ -107,7 +107,7 @@ de nuestro título? Los ordenadores utilizan códigos especiales para
 entender los colores. Empiezan con ``#`` y les siguen 6 letras (A-F) y
 números (0-9). Puedes encontrar códigos de color, por ejemplo, aquí:
 http://www.colorpicker.com/. También puedes utilizar `colores
-predefinidos <http://www.w3schools.com/cssref/css_colornames.asp>`__
+predefinidos <http://www.whoishostingthis.com/resources/css-colors/>`__
 utilizando su nombre en inglés, como ``red`` y ``green``.
 
 En tu archivo ``blog/static/css/blog.css`` deberías agregar el siguiente

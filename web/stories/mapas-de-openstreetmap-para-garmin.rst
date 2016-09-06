@@ -33,7 +33,7 @@ Nosotros hemos utilizado estos mapas con el proyecto `Argentina en
 Python <http://argentinenpython.com.ar/>`_ por más de 2 años en
 Argentina, Uruguay, Paraguay, Bolivia, Chile y Brasil. Sin embargo,
 luego de ese tiempo llegamos a Perú y el mapa que Martín genera no
-cubre este país. Es por eso que hemos decidido generarlos nosotros
+cubre este país [#]_. Es por eso que hemos decidido generarlos nosotros
 mismos y ponerlos a disposición de ustedes en caso de que les sirvan.
 
 Perú
@@ -80,7 +80,11 @@ archivo está corrupto por algún motivo, envíanos un `email
    países. Si estás interesado en que generemos los mapas del país en
    el que vives, ponte en contacto con nosotros.
 
-.. [#] Código fuente: https://proyectos.ingeniovirtual.com.ar/projects/garmin-osm
+.. [#] Código fuente: https://github.com/ingeniovirtual/garmin-osm
+       (`repositorio anterior
+       <https://proyectos.ingeniovirtual.com.ar/projects/garmin-osm>`_
 .. [#] En esa discusión hay mucha información sobre cómo funciona el
        mapa internamente y detalles de cómo se tomaron algunas
        decisiones.
+.. [#] En la nueva versión de su código de Github están soportados
+       Perú, Ecuador y Colombia

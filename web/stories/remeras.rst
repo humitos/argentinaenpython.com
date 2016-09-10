@@ -1,7 +1,7 @@
 .. title: Remeras
 .. slug: remeras
 .. date: 2015-04-17 13:07:05 UTC-03:00
-.. tags: 
+.. tags: draft
 .. category: 
 .. link: 
 .. description: 

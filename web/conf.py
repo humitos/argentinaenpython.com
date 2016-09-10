@@ -178,7 +178,7 @@ NAVIGATION_LINKS = {
                 ("/mapear-con-osmtracker/", "Mapear con OSMTracker"),
                 ("/mapas-de-openstreetmap-para-garmin/", "Mapas OSM para Garmin"),
                 ("/encuesta/", "Encuesta"),
-                ("/remeras/", "Remeras"),
+                # ("/remeras/", "Remeras"),
             ),
             "Extras"
         ),

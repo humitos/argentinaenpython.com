@@ -71,6 +71,15 @@ Bitcoin
 
 (click on the image to donate)
 
+
+Payoneer
+--------
+
+.. image:: payoneer.png
+
+(you should realize a transfer to the email humitos@gmail.com)
+
+
 ----
 
 As a last favor, I ask you to send me an `email`_ attaching the ticket

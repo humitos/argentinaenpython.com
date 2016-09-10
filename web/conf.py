@@ -775,6 +775,41 @@ GALLERY_SORT_BY_DATE = True
 # resized.
 PRESERVE_EXIF_DATA = True
 
+# If you have enabled PRESERVE_EXIF_DATA, this option lets you choose EXIF
+# fields you want to keep in images. (See also PRESERVE_EXIF_DATA)
+#
+# For a full list of field names, please see here:
+# http://www.cipa.jp/std/documents/e/DC-008-2012_E.pdf
+#
+# This is a dictionary of lists. Each key in the dictionary is the
+# name of a IDF, and each list item is a field you want to preserve.
+# If you have a IDF with only a '*' item, *EVERY* item in it will be
+# preserved. If you don't want to preserve anything in a IDF, remove it
+# from the setting. By default, no EXIF information is kept.
+# Setting the whitelist to anything other than {} implies
+# PRESERVE_EXIF_DATA is set to True
+# To preserve ALL EXIF data, set EXIF_WHITELIST to {"*": "*"}
+
+EXIF_WHITELIST = {}
+
+# DateTime information:
+EXIF_WHITELIST['DateTime'] = ["*"]
+
+# Some examples of EXIF_WHITELIST settings:
+
+# Basic image information:
+# EXIF_WHITELIST['0th'] = [
+#    "Orientation",
+#    "XResolution",
+#    "YResolution",
+# ]
+
+# If you want to keep GPS data in the images:
+# EXIF_WHITELIST['GPS'] = ["*"]
+
+# Embedded thumbnail information:
+EXIF_WHITELIST['1st'] = ["*"]
+
 #
 # Folders containing images to be used in normal posts or pages. Images will be
 # scaled down according to IMAGE_THUMBNAIL_SIZE and MAX_IMAGE_SIZE options, but

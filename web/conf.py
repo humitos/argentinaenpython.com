@@ -154,7 +154,6 @@ NAVIGATION_LINKS = {
         (
             (
                 ("/donaciones/", "Donaciones"),
-                ("/donaciones/arreglo-de-vehiculo/", "Arreglo de vehículo"),
                 ("/donaciones/colaboradores/", "Colaboradores"),
                 ("/donaciones/medios/", "Medios disponibles"),
             ),

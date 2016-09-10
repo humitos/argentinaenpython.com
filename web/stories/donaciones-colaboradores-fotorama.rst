@@ -2,6 +2,8 @@
    :loop:
    :autoplay: 5000
 
+   chipaca.png
+   mauricio_baeza.png
    ravenio.png
    nicopace.png
    _joac2.png

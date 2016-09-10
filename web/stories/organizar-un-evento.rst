@@ -8,7 +8,7 @@
 .. type: text
 .. preview: argenpython-djangogirls.jpg
 
-El proyecto `Argentina en Python <http://argentinaenpython.com.ar/>`_
+El proyecto `Argentina en Python <http://argentinaenpython.com/>`_
 existe y sigue vivo gracias a gente como vos que tiene interés en
 colaborar en la organización de un evento de Python en su ciudad. Es
 por eso que para mejorar la comunicación temprana y coordinar la

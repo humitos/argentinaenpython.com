@@ -24,12 +24,12 @@ En 2014 el proyecto `adoptó
 <http://elblogdehumitos.com.ar/posts/rafaela-santiago-del-estero/>`_ a
 Johanna Sánchez como :doc:`co-piloto <el-equipo>` de una loca aventura
 para comenzar su `tercera etapa
-<http://argentinaenpython.com.ar/historia/etapas/#tercera-etapa>`_. Con
+<http://argentinaenpython.com/historia/etapas/#tercera-etapa>`_. Con
 el pasar de los meses se ha convertido en una pieza infaltable para
 que todo salga exitosamente bien y podamos realizar más y mejores
 eventos a lo largo de estos ya casi 12 meses juntos (de hecho,
 ¡participó como organizadora y coach de los `últimos 18 eventos!
-<http://argentinaenpython.com.ar/eventos/#eventos-pasados>`_)
+<http://argentinaenpython.com/eventos/#eventos-pasados>`_)
 
 Hace un mes, junto con `LinuxChix Argentina
 <http://www.linuxchixar.org/>`_, hemos enviado una propuesta de taller

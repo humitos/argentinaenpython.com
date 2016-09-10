@@ -197,7 +197,7 @@ def calc_my_position_address(address, output, upload=True):
 
 def upload_my_position():
     command = 'scp {} ' \
-              'mkaufmann.com.ar:~/apps/argentinaenpython.com.ar/' \
+              'mkaufmann.com.ar:~/apps/argentinaenpython.com/' \
               'assets/data/'.format(
                   MY_POSITION_FILENAME,
               )

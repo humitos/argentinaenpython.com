@@ -473,7 +473,7 @@ sugerido los lectos.
 .. https://github.com/alejandroautalan/pygubu
 .. http://lorenabarba.com/blog/cfd-python-12-steps-to-navier-stokes/
 .. http://openedx.seas.gwu.edu/courses/GW/MAE6286/2014_fall/about
-.. https://github.com/py-crash/argentinaenpython.com.ar/commit/215a36608189ab7e172f2ad658c2bb988a1690df
+.. https://github.com/py-crash/argentinaenpython.com/commit/215a36608189ab7e172f2ad658c2bb988a1690df
 .. http://pythonya.appspot.com/
 .. https://twitter.com/Pybonacci/status/629728681024450562
 .. https://www.filepicker.io/api/file/rTFOdwjSK6KfRRY1m0Nl

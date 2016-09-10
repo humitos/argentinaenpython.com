@@ -31,7 +31,7 @@ Juntos, somos una mesa de 3 patas: la comunidad de Python, Johanna
 (`@EllaQuimica <https://twitter.com/EllaQuimica>`_) y yo
 (Manuel). Juntos, hemos organizado decenas de eventos de Python
 (`incluyendo 8 talleres Django Girls
-<http://argentinaenpython.com.ar/galeria/>`_), hemos colaborado en
+<http://argentinaenpython.com/galeria/>`_), hemos colaborado en
 traducciones, creado páginas de iniciación en Python como
 :doc:`quiero-aprender-python` y más. Si bien nosotros pusimos
 muchísimo esfuerzo, vale recalcar que una pata fundamental de la mesa
@@ -47,7 +47,7 @@ secciones de esta web.*
    :alt: Django Girls Mendoza / PyCon Argentina 2015
 
    Django Girls Mendoza / PyCon Argentina 2015 (`así llegamos
-   <http://argentinaenpython.com.ar/donaciones/de-quimica-a-coach/>`_)
+   <http://argentinaenpython.com/donaciones/de-quimica-a-coach/>`_)
 
 ----
 
@@ -119,7 +119,7 @@ España <http://2016.es.pycon.org/es/>`_ y `Django Girls Almería
 <https://djangogirls.org/almeria/>`_. ¡Solo faltás vos!
 
 .. template:: bootstrap3/button
-   :href: http://argentinaenpython.com.ar/donaciones/medios/
+   :href: http://argentinaenpython.com/donaciones/medios/
 
    ¡Muero de ganas por donar!
 

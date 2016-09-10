@@ -544,5 +544,5 @@ Año 2014
 .. Luego fueron achicadas y cortadas con "convert" de ImageMagick
 
 .. resize to 340 width and crop to 255 height
-.. cd argentinaenpython.com.ar/web
+.. cd argentinaenpython.com/web
 .. for F in `ls images/historia/prensa/*.png`;do convert -resize 340x -crop 340x255+0 ${F} files/historia/prensa/`basename ${F} .png`-340x255.png;done

@@ -28,10 +28,10 @@ BLOG_TITLE = {
 }
 # This is the main URL for your site. It will be used
 # in a prominent link
-SITE_URL = 'http://argentinaenpython.com.ar/'
+SITE_URL = 'http://argentinaenpython.com/'
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
-# BASE_URL = "http://argentinaenpython.com.ar/"
+# BASE_URL = "http://argentinaenpython.com/"
 BLOG_EMAIL = "argentinaenpython@openmailbox.org"
 BLOG_DESCRIPTION = {
     'es': 'Recorre latinoamerica y el mundo compartiendo conocimiento, Python y su filosofía',

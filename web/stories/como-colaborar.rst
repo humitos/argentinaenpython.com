@@ -92,7 +92,7 @@ Nuevo diseño de logo
 ~~~~~~~~~~~~~~~~~~~~
 
 Durante casi dos años he estado utilizando `este logo
-<http://argentinaenpython.com.ar/material-de-difusion/#logo-argentina-en-python>`_
+<http://argentinaenpython.com/material-de-difusion/#logo-argentina-en-python>`_
 que fue diseñado por German Kemerer de Paraná, Entre Ríos y retocado
 entre diferentes colaboradores y amigos de Python Argentina hasta
 llegar al que tenemos actualmente.

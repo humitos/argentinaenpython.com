@@ -141,7 +141,7 @@ Año 2016
    :title: Radio Eme 96.3
    :description: Fantásticas Mentiras Bailables
    :src: 2016_marzo_1-340x255.png
-   :href: http://elblogdehumitos.com.ar/posts/entrevista-fantasticas-mentiras-bailables/
+   :href: http://elblogdehumitos.com/posts/entrevista-fantasticas-mentiras-bailables/
 
 
 .. template:: prensa-image
@@ -331,7 +331,7 @@ Año 2015
    :title: UNITV
    :description: Paseando por la TV
    :src: 2015_agosto_2-340x255.png
-   :href: http://elblogdehumitos.com.ar/posts/paseando-por-la-tv/
+   :href: http://elblogdehumitos.com/posts/paseando-por-la-tv/
 
 
 .. template:: prensa-image
@@ -359,7 +359,7 @@ Año 2015
    :title: Mangocast
    :description: Mangocast habla del #1 Meetup de Python Paraguay
    :src: 2015_julio_0-340x255.png
-   :href: http://elblogdehumitos.com.ar/posts/mangocast-habla-del-1-meetup-de-python-paraguay/
+   :href: http://elblogdehumitos.com/posts/mangocast-habla-del-1-meetup-de-python-paraguay/
 
 
 .. template:: prensa-image
@@ -416,7 +416,7 @@ Año 2015
    :title: Mangocast
    :description: Entrevista en Mangocast por Pablo Santa Cruz
    :src: 2015_mayo_0-340x255.png
-   :href: http://elblogdehumitos.com.ar/posts/entrevista-argentina-en-python-pyday-asuncion/
+   :href: http://elblogdehumitos.com/posts/entrevista-argentina-en-python-pyday-asuncion/
 
 
 .. template:: prensa-image
@@ -507,7 +507,7 @@ Año 2014
    :title: FM del Sol
    :description: Entrevista radial
    :src: 2014_noviembre_0-340x255.png
-   :href: http://elblogdehumitos.com.ar/posts/argentina-en-python-en-la-radio
+   :href: http://elblogdehumitos.com/posts/argentina-en-python-en-la-radio
 
 
 .. template:: prensa-image

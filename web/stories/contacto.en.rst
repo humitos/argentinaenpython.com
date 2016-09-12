@@ -48,7 +48,7 @@ ways, but I'm not really pending on them:
 ----
 
 If you want to know more about me, you can also `visit my personal
-blog <http://elblogdehumitos.com.ar/>`_.
+blog <http://elblogdehumitos.com/>`_.
 
 
 .. admonition:: QR Code

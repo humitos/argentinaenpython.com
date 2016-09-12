@@ -103,7 +103,7 @@ Los lugares en los que he estado son:
 * Paraná, Entre Ríos, Argentina
 
 Por diferentes cuestiones e inconveninentes, `decidí volver
-<http://elblogdehumitos.com.ar/posts/decidi-volver/>`_ y re-organizar
+<http://elblogdehumitos.com/posts/decidi-volver/>`_ y re-organizar
 nuevamente el proyecto para continuar viaje más adelante.
 
 Este es el mapa del recorrido realizado.
@@ -152,7 +152,7 @@ Tercera Etapa
 
 La etapa anterior fue muy intensa, y el cierre en la `Python
 Conference Argentina 2014
-<http://elblogdehumitos.com.ar/posts/python-conference-argentina-2014/>`_
+<http://elblogdehumitos.com/posts/python-conference-argentina-2014/>`_
 también. Durante estos casi tres meses de viaje que duró la `Segunda
 Etapa`_ pasaron muchas cosas, cambiaron otras y se crearon varios
 proyectos.

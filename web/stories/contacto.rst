@@ -49,7 +49,7 @@ de ellos:
 ----
 
 Si querés saber más sobre mí, también podés visitar `mi blog personal
-<http://elblogdehumitos.com.ar/>`_.
+<http://elblogdehumitos.com/>`_.
 
 
 .. admonition:: Código QR

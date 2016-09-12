@@ -10,7 +10,7 @@
 .. class:: alert alert-success
 
    `Leé nuestra visión
-   <http://elblogdehumitos.com.ar/posts/scipyla-2015/>`_ de lo que fue
+   <http://elblogdehumitos.com/posts/scipyla-2015/>`_ de lo que fue
    el Track Teen y la SciPyLA en "El blog de Humitos" y `mirá todas
    las fotos </galeria/track-teen-scipy-la-2015>`_.
 

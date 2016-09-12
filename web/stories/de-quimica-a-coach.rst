@@ -21,7 +21,7 @@
      <div class="col-md-8">
 
 En 2014 el proyecto `adoptó
-<http://elblogdehumitos.com.ar/posts/rafaela-santiago-del-estero/>`_ a
+<http://elblogdehumitos.com/posts/rafaela-santiago-del-estero/>`_ a
 Johanna Sánchez como :doc:`co-piloto <el-equipo>` de una loca aventura
 para comenzar su `tercera etapa
 <http://argentinaenpython.com/historia/etapas/#tercera-etapa>`_. Con

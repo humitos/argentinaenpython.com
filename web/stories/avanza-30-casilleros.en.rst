@@ -21,7 +21,7 @@ and without any support. During the first year, and with the help of
 the `Python Argentina <http://python.org.ar/>`_ community, some small
 events were organized in that country. Arriving at the end of that
 year, `I came across Johanna Sanchez in Santiago de Estero
-<http://elblogdehumitos.com.ar/posts/rafaela-santiago-del-estero/>`_,
+<http://elblogdehumitos.com/posts/rafaela-santiago-del-estero/>`_,
 who fell in love with the project and the Python community and a few
 weeks later decided to get immersed in travelling and sharing
 knowledge in different towns, cities, provinces and

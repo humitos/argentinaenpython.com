@@ -34,7 +34,7 @@ a Bootstrap3 simple button:
 .. code:: rst
 
    .. template:: bootstrap3/button
-      :href: http://elblogdehumitos.com.ar/
+      :href: http://elblogdehumitos.com/
 
       Go to my blog
 
@@ -54,7 +54,7 @@ You will also need to put the file `button.tmpl` in the folder
 Finally, you will get the button as you want:
 
 .. template:: bootstrap3/button
-   :href: http://elblogdehumitos.com.ar/
+   :href: http://elblogdehumitos.com/
 
    Go to my blog
 

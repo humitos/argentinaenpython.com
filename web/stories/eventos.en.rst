@@ -117,7 +117,7 @@ Some comments
   serve it on the internal network. It takes less than 10 minutes and
   you can have hours of gain :)
 
-.. _pip cache: http://elblogdehumitos.com.ar/posts/pip-cache/
+.. _pip cache: http://elblogdehumitos.com/posts/pip-cache/
 
 
 ----

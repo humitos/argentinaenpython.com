@@ -56,7 +56,7 @@ Estero durante el viaje) al proyecto y me está acompañando desde el 8
 de Diciembre de 2014 en mis viajes.
 
 En Enero de 2015 la Python Software Foundation `nos otorga un subsidio
-<http://elblogdehumitos.com.ar/posts/la-psf-nos-da-una-mano/>`_ para
+<http://elblogdehumitos.com/posts/la-psf-nos-da-una-mano/>`_ para
 que sigamos realizando estas actividades en la zona del NEA
 (Norte-Este Argentino), Paraguay y Bolivia.
 

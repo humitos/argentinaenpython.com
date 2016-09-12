@@ -167,7 +167,7 @@ Comentarios
   de horas, luego almorzamos y por la tarde seguimos programando.
 
 .. _pip: https://pip.pypa.io/en/latest/
-.. _crear un caché: http://elblogdehumitos.com.ar/posts/pip-cache/
+.. _crear un caché: http://elblogdehumitos.com/posts/pip-cache/
 
 
 ----

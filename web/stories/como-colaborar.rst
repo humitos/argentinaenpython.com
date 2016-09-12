@@ -8,7 +8,7 @@
 .. type: text
 
 Es muy importante para nosotros `hacer contactos
-<http://elblogdehumitos.com.ar/posts/mendoza-tiene-agite>`_ con gente
+<http://elblogdehumitos.com/posts/mendoza-tiene-agite>`_ con gente
 interesada en la programación, el Software Libre, las diferentes
 ciencias y demás, para poder coordinar a la distancia algunas
 actividades de mutuo interés: desde el circo hasta la programación,

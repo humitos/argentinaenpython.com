@@ -20,7 +20,7 @@ y sin apoyo alguno. Durante el primer año, y con ayuda de la comunidad
 `Python Argentina <http://python.org.ar/>`_, se organizaron algunos
 pequeños eventos en ese país. Llegando al final de ese año, `me crucé
 con Johanna Sanchez en Santiago de Estero
-<http://elblogdehumitos.com.ar/posts/rafaela-santiago-del-estero/>`_,
+<http://elblogdehumitos.com/posts/rafaela-santiago-del-estero/>`_,
 quien se enamoró del proyecto y de la comunidad de Python y pocas
 semanas después decidió sumergirse por completo en esto de viajar y
 compartir conocimiento en diferentes pueblos, ciudades, provincias y

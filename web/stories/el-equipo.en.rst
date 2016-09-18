@@ -65,3 +65,26 @@ neuronal reproduction age through the `Chemistry & Nomad
 .. class:: align-center width-70 lead
 
    Although we are physically separated, we are one: "The team"
+
+
+----
+
+"The real Team"
+---------------
+
+
+During these years we have been visiting a lot of cities in some
+countries of Latin America and organizing events related with Ptyhon
+and the *Software Libre* community. While we are who traveled from one
+city to another one, these are the people who have helped us to manage
+*all of the events* we have realized and none of this would make sense
+if we had not come across them in the cities we visited. Because of
+this we want to thank them in public and let them know that are part
+of "The Team" of Argentina en Python.
+
+Besides, we know these people are actively searching new challenges
+with a lot of energy to participate in community and keep moving the
+wheel of collaborative learning.
+
+
+.. include:: stories/el-verdadero-equipo.rst

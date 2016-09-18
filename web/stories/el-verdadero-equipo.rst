@@ -237,6 +237,20 @@
 
 
 .. template:: bootstrap3/thumbnail-el-equipo-extra
+   :name: Leandro Félix Rueda
+   :image: leandro_felix_rueda.png
+   :place: Cruz del Eje, Córdoba, Argentina
+   :community: Cooperativa Viarava, LibreBase Córdoba
+   :email: leorueda.sanmarcos@gmail.com
+   :web:
+   :github:
+   :bitbucket:
+   :twitter:
+   :linkedin:
+   :facebook: https://www.facebook.com/leoruedasanmarcos
+
+
+.. template:: bootstrap3/thumbnail-el-equipo-extra
    :name: ¿Vos?
    :image: proximo.png
    :place:

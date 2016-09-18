@@ -19,6 +19,11 @@ donaciones:
 Donaciones para ir a PyCon España y PyCon Argentina
 ---------------------------------------------------
 
+
+* 16 de Septiembre de 2016 - `Alejandro Javier Peralta Frias <https://twitter.com/aleperalta82>`_: ARS 500
+* 12 de Septiembre de 2016 - `Emiliano Dalla Verde Marcozzi <https://twitter.com/edvm>`_: ARS 1000
+* 12 de Septiembre de 2016 - Nathaniel McCourtney: USD 20
+* 11 de Septiembre de 2016 - Jes Lee Photos: USD 50
 * 31 de Agosto de 2016 - Edgar Mencia: USD 3
 * 29 de Agosto de 2016 - Jose Maria Cortes Arnal: USD 20
 * 18 de Agosto de 2016 - Mariana Vargas Vieyra: USD 50

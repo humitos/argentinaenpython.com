@@ -106,8 +106,8 @@ experiencia! :)
 .. raw:: html
 
    <div class="progress" style="width: 70%; height: 40px; margin-left: auto; margin-right: auto;">
-     <div class="progress-bar progress-bar-success progress-bar-striped active" role="progressbar" style="width: 11.27% ;">
-       <div style="margin-top: 10px;">11.27 %</div>
+     <div class="progress-bar progress-bar-success progress-bar-striped active" role="progressbar" style="width: 16.82% ;">
+       <div style="margin-top: 10px;">16.82 %</div>
      </div>
    </div>
 

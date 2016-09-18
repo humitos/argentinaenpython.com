@@ -2,6 +2,8 @@
    :loop:
    :autoplay: 5000
 
+   aleperalta82.png
+   edvm.png
    chipaca.png
    mauricio_baeza.png
    ravenio.png

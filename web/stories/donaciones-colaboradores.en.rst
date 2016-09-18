@@ -19,12 +19,16 @@ the moment the donation was made:
 Donations to go to PyCon España and PyCon Argentina
 ---------------------------------------------------
 
-* 31 de Agosto de 2016 - Edgar Mencia: USD 3
-* 29 de Agosto de 2016 - Jose Maria Cortes Arnal: USD 20
-* 18 de Agosto de 2016 - Mariana Vargas Vieyra: USD 50
-* 16 de Agosto de 2016 - Isidro Lopez Martinez: USD 20
-* 15 de Agosto de 2016 - `J.R. Lenton <https://twitter.com/chipaca>`_: USD 100
-* 13 de Agosto de 2016 - `Mauricio Baeza <https://facturalibre.net>`_: USD 10
+* 16 September 2016 - `Alejandro Javier Peralta Frias <https://twitter.com/aleperalta82>`_: ARS 500
+* 12 September 2016 - `Emiliano Dalla Verde Marcozzi <https://twitter.com/edvm>`_: ARS 1000
+* 12 September 2016 - Nathaniel McCourtney: USD 20
+* 11 September 2016 - Jes Lee Photos: USD 50
+* 31 August 2016 - Edgar Mencia: USD 3
+* 29 August 2016 - Jose Maria Cortes Arnal: USD 20
+* 18 August 2016 - Mariana Vargas Vieyra: USD 50
+* 16 August 2016 - Isidro Lopez Martinez: USD 20
+* 15 August 2016 - `J.R. Lenton <https://twitter.com/chipaca>`_: USD 100
+* 13 August 2016 - `Mauricio Baeza <https://facturalibre.net>`_: USD 10
 
 General donations
 -----------------

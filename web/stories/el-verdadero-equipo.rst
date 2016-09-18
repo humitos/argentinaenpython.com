@@ -7,7 +7,7 @@
 
    <style>
      div.el-equipo-extra {
-       min-height: 400px;
+       min-height: 415px;
      }
    </style>
 
@@ -219,6 +219,21 @@
    :twitter: https://twitter.com/Danielapc21
    :linkedin: https://www.linkedin.com/in/danielaparionac
    :facebook: https://www.facebook.com/danielaparionac
+
+
+
+.. template:: bootstrap3/thumbnail-el-equipo-extra
+   :name: Noemi Ticona Angles
+   :image: noemi_ticona_angles.png
+   :place: Santa Cruz, Santa Cruz, Bolivia
+   :community: Uremix, Software Libre Bolivia
+   :email: noemi.t.angles@gmail.com
+   :web:
+   :github: https://github.com/NoemiNahomy
+   :bitbucket:
+   :twitter: https://twitter.com/nah_omy
+   :linkedin:
+   :facebook: https://www.facebook.com/nao.t.angles
 
 
 .. template:: bootstrap3/thumbnail-el-equipo-extra

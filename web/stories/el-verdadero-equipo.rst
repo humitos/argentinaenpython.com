@@ -251,6 +251,20 @@
 
 
 .. template:: bootstrap3/thumbnail-el-equipo-extra
+   :name: Eugenio Knoll
+   :image: eugenio_knoll.png
+   :place: Apóstoles, Misiones, Argentina
+   :community: Universidad Nacional de Misiones
+   :email: eugenioknoll@gmail.com
+   :web:
+   :github:
+   :bitbucket:
+   :twitter: https://twitter.com/eugenio_dk
+   :linkedin: https://www.linkedin.com/in/eugenio-knoll-02984954
+   :facebook: https://www.facebook.com/eugenioknoll
+
+
+.. template:: bootstrap3/thumbnail-el-equipo-extra
    :name: ¿Vos?
    :image: proximo.png
    :place:

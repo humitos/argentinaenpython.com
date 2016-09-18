@@ -29,8 +29,8 @@ Estos mapas son una continuación del `trabajo que ha realizado
 `OpenStreetMap <http://openstreetmap.org/>`_ durante los últimos años
 para generar mapas para dispositivos Garmin con *nuestros* datos.
 
-Nosotros hemos utilizado estos mapas con el proyecto `Argentina en
-Python <http://argentinenpython.com.ar/>`_ por más de 2 años en
+Nosotros hemos utilizado estos mapas con el proyecto :doc:`Argentina en
+Python <index>` por más de 2 años en
 Argentina, Uruguay, Paraguay, Bolivia, Chile y Brasil. Sin embargo,
 luego de ese tiempo llegamos a Perú y el mapa que Martín genera no
 cubre este país [#]_. Es por eso que hemos decidido generarlos nosotros

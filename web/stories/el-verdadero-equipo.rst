@@ -265,6 +265,20 @@
 
 
 .. template:: bootstrap3/thumbnail-el-equipo-extra
+   :name: Catherin Ortiz
+   :image: catherin_ortiz.png
+   :place: Posadas, Misiones, Argentina
+   :community:
+   :email: catherinortiz@gmail.com
+   :web: http://www.culturacuantica.com.ar/
+   :github:
+   :bitbucket:
+   :twitter: https://twitter.com/cathortiz
+   :linkedin: https://www.linkedin.com/in/cathortiz
+   :facebook: https://www.facebook.com/catherinortiz
+
+
+.. template:: bootstrap3/thumbnail-el-equipo-extra
    :name: ¿Vos?
    :image: proximo.png
    :place:

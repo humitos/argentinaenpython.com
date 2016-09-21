@@ -26,18 +26,18 @@ Instalación de Python
    Editor <https://www.youtube.com/watch?v=pVTaqzKZCdA>`__ (en Inglés).
 
    Esta sección está basada en un tutorial por Geek Girls Carrots
-   (http://django.carrots.pl/)
+   (https://github.com/ggcarrots/django-carrots)
 
 Django está escrito en Python. Necesitamos Python para hacer cualquier
 cosa en Django. ¡Vamos a empezar con la instalación! Queremos que
-instales Python 3.4, así que si tienes alguna versión anterior, deberás
+instales Python 3.5, así que si tienes alguna versión anterior, deberás
 actualizarla.
 
 Windows
 -------
 
 Puedes descargar Python para Windows desde el sitio web
-https://www.python.org/downloads/release/python-343/. Después de
+https://www.python.org/downloads/release/python-351/. Después de
 descargar el archivo \*\ **.msi**, debes ejecutarlo (haz doble click en
 el archivo) y sigue las instrucciones. Es importante recordar la ruta
 (el directorio) donde se ha instalado Python. ¡Será necesario más
@@ -62,7 +62,7 @@ escribe el siguiente comando:
 ::
 
     $ python3 --version
-    Python 3.4.3
+    Python 3.5.1
 
 Si no tienes instalado Python o si deseas una versión diferente, puedes
 instalarla de la siguiente manera:
@@ -74,7 +74,7 @@ Escribe este comando en tu consola:
 
 ::
 
-    $ sudo apt-get install python3.4
+    $ sudo apt-get install python3.5
 
 Fedora (hasta 21)
 ~~~~~~~~~~~~~~~~~
@@ -98,11 +98,11 @@ OS X
 ----
 
 Debes ir al sitio web
-https://www.python.org/downloads/release/python-343/ y descargar el
+https://www.python.org/downloads/release/python-351/ y descargar el
 instalador de Python:
 
 -  Descargar el archivo *Mac OS X 64-bit/32-bit installer*,
--  Haga doble clic en *python-3.4.3-macosx10.6.pkg* para ejecutar al
+-  Haga doble clic en *python-3.5.1-macosx10.6.pkg* para ejecutar al
    instalador.
 
 Verifica que la instalación fue correcta abriendo la aplicación de
@@ -111,7 +111,7 @@ Verifica que la instalación fue correcta abriendo la aplicación de
 ::
 
     $ python3 --version
-    Python 3.4.3
+    Python 3.5.1
 
 --------------
 

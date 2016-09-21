@@ -4,7 +4,7 @@ Tutorial de Django Girls
     Este trabajo está bajo la licencia internacional Creative Commons
     Attribution-ShareAlike 4.0. Para ver una copia de esta licencia,
     visita el siguiente enlace
-    http://creativecommons.org/licenses/by-sa/4.0/
+    https://creativecommons.org/licenses/by-sa/4.0/
 
 .. raw:: html
 

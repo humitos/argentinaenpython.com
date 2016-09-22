@@ -2,7 +2,7 @@ Instalación de Django
 +++++++++++++++++++++
 
   Parte de esta sección se basa en tutoriales de Geek Girls Carrots
-  (http://django.carrots.pl/).
+  (https://github.com/ggcarrots/django-carrots).
 
   Parte de este capítulo se basa en el `django-marcador tutorial
   <http://django-marcador.keimlink.de/>`__ bajo licencia Creative
@@ -57,13 +57,13 @@ Windows
 
 Para crear un nuevo ``virtualenv``, debes abrir la consola (te lo
 indicamos unos cuantos capítulos antes, ¿recuerdas?) y ejecuta
-``C:\Python34\python -m venv myvenv``. Se verá así:
+``C:\Python35\python -m venv myvenv``. Se verá así:
 
 ::
 
-    C:\Users\Name\djangogirls> C:\Python34\python -m venv myvenv
+    C:\Users\Name\djangogirls> C:\Python35\python -m venv myvenv
 
-en donde ``C:\Python34\python`` es el directorio en el que instalaste
+en donde ``C:\Python35\python`` es el directorio en el que instalaste
 Python previamente y ``myvenv`` es el nombre de tu ``virtualenv``.
 Puedes utilizar cualquier otro nombre, pero asegúrate de usar minúsculas
 y no dejar espacios, acentos o caracteres especiales. También es una
@@ -116,7 +116,24 @@ es buena idea mantener el nombre corto. ¡Vas a referirte muchas veces a
    ::
 
       $ sudo apt-get install python-virtualenv
-      $ virtualenv --python=python3.4 myvenv
+      $ virtualenv --python=python3.5 myvenv
+
+.. admonition:: Nota
+  
+   If you get an error like
+
+   ::
+
+     E: Unable to locate package python3-venv
+
+
+   then instead run:
+
+   ::
+
+     $ sudo apt install python3.5-venv
+
+
 
 Trabajar con virtualenv
 =======================
@@ -133,6 +150,18 @@ Inicia el entorno virtual ejecutando:
 ::
 
     C:\Users\Name\djangogirls> myvenv\Scripts\activate
+
+
+.. admonition:: Nota
+
+   on Windows 10 you might get an error in the Windows PowerShell that says `execution of scripts is disabled on this system`. In this case, open another Windows PowerShell with the "Run as Administrator" option.  Then try typing the following command before starting your virtual environment:
+
+   ::
+
+     C:\WINDOWS\system32> Set-ExecutionPolicy -ExecutionPolicy RemoteSigned
+     Execution Policy Change
+     The execution policy helps protect you from scripts that you do not trust. Changing the execution policy might expose you to the security risks described in the about_Execution_Policies help topic at http://go.microsoft.com/fwlink/?LinkID=135170. Do you want to change the execution policy? [Y] Yes  [A] Yes to All  [N] No  [L] No to All  [S] Suspend  [?] Help (default is "N"): A
+
 
 Linux y OS X
 ------------
@@ -169,7 +198,12 @@ Instalar Django
 ===============
 
 Ahora que tienes tu ``virtualenv`` iniciado, puedes instalar Django
-usando ``pip``. En la consola, ejecuta ``pip install django~=1.9``
+usando ``pip``.
+
+Before we do that, we should make sure we have the latest version of ``pip``, the software that we use to install Django.
+In the console, run ``pip install --upgrade pip``.
+
+En la consola, ejecuta ``pip install django~=1.9``
 (fíjate que utilizamos una tilde (signo de la ñ) y el signo igual:
 ``~=``).
 
@@ -204,7 +238,7 @@ Django. Si esto sucede, en vez del comando anterior, prueba este:
 en Linux
 
 Si obtienes un error al correr pip en Ubuntu 12.04 ejecuta ``python -m
-pip install- U - force-resintall pip`` para arreglar la instalación de
+pip install -U --force-resintall pip`` para arreglar la instalación de
 pip en el virtualenv.
 
 ¡Eso es todo! ¡Ahora estás lista (por fin) para crear una aplicación

@@ -1,9 +1,9 @@
-Django urls
+Django URLs
 +++++++++++
 
 Estamos a punto de construir nuestra primera página web: ¡una página de
 inicio para el blog! Pero primero, vamos a aprender un poco acerca de
-las urls de Django.
+las URLs de Django.
 
 ¿Qué es una URL?
 ================
@@ -14,9 +14,9 @@ que visitas una página, se ve en la barra de direcciones del navegador
 también es una URL):
 
 .. figure:: url.png
-   :alt: Url
+   :alt: URL
 
-   Url
+   URL
 
 Cada página en Internet necesita su propia URL. De esta manera tu
 aplicación sabe lo que debe mostrar a un usuario que abre una URL. En
@@ -112,10 +112,10 @@ estamos haciendo aquí:
 una lista de entradas.
 
 También queremos mantener limpio el archivo ``mysite/urls.py``, así que
-vamos a importar las urls de nuestra aplicación ``blog`` en el archivo
+vamos a importar las URLs de nuestra aplicación ``blog`` en el archivo
 principal ``mysite/urls.py``.
 
-Adelante, agrega una línea que importe ``blog.urls`` en la url principal
+Adelante, agrega una línea que importe ``blog.urls`` en la URL principal
 (``''``). Nota que estamos usando la función ``include`` aquí, por lo
 tanto vas a tener que agregarla en el ``import`` de la primera línea del
 archivo.

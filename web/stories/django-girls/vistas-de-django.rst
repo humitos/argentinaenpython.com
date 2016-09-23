@@ -1,8 +1,7 @@
 Vistas de Django - ¡Es hora de crear!
 +++++++++++++++++++++++++++++++++++++
 
-Es hora de deshacerse del error que hemos creado en el capítulo anterior!
- :)
+¡Es hora de deshacerse del error que hemos creado en el capítulo anterior! :)
 
 Una vista, *view*, es un lugar donde ponemos la "lógica" de nuestra
 aplicación. Pedirá información del ``modelo`` que has creado antes y se

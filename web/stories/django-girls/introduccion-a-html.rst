@@ -161,7 +161,7 @@ Aquí hay algunas etiquetas útiles para eso:
 -  ``<em>texto</em>`` - pone en cursiva tu texto
 -  ``<strong>texto</strong>`` - pone en negrita tu texto
 -  ``<br />`` - un salto de línea (no puedes colocar nada dentro de br)
--  ``<a href="http://djangogirls.org">link</a>`` - crea un vínculo
+-  ``<a href="https://djangogirls.org">link</a>`` - crea un vínculo
 -  ``<ul><li>primer elemento</li><li>segundo elemento</li></ul>`` - crea
    una lista, ¡igual que esta!
 -  ``<div></div>`` - define una sección de la página
@@ -299,5 +299,5 @@ PythonAnywhere.
    **Reload** en tu aplicación web.
 
 ¡Tu actualización debería estar en línea! Actualiza tu sitio web en el
-navegador. Ahora deberías poder ver tus cambios :)
+navegador. Ahora deberías poder ver tus cambios. :)
 

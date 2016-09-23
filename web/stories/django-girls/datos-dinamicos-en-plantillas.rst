@@ -49,7 +49,7 @@ QuerySet
 
 Ya debes estar familiarizada con la forma en que funcionan los
 QuerySets. Hablamos de ellos en el capítulo `Django ORM
-(QuerySets) <../django_orm/README.md>`__.
+(QuerySets) <#orm-de-django-y-querysets>`__.
 
 Así que ahora nos interesa tener una lista de entradas del blog que han
 sido publicadas y ordenadas por ``published_date`` (fecha de

@@ -30,7 +30,7 @@ El resultado debería ser:
     >>>
 
 Ahora estás en la consola interactiva de Django. Es como la consola de
-Python, pero con un toque de magia Django :). Puedes utilizar todos los
+Python, pero con un toque de magia Django. :) Puedes utilizar todos los
 comandos Python aquí también, por supuesto.
 
 Ver todos los objetos
@@ -163,7 +163,7 @@ hacemos filtrando las entradas que tienen la fecha de publicación,
 ::
    
    >>> from django.utils import timezone
-   >>> Post.objects.filter(published\_date\_\_lte=timezone.now()) []
+   >>> Post.objects.filter(published_date__lte=timezone.now()) []
 
 Por desgracia, la entrada que hemos añadido desde la consola de Python
 no está publicada todavía. ¡Eso lo podemos cambiar! Primero obtenemos

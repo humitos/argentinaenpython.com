@@ -1,8 +1,8 @@
 Vistas de Django - ¡Es hora de crear!
 +++++++++++++++++++++++++++++++++++++
 
-Es hora de deshacerse del error que hemos creado en el capítulo anterior
-:)
+Es hora de deshacerse del error que hemos creado en el capítulo anterior!
+ :)
 
 Una vista, *view*, es un lugar donde ponemos la "lógica" de nuestra
 aplicación. Pedirá información del ``modelo`` que has creado antes y se
@@ -27,7 +27,7 @@ Bien, vamos abrir este archivo y ver lo que contiene:
 
 No demasiadas cosas aquí todavía.
 
-Las líneas que comienzan con ``#`` son comentarios. Esto significa que
+Recuerda que las líneas que comienzan con ``#`` son comentarios. Esto significa que
 esas líneas no serán ejecutadas por Python. Muy útiles, ¿no?
 
 La *view* más simple puede ser como esto:

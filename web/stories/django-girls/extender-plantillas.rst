@@ -53,7 +53,7 @@ Luego ábrelo y copia todo lo que hay en ``post_list.html`` al archivo
                                 {{ post.published_date }}
                             </div>
                             <h1><a href="">{{ post.title }}</a></h1>
-                            <p>{{ post.text|linebreaks }}</p>
+                            <p>{{ post.text|linebreaksbr }}</p>
                         </div>
                     {% endfor %}
                     </div>
@@ -106,7 +106,7 @@ está por encima de ``{% for post in posts %}`` y debajo de ``{% endfor
                 {{ post.published_date }}
             </div>
             <h1><a href="">{{ post.title }}</a></h1>
-            <p>{{ post.text|linebreaks }}</p>
+            <p>{{ post.text|linebreaksbr }}</p>
         </div>
     {% endfor %}
 
@@ -114,7 +114,7 @@ Queremos utilizar esto como parte de nuestro template para todos los
 bloques de contenido. ¡Es hora de agregar etiquetas de bloques a este
 archivo!
 
-Quieres que etiqueta de bloque coincida con la etiqueta en el
+Quieres que la etiqueta de bloque coincida con la etiqueta en el
 archivo ``base.html``. También querrás que este incluya todo el código
 que pertenece al bloque ``content`` (contenido). Para hacer eso, pon
 todo entre ``{% block content %}`` y ``{% endblock content %}``. Así:
@@ -129,7 +129,7 @@ todo entre ``{% block content %}`` y ``{% endblock content %}``. Así:
                     {{ post.published_date }}
                 </div>
                 <h1><a href="">{{ post.title }}</a></h1>
-                <p>{{ post.text|linebreaks }}</p>
+                <p>{{ post.text|linebreaksbr }}</p>
             </div>
         {% endfor %}
     {% endblock %}
@@ -150,7 +150,7 @@ forma:
                     {{ post.published_date }}
                 </div>
                 <h1><a href="">{{ post.title }}</a></h1>
-                <p>{{ post.text|linebreaks }}</p>
+                <p>{{ post.text|linebreaksbr }}</p>
             </div>
         {% endfor %}
     {% endblock %}

@@ -2,7 +2,7 @@ Introducción a Python
 +++++++++++++++++++++
 
     Parte de este capítulo se basa en tutoriales por Geek Girls Carrots
-    (http://django.carrots.pl/).
+    (https://github.com/ggcarrots/django-carrots).
 
 ¡Vamos a escribir algo de código!
 
@@ -16,7 +16,7 @@ El prompt de Python
 Para empezar a jugar con Python, tenemos que abrir una *línea de
 comandos* en nuestra computadora. Deberías saber cómo hacerlo, lo
 aprendiste en el capítulo de `Introducción a la línea de
-comandos <intro_to_command_line/README.md>`__.
+comandos <#introduccion-a-la-interfaz-de-linea-de-comandos>`__.
 
 Una vez que estés lista, sigue las siguientes instrucciones.
 
@@ -26,7 +26,7 @@ Windows o ``python3`` en Mac OS/Linux y pulsa ``intro``.
 ::
 
     $ python3
-    Python 3.4.3 (...)
+    Python 3.5.1 (...)
     Type "help", "copyright", "credits" or "license" for more information.
     >>>
 
@@ -684,7 +684,7 @@ escribe la función exit():
 Esto te llevará de vuelta a la línea de comandos.
 
 Anteriormente, elegimos un editor de código en la sección de `Editor de
-código <code_editor/README.md>`__. Tendremos que abrir el editor ahora y
+código <#editor-de-codigo>`__. Tendremos que abrir el editor ahora y
 escribir algo de código en un archivo nuevo:
 
 .. code:: python
@@ -705,7 +705,7 @@ python** y Python puede correrlo.
 .. admonition:: Nota
 
    Deberías notar una de las cosas más geniales de los editores de
-   código: ¡los colores! En cla consola de Python, todo era del mismo
+   código: ¡los colores! En la consola de Python, todo era del mismo
    color, ahora deberías ver que la función ``print`` es de un color
    diferente de las cadenas dentro de ella. Esto de denomina "sintaxis
    resaltada", y es una característica muy útil cuando se programa. El
@@ -801,6 +801,11 @@ Guárdalo y ejecútalo de nuevo:
 
     $ python3 python_intro.py
     It works!
+
+.. admonition:: Nota
+
+   Remember that on Windows, 'python3' is not recognized as a command. From now on, replace 'python3' with 'python' to execute the file.
+
 
 ¿Qué pasa si una condición no es verdadera?
 -------------------------------------------

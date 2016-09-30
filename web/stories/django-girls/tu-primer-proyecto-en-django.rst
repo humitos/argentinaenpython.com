@@ -2,7 +2,7 @@
 ++++++++++++++++++++++++++++++
 
     Parte de este capitulo esta basado en los tutoriales de Geek Girls
-    Carrots (http://django.carrots.pl/).
+    Carrots (https://github.com/ggcarrots/django-carrots).
 
     Parte de este capítulo se basa en el `django-marcador
     tutorial <http://django-marcador.keimlink.de/>`__ bajo licencia de
@@ -40,7 +40,7 @@ En Windows; **no te olvides de agregar el punto (.) al final**:
 
 ::
 
-    (myvenv) C:\Users\Name\djangogirls> django-admin startproject mysite .
+    (myvenv) C:\Users\Name\djangogirls> django-admin.py startproject mysite .
 
 El punto ``.`` es crucial porque le dice al script que instale Django
 en el directorio actual (para el cual el punto ``.`` sirve de
@@ -50,11 +50,11 @@ abreviatura)
 
    Cuando escribas los comandos de arriba acuérdate de que sólo tienes
    que escribir la parte que empieza por ``django-admin`` o
-   ``django-admin``. Las partes de ``(myvenv) ~/djangogirls$`` y
+   ``django-admin.py``. Las partes de ``(myvenv) ~/djangogirls$`` y
    ``(myvenv) C:\Users\Name\djangogirls>`` que mostramos aquí son sólo
    ejemplos del mensaje que aparecerá en tu línea de comandos.
 
-``django-admin`` es un script que creará los archivos y directorios
+``django-admin`` o ``django-admin.py`` es un script que creará los archivos y directorios
 para ti. Ahora deberías tener una estructura de directorios parecida a
 esto:
 
@@ -157,6 +157,9 @@ eso va bien, deberías ver algo así:
 
 Y, ¡terminamos! Es hora de iniciar el servidor web y ver si está
 funcionando nuestro sitio web!
+
+Iniciar el Servidor Web
+=======================
 
 Debes estar en el directorio que contiene el archivo ``manage.py`` (en
 la carpeta ``djangogirls``). En la consola, podemos iniciar el servidor

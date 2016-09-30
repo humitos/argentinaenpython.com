@@ -75,7 +75,7 @@ mezclar HTML y template tags. Nuestro ``body`` se verá así:
         <div>
             <p>published: {{ post.published_date }}</p>
             <h1><a href="">{{ post.title }}</a></h1>
-            <p>{{ post.text|linebreaks }}</p>
+            <p>{{ post.text|linebreaksbr }}</p>
         </div>
     {% endfor %}
 
@@ -132,7 +132,7 @@ Aquí va un resumen de los pasos...
    resto de tus archivos.
 
 ¡Enhorabuena! Ahora ve e intenta agregar una nueva entrada desde el panel
-de administrador de Django (¡recuerda agregar published\_date!) y luego
+de administrador de Django (¡recuerda agregar published_date!) y luego
 actualiza tu página para ver si aparece la nueva entrada.
 
 ¿Funciona de maravilla? ¡Estamos orgullosas! Aléjate un rato del

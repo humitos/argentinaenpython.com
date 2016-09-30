@@ -10,7 +10,7 @@ bonito! Vamos a usar CSS para eso.
 CSS ('Cascading Style Sheets', que significa 'hojas de estilo en
 cascada') es un lenguaje utilizado para describir el aspecto y el
 formato de un sitio web escrito en lenguaje de marcado (como HTML).
-Trátalo como maquillaje para nuestra página web ;).
+Trátalo como maquillaje para nuestra página web. ;)
 
 Pero no queremos empezar de cero otra vez, ¿verdad? Una vez más,
 usaremos algo que ya ha sido hecho por programadores y publicado en
@@ -21,7 +21,7 @@ divertido.
 ========================
 
 Bootstrap es uno de los frameworks de HTML y CSS mas populares para
-desarrollar sitios bonitos: http://getbootstrap.com/
+desarrollar sitios bonitos: https://getbootstrap.com/
 
 Fue escrito por programadores que trabajaban para Twitter y ahora está
 siendo desarrollado por voluntarios de todo el mundo.
@@ -137,7 +137,7 @@ identificarse mediante CSS usando el nombre de etiqueta ``a``, la clase
 
 .. code:: html
 
-    <a href="http://en.wikipedia.org/wiki/Django" class="external_link" id="link_to_wiki_page">
+    <a href="https://en.wikipedia.org/wiki/Django" class="external_link" id="link_to_wiki_page">
 
 Lee sobre `Selectores de CSS en
 w3schools <http://www.w3schools.com/cssref/css_selectors.asp>`__.
@@ -150,7 +150,7 @@ añade esta línea al principio del todo:
 
     {% load staticfiles %}
 
-Aquí sólo estamos cargando archivos estáticos :). Luego, entre el
+Aquí sólo estamos cargando archivos estáticos. :) Luego, entre el
 ``<head>`` y ``</head>``, después de los enlaces a los archivos CSS de
 Bootstrap (el navegador lee los archivos en el orden que son dados, de
 ese modo el código en nuestro archivo puede sobre-escribir el código en
@@ -187,7 +187,7 @@ Ahora tu archivo debería tener este aspecto:
                 <div>
                     <p>published: {{ post.published_date }}</p>
                     <h1><a href="">{{ post.title }}</a></h1>
-                    <p>{{ post.text|linebreaks }}</p>
+                    <p>{{ post.text|linebreaksbr }}</p>
                 </div>
             {% endfor %}
         </body>
@@ -269,7 +269,7 @@ del blog.
     <div class="post">
         <p>published: {{ post.published_date }}</p>
         <h1><a href="">{{ post.title }}</a></h1>
-        <p>{{ post.text|linebreaks }}</p>
+        <p>{{ post.text|linebreaksbr }}</p>
     </div>
 
 Ahora agregaremos bloques de declaración a diferentes selectores. Los
@@ -336,7 +336,7 @@ de clases. Cambia esto:
         <div class="post">
             <p>published: {{ post.published_date }}</p>
             <h1><a href="">{{ post.title }}</a></h1>
-            <p>{{ post.text|linebreaks }}</p>
+            <p>{{ post.text|linebreaksbr }}</p>
         </div>
     {% endfor %}
 
@@ -353,7 +353,7 @@ en ``blog/templates/blog/post_list.html`` con esto:
                             <p>published: {{ post.published_date }}</p>
                         </div>
                         <h1><a href="">{{ post.title }}</a></h1>
-                        <p>{{ post.text|linebreaks }}</p>
+                        <p>{{ post.text|linebreaksbr }}</p>
                     </div>
                 {% endfor %}
             </div>
@@ -377,7 +377,7 @@ cosas. Jugar con el CSS te ayudará a entender qué hacen las diferentes
 cosas. Si rompes algo, no te preocupes, ¡siempre puedes deshacerlo!
 
 Te recomendamos encarecidamente que hagas este `Curso de HTML & CSS de
-Codeacademy <http://www.codecademy.com/tracks/web>`__ gratuito y online.
+Codeacademy <https://www.codecademy.com/tracks/web>`__ gratuito y online.
 Te ayudará a aprender todo lo que necesitas saber sobre cómo hacer tus
 sitios web más bonitos con CSS.
 

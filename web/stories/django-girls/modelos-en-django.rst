@@ -139,7 +139,7 @@ aspecto:
 
 .. code:: python
 
-    INSTALLED_APPS = (
+    INSTALLED_APPS = [
         'django.contrib.admin',
         'django.contrib.auth',
         'django.contrib.contenttypes',
@@ -147,7 +147,7 @@ aspecto:
         'django.contrib.messages',
         'django.contrib.staticfiles',
         'blog',
-    )
+    ]
 
 Crear el modelo Post
 --------------------

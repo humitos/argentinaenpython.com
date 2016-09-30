@@ -31,7 +31,7 @@ así:
                     {{ post.published_date }}
                 </div>
                 <h1><a href="">{{ post.title }}</a></h1>
-                <p>{{ post.text|linebreaks }}</p>
+                <p>{{ post.text|linebreaksbr }}</p>
             </div>
         {% endfor %}
     {% endblock content %}
@@ -50,14 +50,14 @@ Es hora de explicar el misterioso ``{% url 'post_detail' pk=post.pk
 que estamos utilizando Django template tags. ¡Esta vez vamos a usar
 una que creará una URL!
 
-``blog.views.post_detail`` es una ruta hacia la *vista*
+``blog.views.post_detail`` es una ruta hacia la *view*
 ``post_detail`` que queremos crear. Fíjate bien: ``blog`` es el nombre
 de nuestra aplicación (el directorio ``blog``), ``views`` es el nombre
 del archivo ``views.py`` y la última parte, ``post_detail``, es el
-nombre de la *vista*.
+nombre de la *view*.
 
 Ahora cuando vayamos a: http://127.0.0.1:8000/ tendremos un error
-(como era de esperar, ya que no tenemos una URL o una *vista* para
+(como era de esperar, ya que no tenemos una URL o una *view* para
 ``post_detail``). Se verá así:
 
 .. figure:: no_reverse_match2.png
@@ -69,14 +69,14 @@ Ahora cuando vayamos a: http://127.0.0.1:8000/ tendremos un error
 Crea una URL al detalle de una entrada
 ======================================
 
-Vamos a crear una URL en ``urls.py`` para nuestra *vista*
+Vamos a crear una URL en ``urls.py`` para nuestra *view*
 ``post_detail``!
 
 Queremos que el detalle de la primera entrada se visualice en esta
 **URL**: http://127.0.0.1:8000/post/1/
 
 Vamos a crear una URL en el archivo ``blog/urls.py`` que dirija a Django
-hacia una *vista* llamada ``post_detail``, que mostrará una entrada de
+hacia una *view* llamada ``post_detail``, que mostrará una entrada de
 blog completa. Añade la línea
 ``url(r'^post/(?P<pk>\d+)/$', views.post_detail, name='post_detail'),``
 al archivo ``blog/urls.py``. El archivo debería parecerse a esto:
@@ -103,15 +103,15 @@ preocupes, te la vamos a explicar:
    un número, no una letra (todo lo que esté entre 0 y 9). ``+``
    significa que ahí tiene que haber uno o más dígitos. Así que algo
    como ``http://127.0.0.1:8000/post//`` no es válido, ¡pero
-   ``1234567890/post/http://127.0.0.1:8000/`` es perfectamente
+   ``http://127.0.0.1:8000/post/1234567890/`` es perfectamente
    aceptable! - ``/``
 -  necesitamos **/** de nuevo
 -  ``$`` - ¡"el final"!
 
 Esto quiere decir que si pones ``http://127.0.0.1:8000/post/5/`` en tu
-navegador, Django entenderá que estás buscando una *vista* llamada
+navegador, Django entenderá que estás buscando una *view* llamada
 ``post_detail`` y transferirá la información de que ``pk`` es igual a
-``5`` a esa *vista*.
+``5`` a esa *view*.
 
 ``pk`` es la abreviatura de ``primary key``, clave primaria. Este nombre
 se utiliza a menudo en proyectos de Django. Pero puedes nombrar la
@@ -134,8 +134,8 @@ esperar!
 Agrega una vista de detalle de la entrada
 =========================================
 
-Esta vez nuestra *vista* tomará un parámetro adicional ``pk``. Nuestra
-*vista* necesita recibirlo, ¿verdad? Así que definiremos nuestra función
+Esta vez nuestra *view* tomará un parámetro adicional ``pk``. Nuestra
+*view* necesita recibirlo, ¿verdad? Así que definiremos nuestra función
 como ``def post_detail (request, pk):``. Ten en cuenta que tenemos que
 usar exactamente el mismo nombre que especificamos en las urls (``pk``).
 ¡Omitir esta variable es incorrecto y resultará en un error!
@@ -228,7 +228,7 @@ Se verá así:
                 </div>
             {% endif %}
             <h1>{{ post.title }}</h1>
-            <p>{{ post.text|linebreaks }}</p>
+            <p>{{ post.text|linebreaksbr }}</p>
         </div>
     {% endblock %}
 

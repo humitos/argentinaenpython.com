@@ -73,7 +73,7 @@ Ten en cuenta que queremos llamar a nuestra nueva vista ``post_new``.
 Las clases ``"glyphicon glyphicon-plus"`` son proporsionadas por el tema
 de Bootstrap que estamos usando y mostrarán un signo más para nosotros.
 
-Después de agregar la línea, tu archivo html debería tener este aspecto:
+Después de agregar la línea, tu archivo HTML debería tener este aspecto:
 
 .. code:: html
 
@@ -141,7 +141,7 @@ siguientes líneas al resto de las filas ``from``:
 
     from .forms import PostForm
 
-y nuestra *vista*:
+y nuestra *view*:
 
 .. code:: python
 
@@ -296,7 +296,7 @@ pasarlo a las vistas utilizamos ``pk=post.pk``, donde ``post`` es el
 post recién creado.
 
 Bien, hablamos mucho, pero probablemente queremos ver como se ve ahora
-la *vista*, ¿no?
+la *view*, ¿no?
 
 .. code:: python
 
@@ -389,7 +389,7 @@ para que la plantilla quede:
             {% endif %}
             <a class="btn btn-default" href="{% url 'post_edit' pk=post.pk %}"><span class="glyphicon glyphicon-pencil"></span></a>
             <h1>{{ post.title }}</h1>
-            <p>{{ post.text|linebreaks }}</p>
+            <p>{{ post.text|linebreaksbr }}</p>
         </div>
     {% endblock %}
 

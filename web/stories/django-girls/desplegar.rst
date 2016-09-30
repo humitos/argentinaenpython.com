@@ -14,17 +14,17 @@
 Hasta ahora tu sitio web estaba disponible sólo en tu ordenador, ¡ahora
 aprenderás cómo desplegarlo! El despliegue es el proceso de publicar tu
 aplicación en internet para que la gente pueda acceder y ver tu
-aplicación :).
+aplicación. :)
 
 Como ya has aprendido, un sitio web tiene que estar en un servidor. Hay
 muchos proveedores de servidores disponibles en Internet. Vamos a
 utilizar uno que tiene un proceso de despliegue relativamente sencillo:
-`PythonAnywhere <http://pythonanywhere.com/>`__. PythonAnywhere es
+`PythonAnywhere <https://pythonanywhere.com/>`__. PythonAnywhere es
 gratis para pequeñas aplicaciones que no tienen demasiados visitantes,
 definitivamente suficiente para este caso.
 
 El otro servicio externo que vamos a utilizar es
-`GitHub <http://www.github.com>`__, un servicio de alojamiento de
+`GitHub <https://www.github.com>`__, un servicio de alojamiento de
 código. Hay otras opciones por ahí, pero hoy en día casi todas las
 programadoras y programadores tienen una cuenta de GitHub, ¡y ahora tú
 también la vas a tener!
@@ -212,13 +212,19 @@ comandos:
 Enviar nuestro código a GitHub
 ------------------------------
 
-Ve a `GitHub.com <http://www.github.com>`__ y registra una nueva cuenta
+Ve a `GitHub.com <https://www.github.com>`__ y registra una nueva cuenta
 gratuita. (Si ya lo hiciste en la preparación del taller, ¡genial!)
 
 Luego, crea un nuevo repositorio con el nombre "mi-primer-blog". Deja
 desmarcada la opción "Initialise with a README", deja la opción
 .gitignore en blanco (lo hemos hecho a mano) y deja la licencia como
 "None".
+
+.. figure:: new_github_repo.png
+   :alt: Crea un nuevo repositorio
+
+   Crea un nuevo repositorio
+
 
 .. admonition:: Nota
 
@@ -229,6 +235,11 @@ desmarcada la opción "Initialise with a README", deja la opción
 
 En la próxima pantalla verás la URL para clonar tu repositorio. Elige la
 versión "HTTPS", cópiala y en un momento la pegaremos en la consola:
+
+.. figure:: github_get_repo_url_screenshot.png
+   :alt: URL para clonar tu repositorio
+
+   URL para clonar tu repositorio
 
 Ahora tenemos que conectar el repositorio Git de tu ordenador con el que
 está en GitHub.
@@ -263,7 +274,7 @@ así:
 Tu código está ahora en GitHub. ¡Ve y míralo! Verás que está en buena
 compañía; `Django <https://github.com/django/django>`__, el `Tutorial de
 Django Girls <https://github.com/DjangoGirls/tutorial>`__ y muchos otros
-grandes proyectos de código abierto también alojan su código en GitHub
+grandes proyectos de código abierto también alojan su código en GitHub. 
 :)
 
 Configurar nuestro blog en PythonAnywhere
@@ -342,8 +353,8 @@ PythonAnywhere. En la consola Bash, escribe:
 
     $ cd mi-primer-blog
 
-    $ virtualenv --python=python3.4 myvenv
-    Running virtualenv with interpreter /usr/bin/python3.4
+    $ virtualenv --python=python3.5 myvenv
+    Running virtualenv with interpreter /usr/bin/python3.5
     [...]
     Installing setuptools, pip...done.
 
@@ -396,14 +407,14 @@ app**.
 
 Después de confirmar tu nombre de dominio, elige **manual
 configuration** o "configuración manual" (NB la opción "Django" *no*) en
-el diálogo. Luego elige **Python 3.4** y haz clic en "Next" para
+el diálogo. Luego elige **Python 3.5** y haz clic en "Next" para
 terminar con el asistente.
 
 .. admonition:: Nota
 
    Asegúrate de elegir la opción de "Manual configuration", no la de
    "Django". Somos demasiado buenas para la configuración por defecto
-   de Django de PythonAnywhere ;-)
+   de Django de PythonAnywhere. ;-)
 
 Configurar el virtualenv
 ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -414,7 +425,7 @@ cambios en la aplicación del servidor.
 
 En la sección "Virtualenv", haz clic en el texto rojo que dice "Enter
 the path to a virtualenv" ("Introduce la ruta a un virtualenv") y
-escribe: ``/home/<tu-usuario>/mi-primer-blog/myvenv/``. Haz clic en el
+escribe: ``/home/<tu-usuario-PythonAnywhere>/mi-primer-blog/myvenv/``. Haz clic en el
 cuadro azul seleccionado para guardar la ruta antes de continuar.
 
 
@@ -433,7 +444,7 @@ editar un archivo de configuración WSGI.
 
 Haz clic en el enlace "WSGI configuration file" (en la sección "Code" en
 la parte de arriba de la página; se llamará algo parecido a
-``/var/www/<tu-usuario>_pythonanywhere_com_wsgi.py``) y te redirigirá al
+``/var/www/<tu-usuario-PythonAnywhere>_pythonanywhere_com_wsgi.py``) y te redirigirá al
 editor.
 
 Borra todo el contenido y reemplázalo con algo como esto:
@@ -443,7 +454,7 @@ Borra todo el contenido y reemplázalo con algo como esto:
     import os
     import sys
 
-    path = '/home/<tu_nombre_de_usuario>/mi-primer-blog/mysite'  # use your own username here
+    path = '/home/<tu_nombre_de_usuario-PythonAnywhere>/mi-primer-blog/mysite'  # use your own username here
     if path not in sys.path:
         sys.path.append(path)
 
@@ -457,7 +468,7 @@ Borra todo el contenido y reemplázalo con algo como esto:
 .. admonition:: Nota
 
    No olvides sustituir tu propio nombre de usuario donde pone
-   ``<tu-usuario>``
+   ``<tu-usuario-PythonAnywhere>``
 		
 .. admonition:: Nota
 		   
@@ -502,7 +513,7 @@ recientes están al final. Los problemas más comunes incluyen:
    bien la ruta a la carpeta mi-primer-blog?
 
 -  ¿Has elegido la misma versión de Python para el virtualenv y para la
-   aplicación web? Ambas deberían ser 3.4.
+   aplicación web? Ambas deberían ser 3.5.
 
 -  Hay algunos `consejos generales de depuración en el wiki de
    Pythonanywhere <https://www.pythonanywhere.com/wiki/DebuggingImportError>`__

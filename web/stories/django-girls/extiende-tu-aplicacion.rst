@@ -103,9 +103,9 @@ preocupes, te la vamos a explicar:
    un número, no una letra (todo lo que esté entre 0 y 9). ``+``
    significa que ahí tiene que haber uno o más dígitos. Así que algo
    como ``http://127.0.0.1:8000/post//`` no es válido, ¡pero
-   ``1234567890/post/http://127.0.0.1:8000/`` es perfectamente
-   aceptable! - ``/``
--  necesitamos **/** de nuevo
+   ``http://127.0.0.1:8000/1234567890/post/`` es perfectamente
+   aceptable!
+-  ``/`` - entonces necesitamos / de nuevo
 -  ``$`` - ¡"el final"!
 
 Esto quiere decir que si pones ``http://127.0.0.1:8000/post/5/`` en tu

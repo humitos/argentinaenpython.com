@@ -163,7 +163,8 @@ hacemos filtrando las entradas que tienen la fecha de publicación,
 ::
    
    >>> from django.utils import timezone
-   >>> Post.objects.filter(published\_date\_\_lte=timezone.now()) []
+   >>> Post.objects.filter(published_date__lte=timezone.now())
+   []
 
 Por desgracia, la entrada que hemos añadido desde la consola de Python
 no está publicada todavía. ¡Eso lo podemos cambiar! Primero obtenemos

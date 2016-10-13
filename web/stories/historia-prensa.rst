@@ -19,6 +19,20 @@ Año 2016
 
 
 .. template:: prensa-image
+   :title: CAChemE
+   :description: Nuestro resumen de la PyConES 2016
+   :src: 2016_octubre_1-340x255.png
+   :href: http://cacheme.org/resumen-pycones-2016/
+
+
+.. template:: prensa-image
+   :title: PyDay Rafaela 2016
+   :description: Python para humanos, Carlos Matías De La Torre (Litox)
+   :src: 2016_octubre_0-340x255.png
+   :href: https://youtu.be/ThAVymLWO0E?t=32m39s
+
+
+.. template:: prensa-image
    :title: Software Libre para una Cultura Libre
    :description: Tesis de grado, Melisa Puccinelli
    :src: 2016_agosto_1-340x255.png

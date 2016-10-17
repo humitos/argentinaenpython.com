@@ -19,6 +19,13 @@ Año 2016
 
 
 .. template:: prensa-image
+   :title: La Voz de Almería
+   :description: La comunidad de Python se pone al día este fin de semana en Almería
+   :src: 2016_octubre_2-340x255.png
+   :href: http://www.lavozdealmeria.es/Noticias/115041/2/La-comunidad-de-Python-se-pone-al-d%C3%ADa-este-fin-de-semana-en-Almer%C3%ADa
+
+
+.. template:: prensa-image
    :title: CAChemE
    :description: Nuestro resumen de la PyConES 2016
    :src: 2016_octubre_1-340x255.png
@@ -37,6 +44,13 @@ Año 2016
    :description: Tesis de grado, Melisa Puccinelli
    :src: 2016_agosto_1-340x255.png
    :href: software-libre-para-una-cultura-libre.pdf
+
+
+.. template:: prensa-image
+   :title: Institude Tecnológico Universitario
+   :description: Se lanzan dos talleres gratuitos de programación
+   :src: 2016_agosto_0-340x255.png
+   :href: http://itu.uncuyo.edu.ar/talleres-gratuitos-de-programacion
 
 
 .. template:: prensa-image

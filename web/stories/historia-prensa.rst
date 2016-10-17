@@ -19,6 +19,13 @@ Año 2016
 
 
 .. template:: prensa-image
+   :title: Guadatech
+   :description: Guadatech formó parte de la organización de las Django Girls Almería 2016
+   :src: 2016_octubre_3-340x255.png
+   :href: http://www.guadatech.com/1606-2/
+
+
+.. template:: prensa-image
    :title: La Voz de Almería
    :description: La comunidad de Python se pone al día este fin de semana en Almería
    :src: 2016_octubre_2-340x255.png
@@ -37,6 +44,13 @@ Año 2016
    :description: Python para humanos, Carlos Matías De La Torre (Litox)
    :src: 2016_octubre_0-340x255.png
    :href: https://youtu.be/ThAVymLWO0E?t=32m39s
+
+
+.. template:: prensa-image
+   :title: Gaceta Tecnológica
+   :description: Últimos días para comprar entradas para la PyConES y registrarse en el tutorial de Django Girls en Almería
+   :src: 2016_septiembre_0-340x255.png
+   :href: http://www.gacetatecnologica.com/ultimos-dias-comprar-entradas-la-pycones-registrarse-tutorial-django-girls-almeria/
 
 
 .. template:: prensa-image
@@ -170,6 +184,13 @@ Año 2016
    :description: Fantásticas Mentiras Bailables
    :src: 2016_marzo_1-340x255.png
    :href: http://elblogdehumitos.com/posts/entrevista-fantasticas-mentiras-bailables/
+
+
+.. template:: prensa-image
+   :title: Multicolor Atoms
+   :description: Un día programando en Django con Argentina en Python
+   :src: 2016_enero_7-340x255.png
+   :href: http://anvicordova.blogspot.com/2016/01/un-dia-programando-en-django-con.html
 
 
 .. template:: prensa-image

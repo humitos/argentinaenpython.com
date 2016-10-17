@@ -68,6 +68,13 @@ Año 2016
 
 
 .. template:: prensa-image
+   :title: Modus laborandi
+   :description: EuroPython 2015
+   :src: 2016_julio_7-340x255.png
+   :href: http://moduslaborandi.net/europython-2015/
+
+
+.. template:: prensa-image
    :title: La Revista
    :description: Taller para mujeres programadoras
    :src: 2016_julio_6-340x255.png

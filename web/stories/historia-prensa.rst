@@ -61,7 +61,7 @@ Año 2016
 
 
 .. template:: prensa-image
-   :title: Institude Tecnológico Universitario
+   :title: Instituto Tecnológico Universitario
    :description: Se lanzan dos talleres gratuitos de programación
    :src: 2016_agosto_0-340x255.png
    :href: http://itu.uncuyo.edu.ar/talleres-gratuitos-de-programacion

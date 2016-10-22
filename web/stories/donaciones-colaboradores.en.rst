@@ -19,6 +19,7 @@ the moment the donation was made:
 Donations to go to PyCon España and PyCon Argentina
 ---------------------------------------------------
 
+* 10 October 2016 - `David Barragán Merino <https://twitter.com/bameda>`_: USD 100
 * 20 September 2016 - `PyCon España <http://2016.es.pycon.org/>`_: EUR 900
 * 16 September 2016 - `Alejandro Javier Peralta Frias <https://twitter.com/aleperalta82>`_: ARS 500
 * 12 September 2016 - `Emiliano Dalla Verde Marcozzi <https://twitter.com/edvm>`_: ARS 1000

@@ -2,6 +2,7 @@
    :loop:
    :autoplay: 5000
 
+   bameda.png
    pycones.png
    aleperalta82.png
    edvm.png

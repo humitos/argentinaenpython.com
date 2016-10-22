@@ -20,6 +20,7 @@ Donaciones para ir a PyCon España y PyCon Argentina
 ---------------------------------------------------
 
 
+* 10 de Octubre de 2016 - `David Barragán Merino <https://twitter.com/bameda>`_: USD 100
 * 20 de Septiembre de 2016 - `PyCon España <http://2016.es.pycon.org/>`_: EUR 900
 * 16 de Septiembre de 2016 - `Alejandro Javier Peralta Frias <https://twitter.com/aleperalta82>`_: ARS 500
 * 12 de Septiembre de 2016 - `Emiliano Dalla Verde Marcozzi <https://twitter.com/edvm>`_: ARS 1000

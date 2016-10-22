@@ -75,7 +75,7 @@ mujer con vos que también realice el taller [#]_.
 * Sábado 9 de Abril de 2016 de 8:30hs (puntual) a 18:30hs.
 
 .. template:: iframe
-   :src: http://www.openstreetmap.org/export/embed.html?bbox=-75.72810530662537%2C-14.079097106911858%2C-75.72399616241455%2C-14.076011543793536&amp;layer=mapnik&amp;marker=-14.077556932216577%2C-75.72605073451996
+   :src: https://www.openstreetmap.org/export/embed.html?bbox=-75.72810530662537%2C-14.079097106911858%2C-75.72399616241455%2C-14.076011543793536&amp;layer=mapnik&amp;marker=-14.077556932216577%2C-75.72605073451996
 
 
 .. sidebar:: Contacto

@@ -77,7 +77,7 @@ mujer con vos que también realice el taller [#]_.
 * Sábado 23 de Enero de 2016 de 8:30hs (puntual) a 18:30hs.
 
 .. template:: iframe
-   :src: http://www.openstreetmap.org/export/embed.html?bbox=-80.66286563873291%2C-5.184636644404112%2C-80.61497211456299%2C-5.159291457016948&amp;layer=mapnik&amp;marker=-5.171985547870882%2C-80.63891887664795
+   :src: https://www.openstreetmap.org/export/embed.html?bbox=-80.66286563873291%2C-5.184636644404112%2C-80.61497211456299%2C-5.159291457016948&amp;layer=mapnik&amp;marker=-5.171985547870882%2C-80.63891887664795
 
 
 .. sidebar:: Contacto

@@ -83,7 +83,7 @@ mujer con vos que también realice el taller [#]_.
 * Fecha: 9 de Julio de 2016 de 8:30hs (puntual) a 19:00hs.
 
 .. template:: iframe
-   :src: http://www.openstreetmap.org/export/embed.html?bbox=-79.89125579595566%2C-2.155941508562105%2C-79.88920122385025%2C-2.1543520836734227&amp;layer=mapnik&amp;marker=-2.155148136481068%2C-79.89022850990295
+   :src: https://www.openstreetmap.org/export/embed.html?bbox=-79.89125579595566%2C-2.155941508562105%2C-79.88920122385025%2C-2.1543520836734227&amp;layer=mapnik&amp;marker=-2.155148136481068%2C-79.89022850990295
 
 .. sidebar:: Contacto
 

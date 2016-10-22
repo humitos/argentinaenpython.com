@@ -84,7 +84,7 @@ mujer con vos que también realice el taller [#]_.
 
 .. raw:: html
 
-   <iframe style="width: 100%; height: 320px;" src="http://www.openstreetmap.org/export/embed.html?bbox=-66.16674095392227%2C-17.400818360202386%2C-66.16468638181686%2C-17.399300593793367&amp;layer=mapnik&amp;marker=-17.400060758308427%2C-66.16571366786957"></iframe>
+   <iframe style="width: 100%; height: 320px;" src="https://www.openstreetmap.org/export/embed.html?bbox=-66.16674095392227%2C-17.400818360202386%2C-66.16468638181686%2C-17.399300593793367&amp;layer=mapnik&amp;marker=-17.400060758308427%2C-66.16571366786957"></iframe>
 
 
 .. sidebar:: Contacto

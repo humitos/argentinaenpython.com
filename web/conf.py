@@ -171,7 +171,7 @@ NAVIGATION_LINKS = {
             (
                 ("/nuestro-zen/", "Nuestro Zen"),
                 ("/quiero-aprender-python/", "Quiero aprender Python"),
-                ("http://elblogdehumitos.com.ar/etiquetas/argentina-en-python/", "Blog"),
+                ("https://elblogdehumitos.com/etiquetas/argentina-en-python/", "Blog"),
                 ("/como-colaborar/", "¿Cómo colaborar?"),
                 ("/material-de-difusion/", "Material de difusión"),
                 ("/mapear-con-osmtracker/", "Mapear con OSMTracker"),
@@ -215,7 +215,7 @@ NAVIGATION_LINKS = {
         (
             (
                 ("/en/our-zen/", "Our Zen"),
-                ("http://elblogdehumitos.com.ar/etiquetas/argentina-en-python/", "Blog"),
+                ("https://elblogdehumitos.com/etiquetas/argentina-en-python/", "Blog"),
                 ("/en/remeras/", "T-Shirts"),
                 ("/en/como-colaborar/", "How to contribute?"),
                 ("/en/material-de-difusion/", "Broadcasting Material"),
@@ -961,7 +961,7 @@ src="/cc_by_sa-88x31.png"></a>"""
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
-CONTENT_FOOTER = '<small>&copy; 2014-{date} <a href="http://elblogdehumitos.com.ar/">{author}</a> - Powered by <a href="http://getnikola.com" rel="nofollow">Nikola</a> {license}</small>'
+CONTENT_FOOTER = '<small>&copy; 2014-{date} <a href="https://elblogdehumitos.com/">{author}</a> - Powered by <a href="https://getnikola.com" rel="nofollow">Nikola</a> {license}</small>'
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will
@@ -1259,14 +1259,14 @@ BODY_END = """
       _paq.push(['trackPageView']);
       _paq.push(['enableLinkTracking']);
       (function() {
-        var u="//elblogdehumitos.com.ar/piwik/";
+        var u="//elblogdehumitos.com/piwik/";
         _paq.push(['setTrackerUrl', u+'piwik.php']);
         _paq.push(['setSiteId', 3]);
         var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
         g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
       })();
    </script>
-   <noscript><p><img src="//elblogdehumitos.com.ar/piwik/piwik.php?idsite=3" style="border:0;" alt="" /></p></noscript>
+   <noscript><p><img src="//elblogdehumitos.com/piwik/piwik.php?idsite=3" style="border:0;" alt="" /></p></noscript>
    <!-- End Piwik Code -->
 
    <script type="application/javascript">

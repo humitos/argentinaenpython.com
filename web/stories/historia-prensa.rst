@@ -19,6 +19,13 @@ Año 2016
 
 
 .. template:: prensa-image
+   :title: Agrotec Jundiaí, Rio Grande do Norte
+   :description: Import Community, Fernando Masanori
+   :src: 2016_octubre_4-340x255.png
+   :href: https://youtu.be/S3SkyZPXmco?t=16m7s
+
+
+.. template:: prensa-image
    :title: Guadatech
    :description: Guadatech formó parte de la organización de las Django Girls Almería 2016
    :src: 2016_octubre_3-340x255.png

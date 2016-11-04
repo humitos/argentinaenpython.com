@@ -200,7 +200,8 @@ Colaboradores
 
    ¿Te gustaría que tu empresa sea parte de este evento?
 
-Contáctanos para hacerlo posible y así apoyar a que haya más eventos
+Contáctanos para hacerlo posib
+e y así apoyar a que haya más eventos
 de programación en la ciudad.
 
 
@@ -340,11 +341,10 @@ escribinos un email y nos pondremos en contacto con vos.
 
    Este evento forma parte de `Django Girls
    <http://djangogirls.org/>`__ y tiene su propio sitio web bajo esta
-   marca: `Django Girls Guayaquil
-   <https://djangogirls.org/guayaquil>`__
+   marca: `Django Girls Bahía Blanca
+   <https://djangogirls.org/bahiablanca/>`__
 
 .. [#] Registrate en el formulario y comentá con quién vas. Además,
        decile a ella que también se registre e indique que va con vos.
 
 
-.. _Innobis: http://www.innobis.ec/

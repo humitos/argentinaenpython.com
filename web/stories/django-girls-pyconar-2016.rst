@@ -9,7 +9,8 @@
 .. previewimage: flyer.png
 .. .. template: django-girls-snake.tmpl
 
-#.. class:: alert alert-success
+..
+   .. class:: alert alert-success
 
    El Sábado 2 de Julio se abrieron algunos cupos y *CONFIRMAMOS* por
    email a algunas personas que se encontraban en *Lista de
@@ -148,7 +149,7 @@ Timeline (*línea de tiempo*)
    :align: center
 
 
-.. class:: alert alert-danger
+.. .. class:: alert alert-danger
 
    ¡**Atención**!: hemos alcanzado el cupo máximo de inscriptos para
    el taller. Sin embargo, si estás interesada en participar,
@@ -163,7 +164,7 @@ Timeline (*línea de tiempo*)
 
 .. class:: lead align-center
 
-   ¡Sólo necesitás tener buena onda, el sábado completo libre y muchas
+   ¡Sólo necesitás tener buena onda, el viernes completamente libre y muchas
    ganas de aprender! ¡Sumate!
 
 

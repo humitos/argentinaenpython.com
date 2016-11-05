@@ -25,6 +25,12 @@
    para ir a `@PyConEs <https://twitter.com/PyConES>`_ y `@pyconar
    <https://twitter.com/pyconar>`_. :doc:`¡Colabora con nosotros aquí! <donaciones/avanza-30-casilleros>`
 
+.. class:: alert alert-warning
+
+   Estamos organizando el :doc:`Workshop Django Girls
+   <django-girls-pyconar-2016>` dentro de la conferencia de
+   Python Argentina en Bahía Blanca, ¡participa!
+   
 ..
    .. class:: alert alert-success
 

@@ -84,7 +84,7 @@ mujer con vos que también realice el taller [#]_.
 * Fecha: 25 de Noviembre de 2016 de 8:30hs (puntual) a 19:00hs.
 
 .. template:: iframe
-   :src: http://www.openstreetmap.org/export/embed.html?bbox=-62.27166652679444%2C-38.7221987486772%2C-62.26414561271668%2C-38.71704232833236&amp;layer=mapnik&amp;marker=-38.71962058501016%2C-62.267906069755554
+   :src: https://www.openstreetmap.org/export/embed.html?bbox=-62.27166652679444%2C-38.7221987486772%2C-62.26414561271668%2C-38.71704232833236&amp;layer=mapnik&amp;marker=-38.71962058501016%2C-62.267906069755554
 
 .. sidebar:: Contacto
 

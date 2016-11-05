@@ -1,7 +1,7 @@
 .. title: Taller Django Girls en Bahía Blanca - PyConAR
 .. slug: django-girls-pyconar-2016
-.. date: 2016-03-20 00:10:23 UTC-05:00
-.. tags: eventos, django girls, django, taller, python, guayaquil, ecuador
+.. date: 2016-11-05 00:10:23 UTC-05:00
+.. tags: eventos, django girls, django, taller, python, bahía blanca, argentina
 .. category: 
 .. link: 
 .. description: ¡Queremos animar a más mujeres a dominar la web!
@@ -18,7 +18,7 @@
    carpeta SPAM / Correo no deseado) para verificar tu situación.
 
 ¡Queremos animar a más mujeres a dominar la web! Es por eso que desde
-`Argentina en Python <http://argentinaenpython.com>`_ en conjunto
+`Argentina en Python <https://argentinaenpython.com>`_ en conjunto
 con `Django Girls Mendoza <https://twitter.com/djangogirlsmdz>`_ estamos
 organizando un taller en el cual podrás construir tu propio sitio web
 *desde cero* en un día. Además, vamos a utilizar todas las
@@ -201,8 +201,7 @@ Colaboradores
 
    ¿Te gustaría que tu empresa sea parte de este evento?
 
-Contáctanos para hacerlo posib
-e y así apoyar a que haya más eventos
+Contáctanos para hacerlo posible y así apoyar a que haya más eventos
 de programación en la ciudad.
 
 
@@ -325,7 +324,8 @@ escribinos un email y nos pondremos en contacto con vos.
 
      .. class:: small
 
-        Fuente: `PyCon Argentina Mendoza <http://ar.pycon.org/>`_
+        Fuente: `PyCon Argentina Bahía Blanca
+        <http://ar.pycon.org/codigo-conducta/>`_
 
 .. raw:: html
 

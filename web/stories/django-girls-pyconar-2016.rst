@@ -78,6 +78,13 @@ mujer con vos que también realice el taller [#]_.
 
 ¿Dónde y cuándo?
 ----------------
+Este taller de Django Girls se realiza en el marco de la `Conferencia de Python Argentina - PyCon
+Argentina 2016 <http://ar.pycon.org/>`_ organizado por la comunidad de
+`Python Argentina <http://python.org.ar/>`_. Es el evento de
+programación en Python más grande del país, donde vas a tener la
+posibilidad de hablar con nuestros propios ídolos de la comunidad de
+Python. ¡Aprovechalos al máximo!
+
 
 * Lugar: Sala Fundadores de la UNS en la Av.Colón 80. Bahía Blanca, Argentina.
 

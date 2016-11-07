@@ -1,1 +1,4 @@
-mapas-de-openstreetmap-para-garmin/
+mapas-de-openstreetmap-para-garmin/*/*.img
+mapas-de-openstreetmap-para-garmin/*.json
+
+

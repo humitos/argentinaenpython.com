@@ -180,6 +180,13 @@ Año 2016
 
 
 .. template:: prensa-image
+   :title: Sapuru
+   :description: Django Girls en Mendoza: la experiencia
+   :src: 2016_abril_2-340x255.png
+   :href: http://blog.sapuru.com.ar/django-girls-en-mendoza-la-experiencia/
+
+
+.. template:: prensa-image
    :title: El Tiempo
    :description: Evento Meetup Python se cumple hoy
    :src: 2016_abril_1-340x255.png

@@ -82,7 +82,7 @@ archivo está corrupto por algún motivo, envíanos un `email
 
 .. [#] Código fuente: https://github.com/ingeniovirtual/garmin-osm
        (`repositorio anterior
-       <https://proyectos.ingeniovirtual.com.ar/projects/garmin-osm>`_
+       <https://proyectos.ingeniovirtual.com.ar/projects/garmin-osm>`_)
 .. [#] En esa discusión hay mucha información sobre cómo funciona el
        mapa internamente y detalles de cómo se tomaron algunas
        decisiones.

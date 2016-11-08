@@ -1,5 +1,5 @@
 .. title: Taller Django Girls en Santiago del Estero
-.. slug: django-girls-santiagodelestero
+.. slug: django-girls-santiago-del-estero
 .. date: 2016-11-08 00:11:23 UTC-05:00
 .. tags: eventos, django girls, django, taller, python, santiago del estero, argentina, programación
 .. category: 

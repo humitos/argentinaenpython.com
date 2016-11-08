@@ -1,7 +1,7 @@
-.. title: Taller Django Girls en Guayaquil
-.. slug: django-girls-guayaquil
-.. date: 2016-03-20 00:10:23 UTC-05:00
-.. tags: eventos, django girls, django, taller, python, guayaquil, ecuador
+.. title: Taller de Programación para Mujeres Django Girls, Santiago del Estero
+.. slug: django-girls-santiagodelestero
+.. date: 2016-11-08 00:11:23 UTC-05:00
+.. tags: eventos, django girls, django, taller, python, Santiago del Estero, Argentina, Programación
 .. category: 
 .. link: 
 .. description: ¡Queremos animar a más mujeres a dominar la web!
@@ -9,7 +9,8 @@
 .. previewimage: flyer.png
 .. .. template: django-girls-snake.tmpl
 
-.. class:: alert alert-success
+..    
+    .. class:: alert alert-success
 
    El Sábado 2 de Julio se abrieron algunos cupos y *CONFIRMAMOS* por
    email a algunas personas que se encontraban en *Lista de
@@ -77,13 +78,12 @@ mujer con vos que también realice el taller [#]_.
 ¿Dónde y cuándo?
 ----------------
 
-* Lugar: Innobis_ (Calle Leopoldo Benítez y Joaquín Orrantia, Ciudad
-  del Sol, Edificio Trade Building, Torre B, PB.) Guayaquil, Ecuador
+* Lugar: `Nodo Tecnológico <http://www.nodosde.gob.ar/>`_ Avenida Los Molinos y Ejercito Argentino, Santiago del Estero, Argentina.
 
-* Fecha: 9 de Julio de 2016 de 8:30hs (puntual) a 19:00hs.
+* Fecha: 10 de Diciembre de 2016 de 8:30hs (!puntual¡) a 19:00hs.
 
 .. template:: iframe
-   :src: http://www.openstreetmap.org/export/embed.html?bbox=-79.89125579595566%2C-2.155941508562105%2C-79.88920122385025%2C-2.1543520836734227&amp;layer=mapnik&amp;marker=-2.155148136481068%2C-79.89022850990295
+   :src: https://www.openstreetmap.org/export/embed.html?bbox=-64.30624008178712%2C-27.78061976799431%2C-64.21603202819826%2C-27.73383207058973&amp;layer=mapnik&amp;marker=-27.75722843275783%2C-64.26109313964844
 
 .. sidebar:: Contacto
 
@@ -148,7 +148,7 @@ Timeline (*línea de tiempo*)
    :align: center
 
 
-.. class:: alert alert-danger
+..    .. class:: alert alert-danger
 
    ¡**Atención**!: hemos alcanzado el cupo máximo de inscriptos para
    el taller. Sin embargo, si estás interesada en participar,
@@ -157,7 +157,7 @@ Timeline (*línea de tiempo*)
    vos para informarte.
 
 .. template:: bootstrap3/button
-   :href: http://goo.gl/forms/fUtaiDOTmP43kaue2
+   :href: https://goo.gl/forms/MEo1669QtkflMvC72
 
    ¡Quiero inscribirme!
 
@@ -183,7 +183,7 @@ contigo para coordinar los detalles.
 
 
 .. template:: bootstrap3/button
-   :href: http://goo.gl/forms/2WsaduiNGyn8EvM63
+   :href: https://goo.gl/forms/KRM3Iqy0CmAgCEvA3
 
    ¡Quiero participar como guía!
 
@@ -340,13 +340,13 @@ escribinos un email y nos pondremos en contacto con vos.
 
    Este evento forma parte de `Django Girls
    <http://djangogirls.org/>`__ y tiene su propio sitio web bajo esta
-   marca: `Django Girls Guayaquil
-   <https://djangogirls.org/guayaquil>`__
+   marca: `Django Girls Santiago del Estero
+   <https://djangogirls.org/santiagodelestero>`__
 
 .. [#] Registrate en el formulario y comentá con quién vas. Además,
        decile a ella que también se registre e indique que va con vos.
 
 
-.. _Innobis: http://www.innobis.ec/
+
 
 

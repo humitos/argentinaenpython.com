@@ -29,7 +29,7 @@ de una manera muy sencilla!
    ¡Es hora de aprender a programar!
 
 
-..    .. image:: flyer.thumbnail.png
+.. image:: flyer.thumbnail.png
    :target: flyer.png
    :align: right
 

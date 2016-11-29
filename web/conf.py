@@ -623,6 +623,7 @@ REDIRECTIONS = [
 
     ('galeria/track-teen/index.html', '/galeria/track-teen-scipy-la-2015/'),
     ('workshop-django-girls-cochabamba/index.html', '/django-girls-cochabamba/'),
+    ('django-girls-en-pyconar-2016/index.html', '/django-girls-pyconar-2016/'),
 ]
 
 # Presets of commands to execute to deploy. Can be anything, for

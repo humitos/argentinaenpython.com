@@ -9,7 +9,8 @@
 .. previewimage: flyer.png
 .. .. template: django-girls-snake.tmpl
 
-.. class:: alert alert-success
+
+..    .. class:: alert alert-success
 
    El Sábado 2 de Julio se abrieron algunos cupos y *CONFIRMAMOS* por
    email a algunas personas que se encontraban en *Lista de

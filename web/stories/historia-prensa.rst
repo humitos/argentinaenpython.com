@@ -19,6 +19,13 @@ Año 2016
 
 
 .. template:: prensa-image
+   :title: Nodo Tecnológico Santiago del Estero
+   :description: Django Girls
+   :src: 2016_noviembre_0-340x255.png
+   :href: http://www.nodosde.gob.ar/
+
+
+.. template:: prensa-image
    :title: Agrotec Jundiaí, Rio Grande do Norte
    :description: Import Community, Fernando Masanori
    :src: 2016_octubre_4-340x255.png

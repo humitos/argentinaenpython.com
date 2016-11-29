@@ -21,16 +21,10 @@
 
 .. class:: alert alert-success
 
-   ¡Queremos comernos el mundo! Pero para eso necesitamos tu ayuda
-   para ir a `@PyConEs <https://twitter.com/PyConES>`_ y `@pyconar
-   <https://twitter.com/pyconar>`_. :doc:`¡Colabora con nosotros aquí! <donaciones/avanza-30-casilleros>`
+   **NOVEDADES**: ¡Se viene el :doc:`Django Girls en Santiago del
+   Estero <django-girls-santiago-del-estero>`, Argentina este Sábado
+   10 de Diciembre!
 
-.. class:: alert alert-warning
-
-   Estamos organizando el :doc:`Workshop Django Girls
-   <django-girls-pyconar-2016>` dentro de la conferencia de
-   Python Argentina en Bahía Blanca, ¡participa!
-   
 ..
    .. class:: alert alert-success
 
@@ -170,6 +164,12 @@ formas de vida.
    <hr style="border-width: 10px 0 0;">
 
 .. template:: bootstrap3/thumbnail-index
+   :href: /galeria/django-girls-pyconar-2016/
+   :src: IMG_20161125_184517.jpg
+   :title: Django Girls Bahía Blanca - PyConAR 2016
+   :description: Workshop Django Girls
+
+.. template:: bootstrap3/thumbnail-index
    :href: /galeria/django-girls-guayaquil/
    :src: IMG_20160709_141619.jpg
    :title: Django Girls Guayaquil
@@ -179,12 +179,6 @@ formas de vida.
    :href: /galeria/django-girls-cuenca/
    :src: DSC_2576_01.jpg
    :title: Django Girls Cuenca
-   :description: Workshop Django Girls
-
-.. template:: bootstrap3/thumbnail-index
-   :href: /galeria/django-girls-piura/
-   :src: DSC_2518_01.jpg
-   :title: Django Girls Piura
    :description: Workshop Django Girls
 
 

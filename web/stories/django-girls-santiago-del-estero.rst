@@ -123,6 +123,9 @@ Tené en cuenta que...
 
 * ... en lo posible, debes llevar un extensor de corriente.
 
+* ... agrega la dirección argentinaenpython@openmailbox.org a tu libreta
+  de direcciones así evitamos que el email llegue a *SPAM*
+
 * ... debes **revisar el email** durante los 15 días previos al evento
   para saber si recibiste la confirmación (incluso la carpeta de *SPAM*).
 

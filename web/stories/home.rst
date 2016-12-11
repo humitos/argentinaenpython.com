@@ -164,6 +164,12 @@ formas de vida.
    <hr style="border-width: 10px 0 0;">
 
 .. template:: bootstrap3/thumbnail-index
+   :href: /galeria/django-girls-santiago-del-estero/
+   :src: IMG_20161210_142130.jpg
+   :title: Django Girls Santiago del Estero
+   :description: Workshop Django Girls
+
+.. template:: bootstrap3/thumbnail-index
    :href: /galeria/django-girls-pyconar-2016/
    :src: IMG_20161125_184517.jpg
    :title: Django Girls Bahía Blanca - PyConAR 2016
@@ -173,12 +179,6 @@ formas de vida.
    :href: /galeria/django-girls-guayaquil/
    :src: IMG_20160709_141619.jpg
    :title: Django Girls Guayaquil
-   :description: Workshop Django Girls
-
-.. template:: bootstrap3/thumbnail-index
-   :href: /galeria/django-girls-cuenca/
-   :src: DSC_2576_01.jpg
-   :title: Django Girls Cuenca
    :description: Workshop Django Girls
 
 

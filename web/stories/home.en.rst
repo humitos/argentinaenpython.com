@@ -1,3 +1,4 @@
+
 .. title: Home
 .. slug: index
 .. date: 2015-03-26 18:23:03 UTC-03:00
@@ -142,6 +143,12 @@ How?
    <hr style="border-width: 10px 0 0;">
 
 .. template:: bootstrap3/thumbnail-index
+   :href: /galeria/django-girls-santiago-del-estero/
+   :src: IMG_20161210_142130.jpg
+   :title: Django Girls Santiago del Estero
+   :description: Workshop Django Girls
+
+.. template:: bootstrap3/thumbnail-index
    :href: /galeria/django-girls-guayaquil/
    :src: IMG_20160709_141619.jpg
    :title: Django Girls Guayaquil
@@ -153,11 +160,6 @@ How?
    :title: Django Girls Cuenca
    :description: Workshop Django Girls
 
-.. template:: bootstrap3/thumbnail-index
-   :href: /galeria/django-girls-piura/
-   :src: DSC_2518_01.jpg
-   :title: Django Girls Piura
-   :description: Workshop Django Girls
 
 .. class:: lead align-center
 

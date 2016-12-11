@@ -9,22 +9,24 @@
 Eventos pasados
 ---------------
 
+* 10-12-2016: `Taller Django Girls en Santiago del Estero
+  <https://argentinaenpython.com/galeria/django-girls-santiago-del-estero/>`_
 * 25-11-2016: `Taller Django Girls en Bahía Blanca - PyConAR 2016
-  <http://argentinaenpython.com/galeria/django-girls-pyconar-2016/>`_
+  <https://argentinaenpython.com/galeria/django-girls-pyconar-2016/>`_
 * 09-07-2016: `Taller Django Girls en Guayaquil
-  <http://argentinaenpython.com/galeria/django-girls-guayaquil/>`_
+  <https://argentinaenpython.com/galeria/django-girls-guayaquil/>`_
 * 30-04-2016: `Taller Django Girls en Cuenca
-  <http://argentinaenpython.com/galeria/django-girls-cuenca/>`_
+  <https://argentinaenpython.com/galeria/django-girls-cuenca/>`_
 * 23-01-2016: `Taller Django Girls en Piura
-  <http://argentinaenpython.com/galeria/django-girls-piura/>`_
+  <https://argentinaenpython.com/galeria/django-girls-piura/>`_
 * 09-01-2016: `Taller Django Girls en Lima
-  <http://argentinaenpython.com/galeria/django-girls-lima/>`_
+  <https://argentinaenpython.com/galeria/django-girls-lima/>`_
 * 12-11-2015: `Taller Django Girls en Mendoza
-  <http://argentinaenpython.com/galeria/django-girls-mendoza/>`_
+  <https://argentinaenpython.com/galeria/django-girls-mendoza/>`_
 * 24-10-2015: Charla sobre PyFi Spot en Buenos Aires Meetup
 * 17-10-2015: Charla sobre Argentina en Python en `#PyDayLitoral <http://pyday.lugli.org.ar/>`_
-* 03-10-2015: `Taller Django Girls en Puno <http://argentinaenpython.com/galeria/django-girls-puno/>`_
-* 29-08-2015: `Taller Django Girls en Santa Cruz <http://argentinaenpython.com/galeria/django-girls-santacruz/>`_
+* 03-10-2015: `Taller Django Girls en Puno <https://argentinaenpython.com/galeria/django-girls-puno/>`_
+* 29-08-2015: `Taller Django Girls en Santa Cruz <https://argentinaenpython.com/galeria/django-girls-santacruz/>`_
 * 22-08-2015: `Taller Django Girls en Cochabamba
   <http://elblogdehumitos.com/posts/django-girls-tecnologia-python-mujeres/>`_
 * 19-08-2015: Introducción a Python en mARTadero

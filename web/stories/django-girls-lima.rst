@@ -10,7 +10,7 @@
 
 
 ¡Queremos animar a más mujeres a dominar la web! Es por eso que desde
-`Argentina en Python <http://argentinaenpython.com>`_ estamos
+`Argentina en Python <https://argentinaenpython.com>`_ estamos
 organizando un taller en el cual podrás construir tu propio sitio web
 desde cero en un día. Además, vamos a utilizar todas las herramientas
 que programadores profesionales utilizan diariamente. ¡Y de una manera

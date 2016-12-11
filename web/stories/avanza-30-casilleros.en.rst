@@ -31,7 +31,7 @@ visited more than 8 countries over the past 2 years. Incredible!
 Together, we are a 3-legged table: Python community, Johanna
 (`@EllaQuimica <https://twitter.com/EllaQuimica>`_) and I (Manuel).
 Together, we have organized dozens of events Python (`including 8
-Django Girls workshops <http://argentinaenpython.com/galeria/>`_),
+Django Girls workshops <https://argentinaenpython.com/galeria/>`_),
 we have collaborated in translation, created pages of initiation in
 Python as :doc:`I want to learn Python <quiero-aprender-python>` and
 more. Event though we put a lot of effort, it emphasized that a
@@ -48,7 +48,7 @@ visit the different sections of this website.*
 
    Django Girls Mendoza / PyCon Argentina 2015 (`this is how we get
    there
-   <http://argentinaenpython.com/donaciones/de-quimica-a-coach/>`_)
+   <https://argentinaenpython.com/donaciones/de-quimica-a-coach/>`_)
 
 ----
 
@@ -121,7 +121,7 @@ España <http://2016.es.pycon.org/es/>`_ and `Django Girls Almería
 <https://djangogirls.org/almeria/>`_. Just miss you!
 
 .. template:: bootstrap3/button
-   :href: http://argentinaenpython.com/en/donations/payment-methods/
+   :href: https://argentinaenpython.com/en/donations/payment-methods/
 
    I want to donate!
 

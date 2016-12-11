@@ -12,7 +12,7 @@
 Luego de nuestro *excelentísimo* paso por Perú y la cantidad de gente
 maravillosa que conocimos, ¡queremos más! Seguiremos viaje hacia
 Ecuador con el proyecto `Argentina en Python
-<http://argentinaenpython.com/>`_ divulgando Python, ciencia,
+<https://argentinaenpython.com/>`_ divulgando Python, ciencia,
 tecnología y ayudando a las comunidades locales a crearse, crecer y/o
 colaborar de la forma que podamos.
 

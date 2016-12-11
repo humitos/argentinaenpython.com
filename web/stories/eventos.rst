@@ -75,7 +75,7 @@ orientada a objetos y trabajan con los lenguajes de programación
 tradicionales como ser: Java, PHP, .Net, Pascal, etc.
 
 En las charlas de `Introducción a Python
-<http://argentinaenpython.com/eventos/charlas/#introduccion-a-python>`_
+<https://argentinaenpython.com/eventos/charlas/#introduccion-a-python>`_
 se muestran las características principales de Python, su comunidad,
 algunas anécdotas laborales/personales y se hace una pequeña
 introducción al mundo profesional en el ámbito del Software

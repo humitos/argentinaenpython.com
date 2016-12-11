@@ -18,7 +18,7 @@
    carpeta SPAM / Correo no deseado) para verificar tu situación.
 
 ¡Queremos animar a más mujeres a dominar la web! Es por eso que desde
-`Argentina en Python <http://argentinaenpython.com>`_ estamos
+`Argentina en Python <https://argentinaenpython.com>`_ estamos
 organizando un taller en el cual podrás construir tu propio sitio web
 *desde cero* en un día. Además, vamos a utilizar todas las
 herramientas que programadores profesionales utilizan diariamente. ¡Y
@@ -41,7 +41,7 @@ ayudar durante todo el día con los problemas que se nos vayan
 presentando.
 
 Una vez que estamos listos, comenzamos leyendo el `tutorial
-<http://argentinaenpython.com/django-girls/tutorial/>`_
+<https://argentinaenpython.com/django-girls/tutorial/>`_
 *autoguiado* escrito especialmente para vos por `Django Girls
 <http://djangogirls.org/>`_ (una fundación sin fines de lucro que
 motiva a las mujeres a programar, organizando estos eventos en todo el
@@ -151,7 +151,7 @@ Timeline (*línea de tiempo*)
    :align: center
 
 
-..    .. class:: alert alert-danger
+.. class:: alert alert-danger
 
    ¡**Atención**!: hemos alcanzado el cupo máximo de inscriptos para
    el taller. Sin embargo, si estás interesada en participar,

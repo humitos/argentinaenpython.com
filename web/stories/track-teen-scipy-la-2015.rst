@@ -119,7 +119,7 @@ Contactos
 
 * Manuel
 
-  - Web: http://argentinaenpython.com
+  - Web: https://argentinaenpython.com
   - Email: argentinaenpython@openmailbox.org
   - Twitter: `@argenpython <https://twitter.com/argenpython>`_
 

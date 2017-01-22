@@ -19,6 +19,7 @@ the moment the donation was made:
 Donations to go to PyCon España and PyCon Argentina
 ---------------------------------------------------
 
+* 14 November de 2016 - `Federico Cardoso <https://twitter.com/ravenio>`_: BTC 0.05727
 * 10 October 2016 - `David Barragán Merino <https://twitter.com/bameda>`_: USD 100
 * 20 September 2016 - `PyCon España <http://2016.es.pycon.org/>`_: EUR 900
 * 16 September 2016 - `Alejandro Javier Peralta Frias <https://twitter.com/aleperalta82>`_: ARS 500
@@ -29,6 +30,7 @@ Donations to go to PyCon España and PyCon Argentina
 * 29 August 2016 - Jose Maria Cortes Arnal: USD 20
 * 18 August 2016 - Mariana Vargas Vieyra: USD 50
 * 16 August 2016 - Isidro Lopez Martinez: USD 20
+* 16 August 2016 - `Federico Cardoso <https://twitter.com/ravenio>`_: BTC 0.08833
 * 15 August 2016 - `J.R. Lenton <https://twitter.com/chipaca>`_: USD 100
 * 13 August 2016 - `Mauricio Baeza <https://facturalibre.net>`_: USD 10
 
@@ -57,7 +59,7 @@ General donations
 * 26 October 2015 - `Francisco Capdevila <https://twitter.com/pancho_jay>`_: ARS 200
 * 26 October 2015 - `Erick Navarro <https://twitter.com/erickgnavar>`_: USD 20
 * 26 October 2015 - `Matías Barriento <https://twitter.com/BarrientoMatias/>`_: ARS 500
-* 21 October 2015 - `Federico Reiven <https://twitter.com/ravenio>`_: USD 45
+* 21 October 2015 - `Federico Cardoso <https://twitter.com/ravenio>`_: USD 45
 * 20 October 2015 - `PyDayLitoral <http://pyday.lugli.org.ar/>`_: ARS 3000
 * 19 October 2015 - Donante Anónimo: ARS 1000
 * 29 September 2015 - Fraire Willemoes Santiago Ernesto: ARS 300

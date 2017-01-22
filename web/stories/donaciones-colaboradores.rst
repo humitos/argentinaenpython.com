@@ -20,6 +20,7 @@ Donaciones para ir a PyCon España y PyCon Argentina
 ---------------------------------------------------
 
 
+* 14 de Noviembre de 2016 - `Federico Cardoso <https://twitter.com/ravenio>`_: BTC 0.05727
 * 10 de Octubre de 2016 - `David Barragán Merino <https://twitter.com/bameda>`_: USD 100
 * 20 de Septiembre de 2016 - `PyCon España <http://2016.es.pycon.org/>`_: EUR 900
 * 16 de Septiembre de 2016 - `Alejandro Javier Peralta Frias <https://twitter.com/aleperalta82>`_: ARS 500
@@ -30,6 +31,7 @@ Donaciones para ir a PyCon España y PyCon Argentina
 * 29 de Agosto de 2016 - Jose Maria Cortes Arnal: USD 20
 * 18 de Agosto de 2016 - Mariana Vargas Vieyra: USD 50
 * 16 de Agosto de 2016 - Isidro Lopez Martinez: USD 20
+* 16 de Agosto de 2016 - `Federico Cardoso <https://twitter.com/ravenio>`_: BTC 0.08833
 * 15 de Agosto de 2016 - `J.R. Lenton <https://twitter.com/chipaca>`_: USD 100
 * 13 de Agosto de 2016 - `Mauricio Baeza <https://facturalibre.net>`_: USD 10
 
@@ -37,7 +39,7 @@ Donaciones en general
 ---------------------
 
 * 14 de Julio de 2016 - `Nicolás Pace <https://twitter.com/nicopace>`_: USD 50
-* 31 de Mayo de 2016 - `Federico Reiven <https://twitter.com/ravenio>`_: BTC 0.00963799
+* 31 de Mayo de 2016 - `Federico Cardoso <https://twitter.com/ravenio>`_: BTC 0.00963799
 * 13 de Mayo de 2016 - `Joaquín Sorianello <https://twitter.com/_joac>`_: ARS 1000
 * 14 de Febrero de 2016 - `Francisco Capdevila <https://twitter.com/pancho_jay>`_: ARS 300
 

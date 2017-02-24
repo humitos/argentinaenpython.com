@@ -178,6 +178,70 @@ Python/Django) pero que están más acostumbradas al manejo de
 herramientas tradicionales como ser sistemas de control de versiones,
 Internet, consola de GNU/Linux, programación básica y otros.
 
+¡Conocé a nuestros guías!
+*************************
+
+.. raw:: html
+
+   <style>
+     div.django-girls-guia {
+       min-height: 350px;
+     }
+
+     div.section-guias {
+       display: inline-block;
+     }
+   </style>
+
+   <div class="section-guias">
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Jorge Padilla
+   :image: guia-jorge.png
+   :web: http://almendra.com.ec/
+   :github: https://github.com/jorge-epc
+   :twitter: https://twitter.com/jorge_epc
+   :facebook: https://www.facebook.com/jorge.esteban.pc
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Belén Abad
+   :image: guia-belen.png
+   :web: http://almendra.com.ec/
+   :twitter: https://twitter.com/Serotonina_abad
+   :facebook: https://www.facebook.com/serotonina.abad
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Francisco Urgiles
+   :image: guia-pancho.png
+   :web: http://almendra.com.ec/
+   :github: https://github.com/panchourgiles
+   :twitter: https://twitter.com/panchourgiles
+   :facebook: https://www.facebook.com/panchourgiles
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Johanna Sanchez
+   :image: guia-johanna.png
+   :github: https://github.com/ellaquimica/
+   :twitter: https://twitter.com/ellaquimica
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Manuel Kaufmann
+   :image: guia-manuel.png
+   :web: https://elblogdehumitos.com/
+   :github: https://github.com/humitos
+   :twitter: https://twitter.com/reydelhumo
+
+.. template:: bootstrap3/django-girls-guia
+   :name: ¿Vos?
+   :image: guia-proximo.png
+
+.. raw:: html
+
+   </div>
+
+Quiero ser guía
+***************
+
 Si querés colaborar con este evento y sumarte a los *guías* que serán
 nuestra ayuda durante todo el día del evento en esos momentos de caos,
 registrate en el siguiente formulario y nos pondremos en contacto

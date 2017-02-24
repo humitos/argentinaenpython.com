@@ -126,16 +126,12 @@ Tené en cuenta que...
 * ... agrega la dirección argentinaenpython@openmailbox.org a tu libreta
   de direcciones así evitamos que el email llegue a *SPAM*
 
-* ... debes **revisar el email** durante los 15 días previos al evento
-  para saber si recibiste la confirmación (incluso la carpeta de *SPAM*).
-
 * ... vamos a respetar las fechas publicadas en el *timeline* (línea
-  de tiempo de más abajo) y la falta de confirmación por email en el
-  tiempo estipulado **causará la pérdida del cupo**.
-  
+  de tiempo de más abajo)
+
 * ... debes registrarte como *Asistente* o como *Guía* -no ambos.
 
-* ... al momento de llenar el formulario, pon mucha atención en tu
+* ... al momento de completar el formulario, pon mucha atención en tu
   dirección de email, ya que es el único contacto tuyo que tenemos.
 
 * ... te recomendamos llevar un abrigo.
@@ -145,7 +141,7 @@ Tené en cuenta que...
 
 Timeline (*línea de tiempo*)
 ----------------------------
-  
+
 .. image:: timeline.png
    :align: center
 
@@ -157,6 +153,45 @@ Timeline (*línea de tiempo*)
     inscribite y pasarás automáticamente a una lista de espera que, en
     caso de que alguien no pueda asistir, nos estaremos comunicando con
     vos para informarte.!
+
+----
+
+.. raw:: html
+
+   <div style="display: inline-block;">
+
+.. class:: col-md-4
+
+   Tienes tiempo hasta el **8 de Marzo** para inscribirte. Te
+   recomendamos leer la paǵina de forma completa y prestar mucha
+   atención en el formulario.
+
+.. class:: col-md-4
+
+   El **9 de Marzo** anunciaremos los participantes que fueron
+   **CONFIRMADOS** para participar en el taller, como así también los
+   que están en **LISTA DE ESPERA**. Ese día debes revisar tu correo
+   electrónico buscando un email nuestro en *Bandeja de Entrada* y
+   *SPAM* y confirmar tu asistencia respondiéndolo.
+
+.. class:: col-md-4
+
+   El **17 de Marzo** anunciaremos los participantes que estaban en
+   LISTA DE ESPERA y que debido han pasado a estar **CONFIRMADOS**. Si
+   estabas en LISTA DE ESPERA es un buen momento para revisar tu correo
+   electrónico.
+
+.. raw:: html
+
+   </div>
+
+
+.. class:: alert alert-warning
+
+   Tené en cuenta que la falta de confirmación (respondiendo a nuestro
+   email en las fechas establecidas) hace que pierdas el cupo que se
+   te fue asignado para participar del taller y ese puesto será
+   re-asignado a una de las personas en LISTA DE ESPERA.
 
 .. template:: bootstrap3/button
    :href: https://goo.gl/ohOzQV

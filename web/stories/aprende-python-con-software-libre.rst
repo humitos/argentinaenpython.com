@@ -1,11 +1,17 @@
 .. title: Aprendé Python con Software Libre
 .. slug: aprende-python-con-software-libre
 .. date: 2015-10-23 12:36:10 UTC-03:00
-.. tags: draft
 .. category: 
 .. link: 
 .. description: ¿Hace mucho querés aprender Python y colaborar en un proyecto de Software Libre? ¡Hoy es tu oportunidad!
 .. type: text
+
+
+.. class:: alert alert-warning
+
+   Por el momento no estamos ofreciendo *mentoreo personal dedicado*
+   ya que estamos trabajando para que https://upoi.org salga adelante.
+
 
 ¿Hace mucho querés aprender Python y colaborar en un proyecto de
 Software Libre? ¡Hoy es tu oportunidad!

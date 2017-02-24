@@ -33,8 +33,8 @@ de una manera muy sencilla!
    :target: flyer.png
    :align: right
 
-El taller comienza por la mañana temprano en donde presentamos el
-curso, explicamos en pocos minutos como va a ser la jornada y
+El taller comienza por la mañana temprano en donde presentamos la
+dinámica, explicamos en pocos minutos como va a ser la jornada y
 preparamos todas las herramientas necesarias. Además, presentamos a
 cada uno de nuestros `guías <#guias-entrenadores>`_ que nos van a
 ayudar durante todo el día con los problemas que se nos vayan
@@ -117,7 +117,7 @@ Tené en cuenta que...
 * ... es necesario **llevar notebook** para poder trabajar con ella
   durante todo el día.
 
-* ... el curso es gratuito. Sin embargo, :doc:`se aceptan donaciones
+* ... el taller es gratuito. Sin embargo, :doc:`se aceptan donaciones
   <donaciones>` para que el proyecto pueda realizar más talleres
   gratuitos.
 
@@ -401,7 +401,7 @@ escribinos un email y nos pondremos en contacto con vos.
 .. admonition:: Nota
 
    ¡Ayudanos con la difusión compartiendo esta página y comentando
-   sobre el curso las redes sociales, tu universidad y entre tus
+   sobre el taller las redes sociales, tu universidad y entre tus
    amigos!
 
    Este evento forma parte de `Django Girls

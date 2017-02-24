@@ -1,5 +1,5 @@
 .. title: Taller Django Girls en Cuenca
-.. slug: django-girls-cuenca
+.. slug: django-girls/2016/04/cuenca
 .. date: 2016-03-20 00:10:23 UTC-05:00
 .. tags: eventos, django girls, django, taller, python, ecuador, cuenca
 .. category: 

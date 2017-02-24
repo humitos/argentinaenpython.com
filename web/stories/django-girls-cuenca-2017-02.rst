@@ -1,5 +1,5 @@
 .. title: Taller Django Girls en Cuenca
-.. slug: django-girls-cuenca-2017
+.. slug: django-girls/2017/02/cuenca
 .. date: 2017-01-15 00:11:23 UTC-05:00
 .. tags: eventos, django girls, django, taller, python, cuenca, argentina, programación
 .. category: 
@@ -347,8 +347,3 @@ escribinos un email y nos pondremos en contacto con vos.
 
 .. [#] Registrate en el formulario y comentá con quién vas. Además,
        decile a ella que también se registre e indique que va con vos.
-
-
-
-
-

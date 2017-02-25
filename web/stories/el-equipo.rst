@@ -35,7 +35,7 @@ y medio monociclista. Docente frustrado y en recuperación activa. Es humitos.
 
 Es la estrella del proyecto. Desde el inicio ha cedido entregar un
 asiento para poder montar una cama de 1 plaza en él. Ha empujado más
-de 30.000 Km en ruta, lluvia, barro, montañas y se ha bancado las
+de 50.000 Km en ruta, lluvia, barro, montañas y se ha bancado las
 situaciones más críticas del viaje. Sin embargo, nunca nos dejó a pie.
 
 .. raw:: html

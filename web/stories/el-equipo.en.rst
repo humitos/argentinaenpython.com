@@ -34,7 +34,7 @@ unicyclist. Frustrated teacher and in active recovery. He is
 	 <p style="text-align: center">
 
 It's the star of the project. From the beginning, it has given a seat
-for mounting a 1-place-bed on it. It has driven more than 30,000 km on
+for mounting a 1-place-bed on it. It has driven more than 50,000 km on
 the road, rain, mud, mountains and has withstood the most critical
 situations of the trip. However, it never let us to walk.
 

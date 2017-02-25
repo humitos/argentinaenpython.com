@@ -1,0 +1,6 @@
+[submodule "djangogirls/tutorial/original"]
+	path = djangogirls/tutorial/original
+	url = https://github.com/DjangoGirls/tutorial.git
+[submodule "djangogirls/tutorial/our"]
+	path = djangogirls/tutorial/our
+	url = git@github.com:humitos/tutorial.git

@@ -1,5 +1,5 @@
 .. title: Taller Django Girls en Cuenca
-.. slug: django-girls/2017/02/cuenca
+.. slug: django-girls/2017/03/cuenca
 .. date: 2017-01-15 00:11:23 UTC-05:00
 .. tags: eventos, django girls, django, taller, python, cuenca, argentina, programación
 .. category: 

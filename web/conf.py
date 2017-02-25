@@ -625,7 +625,7 @@ REDIRECTIONS = [
     ('workshop-django-girls-cochabamba/index.html', '/django-girls-cochabamba/'),
     ('django-girls-en-pyconar-2016/index.html', '/django-girls-pyconar-2016/'),
 
-    ('django-girls-cuenca/index.html', '/django-girls/2017/02/cuenca/'),
+    ('django-girls-cuenca/index.html', '/django-girls/2017/03/cuenca/'),
 ]
 
 # Presets of commands to execute to deploy. Can be anything, for

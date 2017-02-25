@@ -19,12 +19,11 @@
    </style>
 
 
-..
-   .. class:: alert alert-success
+.. class:: alert alert-success
 
-      **NOVEDADES**: ¡Se viene el :doc:`Django Girls en Santiago del
-      Estero <django-girls-santiago-del-estero>`, Argentina este Sábado
-      10 de Diciembre!
+   **NOVEDADES**: ¡Se viene otro :doc:`Django Girls en Cuenca
+   <django-girls/2017/03/cuenca>`, Ecuador el Sábado 25 de Marzo! ¡No
+   dejes de inscribirte!
 
 ..
    .. class:: alert alert-success

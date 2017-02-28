@@ -85,7 +85,9 @@ mujer con vos que también realice el taller [#]_.
 * Fecha: Sábado 8 de Abril de 2017 de 8:30hs (¡puntual!) a 19:00hs.
 
 .. template:: iframe
-   :src: http://www.openstreetmap.org/export/embed.html?bbox=-73.16542625427248%2C7.113923856229435%2C-73.07521820068361%2C7.166555862432544&amp;layer=mapnik&amp;marker=7.140240616397193%2C-73.12032222747803
+   :src: https://www.openstreetmap.org/export/embed.html?bbox=-73.16542625427248%2C7.113923856229435%2C-73.07521820068361%2C7.166555862432544&amp;layer=mapnik&amp;marker=7.140240616397193%2C-73.12032222747803
+
+
 .. sidebar:: Contacto
 
    Cualquier duda que tengas sobre el taller, nos puedes escribir a

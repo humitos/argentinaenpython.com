@@ -85,7 +85,7 @@ mujer con vos que también realice el taller [#]_.
 * Fecha: Sábado 8 de Abril de 2017 de 8:30hs (¡puntual!) a 19:00hs.
 
 .. template:: iframe
-   :src: http://www.openstreetmap.org/export/embed.html?bbox=-73.16542625427248%2C7.113923856229435%2C-73.07521820068361%2C7.166555862432544&amp;layer=mapnik&amp;marker=7.140240616397193%2C-73.12032222747803
+   :src: https://www.openstreetmap.org/export/embed.html?bbox=-73.16559791564943%2C7.114264535914195%2C-73.07538986206056%2C7.166896502915556&amp;layer=mapnik&amp;marker=7.1405812765164525%2C-73.12045097351074
 .. sidebar:: Contacto
 
    Cualquier duda que tengas sobre el taller, nos puedes escribir a
@@ -211,6 +211,66 @@ Python/Django) pero que están más acostumbradas al manejo de
 herramientas tradicionales como ser sistemas de control de versiones,
 Internet, consola de GNU/Linux, programación básica y otros.
 
+
+
+Quiero ser guía
+***************
+
+Si querés colaborar con este evento y sumarte a los *guías* que serán
+nuestra ayuda durante todo el día del evento en esos momentos de caos,
+registrate en el siguiente formulario y nos pondremos en contacto
+contigo para coordinar los detalles.
+
+
+.. template:: bootstrap3/button
+   :href: https://goo.gl/forms/zRuhaT8ADwIGLzln1:
+
+   ¡Quiero participar como guía!
+
+¡Conocé a nuestros guías!
+*************************
+
+.. raw:: html
+
+   <style>
+     div.django-girls-guia {
+       min-height: 350px;
+     }
+
+     div.section-guias {
+       display: inline-block;
+     }
+   </style>
+
+   <div class="section-guias">
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Diego Fernando Acosta Ortiz
+   :image: guia-diego.png
+   :place: Bucaramanga, Colombia
+   :community: Python Bucaramanga
+   :web: http://cusol.uis.edu.co/
+   :github: https://github.com/dacostaortiz/
+   :facebook: https://www.facebook.com/dfacos
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Rafael Antonio Laverde
+   :image: guia-rafael.png
+   :place: Sogamoso, Colombia
+   :community: Python Tunja, Python Colombia
+   :web: https://linkedin.com/in/rafaellaverde
+   :github: https://github.com/rlaverde
+   :twitter: https://twitter.com/rafa_laverde
+   :facebook: https://www.facebook.com/leafar91
+
+.. template:: bootstrap3/django-girls-guia
+   :name: ¿Vos?
+   :image: guia-proximo.png
+
+.. raw:: html
+
+   </div>
+
 ¡Conocé a nuestros organizadores!
 *********************************
 
@@ -275,65 +335,6 @@ Internet, consola de GNU/Linux, programación básica y otros.
 .. raw:: html
 
    </div>
-
-Quiero ser guía
-***************
-
-Si querés colaborar con este evento y sumarte a los *guías* que serán
-nuestra ayuda durante todo el día del evento en esos momentos de caos,
-registrate en el siguiente formulario y nos pondremos en contacto
-contigo para coordinar los detalles.
-
-
-.. template:: bootstrap3/button
-   :href: https://goo.gl/forms/zRuhaT8ADwIGLzln1:
-
-   ¡Quiero participar como guía!
-
-¡Conocé a nuestros guías!
-*************************
-
-.. raw:: html
-
-   <style>
-     div.django-girls-guia {
-       min-height: 350px;
-     }
-
-     div.section-guias {
-       display: inline-block;
-     }
-   </style>
-
-   <div class="section-guias">
-
-.. template:: bootstrap3/django-girls-guia
-   :name: Diego Fernando Acosta Ortiz
-   :image: guia-diego.png
-   :place: Bucaramanga, Colombia
-   :community: Python Bucaramanga
-   :web: http://cusol.uis.edu.co/
-   :github: https://github.com/dacostaortiz/
-   :facebook: https://www.facebook.com/dfacos
-
-.. template:: bootstrap3/django-girls-guia
-   :name: Rafael Antonio Laverde
-   :image: guia-rafael.png
-   :place: Sogamoso, Colombia
-   :community: Python Tunja, Python Colombia
-   :web: https://linkedin.com/in/rafaellaverde
-   :github: https://github.com/rlaverde
-   :twitter: https://twitter.com/rafa_laverde
-   :facebook: https://www.facebook.com/leafar91
-
-.. template:: bootstrap3/django-girls-guia
-   :name: ¿Vos?
-   :image: guia-proximo.png
-
-.. raw:: html
-
-   </div>
-
 
 Colaboradores
 -------------

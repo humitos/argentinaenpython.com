@@ -1,7 +1,7 @@
 .. title: Taller Django Girls en Bucaramanga, Colombia
 .. slug: django-girls/2017/04/bucaramanga 
 .. date: 2017-02-27 00:11:23 UTC-05:00
-.. tags: eventos, django girls, django, taller, python, bucaramanga, argentina, programación, colombia
+.. tags: eventos, django girls, django, taller, python, bucaramanga, programación, colombia
 .. category: 
 .. link: 
 .. description: ¡Queremos animar a más mujeres a dominar la web!
@@ -213,8 +213,69 @@ Python/Django) pero que están más acostumbradas al manejo de
 herramientas tradicionales como ser sistemas de control de versiones,
 Internet, consola de GNU/Linux, programación básica y otros.
 
-¡Conocé a nuestros organizadores!
-*********************************
+
+
+Quiero ser guía
+***************
+
+Si querés colaborar con este evento y sumarte a los *guías* que serán
+nuestra ayuda durante todo el día del evento en esos momentos de caos,
+registrate en el siguiente formulario y nos pondremos en contacto
+contigo para coordinar los detalles.
+
+
+.. template:: bootstrap3/button
+   :href: https://goo.gl/forms/zRuhaT8ADwIGLzln1:
+
+   ¡Quiero participar como guía!
+
+¡Conocé a nuestros guías!
+*************************
+
+.. raw:: html
+
+   <style>
+     div.django-girls-guia {
+       min-height: 350px;
+     }
+
+     div.section-guias {
+       display: inline-block;
+     }
+   </style>
+
+   <div class="section-guias">
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Diego Fernando Acosta Ortiz
+   :image: guia-diego.png
+   :place: Bucaramanga, Colombia
+   :community: Python Bucaramanga
+   :web: http://cusol.uis.edu.co/
+   :github: https://github.com/dacostaortiz/
+   :facebook: https://www.facebook.com/dfacos
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Rafael Antonio Laverde
+   :image: guia-rafael.png
+   :place: Sogamoso, Colombia
+   :community: Python Tunja, Python Colombia
+   :web: https://linkedin.com/in/rafaellaverde
+   :github: https://github.com/rlaverde
+   :twitter: https://twitter.com/rafa_laverde
+   :facebook: https://www.facebook.com/leafar91
+
+.. template:: bootstrap3/django-girls-guia
+   :name: ¿Vos?
+   :image: guia-proximo.png
+
+.. raw:: html
+
+   </div>
+
+
+¡Los organizadores!
+-------------------
 
 .. raw:: html
 
@@ -277,65 +338,6 @@ Internet, consola de GNU/Linux, programación básica y otros.
 .. raw:: html
 
    </div>
-
-Quiero ser guía
-***************
-
-Si querés colaborar con este evento y sumarte a los *guías* que serán
-nuestra ayuda durante todo el día del evento en esos momentos de caos,
-registrate en el siguiente formulario y nos pondremos en contacto
-contigo para coordinar los detalles.
-
-
-.. template:: bootstrap3/button
-   :href: https://goo.gl/forms/zRuhaT8ADwIGLzln1
-
-   ¡Quiero participar como guía!
-
-¡Conocé a nuestros guías!
-*************************
-
-.. raw:: html
-
-   <style>
-     div.django-girls-guia {
-       min-height: 350px;
-     }
-
-     div.section-guias {
-       display: inline-block;
-     }
-   </style>
-
-   <div class="section-guias">
-
-.. template:: bootstrap3/django-girls-guia
-   :name: Diego Fernando Acosta Ortiz
-   :image: guia-diego.png
-   :place: Bucaramanga, Colombia
-   :community: Python Bucaramanga
-   :web: http://cusol.uis.edu.co/
-   :github: https://github.com/dacostaortiz/
-   :facebook: https://www.facebook.com/dfacos
-
-.. template:: bootstrap3/django-girls-guia
-   :name: Rafael Antonio Laverde
-   :image: guia-rafael.png
-   :place: Sogamoso, Colombia
-   :community: Python Tunja, Python Colombia
-   :web: https://linkedin.com/in/rafaellaverde
-   :github: https://github.com/rlaverde
-   :twitter: https://twitter.com/rafa_laverde
-   :facebook: https://www.facebook.com/leafar91
-
-.. template:: bootstrap3/django-girls-guia
-   :name: ¿Vos?
-   :image: guia-proximo.png
-
-.. raw:: html
-
-   </div>
-
 
 Colaboradores
 -------------

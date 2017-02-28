@@ -4,7 +4,8 @@ set -e
 
 # create the GitBook Django Girls Tutorial Translation
 cd ../djangogirls/tutorial/our/es/
-./node_modules/.bin/gitbook install
+# npm install gibook-cli
+# ./node_modules/.bin/gitbook install
 ./node_modules/.bin/gitbook build
 cd -
 

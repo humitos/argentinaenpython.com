@@ -794,10 +794,10 @@ PRESERVE_EXIF_DATA = True
 # PRESERVE_EXIF_DATA is set to True
 # To preserve ALL EXIF data, set EXIF_WHITELIST to {"*": "*"}
 
-EXIF_WHITELIST = {}
+EXIF_WHITELIST = {'*': '*'}
 
 # DateTime information:
-EXIF_WHITELIST['DateTime'] = ["*"]
+# EXIF_WHITELIST['DateTime'] = ["*"]
 
 # Some examples of EXIF_WHITELIST settings:
 
@@ -812,7 +812,7 @@ EXIF_WHITELIST['DateTime'] = ["*"]
 # EXIF_WHITELIST['GPS'] = ["*"]
 
 # Embedded thumbnail information:
-EXIF_WHITELIST['1st'] = ["*"]
+# EXIF_WHITELIST['1st'] = ["*"]
 
 #
 # Folders containing images to be used in normal posts or pages. Images will be

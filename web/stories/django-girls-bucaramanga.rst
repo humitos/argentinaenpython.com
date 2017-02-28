@@ -1,7 +1,7 @@
 .. title: Taller Django Girls en Bucaramanga, Colombia
 .. slug: django-girls/2017/04/bucaramanga 
 .. date: 2017-02-27 00:11:23 UTC-05:00
-.. tags: eventos, django girls, django, taller, python, bucaramanga, argentina, programación, colombia
+.. tags: eventos, django girls, django, taller, python, bucaramanga, programación, colombia
 .. category: 
 .. link: 
 .. description: ¡Queremos animar a más mujeres a dominar la web!
@@ -286,7 +286,7 @@ contigo para coordinar los detalles.
 
 
 .. template:: bootstrap3/button
-   :href: https://goo.gl/forms/zRuhaT8ADwIGLzln1
+   :href: https://goo.gl/forms/zRuhaT8ADwIGLzln1:
 
    ¡Quiero participar como guía!
 

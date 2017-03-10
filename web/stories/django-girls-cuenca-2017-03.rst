@@ -230,41 +230,6 @@ Internet, consola de GNU/Linux, programación básica y otros.
 
    <div class="section-guias">
 
-.. template:: bootstrap3/django-girls-guia
-   :name: Jorge Padilla
-   :image: guia-jorge.png
-   :web: http://almendra.com.ec/
-   :github: https://github.com/jorge-epc
-   :twitter: https://twitter.com/jorge_epc
-   :facebook: https://www.facebook.com/jorge.esteban.pc
-
-.. template:: bootstrap3/django-girls-guia
-   :name: Belén Abad
-   :image: guia-belen.png
-   :web: http://almendra.com.ec/
-   :twitter: https://twitter.com/Serotonina_abad
-   :facebook: https://www.facebook.com/serotonina.abad
-
-.. template:: bootstrap3/django-girls-guia
-   :name: Francisco Urgiles
-   :image: guia-pancho.png
-   :web: http://almendra.com.ec/
-   :github: https://github.com/panchourgiles
-   :twitter: https://twitter.com/panchourgiles
-   :facebook: https://www.facebook.com/panchourgiles
-
-.. template:: bootstrap3/django-girls-guia
-   :name: Johanna Sanchez
-   :image: guia-johanna.png
-   :github: https://github.com/ellaquimica/
-   :twitter: https://twitter.com/ellaquimica
-
-.. template:: bootstrap3/django-girls-guia
-   :name: Manuel Kaufmann
-   :image: guia-manuel.png
-   :web: https://elblogdehumitos.com/
-   :github: https://github.com/humitos
-   :twitter: https://twitter.com/reydelhumo
 
 .. template:: bootstrap3/django-girls-guia
    :name: ¿Vos?
@@ -287,6 +252,76 @@ contigo para coordinar los detalles.
    :href: https://goo.gl/sW3m0j
 
    ¡Quiero participar como guía!
+
+
+
+¡Conocé a nuestros organizadores!
+*********************************
+
+.. raw:: html
+
+   <style>
+     div.django-girls-organizadores {
+       min-height: 350px;
+     }
+
+     div.section-organizadores {
+       display: inline-block;
+     }
+   </style>
+
+   <div class="section-organizadores">
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Janna Acuña
+   :image: guia-jana.png
+   :email: janabert565@gmail.com
+   :github: https://github.com/janitaxd
+   :twitter: https://twitter.com/Janabrt_aa
+   
+.. template:: bootstrap3/django-girls-guia
+   :name: Lady Yaguachi
+   :image: guia-lady.png
+   :email: ladyy27@gmail.com
+   :github: https://github.com/ladyy27
+   :twitter: https://twitter.com/lady0x027
+   
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Pamela Guamán
+   :image: guia-pamela.png
+   :email: pamefer.95@gmail.com
+   :github: https://github.com/pamefer
+   :twitter: https://twitter.com/reydelhumo
+   :facebook: https://www.facebook.com/argentinaenpython
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Andrés Campoverde
+   :image: guia-andres.png
+   :email: andrescamp_ac@hotmail.com
+   :github: https://github.com/jorge-epc
+   :twitter: https://twitter.com/jorge_epc
+   :facebook: https://www.facebook.com/jorge.esteban.pc
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Kevin Chaca
+   :image: guia-kevin.png
+   :email: k_s_313@hotmail.com
+   :github: https://github.com/panchourgiles
+   :twitter: https://twitter.com/panchourgiles
+   :facebook: https://www.facebook.com/panchourgiles
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Santos Gallegos
+   :image: guia-santos.png
+   :email: santos_g@outlook.com
+   :github: https://github.com/panchourgiles
+   :twitter: https://twitter.com/panchourgiles
+   :facebook: https://www.facebook.com/panchourgiles
+
+.. raw:: html
+
+   </div>
 
 
 Colaboradores

@@ -213,6 +213,22 @@ Python/Django) pero que están más acostumbradas al manejo de
 herramientas tradicionales como ser sistemas de control de versiones,
 Internet, consola de GNU/Linux, programación básica y otros.
 
+
+
+Quiero ser guía
+***************
+
+Si querés colaborar con este evento y sumarte a los *guías* que serán
+nuestra ayuda durante todo el día del evento en esos momentos de caos,
+registrate en el siguiente formulario y nos pondremos en contacto
+contigo para coordinar los detalles.
+
+
+.. template:: bootstrap3/button
+   :href: https://goo.gl/sW3m0j
+
+   ¡Quiero participar como guía!
+
 ¡Conocé a nuestros guías!
 *************************
 
@@ -229,48 +245,6 @@ Internet, consola de GNU/Linux, programación básica y otros.
    </style>
 
    <div class="section-guias">
-
-
-.. template:: bootstrap3/django-girls-guia
-   :name: ¿Vos?
-   :image: guia-proximo.png
-
-.. raw:: html
-
-   </div>
-
-Quiero ser guía
-***************
-
-Si querés colaborar con este evento y sumarte a los *guías* que serán
-nuestra ayuda durante todo el día del evento en esos momentos de caos,
-registrate en el siguiente formulario y nos pondremos en contacto
-contigo para coordinar los detalles.
-
-
-.. template:: bootstrap3/button
-   :href: https://goo.gl/sW3m0j
-
-   ¡Quiero participar como guía!
-
-
-
-¡Conocé a nuestros organizadores!
-*********************************
-
-.. raw:: html
-
-   <style>
-     div.django-girls-organizadores {
-       min-height: 350px;
-     }
-
-     div.section-organizadores {
-       display: inline-block;
-     }
-   </style>
-
-   <div class="section-organizadores">
 
 .. template:: bootstrap3/django-girls-guia
    :name: Janna Acuña
@@ -318,6 +292,76 @@ contigo para coordinar los detalles.
    :github: https://github.com/panchourgiles
    :twitter: https://twitter.com/panchourgiles
    :facebook: https://www.facebook.com/panchourgiles
+
+.. template:: bootstrap3/django-girls-guia
+   :name: ¿Vos?
+   :image: guia-proximo.png
+
+.. raw:: html
+
+   </div>
+
+¡Conocé a nuestros organizadores!
+*********************************
+
+.. raw:: html
+
+   <style>
+     div.django-girls-organizadores {
+       min-height: 350px;
+     }
+
+     div.section-organizadores {
+       display: inline-block;
+     }
+   </style>
+
+   <div class="section-organizadores">
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Johanna Sanchez
+   :image: guia-johanna.png
+   :web: https://quimicanomada.wordpress.com/
+   :email: argentinaenpython@openmailbox.org
+   :github: https://github.com/ellaquimica/
+   :twitter: https://twitter.com/ellaquimica
+   :facebook: https://www.facebook.com/argentinaenpython
+
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Belén Abad
+   :image: guia-belen.png
+   :web: http://almendra.com.ec/
+   :email: babad@almendra.com.ec
+   :twitter: https://twitter.com/Serotonina_abad
+   :facebook: https://www.facebook.com/serotonina.abad
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Francisco Urgiles
+   :image: guia-pancho.png
+   :web: http://almendra.com.ec/
+   :email: furgiles@almendra.com.ec
+   :github: https://github.com/panchourgiles
+   :twitter: https://twitter.com/panchourgiles
+   :facebook: https://www.facebook.com/panchourgiles
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Jorge Padilla
+   :image: guia-jorge.png
+   :web: http://almendra.com.ec/
+   :email: jpadilla@almendra.com.ec
+   :github: https://github.com/jorge-epc
+   :twitter: https://twitter.com/jorge_epc
+   :facebook: https://www.facebook.com/jorge.esteban.pc
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Manuel Kaufmann
+   :image: guia-manuel.png
+   :web: https://elblogdehumitos.com/
+   :email: argentinaenpython@openmailbox.org
+   :github: https://github.com/humitos
+   :twitter: https://twitter.com/reydelhumo
+   :facebook:https://www.facebook.com/argentinaenpython
 
 .. raw:: html
 

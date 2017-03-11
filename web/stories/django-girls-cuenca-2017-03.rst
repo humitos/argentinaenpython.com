@@ -266,32 +266,31 @@ contigo para coordinar los detalles.
    :image: guia-pamela.png
    :email: pamefer.95@gmail.com
    :github: https://github.com/pamefer
-   :twitter: https://twitter.com/reydelhumo
-   :facebook: https://www.facebook.com/argentinaenpython
+   :twitter: https://twitter.com/PaMelixXXXX
+   :facebook: https://www.facebook.com/pamela.guaman.3
 
 .. template:: bootstrap3/django-girls-guia
    :name: Andrés Campoverde
    :image: guia-andres.png
    :email: andrescamp_ac@hotmail.com
-   :github: https://github.com/jorge-epc
-   :twitter: https://twitter.com/jorge_epc
-   :facebook: https://www.facebook.com/jorge.esteban.pc
+   :github: https://github.com/ACmrRobot
+   :twitter: https://twitter.com/andrescamp_ac
+   :facebook: https://www.facebook.com/WilsonCampoverdeQuito
 
 .. template:: bootstrap3/django-girls-guia
    :name: Kevin Chaca
    :image: guia-kevin.png
    :email: k_s_313@hotmail.com
-   :github: https://github.com/panchourgiles
-   :twitter: https://twitter.com/panchourgiles
-   :facebook: https://www.facebook.com/panchourgiles
+   :github: https://github.com/KevinChaca
+   :twitter: https://twitter.com/MOTEorg
+   :facebook: https://www.facebook.com/MOTEorganizacion
 
 .. template:: bootstrap3/django-girls-guia
    :name: Santos Gallegos
    :image: guia-santos.png
    :email: santos_g@outlook.com
-   :github: https://github.com/panchourgiles
-   :twitter: https://twitter.com/panchourgiles
-   :facebook: https://www.facebook.com/panchourgiles
+   :github: https://github.com/stsewd
+   :facebook: https://www.facebook.com/stsewd2
 
 .. template:: bootstrap3/django-girls-guia
    :name: ¿Vos?

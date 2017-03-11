@@ -357,11 +357,13 @@ contigo para coordinar los detalles.
 .. template:: bootstrap3/django-girls-guia
    :name: Manuel Kaufmann
    :image: guia-manuel.png
-   :web: https://elblogdehumitos.com/
+   :place: Parana, Argentina
    :email: argentinaenpython@openmailbox.org
+   :community: Python Argentina
+   :web: https://elblogdehumitos.com/
    :github: https://github.com/humitos
    :twitter: https://twitter.com/reydelhumo
-   :facebook:https://www.facebook.com/argentinaenpython
+   :facebook: https://www.facebook.com/argentinaenpython
 
 .. raw:: html
 

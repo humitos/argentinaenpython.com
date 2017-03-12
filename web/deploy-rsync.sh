@@ -10,7 +10,7 @@ cd ../djangogirls/tutorial/our/es/
 cd -
 
 # create symbolic link to the GitBook Django Girls Tutorial Translation
-rm output/django-girls/gitbook
+rm -f output/django-girls/gitbook
 ln -sf ../../../djangogirls/tutorial/our/es/_book output/django-girls/gitbook
 
 rsync --progress --human-readable --recursive --links --verbose --update --compress --delete-after --exclude-from=rsync.exclude --copy-links --bwlimit=250 --stats --partial --partial-dir=/tmp output/* humitos@elblogdehumitos.com:apps/argentinaenpython.com.ar/

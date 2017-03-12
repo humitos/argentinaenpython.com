@@ -10,7 +10,6 @@ from nikola import filters
 # !! This is the configuration of Nikola. !! #
 # !!  You should edit it to your liking.  !! #
 
-
 # ! Some settings can be different in different languages.
 # ! A comment stating (translatable) is used to denote those.
 # ! There are two ways to specify a translatable setting:
@@ -19,9 +18,8 @@ from nikola import filters
 # ! Option (a) is used when you don't want that setting translated.
 # ! Option (b) is used for settings that are different in different languages.
 
-
 # Data about this site
-BLOG_AUTHOR = "Manuel Kaufmann"  # (translatable)
+BLOG_AUTHOR = 'Manuel Kaufmann'  # (translatable)
 BLOG_TITLE = {
     'es': 'Argentina en Python',
     'en': 'Argentina in Python',
@@ -32,11 +30,11 @@ SITE_URL = 'http://argentinaenpython.com/'
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://argentinaenpython.com/"
-BLOG_EMAIL = "argentinaenpython@openmailbox.org"
+BLOG_EMAIL = 'argentinaenpython@openmailbox.org'
 BLOG_DESCRIPTION = {
     'es': 'Recorre latinoamerica y el mundo compartiendo conocimiento, Python y su filosofía',
     'en': 'Travel around latinamerica and the world sharing knowledge, Python and its philosophy',
-}
+}  # yapf: disable
 
 # Nikola is multilingual!
 #
@@ -96,16 +94,16 @@ BLOG_DESCRIPTION = {
 # in the default language will be shown instead.
 
 # What is the default language?
-DEFAULT_LANG = "es"
+DEFAULT_LANG = 'es'
 
 # What other languages do you have?
 # The format is {"translationcode" : "path/to/translation" }
 # the path will be used as a prefix for the generated pages location
 TRANSLATIONS = {
-    DEFAULT_LANG: "",
+    DEFAULT_LANG: '',
     # Example for another language:
     # "es": "./es",
-    "en": "./en",
+    'en': './en',
 }
 
 # What will translated input files be named like?
@@ -116,7 +114,7 @@ TRANSLATIONS = {
 # this pattern is also used for metadata:
 #     something.meta -> something.pl.meta
 
-TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
+TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 # Links for the sidebar / navigation bar.  (translatable)
 # This is a dict.  The keys are languages, and values are tuples.
@@ -145,96 +143,96 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/el-equipo/", "El equipo"),
-        ("/donde-esta-humitos/", "¿Dónde está humitos?"),
+        ('/el-equipo/', 'El equipo'),
+        ('/donde-esta-humitos/', '¿Dónde está humitos?'),
         (
             (
-                ("/eventos/", "Eventos"),
-                ("/eventos/charlas/", "Charlas"),
-                ("/galeria/", "Galería"),
-                ("/eventos/organizar/", "Organizar"),
+                ('/eventos/', 'Eventos'),
+                ('/eventos/charlas/', 'Charlas'),
+                ('/galeria/', 'Galería'),
+                ('/eventos/organizar/', 'Organizar'),
             ),
-            "Eventos"
+            'Eventos'
         ),
         (
             (
-                ("/donaciones/", "Donaciones"),
-                ("/donaciones/colaboradores/", "Colaboradores"),
-                ("/donaciones/medios/", "Medios disponibles"),
+                ('/donaciones/', 'Donaciones'),
+                ('/donaciones/colaboradores/', 'Colaboradores'),
+                ('/donaciones/medios/', 'Medios disponibles'),
             ),
-            "Donaciones",
+            'Donaciones',
         ),
         (
             (
-                ("/historia/", "Historia"),
-                ("/historia/etapas/", "Etapas"),
-                ("/historia/prensa/", "Prensa"),
+                ('/historia/', 'Historia'),
+                ('/historia/etapas/', 'Etapas'),
+                ('/historia/prensa/', 'Prensa'),
             ),
-            "Historia"
+            'Historia'
         ),
         (
             (
-                ("/nuestro-zen/", "Nuestro Zen"),
-                ("/quiero-aprender-python/", "Quiero aprender Python"),
-                ("https://elblogdehumitos.com/etiquetas/argentina-en-python/", "Blog"),
-                ("/como-colaborar/", "¿Cómo colaborar?"),
-                ("/material-de-difusion/", "Material de difusión"),
-                ("/mapear-con-osmtracker/", "Mapear con OSMTracker"),
-                ("/mapas-de-openstreetmap-para-garmin/", "Mapas OSM para Garmin"),
-                ("/encuesta/", "Encuesta"),
+                ('/nuestro-zen/', 'Nuestro Zen'),
+                ('/quiero-aprender-python/', 'Quiero aprender Python'),
+                ('https://elblogdehumitos.com/etiquetas/argentina-en-python/', 'Blog'),
+                ('/como-colaborar/', '¿Cómo colaborar?'),
+                ('/material-de-difusion/', 'Material de difusión'),
+                ('/mapear-con-osmtracker/', 'Mapear con OSMTracker'),
+                ('/mapas-de-openstreetmap-para-garmin/', 'Mapas OSM para Garmin'),
+                ('/encuesta/', 'Encuesta'),
                 # ("/remeras/", "Remeras"),
             ),
-            "Extras"
+            'Extras'
         ),
-        ("/contacto/", "Contacto"),
+        ('/contacto/', 'Contacto'),
     ),
 
-    "en": (
-        ("/en/the-team/", "The team"),
-        ("/en/where-is-humitos/", "Where is humitos?"),
+    'en': (
+        ('/en/the-team/', 'The team'),
+        ('/en/where-is-humitos/', 'Where is humitos?'),
         (
             (
-                ("/en/events/", "Events"),
-                ("/eventos/charlas/", "Talks"),
-                ("/galeria/", "Gallery"),
+                ('/en/events/', 'Events'),
+                ('/eventos/charlas/', 'Talks'),
+                ('/galeria/', 'Gallery'),
             ),
-            "Events"
+            'Events'
         ),
         (
             (
-                ("/en/donations/", "Donations"),
-                ("/en/donaciones/arreglo-de-vehiculo/", "Car Fixes"),
-                ("/en/donations/collaborators/", "Collaborators"),
-                ("/en/donations/payment-methods/", "Payment Methods"),
+                ('/en/donations/', 'Donations'),
+                ('/en/donaciones/arreglo-de-vehiculo/', 'Car Fixes'),
+                ('/en/donations/collaborators/', 'Collaborators'),
+                ('/en/donations/payment-methods/', 'Payment Methods'),
             ),
-            "Donations",
+            'Donations',
         ),
         (
             (
-                ("/historia/", "History"),
-                ("/historia/etapas/", "Stages"),
-                ("/historia/prensa/", "Press"),
+                ('/historia/', 'History'),
+                ('/historia/etapas/', 'Stages'),
+                ('/historia/prensa/', 'Press'),
             ),
-            "History"
+            'History'
         ),
         (
             (
-                ("/en/our-zen/", "Our Zen"),
-                ("https://elblogdehumitos.com/etiquetas/argentina-en-python/", "Blog"),
-                ("/en/remeras/", "T-Shirts"),
-                ("/en/como-colaborar/", "How to contribute?"),
-                ("/en/material-de-difusion/", "Broadcasting Material"),
-                ("/mapear-con-osmtracker/", "Mapping with OSMTracker"),
-                ("/mapas-de-openstreetmap-para-garmin/", "Mapas OSM para Garmin"),
+                ('/en/our-zen/', 'Our Zen'),
+                ('https://elblogdehumitos.com/etiquetas/argentina-en-python/', 'Blog'),
+                ('/en/remeras/', 'T-Shirts'),
+                ('/en/como-colaborar/', 'How to contribute?'),
+                ('/en/material-de-difusion/', 'Broadcasting Material'),
+                ('/mapear-con-osmtracker/', 'Mapping with OSMTracker'),
+                ('/mapas-de-openstreetmap-para-garmin/', 'Mapas OSM para Garmin'),
             ),
-            "Extras"
+            'Extras'
         ),
-        ("/en/contact/", "Contact"),
+        ('/en/contact/', 'Contact'),
     ),
-}
+}  # yapf: disable
 
 # Name of the theme to use.
-THEME = "custom"
+THEME = 'custom'
 
 # Primary color of your theme. This will be used to customize your theme and
 # auto-generate related colors in POSTS_SECTION_COLORS. Must be a HEX value.
@@ -274,12 +272,11 @@ THEME_COLOR = '#5670d4'
 #         ("pages/*.md", {"en": "pages", "de": "seiten"}, "story.tmpl"),
 #     )
 
-POSTS = (
-)
+POSTS = ()
 PAGES = (
-    ("stories/*.rst", "", "story.tmpl"),
-    ("stories/*.txt", "", "story.tmpl"),
-)
+    ('stories/*.rst', '', 'story.tmpl'),
+    ('stories/*.txt', '', 'story.tmpl'),
+)  # yapf: disable
 
 
 # Below this point, everything is optional
@@ -291,7 +288,7 @@ PAGES = (
 # (e.g. 'Europe/Zurich')
 # Also, if you want to use a different time zone in some of your posts,
 # you can use the ISO 8601/RFC 3339 format (ex. 2012-03-30T23:00:00+02:00)
-TIMEZONE = "America/Argentina/Buenos_Aires"
+TIMEZONE = 'America/Argentina/Buenos_Aires'
 
 # If you want to use ISO 8601 (also valid RFC 3339) throughout Nikola
 # (especially in new_post), set this to True.
@@ -350,18 +347,18 @@ DATE_FANCINESS = 2
 # 'markdown' is MarkDown
 # 'html' assumes the file is HTML and just copies it
 COMPILERS = {
-    "rest": ('.rst', '.txt'),
-    "markdown": ('.md', '.mdown', '.markdown'),
-    "textile": ('.textile',),
-    "txt2tags": ('.t2t',),
-    "bbcode": ('.bb',),
-    "wiki": ('.wiki',),
-    "ipynb": ('.ipynb',),
-    "html": ('.html', '.htm'),
+    'rest': ('.rst', '.txt'),
+    'markdown': ('.md', '.mdown', '.markdown'),
+    'textile': ('.textile', ),
+    'txt2tags': ('.t2t', ),
+    'bbcode': ('.bb', ),
+    'wiki': ('.wiki', ),
+    'ipynb': ('.ipynb', ),
+    'html': ('.html', '.htm'),
     # PHP files are rendered the usual way (i.e. with the full templates).
     # The resulting files have .php extensions, making it possible to run
     # them without reconfiguring your server to recognize them.
-    "php": ('.php',),
+    'php': ('.php', ),
     # Pandoc detects the input from the source filename
     # but is disabled by default as it would conflict
     # with many of the others.
@@ -580,7 +577,6 @@ HIDDEN_CATEGORIES = []
 #    },
 # }
 
-
 # If you do not want to display an author publicly, you can mark it as hidden.
 # The author will not be displayed on the author list page and posts.
 # Tag pages will still be generated.
@@ -589,13 +585,11 @@ HIDDEN_AUTHORS = ['Guest']
 # Final location for the main blog page and sibling paginated pages is
 # output / TRANSLATION[lang] / INDEX_PATH / index-*.html
 # (translatable)
-INDEX_PATH = "blog"
+INDEX_PATH = 'blog'
 
 # Optional HTML that displayed on “main” blog index.html files.
 # May be used for a greeting. (translatable)
-FRONT_INDEX_HEADER = {
-    DEFAULT_LANG: ''
-}
+FRONT_INDEX_HEADER = {DEFAULT_LANG: ''}
 
 # Create per-month archives instead of per-year
 # CREATE_MONTHLY_ARCHIVE = False
@@ -672,7 +666,7 @@ REDIRECTIONS = [
 
     ('django-girls-cuenca/index.html', '/django-girls/2017/03/cuenca/'),
     ('django-girls/2017/02/cuenca/index.html', '/django-girls/2017/03/cuenca/'),
-]
+]  # yapf: disable
 
 # Presets of commands to execute to deploy. Can be anything, for
 # example, you may use rsync:
@@ -686,9 +680,9 @@ REDIRECTIONS = [
 # in a `nikola deploy` command as you like.
 DEPLOY_COMMANDS = {
     'default': [
-        "python geolocation.py --verbose --symlinks",
-        "./deploy-rsync.sh",
-    ]
+        'python geolocation.py --verbose --symlinks',
+        './deploy-rsync.sh',
+    ],
 }
 
 # github_deploy configuration
@@ -750,7 +744,6 @@ CACHE_FOLDER = '.cache'
 # Executable for the "jpegoptim" filter (defaults to 'jpegoptim').
 # JPEGOPTIM_EXECUTABLE = 'jpegoptim'
 
-
 # Executable for the "html_tidy_withconfig", "html_tidy_nowrap",
 # "html_tidy_wrap", "html_tidy_wrap_attr" and "html_tidy_mini" filters
 # (defaults to 'tidy5').
@@ -780,16 +773,17 @@ def resize_historia_prensa_images(filename):
         cmd = cmd.format(abspath, abspath)
         os.system(cmd)
 
+
 # from nikola import filters
 FILTERS = {
-    ".html": [rpl_email, filters.typogrify],
+    '.html': [rpl_email, filters.typogrify],
     # ".js": [filters.closure_compiler],
     # ".jpg": ["jpegoptim --strip-all -m75 -v %s"],
     # ".html": ["rpl {old_email} {new_email} %s".format(
     #     old_email=BLOG_EMAIL,
     #     new_email=BLOG_EMAIL.replace('@', 'ð').replace('.', 'ø')
     # )],
-    ".png": [resize_historia_prensa_images],
+    '.png': [resize_historia_prensa_images],
 }
 
 # Expert setting! Create a gzipped copy of each generated file. Cheap server-
@@ -828,7 +822,7 @@ FILTERS = {
 # "source/" and the results will be located in
 # "OUTPUT_PATH/relative_destination/gallery_name"
 # Default is:
-GALLERY_FOLDERS = {"galleries": "galeria"}
+GALLERY_FOLDERS = {'galleries': 'galeria'}
 # More gallery options:
 # THUMBNAIL_SIZE = 180
 # MAX_IMAGE_SIZE = 1280
@@ -860,7 +854,7 @@ PRESERVE_EXIF_DATA = True
 EXIF_WHITELIST = {}
 
 # DateTime information:
-EXIF_WHITELIST['DateTime'] = ["*"]
+EXIF_WHITELIST['DateTime'] = ['*']
 
 # Some examples of EXIF_WHITELIST settings:
 
@@ -875,7 +869,7 @@ EXIF_WHITELIST['DateTime'] = ["*"]
 # EXIF_WHITELIST['GPS'] = ["*"]
 
 # Embedded thumbnail information:
-EXIF_WHITELIST['1st'] = ["*"]
+EXIF_WHITELIST['1st'] = ['*']
 
 # Folders containing images to be used in normal posts or pages.
 # IMAGE_FOLDERS is a dictionary of the form {"source": "destination"},
@@ -1003,9 +997,9 @@ INDEXES_PAGES_MAIN = True
 # Used to create favicon link like this:
 # <link rel="name" href="file" sizes="size"/>
 FAVICONS = {
-    ("icon", "/favicon.ico", "16x9"),
-    ("icon", "/favicon_32.ico", "32x18"),
-    ("icon", "/icon_128.png", "128x71"),
+    ('icon', '/favicon.ico', '16x9'),
+    ('icon', '/favicon_32.ico', '32x18'),
+    ('icon', '/icon_128.png', '128x71'),
 }
 
 # Show teasers (instead of full posts) in indexes? Defaults to False.
@@ -1065,15 +1059,12 @@ CONTENT_FOOTER = '<small>&copy; 2014-{date} <a href="https://elblogdehumitos.com
 #          do not need formatting)
 # (translatable)
 CONTENT_FOOTER_FORMATS = {
-    DEFAULT_LANG: (
-        (),
-        {
-            "email": BLOG_EMAIL,
-            "author": BLOG_AUTHOR,
-            "date": time.gmtime().tm_year,
-            "license": LICENSE
-        }
-    )
+    DEFAULT_LANG: ((), {
+        'email': BLOG_EMAIL,
+        'author': BLOG_AUTHOR,
+        'date': time.gmtime().tm_year,
+        'license': LICENSE,
+    }, ),
 }
 
 # A simple copyright tag for inclusion in RSS feeds that works just
@@ -1086,12 +1077,12 @@ RSS_COPYRIGHT_FORMATS = CONTENT_FOOTER_FORMATS
 # systems.  The following comment systems are supported by Nikola:
 #   disqus, facebook, googleplus, intensedebate, isso, livefyre, muut
 # You can leave this option blank to disable comments.
-COMMENT_SYSTEM = "disqus"
+COMMENT_SYSTEM = 'disqus'
 # And you also need to add your COMMENT_SYSTEM_ID which
 # depends on what comment system you use. The default is
 # "nikolademo" which is a test account for Disqus. More information
 # is in the manual.
-COMMENT_SYSTEM_ID = "argentinaenpython"
+COMMENT_SYSTEM_ID = 'argentinaenpython'
 
 # Enable annotations using annotateit.org?
 # If set to False, you can still enable them for individual posts and pages
@@ -1149,7 +1140,7 @@ STRIP_INDEXES = True
 # from indexing and other robotic spidering. * is supported. Will only be effective
 # if SITE_URL points to server root. The list is used to exclude resources from
 # /robots.txt and /sitemap.xml, and to inform search engines about /sitemapindex.xml.
-ROBOTS_EXCLUSIONS = ["/archive.html", "/category/*.html"]
+ROBOTS_EXCLUSIONS = ['/archive.html', '/category/*.html']
 
 # Instead of putting files in <slug>.html, put them in <slug>/index.html.
 # No web server configuration is required. Also enables STRIP_INDEXES.
@@ -1392,7 +1383,6 @@ BODY_END = """
    </script>
 """
 
-
 # The possibility to extract metadata from the filename by using a
 # regular expression.
 # To make it work you need to name parts of your regular expression.
@@ -1507,7 +1497,6 @@ GLOBAL_CONTEXT = {}
 # rendered
 GLOBAL_CONTEXT_FILLER = []
 
-
 # Default options for fotorama_directive plugin
 # To see all the options go to: http://fotorama.io
 FOTORAMA_OPTIONS = {
@@ -1516,7 +1505,7 @@ FOTORAMA_OPTIONS = {
     'keyboard': 'true',
     'thumbwidth': 150,
     'thumbheight': 150,
-    'allowfullscreen': 'native'
+    'allowfullscreen': 'native',
 }
 
 # Default options for nanogallery_directive plugin
@@ -1531,5 +1520,7 @@ NANOGALLERY_OPTIONS = {
     'thumbnailwidth': 250,
     'thumbnailheight': 'auto',
     'thumbnailhovereffect': 'imageScale150',
-    'thumbnaillabel': {'display': 'false'},
+    'thumbnaillabel': {
+        'display': 'false',
+    },
 }

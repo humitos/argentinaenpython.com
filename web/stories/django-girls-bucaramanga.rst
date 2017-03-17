@@ -162,7 +162,7 @@ Timeline (*línea de tiempo*)
 
 .. class:: col-md-4
 
-   Tienes tiempo hasta el **20 de Marzo** para inscribirte. Te
+   Tienes tiempo hasta el **21 de Marzo** para inscribirte. Te
    recomendamos leer la paǵina de forma completa y prestar mucha
    atención en el formulario.
 

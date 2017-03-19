@@ -681,6 +681,7 @@ REDIRECTIONS = [
 DEPLOY_COMMANDS = {
     'default': [
         'python geolocation.py --verbose --symlinks',
+        './create-django-girls-tutorial.sh',
         './deploy-rsync.sh',
     ],
 }

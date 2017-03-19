@@ -854,7 +854,7 @@ PRESERVE_EXIF_DATA = True
 EXIF_WHITELIST = {}
 
 # DateTime information:
-EXIF_WHITELIST['DateTime'] = ['*']
+EXIF_WHITELIST['DateTime'] = ["*"]
 
 # Some examples of EXIF_WHITELIST settings:
 
@@ -869,7 +869,7 @@ EXIF_WHITELIST['DateTime'] = ['*']
 # EXIF_WHITELIST['GPS'] = ["*"]
 
 # Embedded thumbnail information:
-EXIF_WHITELIST['1st'] = ['*']
+EXIF_WHITELIST['1st'] = ["*"]
 
 # Folders containing images to be used in normal posts or pages.
 # IMAGE_FOLDERS is a dictionary of the form {"source": "destination"},

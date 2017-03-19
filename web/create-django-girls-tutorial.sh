@@ -15,8 +15,8 @@ cd ../djangogirls/tutorial/our/es/
 # this needs calibre since it uses `ebook-convert`
 # https://trello.com/c/JWgZfauR/24-create-pdf-con-gitbook
 ./node_modules/.bin/gitbook pdf
+cp book.pdf /home/humitos/Source/argentinaenpython.com.ar/web/@djangogirls/
 mv book.pdf _book/django-girls-tutorial.es.pdf
-
 # go back to original directory
 cd -
 

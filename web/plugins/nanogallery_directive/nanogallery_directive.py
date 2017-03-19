@@ -24,7 +24,7 @@
 # OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 # SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-from __future__ import unicode_literals
+from __future__ import division, print_function, unicode_literals
 
 import os
 from collections import OrderedDict
@@ -32,42 +32,44 @@ from collections import OrderedDict
 from docutils import nodes
 from docutils.parsers.rst import Directive, directives
 
-from nikola.plugin_categories import RestExtension
-
-from nikola.plugin_categories import LateTask
+from nikola.plugin_categories import LateTask, RestExtension
 from nikola.utils import copy_tree
 
 
 def flag_to_boolean(value):
-    """Function to parse directives.flag options"""
+    """Function to parse directives.flag options."""
     return 'true'
 
 
 class Plugin(RestExtension, LateTask):
 
-    name = "nanogallery_directive"
+    name = 'nanogallery_directive'
 
     def set_site(self, site):
         self.site = site
-        site.template_hooks['extra_head'].append('<link href="/assets/css/nanogallery.min.css" rel="stylesheet" type="text/css">')
-        site.template_hooks['body_end'].append('<script type="text/javascript" src="/assets/js/jquery.nanogallery.min.js"></script>')
+        site.template_hooks['extra_head'].append(
+            '<link href="/assets/css/nanogallery.min.css" rel="stylesheet" type="text/css">'
+        )
+        site.template_hooks['body_end'].append(
+            '<script type="text/javascript" src="/assets/js/jquery.nanogallery.min.js"></script>'
+        )
         NanoGallery.site = site
         return super(Plugin, self).set_site(site)
 
     def gen_tasks(self):
         kw = {
-            "output_folder": self.site.config['OUTPUT_FOLDER'],
+            'output_folder': self.site.config['OUTPUT_FOLDER'],
         }
 
         # Copy all the assets to the right places
-        asset_folder = os.path.join(os.path.dirname(__file__), "files")
-        for task in copy_tree(asset_folder, kw["output_folder"]):
-            task["basename"] = str(self.name)
+        asset_folder = os.path.join(os.path.dirname(__file__), 'files')
+        for task in copy_tree(asset_folder, kw['output_folder']):
+            task['basename'] = str(self.name)
             yield task
 
 
 class NanoGallery(Directive):
-    """ Restructured text extension for inserting nanogallery galleries."""
+    """Restructured text extension for inserting nanogallery galleries."""
 
     # http://nanogallery.brisbois.fr/#docGeneralSettings
     option_spec = {
@@ -113,7 +115,8 @@ class NanoGallery(Directive):
 
     def __init__(self, *args, **kwargs):
         super(NanoGallery, self).__init__(*args, **kwargs)
-        self.state.document.settings.record_dependencies.add('####MAGIC####CONFIG:NANOGALLERY_OPTIONS')
+        self.state.document.settings.record_dependencies.add(
+            '####MAGIC####CONFIG:NANOGALLERY_OPTIONS')
 
     def _sanitize_options(self):
         THUMBNAIL_SIZE = self.site.config.get('THUMBNAIL_SIZE', 128)
@@ -203,13 +206,10 @@ class NanoGallery(Directive):
             })
 
         output = self.site.template_system.render_template(
-            'embedded-nanogallery.tmpl',
-            None,
-            {
+            'embedded-nanogallery.tmpl', None, {
                 'nanogallery_content': photo_array,
                 'options': self._sanitize_options()
-            }
-        )
+            })
         return [nodes.raw('', output, format='html')]
 
 

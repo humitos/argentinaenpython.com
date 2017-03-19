@@ -1,5 +1,5 @@
 .. title: Tutorial de Django Girls
-.. slug: django-girls/tutorial
+.. slug: django-girls/tutorial-old
 .. date: 2016-04-24 20:36:10 UTC-05:00
 .. tags: eventos, django girls, django, traducción, tutorial
 .. category: 
@@ -24,6 +24,14 @@
      border-radius: 3px;
    }
    </style>
+
+
+.. class:: alert alert-error
+
+   Esta versión está declarada **obsoleta** y no debería
+   utilisarce. En cambio, se debería utilizar la nueva
+   https://argentinaenpython.com/django-girls/tutorial/ creada con
+   GitBook
 
 .. class:: alert alert-warning
 

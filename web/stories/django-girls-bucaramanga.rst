@@ -235,81 +235,77 @@ contigo para coordinar los detalles.
 .. raw:: html
 
    <style>
-     div.django-girls-organizadores {
+     div.django-girls-guia {
        min-height: 350px;
      }
 
-     div.section-guias {
+     div.section-guia {
        display: inline-block;
      }
    </style>
 
-   <div class="section-guias">
-
-.. template:: bootstrap3/django-girls-guia
-   :name: Andrea Pérez Becerra
-   :image: guia-dennise.png
-   :place: Bucaramanga, Colombia
-   :email: andrea.perez.be@gmail.com
-
-.. template:: bootstrap3/django-girls-guia
-   :name: Yurley Katterine Sanchez Florez
-   :image: guia-yurley.png
-   :place: Bucaramanga, Colombia
-   :community: Python España, Aeropython
-   :email: yurs.Ksf1@Gmail.com
-   :github: https://github.com/Yursksf1
-   :facebook: https://www.facebook.com/fsk.sruy
+   <div class="section-guia">
 
 .. template:: bootstrap3/django-girls-guia
    :name: Juan Luis Cano
    :image: guia-juanlu.png
    :place: Madrid, España
-   :community: Python España, Aeropython, Python Madrid
-   :email: juanlu001@gmail.com
+   :community: Python España
    :web: http://pybonacci.org/
+   :twitter: https://twitter.com/pybonacci
    :github: https://github.com/juanlu001
 
 .. template:: bootstrap3/django-girls-guia
-   :name: John Jairo Roa Acuña
+   :name: John Jairo Roa
    :image: guia-jhon.png
    :place: Bogotá, Colombia
-   :community: Python Colombia, Pyladies Medellin, Python Medellin
-   :email: jhonjairoroa87@gmail.com
+   :community: Python Colombia
    :web: https://about.me/jhonjairoroa87
    :github: https://github.com/jhonjairoroa87
+   :twitter: https://twitter.com/jhonjairoroa87
    :facebook: https://www.facebook.com/johnroa87
-
-.. template:: bootstrap3/django-girls-guia
-   :name: Gustavo Díaz Jaimes
-   :image: guia-gustavo.png
-   :place: Bucaramanga, Colombia
-   :community: Python Tunja, Python Colombia
-   :email: gustavodiazjaimes@gmail.com
-   :web: https://plus.google.com/+GustavoD%C3%ADazJaimes
-   :github: https://github.com/gustavodiazjaimes
 
 .. template:: bootstrap3/django-girls-guia
    :name: Rafael Antonio Laverde
    :image: guia-rafael.png
    :place: Sogamoso, Colombia
-   :community: Python Tunja, Python Colombia
-   :email: leafar91@gmail.com
+   :community: Python Tunja
    :web: https://linkedin.com/in/rafaellaverde
    :github: https://github.com/rlaverde
    :twitter: https://twitter.com/rafa_laverde
    :facebook: https://www.facebook.com/leafar91
 
 .. template:: bootstrap3/django-girls-guia
-   :name: Diego Fernando Acosta Ortiz
+   :name: Yurley Sanchez Florez
+   :image: guia-yurley.png
+   :place: Bucaramanga, Colombia
+   :community: Geomatica-UIS
+   :github: https://github.com/Yursksf1
+   :facebook: https://www.facebook.com/fsk.sruy
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Andrea Pérez Becerra
+   :image: guia-dennise.png
+   :place: Bucaramanga, Colombia
+   :community: CUSOL-UIS
+   :facebook: https://www.facebook.com/andrea.perez.5245
+  
+.. template:: bootstrap3/django-girls-guia
+   :name: Gustavo Díaz Jaimes
+   :image: guia-gustavo.png
+   :place: Bucaramanga, Colombia
+   :web: https://plus.google.com/+GustavoD%C3%ADazJaimes
+   :github: https://github.com/gustavodiazjaimes
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Diego Fernando Acosta
    :image: guia-diego.png
    :place: Bucaramanga, Colombia
-   :community: Python Bucaramanga, Organizador II Festival de Cultura Libre
-   :email: diegoacosta444@gmail.com
+   :community: CUSOL-UIS
    :web: http://cusol.uis.edu.co/
    :github: https://github.com/dacostaortiz/
    :facebook: https://www.facebook.com/dfacos
-    
+
 .. template:: bootstrap3/django-girls-guia
    :name: ¿Vos?
    :image: guia-proximo.png
@@ -341,7 +337,7 @@ contigo para coordinar los detalles.
    :image: guia-johanna.png
    :place: Armenia, Colombia
    :email: ellaquimica@gmail.com
-   :community: Python Argentina, Python Colombia, Django Girls Colombia
+   :community: Argentina en Python
    :web: https://argentinaenpython.com/
    :github: https://github.com/ellaquimica/
    :twitter: https://twitter.com/ellaquimica
@@ -352,7 +348,7 @@ contigo para coordinar los detalles.
    :image: guia-wanda.png
    :place: Bucaramanga, Colombia
    :email: wandarinca@gmail.com
-   :community: Python Bucaramanga, CUSOL-UIS, Django Girls Colombia
+   :community: CUSOL-UIS
    :web: http://cusol.uis.edu.co/
    :github: https://github.com/wandarinca
    :twitter: https://twitter.com/wandarinca
@@ -362,7 +358,7 @@ contigo para coordinar los detalles.
    :name: Gonzalo Peña-Castellanos
    :image: guia-gonzalo.png
    :place: Bucaramanga, Colombia
-   :community: Python Bucaramanga, Python Colombia
+   :community: Python Bucaramanga
    :email: goanpeca@gmail.com
    :web: https://linkedin.com/in/goanpeca
    :github: https://github.com/goanpeca
@@ -374,7 +370,7 @@ contigo para coordinar los detalles.
    :image: guia-manuel.png
    :place: Parana, Argentina
    :email: argentinaenpython@openmailbox.org
-   :community: Python Argentina
+   :community: Argentina en Python
    :web: https://elblogdehumitos.com/
    :github: https://github.com/humitos
    :twitter: https://twitter.com/reydelhumo

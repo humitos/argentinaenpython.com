@@ -302,6 +302,7 @@ contigo para coordinar los detalles.
    :twitter: https://twitter.com/ellaquimica
    :facebook: https://www.facebook.com/argentinaenpython
 
+
 .. template:: bootstrap3/django-girls-guia
    :name: Wanda C. Rincón
    :image: guia-wanda.png

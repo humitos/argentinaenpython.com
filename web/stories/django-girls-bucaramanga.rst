@@ -247,10 +247,51 @@ contigo para coordinar los detalles.
    <div class="section-guias">
 
 .. template:: bootstrap3/django-girls-guia
+   :name: Andrea Pérez Becerra
+   :image: guia-denisse.png
+   :place: Bucaramanga, Colombia
+   :community: Python España, Aeropython
+   :email: andrea.perez.be@gmail.com
+   :web: 
+   :github: 
+   :facebook: 
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Yurley Katterine Sanchez Florez
+   :image: guia-yurley.png
+   :place: Bucaramanga, Colombia
+   :community: Python España, Aeropython
+   :email: yurs.Ksf1@Gmail.com
+   :web: 
+   :github: https://github.com/Yursksf1
+   :facebook: https://www.facebook.com/fsk.sruy
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Juan Luis Cano
+   :image: guia-juanlu.png
+   :place: Madrid, España
+   :community: Python España, Aeropython, Python Madrid
+   :email: juanlu001@gmail.com
+   :web: http://pybonacci.org/
+   :github: https://github.com/juanlu001
+   :facebook: 
+
+.. template:: bootstrap3/django-girls-guia
+   :name: John Jairo Roa Acuña
+   :image: guia-jhon.png
+   :place: Bogotá, Colombia
+   :community: Python Colombia, Pyladies Medellin, Python Medellin
+   :email: jhonjairoroa87@gmail.com
+   :web: https://about.me/jhonjairoroa87
+   :github: https://github.com/jhonjairoroa87
+   :facebook: https://www.facebook.com/johnroa87
+
+.. template:: bootstrap3/django-girls-guia
    :name: Diego Fernando Acosta Ortiz
    :image: guia-diego.png
    :place: Bucaramanga, Colombia
-   :community: Python Bucaramanga
+   :community: Python Bucaramanga, Organizador II Festival de Cultura Libre
+   :email: diegoacosta444@gmail.com
    :web: http://cusol.uis.edu.co/
    :github: https://github.com/dacostaortiz/
    :facebook: https://www.facebook.com/dfacos
@@ -260,10 +301,22 @@ contigo para coordinar los detalles.
    :image: guia-rafael.png
    :place: Sogamoso, Colombia
    :community: Python Tunja, Python Colombia
+   :email: leafar91@gmail.com
    :web: https://linkedin.com/in/rafaellaverde
    :github: https://github.com/rlaverde
    :twitter: https://twitter.com/rafa_laverde
    :facebook: https://www.facebook.com/leafar91
+
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Gustavo Díaz Jaimes
+   :image: guia-gustavo.png
+   :place: Bucaramanga, Colombia
+   :community: Python Tunja, Python Colombia
+   :email: gustavodiazjaimes@gmail.com
+   :web: https://plus.google.com/+GustavoD%C3%ADazJaimes
+   :github: https://github.com/gustavodiazjaimes
+    
 
 .. template:: bootstrap3/django-girls-guia
    :name: ¿Vos?
@@ -301,7 +354,6 @@ contigo para coordinar los detalles.
    :github: https://github.com/ellaquimica/
    :twitter: https://twitter.com/ellaquimica
    :facebook: https://www.facebook.com/argentinaenpython
-
 
 .. template:: bootstrap3/django-girls-guia
    :name: Wanda C. Rincón

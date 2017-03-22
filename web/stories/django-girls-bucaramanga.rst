@@ -235,7 +235,7 @@ contigo para coordinar los detalles.
 .. raw:: html
 
    <style>
-     div.django-girls-guia {
+     div.django-girls-organizadores {
        min-height: 350px;
      }
 
@@ -248,13 +248,9 @@ contigo para coordinar los detalles.
 
 .. template:: bootstrap3/django-girls-guia
    :name: Andrea Pérez Becerra
-   :image: guia-denisse.png
+   :image: guia-dennise.png
    :place: Bucaramanga, Colombia
-   :community: Python España, Aeropython
    :email: andrea.perez.be@gmail.com
-   :web: 
-   :github: 
-   :facebook: 
 
 .. template:: bootstrap3/django-girls-guia
    :name: Yurley Katterine Sanchez Florez
@@ -262,7 +258,6 @@ contigo para coordinar los detalles.
    :place: Bucaramanga, Colombia
    :community: Python España, Aeropython
    :email: yurs.Ksf1@Gmail.com
-   :web: 
    :github: https://github.com/Yursksf1
    :facebook: https://www.facebook.com/fsk.sruy
 
@@ -274,7 +269,6 @@ contigo para coordinar los detalles.
    :email: juanlu001@gmail.com
    :web: http://pybonacci.org/
    :github: https://github.com/juanlu001
-   :facebook: 
 
 .. template:: bootstrap3/django-girls-guia
    :name: John Jairo Roa Acuña
@@ -287,14 +281,13 @@ contigo para coordinar los detalles.
    :facebook: https://www.facebook.com/johnroa87
 
 .. template:: bootstrap3/django-girls-guia
-   :name: Diego Fernando Acosta Ortiz
-   :image: guia-diego.png
+   :name: Gustavo Díaz Jaimes
+   :image: guia-gustavo.png
    :place: Bucaramanga, Colombia
-   :community: Python Bucaramanga, Organizador II Festival de Cultura Libre
-   :email: diegoacosta444@gmail.com
-   :web: http://cusol.uis.edu.co/
-   :github: https://github.com/dacostaortiz/
-   :facebook: https://www.facebook.com/dfacos
+   :community: Python Tunja, Python Colombia
+   :email: gustavodiazjaimes@gmail.com
+   :web: https://plus.google.com/+GustavoD%C3%ADazJaimes
+   :github: https://github.com/gustavodiazjaimes
 
 .. template:: bootstrap3/django-girls-guia
    :name: Rafael Antonio Laverde
@@ -307,17 +300,16 @@ contigo para coordinar los detalles.
    :twitter: https://twitter.com/rafa_laverde
    :facebook: https://www.facebook.com/leafar91
 
-
 .. template:: bootstrap3/django-girls-guia
-   :name: Gustavo Díaz Jaimes
-   :image: guia-gustavo.png
+   :name: Diego Fernando Acosta Ortiz
+   :image: guia-diego.png
    :place: Bucaramanga, Colombia
-   :community: Python Tunja, Python Colombia
-   :email: gustavodiazjaimes@gmail.com
-   :web: https://plus.google.com/+GustavoD%C3%ADazJaimes
-   :github: https://github.com/gustavodiazjaimes
+   :community: Python Bucaramanga, Organizador II Festival de Cultura Libre
+   :email: diegoacosta444@gmail.com
+   :web: http://cusol.uis.edu.co/
+   :github: https://github.com/dacostaortiz/
+   :facebook: https://www.facebook.com/dfacos
     
-
 .. template:: bootstrap3/django-girls-guia
    :name: ¿Vos?
    :image: guia-proximo.png

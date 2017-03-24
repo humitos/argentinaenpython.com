@@ -145,8 +145,7 @@ Timeline (*línea de tiempo*)
 .. image:: timeline.png
    :align: center
 
-..
-  .. class:: alert alert-danger!
+.. class:: alert alert-danger!
 
     ¡**Atención**!: hemos alcanzado el cupo máximo de inscriptos para
     el taller. Sin embargo, si estás interesada en participar,

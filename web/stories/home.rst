@@ -19,11 +19,12 @@
    </style>
 
 
-.. class:: alert alert-success
+..
+   .. class:: alert alert-success
 
-   **NOVEDADES**: ¡Se viene otro :doc:`Django Girls en Cuenca
-   <django-girls/2017/03/cuenca>`, Ecuador el Sábado 25 de Marzo! ¡No
-   dejes de inscribirte!
+      **NOVEDADES**: ¡Se viene otro :doc:`Django Girls en Cuenca
+      <django-girls/2017/03/cuenca>`, Ecuador el Sábado 25 de Marzo! ¡No
+      dejes de inscribirte!
 
 .. class:: alert alert-success
 

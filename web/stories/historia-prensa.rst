@@ -10,6 +10,27 @@
 Estas son algunas de las notas en donde el proyecto ha sido publicado
 de alguna manera:
 
+Año 2017
+--------
+
+.. raw:: html
+
+   <div class="row">
+
+
+.. template:: prensa-image
+   :title: Mujeres reciben un taller sobre programación
+   :description: Django Girls
+   :src: 2017_marzo_0-340x255.png
+   :href: http://www.eltiempo.com.ec/noticias/cuenca/2/409962/mujeres-reciben-un-taller-sobre-programacion
+
+
+.. raw:: html
+
+   </div>
+
+----
+
 Año 2016
 --------
 

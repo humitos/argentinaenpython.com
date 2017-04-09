@@ -167,6 +167,19 @@ automatizada. Además, ¡hay toda `una comunidad (SciPy LA)
 * `Introducción a Python para científicos e ingenieros (curso en línea)
   <http://cacheme.org/curso-online-python-cientifico-ingenieros/>`_
 
+* `Curso de AeroPython (notebooks sobre cálculo científico)
+  <https://github.com/AeroPython/Curso_AeroPython>`_
+
+Y si te manejas con el inglés:
+
+* `Software Carpentry (Python, git y más)
+  <https://software-carpentry.org/lessons/>`_
+
+* `Python Data Science Handbook (notebooks sobre Data Science)
+  <https://github.com/jakevdp/PythonDataScienceHandbook>`_
+
+* `SciPy Lecture Notes <http://www.scipy-lectures.org/>`_
+
 
 Ya leí todo, ¡quiero más!
 -------------------------

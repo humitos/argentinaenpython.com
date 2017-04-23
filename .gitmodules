@@ -4,3 +4,6 @@
 [submodule "djangogirls/tutorial/our"]
 	path = djangogirls/tutorial/our
 	url = git@github.com:humitos/tutorial.git
+[submodule "djangogirls/tutorial-extensions"]
+	path = djangogirls/tutorial-extensions
+	url = git@github.com:PyAr/djangogirls-tutorial-extensions-es.git

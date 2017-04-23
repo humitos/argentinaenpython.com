@@ -174,6 +174,8 @@ NAVIGATION_LINKS = {
             (
                 ('/nuestro-zen/', 'Nuestro Zen'),
                 ('/quiero-aprender-python/', 'Quiero aprender Python'),
+                ('/django-girls/tutorial/', 'Tutorial Django Girls'),
+                ('/django-girls/extensiones-tutorial/', 'Extensiones Tutorial Django Girls'),
                 ('https://elblogdehumitos.com/etiquetas/argentina-en-python/', 'Blog'),
                 ('/como-colaborar/', '¿Cómo colaborar?'),
                 ('/material-de-difusion/', 'Material de difusión'),
@@ -219,7 +221,6 @@ NAVIGATION_LINKS = {
             (
                 ('/en/our-zen/', 'Our Zen'),
                 ('https://elblogdehumitos.com/etiquetas/argentina-en-python/', 'Blog'),
-                ('/en/remeras/', 'T-Shirts'),
                 ('/en/como-colaborar/', 'How to contribute?'),
                 ('/en/material-de-difusion/', 'Broadcasting Material'),
                 ('/mapear-con-osmtracker/', 'Mapping with OSMTracker'),
@@ -666,6 +667,8 @@ REDIRECTIONS = [
 
     ('django-girls-cuenca/index.html', '/django-girls/2017/03/cuenca/'),
     ('django-girls/2017/02/cuenca/index.html', '/django-girls/2017/03/cuenca/'),
+
+    ('django-girls/index.html', '/django-girls/tutorial/'),
 ]  # yapf: disable
 
 # Presets of commands to execute to deploy. Can be anything, for
@@ -682,6 +685,7 @@ DEPLOY_COMMANDS = {
     'default': [
         'python geolocation.py --verbose --symlinks',
         './create-django-girls-tutorial.sh',
+        './create-django-girls-tutorial-extensions.sh',
         './deploy-rsync.sh',
     ],
 }
@@ -852,25 +856,7 @@ PRESERVE_EXIF_DATA = True
 # PRESERVE_EXIF_DATA is set to True
 # To preserve ALL EXIF data, set EXIF_WHITELIST to {"*": "*"}
 
-EXIF_WHITELIST = {}
-
-# DateTime information:
-EXIF_WHITELIST['DateTime'] = ['*']
-
-# Some examples of EXIF_WHITELIST settings:
-
-# Basic image information:
-# EXIF_WHITELIST['0th'] = [
-#    "Orientation",
-#    "XResolution",
-#    "YResolution",
-# ]
-
-# If you want to keep GPS data in the images:
-# EXIF_WHITELIST['GPS'] = ["*"]
-
-# Embedded thumbnail information:
-EXIF_WHITELIST['1st'] = ['*']
+EXIF_WHITELIST = {'*': '*'}
 
 # Folders containing images to be used in normal posts or pages.
 # IMAGE_FOLDERS is a dictionary of the form {"source": "destination"},

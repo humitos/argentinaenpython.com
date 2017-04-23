@@ -7,3 +7,6 @@
 [submodule "djangogirls/tutorial-extensions"]
 	path = djangogirls/tutorial-extensions
 	url = git@github.com:PyAr/djangogirls-tutorial-extensions-es.git
+[submodule "djangogirls/coach-manual"]
+	path = djangogirls/coach-manual
+	url = git@github.com:PyAr/djangogirls-coach-manual-es.git

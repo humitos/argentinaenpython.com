@@ -232,6 +232,7 @@ hemos visitado estos lugares:
 * Paracas, Ica, Perú
 * Chancay, Lima, Perú
 * Huacho, Lima, Perú
+* Piura, Piura, Perú
 
 .. raw:: html
 

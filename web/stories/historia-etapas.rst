@@ -233,6 +233,10 @@ hemos visitado estos lugares:
 * Chancay, Lima, Perú
 * Huacho, Lima, Perú
 * Piura, Piura, Perú
+* Cuenca, Azuay, Ecuador
+* Guayaquil, Guayas, Ecuador
+* Bogotá, Santafe, Colombia
+* Bucaramanga, Santander, Colombia
 
 .. raw:: html
 

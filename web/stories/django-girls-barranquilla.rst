@@ -153,13 +153,13 @@ Timeline (*línea de tiempo*)
 
 .. class:: col-md-4
 
-   Tienes tiempo hasta el **21 de Marzo** para inscribirte. Te
+   Tienes tiempo hasta el **10 de Junio** para inscribirte. Te
    recomendamos leer la paǵina de forma completa y prestar mucha
    atención en el formulario.
 
 .. class:: col-md-4
 
-   El **22 de Marzo** anunciaremos los participantes que fueron
+   El **13 de Junio** anunciaremos los participantes que fueron
    **CONFIRMADOS** para participar en el taller, como así también los
    que están en **LISTA DE ESPERA**. Ese día debes revisar tu correo
    electrónico buscando un email nuestro en *Bandeja de Entrada* y
@@ -167,7 +167,7 @@ Timeline (*línea de tiempo*)
 
 .. class:: col-md-4
 
-   El **31 de Marzo** anunciaremos los participantes que estaban en
+   El **21 de Junio** anunciaremos los participantes que estaban en
    LISTA DE ESPERA y que han pasado a estar **CONFIRMADOS**. Si
    estabas en LISTA DE ESPERA es un buen momento para revisar tu correo
    electrónico.
@@ -184,7 +184,8 @@ Timeline (*línea de tiempo*)
    te fue asignado para participar del taller y ese puesto será
    re-asignado a una de las personas en LISTA DE ESPERA.
 
-.. class:: alert alert-danger
+..  
+   .. class:: alert alert-danger
 
    ¡**Atención**!: hemos alcanzado el cupo máximo de inscriptos para
    el taller. Sin embargo, si estás interesada en participar,
@@ -347,10 +348,10 @@ contigo para coordinar los detalles.
 
    </div>
 
-Colaboradores
--------------
+Con el Apoyo de 
+---------------
 
-.. image:: colaboradores.png
+.. image:: sponsor.png
    :align: center
 
 ----

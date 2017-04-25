@@ -236,7 +236,7 @@ contigo para coordinar los detalles.
 
    <style>
      div.django-girls-guia {
-       min-height: 350px;
+       min-height: 250px;
      }
 
      div.section-guia {
@@ -247,31 +247,34 @@ contigo para coordinar los detalles.
    <div class="section-guia">
 
 .. template:: bootstrap3/django-girls-guia
-   :name: John Jairo Roa
-   :image: guia-jhon.png
-   :place: Bogotá, Colombia
-   :community: Python Colombia
-   :web: https://about.me/jhonjairoroa87
-   :github: https://github.com/jhonjairoroa87
-   :twitter: https://twitter.com/jhonjairoroa87
-   :facebook: https://www.facebook.com/johnroa87
+   :name: Gustavo Angulo
+   :image: guia-nnhombre.png
+   :place: Medellín, Colombia
+   :community: Python Medellín
+   :web: 
+   :github: 
+   :twitter: 
+   :facebook:
 
 .. template:: bootstrap3/django-girls-guia
-   :name: Rafael Antonio Laverde
-   :image: guia-rafael.png
-   :place: Sogamoso, Colombia
-   :community: Python Tunja
-   :web: https://linkedin.com/in/rafaellaverde
-   :github: https://github.com/rlaverde
-   :twitter: https://twitter.com/rafa_laverde
-   :facebook: https://www.facebook.com/leafar91
-  
+   :name: ¡Quiero ser Guía!
+   :image: guia-nnmujer.png
+   :place: Colombia
+   :community: Python Colombia
+   :web: 
+   :github: 
+   :twitter: 
+   :facebook: 
+
 .. template:: bootstrap3/django-girls-guia
-   :name: Gustavo Díaz Jaimes
-   :image: guia-gustavo.png
-   :place: Bucaramanga, Colombia
-   :web: https://plus.google.com/+GustavoD%C3%ADazJaimes
-   :github: https://github.com/gustavodiazjaimes
+   :name: ¡Quiero ser Guía!
+   :image: guia-nnmujer.png
+   :place: Colombia
+   :community: Python Colombia
+   :web: 
+   :github: 
+   :twitter: 
+   :facebook: 
 
 .. template:: bootstrap3/django-girls-guia
    :name: ¿Vos?
@@ -336,9 +339,9 @@ contigo para coordinar los detalles.
    :image: guia-juandavid.png
    :place: Medellín, Colombia
    :community: Python Medellín, Python Colombia
-   :web: 
-   :github: 
-   :twitter: 
+   :web: https://medium.com/@JuanDHernandezG
+   :github: https://github.com/davoshack
+   :twitter: https://twitter.com/JuanDHernandezG
    :facebook: 
 
 .. raw:: html
@@ -351,20 +354,20 @@ contigo para coordinar los detalles.
 .. raw:: html
 
    <style>
-     div.django-girls-organizadores {
-       min-height: 350px;
+     div.django-girls-guia {
+       min-height: 250px;
      }
 
-     div.section-organizadores {
+     div.section-guia {
        display: inline-block;
      }
    </style>
 
-   <div class="section-organizadores">
+   <div class="section-guia">
 
 .. template:: bootstrap3/django-girls-guia
    :name: Juan Carlos Rodriguez
-   :image: guia-johanna.png
+   :image: guia-juancarlos.png
    :place: Medellín, Colombia
    :email: jcrodriguezu@gmail.com
    :community: Python Medellín y Colombia
@@ -374,14 +377,28 @@ contigo para coordinar los detalles.
    :facebook: https://www.facebook.com/jcrodriguezu
 
 .. template:: bootstrap3/django-girls-guia
-   :name: John Jairo Roa
-   :image: guia-jhon.png
-   :place: Bogotá, Colombia
+   :name: ¡Quiero Colaborar!
+   :image: guia-nnmujer.png
+   :place: Colombia
+   :community: 
+   :web: 
+   :github: 
+   :twitter: 
+   :facebook:
+
+.. template:: bootstrap3/django-girls-guia
+   :name: ¡Quiero Colaborar!
+   :image: guia-nnhombre.png
+   :place: Colombia
    :community: Python Colombia
-   :web: https://about.me/jhonjairoroa87
-   :github: https://github.com/jhonjairoroa87
-   :twitter: https://twitter.com/jhonjairoroa87
-   :facebook: https://www.facebook.com/johnroa87 
+   :web: 
+   :github: 
+   :twitter: 
+   :facebook: 
+
+.. template:: bootstrap3/django-girls-guia
+   :name: ¿Vos?
+   :image: guia-proximo.png
 
 .. raw:: html
 
@@ -392,7 +409,7 @@ contigo para coordinar los detalles.
 Con el Apoyo de
 ---------------
 
-.. image:: colaboradores.png
+.. image:: sponsor.png
    :align: center
 
 ----

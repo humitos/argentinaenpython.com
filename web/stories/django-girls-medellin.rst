@@ -1,7 +1,7 @@
-.. title: Taller Django Girls en Bucaramanga, Colombia
-.. slug: django-girls/2017/04/bucaramanga 
-.. date: 2017-02-27 00:11:23 UTC-05:00
-.. tags: eventos, django girls, django, taller, python, bucaramanga, programación, colombia
+.. title: Taller Django Girls en Medellín, Colombia
+.. slug: django-girls/2017/06/medellin 
+.. date: 2017-04-24 00:16:45 UTC-05:00
+.. tags: eventos, django girls, django, taller, python, medellin, programación, colombia
 .. category: 
 .. link: 
 .. description: ¡Queremos animar a más mujeres a dominar la web!
@@ -19,8 +19,8 @@
 
 ¡Queremos animar a más mujeres a dominar la web! Es por eso que desde
 `Argentina en Python <https://argentinaenpython.com>`_ junto a `Python
-Buramanga <https://www.facebook.com/PythonBucaramanga/>`_ y `Cusol 
-<https://www.facebook.com/cusol/>`_ estamos
+Medellín <https://www.meetup.com/es-ES/Medellin-Python-y-Django-Meetup/>`_ y `Django Girls Colombia 
+<https://www.facebook.com/djangogirlscolombia>`_ estamos
 organizando un taller en el cual podrás construir tu propio sitio web
 *desde cero* en un día. Además, vamos a utilizar todas las
 herramientas que programadores profesionales utilizan diariamente. ¡Y
@@ -80,19 +80,19 @@ mujer con vos que también realice el taller [#]_.
 ¿Dónde y cuándo?
 ----------------
 
-* Lugar: `Centro de Estudios de Ingenieria de Sistemas - Universidad Industrial de Santander - UIS <https://www.facebook.com/cusol/>`_, Bucaramanga, Colombia.
+* Lugar: `Atom House Coworking <http://atomhouse.com/>`_, en la Calle 8 # 43a-­49 cerca del Parque el Poblado de Medellín, Colombia.
 
-* Fecha: Sábado 8 de Abril de 2017 de 8:30hs (¡puntual!) a 19:00hs.
+* Fecha: Sábado 24 de Junio de 2017 de 8:30hs (¡puntual!) a 19:00hs.
 
 .. template:: iframe
-   :src: https://www.openstreetmap.org/export/embed.html?bbox=-73.16542625427248%2C7.113923856229435%2C-73.07521820068361%2C7.166555862432544&amp;layer=mapnik&amp;marker=7.140240616397193%2C-73.12032222747803
+   :src: https://www.openstreetmap.org/export/embed.html?bbox=-75.58282613754274%2C6.20254938812913%2C-75.56027412414552%2C6.2157324376765&amp;layer=mapnik&amp;marker=6.2091409541536615%2C-75.57155013084412
 
 
 .. sidebar:: Contacto
 
    Cualquier duda que tengas sobre el taller, nos puedes escribir a
    `argentinaenpython@openmailbox.org
-   <mailto:argentinaenpython@openmailbox.org>`_, `pythonbucaramanga@gmail.com <mailto:pythonbucaramanga@gmail.com>`_ y  `djangogirlscolombia@gmail.com <mailto:djangogirlscolombia@gmail.com>`_, para ponerte en contacto con nosotros.
+   <mailto:argentinaenpython@openmailbox.org>`_ y `djangogirlscolombia@gmail.com <mailto:djangogirlscolombia@gmail.com>`_, para ponerte en contacto con nosotros.
 
    .. image:: organizadores.png
       :align: center
@@ -109,7 +109,7 @@ Tené en cuenta que...
   asistir.
 
 * ... te recomendamos seguirnos en Twitter `@argenpython
-  <https://twitter.com/argenpython>`_ y/o Facebook `Argentina en Python <https://facebook.com/argentinaenpython/>`__, `Python Bucaramanga <https://www.facebook.com/PythonBucaramanga/>`__ y `Cusol <https://www.facebook.com/cusol/>`__ donde publicaremos novedades sobre el evento.
+  <https://twitter.com/argenpython>`_ y/o Facebook `Argentina en Python <https://facebook.com/argentinaenpython/>`__, `Django Girls Colombia <https://www.facebook.com/djangogirlscolombia/>`__ y `Python Medellín <https://www.facebook.com/pythonmedellin/>`__ donde publicaremos novedades sobre el evento.
 
 * ... no es necesario saber programar o tener algún conocimiento
   previo de programación.
@@ -153,21 +153,21 @@ Timeline (*línea de tiempo*)
 
 .. class:: col-md-4
 
-   Tienes tiempo hasta el **21 de Marzo** para inscribirte. Te
+   Tienes tiempo hasta el **3 de Junio** para inscribirte. Te
    recomendamos leer la paǵina de forma completa y prestar mucha
    atención en el formulario.
 
 .. class:: col-md-4
 
-   El **22 de Marzo** anunciaremos los participantes que fueron
+   El **5 de Junio** anunciaremos los participantes que fueron
    **CONFIRMADOS** para participar en el taller, como así también los
    que están en **LISTA DE ESPERA**. Ese día debes revisar tu correo
-   electrónico buscando un email nuestro en *Bandeja de Entrada* y
+   electrónico buscando un email nuestro en *Bandeja de Entrada*, *Promociones* y
    *SPAM* y confirmar tu asistencia respondiéndolo.
 
 .. class:: col-md-4
 
-   El **31 de Marzo** anunciaremos los participantes que estaban en
+   El **14 de Junio** anunciaremos los participantes que estaban en
    LISTA DE ESPERA y que han pasado a estar **CONFIRMADOS**. Si
    estabas en LISTA DE ESPERA es un buen momento para revisar tu correo
    electrónico.
@@ -184,7 +184,8 @@ Timeline (*línea de tiempo*)
    te fue asignado para participar del taller y ese puesto será
    re-asignado a una de las personas en LISTA DE ESPERA.
 
-.. class:: alert alert-danger
+..
+   .. class:: alert alert-danger
 
    ¡**Atención**!: hemos alcanzado el cupo máximo de inscriptos para
    el taller. Sin embargo, si estás interesada en participar,
@@ -199,7 +200,7 @@ Timeline (*línea de tiempo*)
 
 .. class:: lead align-center
 
-   ¡Sólo necesitás tener buena onda, el sábado completo libre y muchas
+   ¡Sólo necesitás tener buena onda, el sábado completamente libre y muchas
    ganas de aprender! ¡Sumate!
 
 
@@ -246,15 +247,6 @@ contigo para coordinar los detalles.
    <div class="section-guia">
 
 .. template:: bootstrap3/django-girls-guia
-   :name: Juan Luis Cano
-   :image: guia-juanlu.png
-   :place: Madrid, España
-   :community: Python España
-   :web: http://pybonacci.org/
-   :twitter: https://twitter.com/pybonacci
-   :github: https://github.com/juanlu001
-
-.. template:: bootstrap3/django-girls-guia
    :name: John Jairo Roa
    :image: guia-jhon.png
    :place: Bogotá, Colombia
@@ -273,21 +265,6 @@ contigo para coordinar los detalles.
    :github: https://github.com/rlaverde
    :twitter: https://twitter.com/rafa_laverde
    :facebook: https://www.facebook.com/leafar91
-
-.. template:: bootstrap3/django-girls-guia
-   :name: Yurley Sanchez Florez
-   :image: guia-yurley.png
-   :place: Bucaramanga, Colombia
-   :community: Geomatica-UIS
-   :github: https://github.com/Yursksf1
-   :facebook: https://www.facebook.com/fsk.sruy
-
-.. template:: bootstrap3/django-girls-guia
-   :name: Andrea Pérez Becerra
-   :image: guia-dennise.png
-   :place: Bucaramanga, Colombia
-   :community: CUSOL-UIS
-   :facebook: https://www.facebook.com/andrea.perez.5245
   
 .. template:: bootstrap3/django-girls-guia
    :name: Gustavo Díaz Jaimes
@@ -295,15 +272,6 @@ contigo para coordinar los detalles.
    :place: Bucaramanga, Colombia
    :web: https://plus.google.com/+GustavoD%C3%ADazJaimes
    :github: https://github.com/gustavodiazjaimes
-
-.. template:: bootstrap3/django-girls-guia
-   :name: Diego Fernando Acosta
-   :image: guia-diego.png
-   :place: Bucaramanga, Colombia
-   :community: CUSOL-UIS
-   :web: http://cusol.uis.edu.co/
-   :github: https://github.com/dacostaortiz/
-   :facebook: https://www.facebook.com/dfacos
 
 .. template:: bootstrap3/django-girls-guia
    :name: ¿Vos?
@@ -336,51 +304,93 @@ contigo para coordinar los detalles.
    :image: guia-johanna.png
    :place: Armenia, Colombia
    :email: ellaquimica@gmail.com
-   :community: Argentina en Python
+   :community: Argentina en Python y Django Girls Colombia
    :web: https://argentinaenpython.com/
    :github: https://github.com/ellaquimica/
    :twitter: https://twitter.com/ellaquimica
    :facebook: https://www.facebook.com/argentinaenpython
 
 .. template:: bootstrap3/django-girls-guia
-   :name: Wanda C. Rincón
-   :image: guia-wanda.png
-   :place: Bucaramanga, Colombia
-   :email: wandarinca@gmail.com
-   :community: CUSOL-UIS
-   :web: http://cusol.uis.edu.co/
-   :github: https://github.com/wandarinca
-   :twitter: https://twitter.com/wandarinca
-   :facebook: https://www.facebook.com/wanda.rincon1
-
-.. template:: bootstrap3/django-girls-guia
-   :name: Gonzalo Peña-Castellanos
-   :image: guia-gonzalo.png
-   :place: Bucaramanga, Colombia
-   :community: Python Bucaramanga
-   :email: goanpeca@gmail.com
-   :web: https://linkedin.com/in/goanpeca
-   :github: https://github.com/goanpeca
-   :twitter: https://twitter.com/goanpeca
-   :facebook: https://www.facebook.com/goanpeca
-
-.. template:: bootstrap3/django-girls-guia
    :name: Manuel Kaufmann
    :image: guia-manuel.png
    :place: Parana, Argentina
    :email: argentinaenpython@openmailbox.org
-   :community: Argentina en Python
+   :community: Argentina en Python y Embajador de Python
    :web: https://elblogdehumitos.com/
    :github: https://github.com/humitos
    :twitter: https://twitter.com/reydelhumo
    :facebook: https://www.facebook.com/argentinaenpython
 
+.. template:: bootstrap3/django-girls-guia
+   :name: John Jairo Roa
+   :image: guia-jhon.png
+   :place: Bogotá, Colombia
+   :community: Python Colombia
+   :web: https://about.me/jhonjairoroa87
+   :github: https://github.com/jhonjairoroa87
+   :twitter: https://twitter.com/jhonjairoroa87
+   :facebook: https://www.facebook.com/johnroa87
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Juan David Hernández
+   :image: guia-juandavid.png
+   :place: Medellín, Colombia
+   :community: Python Medellín, Python Colombia
+   :web: 
+   :github: 
+   :twitter: 
+   :facebook: 
+
 .. raw:: html
 
    </div>
 
-Colaboradores
--------------
+¡Los Colaboradores!
+-------------------
+
+.. raw:: html
+
+   <style>
+     div.django-girls-organizadores {
+       min-height: 350px;
+     }
+
+     div.section-organizadores {
+       display: inline-block;
+     }
+   </style>
+
+   <div class="section-organizadores">
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Juan Carlos Rodriguez
+   :image: guia-johanna.png
+   :place: Medellín, Colombia
+   :email: jcrodriguezu@gmail.com
+   :community: Python Medellín y Colombia
+   :web: 
+   :github: 
+   :twitter: https://twitter.com/jcrodriguezu
+   :facebook: https://www.facebook.com/jcrodriguezu
+
+.. template:: bootstrap3/django-girls-guia
+   :name: John Jairo Roa
+   :image: guia-jhon.png
+   :place: Bogotá, Colombia
+   :community: Python Colombia
+   :web: https://about.me/jhonjairoroa87
+   :github: https://github.com/jhonjairoroa87
+   :twitter: https://twitter.com/jhonjairoroa87
+   :facebook: https://www.facebook.com/johnroa87 
+
+.. raw:: html
+
+   </div>
+
+
+
+Con el Apoyo de
+---------------
 
 .. image:: colaboradores.png
    :align: center
@@ -531,8 +541,8 @@ escribinos un email y nos pondremos en contacto con vos.
 
    Este evento forma parte de `Django Girls
    <http://djangogirls.org/>`__ y tiene su propio sitio web bajo esta
-   marca: `Django Girls Bucaramanga
-   <https://djangogirls.org/bucaramanga/>`__
+   marca: `Django Girls Medellín
+   <https://djangogirls.org/medellin/>`__
 
 .. [#] Registrate en el formulario y comentá con quién vas. Además,
        decile a ella que también se registre e indique que va con vos.

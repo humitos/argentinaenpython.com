@@ -1,7 +1,7 @@
-.. title: Taller Django Girls en Bucaramanga, Colombia
-.. slug: django-girls/2017/04/bucaramanga 
-.. date: 2017-02-27 00:11:23 UTC-05:00
-.. tags: eventos, django girls, django, taller, python, bucaramanga, programación, colombia
+.. title: Taller Django Girls en Barranquilla, Colombia
+.. slug: django-girls/2017/07/barranquilla 
+.. date: 2017-04-24 17:53:00 UTC-05:00
+.. tags: eventos, django girls, django, taller, python, barranquilla, programación, colombia
 .. category: 
 .. link: 
 .. description: ¡Queremos animar a más mujeres a dominar la web!
@@ -19,8 +19,8 @@
 
 ¡Queremos animar a más mujeres a dominar la web! Es por eso que desde
 `Argentina en Python <https://argentinaenpython.com>`_ junto a `Python
-Buramanga <https://www.facebook.com/PythonBucaramanga/>`_ y `Cusol 
-<https://www.facebook.com/cusol/>`_ estamos
+Barranquilla <https://www.facebook.com/pybaq/>`_ y `Django Girls Colombia 
+<https://www.facebook.com/djangogirlscolombia/>`_ estamos
 organizando un taller en el cual podrás construir tu propio sitio web
 *desde cero* en un día. Además, vamos a utilizar todas las
 herramientas que programadores profesionales utilizan diariamente. ¡Y
@@ -80,19 +80,19 @@ mujer con vos que también realice el taller [#]_.
 ¿Dónde y cuándo?
 ----------------
 
-* Lugar: `Centro de Estudios de Ingenieria de Sistemas - Universidad Industrial de Santander - UIS <https://www.facebook.com/cusol/>`_, Bucaramanga, Colombia.
+* Lugar: `Universidad del Norte <https://www.facebook.com/UninorteCol/>`_, Barranquilla, Colombia.
 
-* Fecha: Sábado 8 de Abril de 2017 de 8:30hs (¡puntual!) a 19:00hs.
+* Fecha: Sábado 1 de Julio de 2017 de 8:30hs (¡puntual!) a 19:00hs.
 
 .. template:: iframe
-   :src: https://www.openstreetmap.org/export/embed.html?bbox=-73.16542625427248%2C7.113923856229435%2C-73.07521820068361%2C7.166555862432544&amp;layer=mapnik&amp;marker=7.140240616397193%2C-73.12032222747803
+   :src: https://www.openstreetmap.org/export/embed.html?bbox=-74.94100570678712%2C10.966471865099418%2C-74.76058959960939%2C11.070602913977819&amp;layer=mapnik&amp;marker=11.018541995813665%2C-74.85071182250977
 
 
 .. sidebar:: Contacto
 
    Cualquier duda que tengas sobre el taller, nos puedes escribir a
    `argentinaenpython@openmailbox.org
-   <mailto:argentinaenpython@openmailbox.org>`_, `pythonbucaramanga@gmail.com <mailto:pythonbucaramanga@gmail.com>`_ y  `djangogirlscolombia@gmail.com <mailto:djangogirlscolombia@gmail.com>`_, para ponerte en contacto con nosotros.
+   <mailto:argentinaenpython@openmailbox.org>`_, `pythonbarranquilla@gmail.com <mailto:pythonbarranquilla@gmail.com>`_ y  `djangogirlscolombia@gmail.com <mailto:djangogirlscolombia@gmail.com>`_, para ponerte en contacto con nosotros.
 
    .. image:: organizadores.png
       :align: center
@@ -109,7 +109,7 @@ Tené en cuenta que...
   asistir.
 
 * ... te recomendamos seguirnos en Twitter `@argenpython
-  <https://twitter.com/argenpython>`_ y/o Facebook `Argentina en Python <https://facebook.com/argentinaenpython/>`__, `Python Bucaramanga <https://www.facebook.com/PythonBucaramanga/>`__ y `Cusol <https://www.facebook.com/cusol/>`__ donde publicaremos novedades sobre el evento.
+  <https://twitter.com/argenpython>`_ y/o Facebook `Argentina en Python <https://facebook.com/argentinaenpython/>`__, `Python Barranquilla <https://www.facebook.com/pybaq/>`__ y `Django Girls Colombia <https://www.facebook.com/djangogirlscolombia/>`__ donde publicaremos novedades sobre el evento.
 
 * ... no es necesario saber programar o tener algún conocimiento
   previo de programación.
@@ -246,15 +246,6 @@ contigo para coordinar los detalles.
    <div class="section-guia">
 
 .. template:: bootstrap3/django-girls-guia
-   :name: Juan Luis Cano
-   :image: guia-juanlu.png
-   :place: Madrid, España
-   :community: Python España
-   :web: http://pybonacci.org/
-   :twitter: https://twitter.com/pybonacci
-   :github: https://github.com/juanlu001
-
-.. template:: bootstrap3/django-girls-guia
    :name: John Jairo Roa
    :image: guia-jhon.png
    :place: Bogotá, Colombia
@@ -273,21 +264,6 @@ contigo para coordinar los detalles.
    :github: https://github.com/rlaverde
    :twitter: https://twitter.com/rafa_laverde
    :facebook: https://www.facebook.com/leafar91
-
-.. template:: bootstrap3/django-girls-guia
-   :name: Yurley Sanchez Florez
-   :image: guia-yurley.png
-   :place: Bucaramanga, Colombia
-   :community: Geomatica-UIS
-   :github: https://github.com/Yursksf1
-   :facebook: https://www.facebook.com/fsk.sruy
-
-.. template:: bootstrap3/django-girls-guia
-   :name: Andrea Pérez Becerra
-   :image: guia-dennise.png
-   :place: Bucaramanga, Colombia
-   :community: CUSOL-UIS
-   :facebook: https://www.facebook.com/andrea.perez.5245
   
 .. template:: bootstrap3/django-girls-guia
    :name: Gustavo Díaz Jaimes
@@ -297,21 +273,13 @@ contigo para coordinar los detalles.
    :github: https://github.com/gustavodiazjaimes
 
 .. template:: bootstrap3/django-girls-guia
-   :name: Diego Fernando Acosta
-   :image: guia-diego.png
-   :place: Bucaramanga, Colombia
-   :community: CUSOL-UIS
-   :web: http://cusol.uis.edu.co/
-   :github: https://github.com/dacostaortiz/
-   :facebook: https://www.facebook.com/dfacos
-
-.. template:: bootstrap3/django-girls-guia
    :name: ¿Vos?
    :image: guia-proximo.png
 
 .. raw:: html
 
    </div>
+
 
 
 ¡Los organizadores!
@@ -336,44 +304,44 @@ contigo para coordinar los detalles.
    :image: guia-johanna.png
    :place: Armenia, Colombia
    :email: ellaquimica@gmail.com
-   :community: Argentina en Python
+   :community: Argentina en Python y Django Girls Colombia
    :web: https://argentinaenpython.com/
    :github: https://github.com/ellaquimica/
    :twitter: https://twitter.com/ellaquimica
    :facebook: https://www.facebook.com/argentinaenpython
 
 .. template:: bootstrap3/django-girls-guia
-   :name: Wanda C. Rincón
-   :image: guia-wanda.png
-   :place: Bucaramanga, Colombia
-   :email: wandarinca@gmail.com
-   :community: CUSOL-UIS
-   :web: http://cusol.uis.edu.co/
-   :github: https://github.com/wandarinca
-   :twitter: https://twitter.com/wandarinca
-   :facebook: https://www.facebook.com/wanda.rincon1
-
-.. template:: bootstrap3/django-girls-guia
-   :name: Gonzalo Peña-Castellanos
-   :image: guia-gonzalo.png
-   :place: Bucaramanga, Colombia
-   :community: Python Bucaramanga
-   :email: goanpeca@gmail.com
-   :web: https://linkedin.com/in/goanpeca
-   :github: https://github.com/goanpeca
-   :twitter: https://twitter.com/goanpeca
-   :facebook: https://www.facebook.com/goanpeca
-
-.. template:: bootstrap3/django-girls-guia
    :name: Manuel Kaufmann
    :image: guia-manuel.png
    :place: Parana, Argentina
    :email: argentinaenpython@openmailbox.org
-   :community: Argentina en Python
+   :community: Argentina en Python y Embajador de Python
    :web: https://elblogdehumitos.com/
    :github: https://github.com/humitos
    :twitter: https://twitter.com/reydelhumo
    :facebook: https://www.facebook.com/argentinaenpython
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Javier Daza
+   :image: guia-javier.png
+   :place: Barranquilla, Colombia
+   :email: javierdazacomas@gmail.com
+   :community: Python Barranquilla y Colombia
+   :web: 
+   :github: 
+   :twitter: 
+   :facebook: 
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Cesar Herdenez
+   :image: guia-cesar.png
+   :place: Barranquilla, Colombia
+   :email: caherdenez@gmail.com
+   :community: Python Barranquilla y Colombia
+   :web: 
+   :github: 
+   :twitter: 
+   :facebook: 
 
 .. raw:: html
 
@@ -531,8 +499,8 @@ escribinos un email y nos pondremos en contacto con vos.
 
    Este evento forma parte de `Django Girls
    <http://djangogirls.org/>`__ y tiene su propio sitio web bajo esta
-   marca: `Django Girls Bucaramanga
-   <https://djangogirls.org/bucaramanga/>`__
+   marca: `Django Girls Barranquilla
+   <https://djangogirls.org/barranquilla/>`__
 
 .. [#] Registrate en el formulario y comentá con quién vas. Además,
        decile a ella que también se registre e indique que va con vos.

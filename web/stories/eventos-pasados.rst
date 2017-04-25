@@ -9,6 +9,8 @@
 Eventos pasados
 ---------------
 
+* 10-12-2016: `Taller Django Girls en Cuenca-2017
+  <https://argentinaenpython.com/galeria/django-girls-cuenca/2017/>`_
 * 10-12-2016: `Taller Django Girls en Santiago del Estero
   <https://argentinaenpython.com/galeria/django-girls-santiago-del-estero/>`_
 * 25-11-2016: `Taller Django Girls en Bahía Blanca - PyConAR 2016

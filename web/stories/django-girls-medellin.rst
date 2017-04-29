@@ -379,7 +379,7 @@ contigo para coordinar los detalles.
 .. template:: bootstrap3/django-girls-guia
    :name: ¡Quiero Colaborar!
    :image: guia-nnmujer.png
-   :place: Colombia
+   :place: 
    :community: 
    :web: 
    :github: 
@@ -389,8 +389,8 @@ contigo para coordinar los detalles.
 .. template:: bootstrap3/django-girls-guia
    :name: ¡Quiero Colaborar!
    :image: guia-nnhombre.png
-   :place: Colombia
-   :community: Python Colombia
+   :place: 
+   :community: 
    :web: 
    :github: 
    :twitter: 

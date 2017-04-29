@@ -1,7 +1,7 @@
-.. title: Taller Django Girls en Medellín, Colombia
+.. title: Taller Django Girls en Medellín
 .. slug: django-girls/2017/06/medellin 
 .. date: 2017-04-24 00:16:45 UTC-05:00
-.. tags: eventos, django girls, django, taller, python, medellin, programación, colombia
+.. tags: eventos, django girls, django, taller, python, medellín, programación, colombia
 .. category: 
 .. link: 
 .. description: ¡Queremos animar a más mujeres a dominar la web!
@@ -257,33 +257,30 @@ contigo para coordinar los detalles.
    :facebook:
 
 .. template:: bootstrap3/django-girls-guia
-   :name: ¡Quiero ser Guía!
+   :name: ¡Quiero ser guía!
    :image: guia-nnmujer.png
-   :place: Colombia
-   :community: Python Colombia
+   :place:
+   :community:
    :web: 
    :github: 
    :twitter: 
    :facebook: 
 
 .. template:: bootstrap3/django-girls-guia
-   :name: ¡Quiero ser Guía!
-   :image: guia-nnmujer.png
-   :place: Colombia
-   :community: Python Colombia
+   :name: ¡Quiero ser guía!
+   :image: guia-nnhombre.png
+   :place:
+   :community:
    :web: 
    :github: 
    :twitter: 
    :facebook: 
-
-.. template:: bootstrap3/django-girls-guia
-   :name: ¿Vos?
-   :image: guia-proximo.png
 
 .. raw:: html
 
    </div>
 
+----
 
 ¡Los organizadores!
 -------------------
@@ -326,7 +323,7 @@ contigo para coordinar los detalles.
 
 .. template:: bootstrap3/django-girls-guia
    :name: John Jairo Roa
-   :image: guia-jhon.png
+   :image: guia-jhonjairo.png
    :place: Bogotá, Colombia
    :community: Python Colombia
    :web: https://about.me/jhonjairoroa87
@@ -348,7 +345,7 @@ contigo para coordinar los detalles.
 
    </div>
 
-¡Los Colaboradores!
+¡Los colaboradores!
 -------------------
 
 .. raw:: html
@@ -377,7 +374,7 @@ contigo para coordinar los detalles.
    :facebook: https://www.facebook.com/jcrodriguezu
 
 .. template:: bootstrap3/django-girls-guia
-   :name: ¡Quiero Colaborar!
+   :name: ¡Quiero colaborar!
    :image: guia-nnmujer.png
    :place: 
    :community: 
@@ -387,7 +384,7 @@ contigo para coordinar los detalles.
    :facebook:
 
 .. template:: bootstrap3/django-girls-guia
-   :name: ¡Quiero Colaborar!
+   :name: ¡Quiero colaborar!
    :image: guia-nnhombre.png
    :place: 
    :community: 
@@ -395,10 +392,6 @@ contigo para coordinar los detalles.
    :github: 
    :twitter: 
    :facebook: 
-
-.. template:: bootstrap3/django-girls-guia
-   :name: ¿Vos?
-   :image: guia-proximo.png
 
 .. raw:: html
 

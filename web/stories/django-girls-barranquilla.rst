@@ -249,29 +249,29 @@ contigo para coordinar los detalles.
 .. template:: bootstrap3/django-girls-guia
    :name: John Jairo Roa
    :image: guia-jhon.png
-   :place: Bogotá, Colombia
-   :community: Python Colombia
+   :place: Colombia
+   :community: 
    :web: https://about.me/jhonjairoroa87
    :github: https://github.com/jhonjairoroa87
    :twitter: https://twitter.com/jhonjairoroa87
    :facebook: https://www.facebook.com/johnroa87
 
 .. template:: bootstrap3/django-girls-guia
-   :name: Rafael Antonio Laverde
-   :image: guia-rafael.png
-   :place: Sogamoso, Colombia
-   :community: Python Tunja
-   :web: https://linkedin.com/in/rafaellaverde
-   :github: https://github.com/rlaverde
-   :twitter: https://twitter.com/rafa_laverde
-   :facebook: https://www.facebook.com/leafar91
+   :name: ¡Quiero ser suía!
+   :image: guia-nnmujer.png
+   :place: 
+   :community: 
+   :web: 
+   :github: 
+   :twitter: 
+   :facebook:
   
 .. template:: bootstrap3/django-girls-guia
-   :name: Gustavo Díaz Jaimes
-   :image: guia-gustavo.png
-   :place: Bucaramanga, Colombia
-   :web: https://plus.google.com/+GustavoD%C3%ADazJaimes
-   :github: https://github.com/gustavodiazjaimes
+   :name: ¡Quiero ser guía!
+   :image: guia-nnhombre.png
+   :place: 
+   :web: 
+   :github: 
 
 .. template:: bootstrap3/django-girls-guia
    :name: ¿Vos?

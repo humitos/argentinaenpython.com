@@ -277,6 +277,17 @@
    :linkedin: https://www.linkedin.com/in/cathortiz
    :facebook: https://www.facebook.com/catherinortiz
 
+.. template:: bootstrap3/thumbnail-el-equipo-extra
+   :name: Pilar Guauque Torres
+   :image: pilar_guauque.png
+   :place: Santiago del Estero, Argentina
+   :community: Amautas Huarmis
+   :email: piliguauque@gmail.com
+   :web: https://www.facebook.com/amautashuarmis/
+   :github: https://github.com/AmautasHuarmis
+   :twitter:
+   :facebook: https://www.facebook.com/amautashuarmis/
+
 
 .. template:: bootstrap3/thumbnail-el-equipo-extra
    :name: ¿Vos?

@@ -232,8 +232,18 @@ hemos visitado estos lugares:
 * Paracas, Ica, Perú
 * Chancay, Lima, Perú
 * Huacho, Lima, Perú
+* Chiclayo, Lambayequ, Perú
 * Piura, Piura, Perú
+* Las Lomas,Piura, Perú
+* Macará,Loja, Ecuador
+* Machala,El Oro, Ecuador
+* Cuenca, Azuay, Ecuador
 * Guayaquil, Guayas, Ecuador
+* Girón, Azuay, Ecuador
+* San Fernando, Azuay, Ecuador
+* Salinas, Santa Elena, Ecuador
+* Punta Blanca, Santa Elena, Ecuador
+* Montañita, Santa Elena, Ecuador
 * Bogotá, Santafe, Colombia
 * Bucaramanga, Santander, Colombia
 * Cuenca, Azuay, Ecuador

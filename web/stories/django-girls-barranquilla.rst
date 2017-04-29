@@ -351,7 +351,7 @@ contigo para coordinar los detalles.
 Con el Apoyo de 
 ---------------
 
-.. image:: sponsor.png
+.. image:: sponsors.png
    :align: center
 
 ----

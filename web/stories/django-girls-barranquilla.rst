@@ -351,7 +351,7 @@ contigo para coordinar los detalles.
 Con el Apoyo de 
 ---------------
 
-.. image:: sponsor-barranquilla.png
+.. image:: sponsor.png
    :align: center
 
 ----

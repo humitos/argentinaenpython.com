@@ -232,11 +232,11 @@ hemos visitado estos lugares:
 * Paracas, Ica, Perú
 * Chancay, Lima, Perú
 * Huacho, Lima, Perú
-* Chiclayo, Lambayequ, Perú
+* Chiclayo, Lambayeque, Perú
 * Piura, Piura, Perú
-* Las Lomas,Piura, Perú
-* Macará,Loja, Ecuador
-* Machala,El Oro, Ecuador
+* Las Lomas, Piura, Perú
+* Macará, Loja, Ecuador
+* Machala, El Oro, Ecuador
 * Cuenca, Azuay, Ecuador
 * Guayaquil, Guayas, Ecuador
 * Girón, Azuay, Ecuador

@@ -26,11 +26,12 @@
       <django-girls/2017/03/cuenca>`, Ecuador el Sábado 25 de Marzo! ¡No
       dejes de inscribirte!
 
-..
-   .. class:: alert alert-success
 
-   **NOVEDADES**: ¡Atención Colombia, se viene :doc:`Django Girls en Bucaramanga
-   <django-girls/2017/04/bucaramanga>`, Colombia el Sábado 8 de Abril! ¡No
+.. class:: alert alert-success
+
+   **NOVEDADES**: ¡Atención Colombia, se vienen dos eventos :doc:`Django Girls en Medellín
+   <django-girls/2017/06/medellin>`, el Sábado 24 de Junio y :doc:`Django Girls en Barranquilla
+   <django-girls/2017/07/barranquilla>`, el Sábado 1 de Julio! ¡No
    dejes de inscribirte!
 
 ..

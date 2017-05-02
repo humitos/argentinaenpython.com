@@ -80,7 +80,7 @@ mujer con vos que también realice el taller [#]_.
 ¿Dónde y cuándo?
 ----------------
 
-* Lugar: `Universidad del Norte <https://www.facebook.com/UninorteCol/>`_, Barranquilla, Colombia.
+* Lugar: `Por Confirmar <https://www.facebook.com/argentinaenpython/>`_, Barranquilla, Colombia.
 
 * Fecha: Sábado 1 de Julio de 2017 de 8:30hs (¡puntual!) a 19:00hs.
 

@@ -241,6 +241,7 @@ contigo para coordinar los detalles.
 
      div.section-guia {
        display: inline-block;
+       width: 100%;
      }
    </style>
 

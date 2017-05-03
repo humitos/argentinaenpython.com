@@ -325,9 +325,9 @@ contigo para coordinar los detalles.
    :place: Barranquilla, Colombia
    :email: javierdazacomas@gmail.com
    :community: Python Barranquilla y Colombia
-   :web: 
-   :github: 
-   :twitter: 
+   :web: http://javierdaza.co
+   :github: https://github.com/javierdaza
+   :twitter: https://twitter.com/javidazac
    :facebook: 
 
 .. template:: bootstrap3/django-girls-guia

@@ -225,7 +225,7 @@ contigo para coordinar los detalles.
 
 
 .. template:: bootstrap3/button
-   :href: https://goo.gl/forms/1OmxoIwz1uAUNvqp2
+   :href: https://goo.gl/forms/JqrqHXgwHmKjG6Bi2
 
    ¡Quiero participar como guía!
 

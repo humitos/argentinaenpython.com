@@ -194,7 +194,7 @@ Timeline (*línea de tiempo*)
    vos para informarte.!
 
 .. template:: bootstrap3/button
-   :href: https://goo.gl/forms/bIKjXEeA0PfNXh1o1
+   :href: https://goo.gl/forms/DJw3VWzxAGvCXQ1n1
 
    ¡Quiero inscribirme!
 
@@ -225,7 +225,7 @@ contigo para coordinar los detalles.
 
 
 .. template:: bootstrap3/button
-   :href: https://goo.gl/forms/zRuhaT8ADwIGLzln1:
+   :href: https://goo.gl/forms/JqrqHXgwHmKjG6Bi2
 
    ¡Quiero participar como guía!
 
@@ -325,9 +325,9 @@ contigo para coordinar los detalles.
    :place: Barranquilla, Colombia
    :email: javierdazacomas@gmail.com
    :community: Python Barranquilla y Colombia
-   :web: 
-   :github: 
-   :twitter: 
+   :web: http://javierdaza.co
+   :github: https://github.com/javierdaza
+   :twitter: https://twitter.com/javidazac
    :facebook: 
 
 .. template:: bootstrap3/django-girls-guia

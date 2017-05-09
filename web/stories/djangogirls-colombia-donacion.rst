@@ -17,13 +17,13 @@
 
 .. class:: lead
 
-   Django Girls Colombia promueve y genera espacios de inclusión de genero en tecnología y programación a través de talleres gratuitos, donde las participantes aprenden y fortalezen sus conocimientos en Python y Django.
+   Django Girls Colombia promueve y genera espacios de inclusión de genero en tecnología y programación a través de talleres gratuitos, donde las participantes aprenden y fortalecen sus conocimientos en Python y Django.
 
 
-En Colombia este proyecto lo estan llevando adelante Johanna Sanchez, `Jhon Jairo Roa <https://twitter.com/jhonjairoroa87>`_ y `Gonzalo Pena-Castellanos <https://twitter.com/goanpeca>`_, quienes se han puesto en frente de esta tarea de inclusión de genero con el apoyo de la comunidad de Python Colombia.
+En Colombia este proyecto lo están llevando adelante Johanna Sanchez, `Jhon Jairo Roa <https://twitter.com/jhonjairoroa87>`_ y `Gonzalo Pena-Castellanos <https://twitter.com/goanpeca>`_, quienes se han puesto en frente de esta tarea de inclusión de genero con el apoyo de la comunidad de Python Colombia.
 
 
-Donde Johanna (`@EllaQuimica <https://twitter.com/ellaquimica>`_) nos ha estado compartiendo su experiencia en la organización de estos evento desarrollada junto al proyecto `Argentina en Python <https://argentinaenpython.com>`_ en la organización de más de `14 evento Django Girls <https://argentinaenpython.com/eventos/#eventos-pasados>`_ en más de 5 paises de Latinoamerica, entre ellos: Argentina, Bolivia, Perú, Ecuador y Colombia.
+Donde Johanna (`@EllaQuimica <https://twitter.com/ellaquimica>`_) nos ha estado compartiendo su experiencia en la organización de estos evento desarrollada junto al proyecto `Argentina en Python <https://argentinaenpython.com>`_ en la organización de más de `14 evento Django Girls <https://argentinaenpython.com/eventos/#eventos-pasados>`_ en más de 5 países de Latinoamerica, entre ellos: Argentina, Bolivia, Perú, Ecuador y Colombia.
 
 
 .. raw:: html
@@ -57,7 +57,7 @@ Donde Johanna (`@EllaQuimica <https://twitter.com/ellaquimica>`_) nos ha estado 
    </div>
 
 
-El pasado 8 de Abríl, Johanna organizó en conjunto con Python Bucaramanga  el "`Taller de programación para mujeres Django Girls Bucaramanga <https://argentinaenpython.com/galeria/django-girls-bucaramanga/>`_" en el marco del II Festival de Cultura libre - Cusol, el cual fue un exito total, demostrando que eventos de calidad y calidez, son posibles!
+El pasado 8 de Abril, Johanna organizó en conjunto con Python Bucaramanga  el "`Taller de programación para mujeres Django Girls Bucaramanga <https://argentinaenpython.com/galeria/django-girls-bucaramanga/>`_" en el marco del II Festival de Cultura libre - Cusol, el cual fue un exito total, demostrando que eventos de calidad y calidez, son posibles!
  
 
 .. raw:: html
@@ -118,8 +118,8 @@ El pasado 8 de Abríl, Johanna organizó en conjunto con Python Bucaramanga  el 
 .. raw:: html
 
    <div style="text-align: center; margin-top: 25px; margin-bottom: 25px;">
-     <h3> Haciendo click en el siguiente botón estas inspirando a más mujeres a participar y ser parte del campo tecnologíco y programación.<h3>
-     <h3> Puedes donar desde 1 USD en adelante, todo pequeño aporta nos ayuda a llegar a la meta<h3>
+     <h3> Haciendo click en el siguiente botón estas inspirando a más mujeres a participar y ser parte del campo tecnológico y programación.<h3>
+     <h3> Puedes donar desde 1 USD en adelante, todo pequeño aporta nos ayuda a llegar a la meta.<h3>
      <br></br>
      <br></br>
      <a class="btn btn-lg btn-primary" href="/donaciones/medios/">

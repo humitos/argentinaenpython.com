@@ -19,38 +19,16 @@
    </style>
 
 
-..
-   .. class:: alert alert-success
-
-      **NOVEDADES**: ¡Se viene otro :doc:`Django Girls en Cuenca
-      <django-girls/2017/03/cuenca>`, Ecuador el Sábado 25 de Marzo! ¡No
-      dejes de inscribirte!
-
-
 .. class:: alert alert-success
 
-   **NOVEDADES**: ¡Atención Colombia, se vienen dos eventos :doc:`Django Girls en Medellín
-   <django-girls/2017/06/medellin>`, el Sábado 24 de Junio y :doc:`Django Girls en Barranquilla
-   <django-girls/2017/07/barranquilla>`, el Sábado 1 de Julio! ¡No
+   **NOVEDADES**: ¡Atención Colombia, se vienen dos eventos :doc:`Django Girls Medellín <django-girls/2017/06/medellin>`, el Sábado 24 de Junio y :doc:`Django Girls en Barranquilla <django-girls/2017/07/barranquilla>`, el Sábado 1 de Julio! ¡No
    dejes de inscribirte!
 
-..
-   .. class:: alert alert-success
+.. class:: alert alert-warning
 
-      **NOVEDADES**: Nos quedamos 6 meses en Cuenca, Ecuador y
-      :doc:`estos son nuestros planes
-      <estadia-de-6-meses-en-cuenca-ecuador>`.
-
-..
-   .. class:: alert alert-success
-
-      **NOVEDADES**: ¡Se viene el :doc:`Django Girls en Guayaquil <django-girls-guayaquil>`, Ecuador este Sábado 9 de Julio!
+      **IMPORTANTE**: Estamos realizando una campaña de donación  :doc:`Pro-Eventos Django Girls Medellín y Barranquilla <donaciones/djangogirls-colombia-donacion>`, te invitamos a ser parte de crear espacios gratuitos para compartir la pasión por la programación!
 
 
-   .. class:: alert alert-warning
-
-      ¡Regalanos tu opinión! Ayudanos a sumar más KM y compartir Python
-      en más lugares, :doc:`contestando esta encuesta <encuesta>`.
 
 .. image:: /index/logo.thumbnail.png
    :align: right

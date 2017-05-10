@@ -1,29 +1,30 @@
-.. title: 
-.. slug: donaciones/djangogirls-colombia-donacion
+.. title: Campaña donación para eventos Django Girls en Colombia
+.. slug: donaciones/django-girls-colombia
 .. date: 2017-05-3 15:05:36 UTC-03:00
-.. tags: evento, organización
+.. tags: evento, organización, donación, viaje, colombia, django girls
 .. category: 
 .. link: 
-.. description: Experiencia del Django Girls en Bucaramanga 
+.. description: Campaña donación para eventos Django Girls en Colombia
 .. type: text
-.. preview: argenpython-djangogirls.jpg
+.. preview: membrete-proevento-djangogirls.png
+.. template: notitle.tmpl
 
 
-.. image:: menbrete-post-evento-djangogirls.png
+   
+.. image:: membrete-proevento-djangogirls.png
    :align: center
 
 ----
 
-
 .. class:: lead
 
-   Django Girls Colombia promueve y genera espacios de inclusión de genero en tecnología y programación a través de talleres gratuitos, donde las participantes aprenden y fortalecen sus conocimientos en Python y Django.
+   Django Girls Colombia promueve y genera espacios de inclusión de género en tecnología y programación a través de talleres gratuitos, donde las participantes aprenden y fortalecen sus conocimientos en Python y Django.
 
 
 En Colombia este proyecto lo están llevando adelante Johanna Sanchez, `Jhon Jairo Roa <https://twitter.com/jhonjairoroa87>`_ y `Gonzalo Pena-Castellanos <https://twitter.com/goanpeca>`_, quienes se han puesto en frente de esta tarea de inclusión de genero con el apoyo de la comunidad de Python Colombia.
 
 
-Donde Johanna (`@EllaQuimica <https://twitter.com/ellaquimica>`_) nos ha estado compartiendo su experiencia en la organización de estos evento desarrollada junto al proyecto `Argentina en Python <https://argentinaenpython.com>`_ en la organización de más de `14 evento Django Girls <https://argentinaenpython.com/eventos/#eventos-pasados>`_ en más de 5 países de Latinoamerica, entre ellos: Argentina, Bolivia, Perú, Ecuador y Colombia.
+Donde Johanna (`@EllaQuimica <https://twitter.com/ellaquimica>`_) nos ha estado compartiendo su experiencia en la organización de estos evento desarrollada junto al proyecto `Argentina en Python <https://argentinaenpython.com>`_ en la organización de más de `14 eventos Django Girls <https://argentinaenpython.com/eventos/#eventos-pasados>`_ en más de 5 países de Latinoamerica. Entre ellos Argentina, Bolivia, Perú, Ecuador y Colombia.
 
 
 .. raw:: html
@@ -57,7 +58,7 @@ Donde Johanna (`@EllaQuimica <https://twitter.com/ellaquimica>`_) nos ha estado 
    </div>
 
 
-El pasado 8 de Abril, Johanna organizó en conjunto con Python Bucaramanga  el "`Taller de programación para mujeres Django Girls Bucaramanga <https://argentinaenpython.com/galeria/django-girls-bucaramanga/>`_" en el marco del II Festival de Cultura libre - Cusol, el cual fue un exito total, demostrando que eventos de calidad y calidez, son posibles!
+El pasado 8 de Abril, Johanna organizó en conjunto con Python Bucaramanga  el `Taller de programación para mujeres Django Girls Bucaramanga <https://argentinaenpython.com/galeria/django-girls-bucaramanga/>`_ en el marco del II Festival de Cultura libre - CUSOL, el cual fue un exito total, demostrando que eventos de calidad y calidez, son posibles!
  
 
 .. raw:: html
@@ -103,7 +104,7 @@ El pasado 8 de Abril, Johanna organizó en conjunto con Python Bucaramanga  el "
        </tbody>
      </table>
      <br></br>
-     <h3 class="text-justify">Necesitamos juntar aproximadamente <strong>USD 550</strong> que es una parte del <a href="https://s29.postimg.org/fkoxir2zb/Django-girls-_Medellin-barranquilla.png">costo</a> del ticket aéreo. Lamentablemente, cuánto más demoremos en juntar el dinero, el precio de los tickets aéreos irá aumentando. ¡Es por eso que debemos juntarlo lo más pronto!</h3>
+     <h3 class="text-justify">Necesitamos juntar aproximadamente <strong>USD 550</strong> que es una parte del <a href="https://s29.postimg.org/fkoxir2zb/Django-girls-_Medellin-barranquilla.png">costo</a> del ticket aéreo. Lamentablemente, cuánto más demoremos en juntar el dinero, el precio de los tickets aéreos irá aumentando. ¡Es por eso que debemos juntarlo lo más pronto posible!</h3>
     </div>
 
 .. raw:: html

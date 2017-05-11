@@ -258,7 +258,7 @@ contigo para coordinar los detalles.
    :facebook: https://www.facebook.com/johnroa87
 
 .. template:: bootstrap3/django-girls-guia
-   :name: ¡Quiero ser suía!
+   :name: ¡Quiero ser guía!
    :image: guia-nnmujer.png
    :place:
    :community:

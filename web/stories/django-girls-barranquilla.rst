@@ -80,12 +80,12 @@ mujer con vos que también realice el taller [#]_.
 ¿Dónde y cuándo?
 ----------------
 
-* Lugar: `Por Confirmar <https://www.facebook.com/argentinaenpython/>`_, Barranquilla, Colombia.
+* Lugar: `LYDHOUSE Coworking <http://lydhouse.com/>`_ en Cra. 49c #75- 47, Barranquilla, Colombia.
 
 * Fecha: Sábado 1 de Julio de 2017 de 8:30hs (¡puntual!) a 19:00hs.
 
 .. template:: iframe
-   :src: https://www.openstreetmap.org/export/embed.html?bbox=-74.94100570678712%2C10.966471865099418%2C-74.76058959960939%2C11.070602913977819&amp;layer=mapnik&amp;marker=11.018541995813665%2C-74.85071182250977
+   :src: https://www.openstreetmap.org/export/embed.html?bbox=-74.81873989105226%2C10.993013614272952%2C-74.79618787765504%2C11.005988711696236&amp;layer=mapnik&amp;marker=10.99950123437514%2C-74.80746388435364
 
 
 .. sidebar:: Contacto

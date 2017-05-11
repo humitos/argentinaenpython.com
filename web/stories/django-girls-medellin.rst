@@ -21,6 +21,8 @@
 .. image:: membrete-djangogirls-medellin.png
    :align: center
 
+----
+
 ¡Queremos animar a más mujeres a dominar la web! Es por eso que desde
 `Argentina en Python <https://argentinaenpython.com>`_ junto a `Python
 Medellín <https://www.meetup.com/es-ES/Medellin-Python-y-Django-Meetup/>`_ y `Django Girls Colombia 

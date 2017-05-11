@@ -21,6 +21,8 @@
 .. image:: membrete-djangogirls-barranquilla.png
    :align: center
 
+----
+
 ¡Queremos animar a más mujeres a dominar la web! Es por eso que desde
 `Argentina en Python <https://argentinaenpython.com>`_ junto a `Python
 Barranquilla <https://www.facebook.com/pybaq/>`_ y `Django Girls Colombia 

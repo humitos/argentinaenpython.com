@@ -1,4 +1,4 @@
-.. title: Taller Django Girls en Medellín
+.. title: 
 .. slug: django-girls/2017/06/medellin 
 .. date: 2017-04-24 00:16:45 UTC-05:00
 .. tags: eventos, django girls, django, taller, python, medellín, programación, colombia
@@ -9,6 +9,13 @@
 .. previewimage: flyer.png
 .. .. template: django-girls-snake.tmpl
 
+
+.. image:: menbrete-djangogirls-medellin.png
+   :align: center
+
+----
+
+
 ..    
     .. class:: alert alert-success
 
@@ -16,6 +23,7 @@
    email a algunas personas que se encontraban en *Lista de
    espera*. Por favor, revisa tu correo electrónico (incluso en la
    carpeta SPAM / Correo no deseado) para verificar tu situación.
+
 
 ¡Queremos animar a más mujeres a dominar la web! Es por eso que desde
 `Argentina en Python <https://argentinaenpython.com>`_ junto a `Python

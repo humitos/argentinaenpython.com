@@ -1,4 +1,4 @@
-.. title: Taller Django Girls en Barranquilla
+.. title: 
 .. slug: django-girls/2017/07/barranquilla 
 .. date: 2017-04-24 17:53:00 UTC-05:00
 .. tags: eventos, django girls, django, taller, python, barranquilla, programación, colombia
@@ -16,6 +16,11 @@
    email a algunas personas que se encontraban en *Lista de
    espera*. Por favor, revisa tu correo electrónico (incluso en la
    carpeta SPAM / Correo no deseado) para verificar tu situación.
+
+.. image:: membrete-djangogirls-barranquilla.png
+   :align: center
+
+----
 
 ¡Queremos animar a más mujeres a dominar la web! Es por eso que desde
 `Argentina en Python <https://argentinaenpython.com>`_ junto a `Python

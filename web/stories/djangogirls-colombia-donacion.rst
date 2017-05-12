@@ -85,7 +85,7 @@ El pasado 8 de Abril, Johanna organizó en conjunto con Python Bucaramanga  el `
            <th>Origen</th>
            <th>Destino</th>
            <th>Evento</th>
-           <th>Costización realizada</th>           
+           <th>Cotización realizada</th>           
          </tr>
        </thead>
        <tbody>

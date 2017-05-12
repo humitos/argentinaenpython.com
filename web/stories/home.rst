@@ -26,7 +26,7 @@
 
 .. class:: alert alert-warning
 
-      **IMPORTANTE**: Estamos realizando una campaña de donación  :doc:`Pro-Eventos Django Girls Medellín y Barranquilla <donaciones/djangogirls-colombia-donacion>`, te invitamos a ser parte de crear espacios gratuitos para compartir la pasión por la programación!
+      **IMPORTANTE**: Estamos realizando una campaña de donación  :doc:`Pro-Eventos Django Girls Medellín y Barranquilla <donaciones/django-girls-colombia>`, te invitamos a ser parte de crear espacios gratuitos para compartir la pasión por la programación.
 
 
 

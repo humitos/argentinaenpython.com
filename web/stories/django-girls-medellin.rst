@@ -8,6 +8,7 @@
 .. type: text
 .. previewimage: flyer.png
 .. .. template: django-girls-snake.tmpl
+.. template: notitle.tmpl
 
 ..    
     .. class:: alert alert-success
@@ -16,6 +17,11 @@
    email a algunas personas que se encontraban en *Lista de
    espera*. Por favor, revisa tu correo electrónico (incluso en la
    carpeta SPAM / Correo no deseado) para verificar tu situación.
+
+.. image:: membrete-djangogirls-medellin.png
+   :align: center
+
+----
 
 ¡Queremos animar a más mujeres a dominar la web! Es por eso que desde
 `Argentina en Python <https://argentinaenpython.com>`_ junto a `Python

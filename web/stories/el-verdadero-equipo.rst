@@ -288,6 +288,17 @@
    :twitter:
    :facebook: https://www.facebook.com/amautashuarmis/
 
+.. template:: bootstrap3/thumbnail-el-equipo-extra
+   :name: Gonzalo Peña-Castellanos
+   :image: gonzalo_pena.png
+   :place: Bucaramanga, Colombia
+   :community: Python Bucaramanga
+   :email: goanpeca@gmail.com
+   :web: 
+   :github: http://github.com/goanpeca
+   :twitter: http://twitter.com/goanpeca
+   :facebook: http://facebook.com/goanpeca
+
 
 .. template:: bootstrap3/thumbnail-el-equipo-extra
    :name: ¿Vos?

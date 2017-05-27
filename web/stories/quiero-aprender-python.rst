@@ -313,7 +313,7 @@ tienen: email, chat, foro, etc.
       </ul>
     
       <!-- Tab panes -->
-      <div class="tab-content" style="height: 250px; padding-top: 15px; border-width: 1px; border-style: solid; border-color: #DDD; border-top: none">
+      <div class="tab-content" style="height: 450px; padding-top: 15px; border-width: 1px; border-style: solid; border-color: #DDD; border-top: none">
         <div role="tabpanel" class="tab-pane active" id="python-argentina">
 
 .. image:: pyar.png
@@ -322,14 +322,19 @@ tienen: email, chat, foro, etc.
 * `Sitio web <http://python.org.ar/>`_
 * `Lista de correos <http://python.org.ar/lista/>`__
 * `Web Chat <http://python.org.ar/irc/>`_
+* `Twitter <https://twitter.com/PythonArgentina>`__
+* `Conferencia Anual de Python - PyConAR - Noviembre <https://twitter.com/pyconar>`_ 
 * Grupos Meetup:
 
   * `Python NEA (Noreste Argentino) <http://www.meetup.com/Python-NEA/>`_
-  * `Python Buenos Aires <http://www.meetup.com/Buenos-Aires-Python-Meetup/>`_
+  * `Buenos Aires Python Meetup <http://www.meetup.com/Buenos-Aires-Python-Meetup/>`_
+  * `Córdoba Python Meetup <https://www.meetup.com/es-ES/Cordoba-Python-Meetup/>`_
   * `La Plata Python Meetup <http://www.meetup.com/La-Plata-Python-Meetup/>`_
   * `Patagonia Python Meetup <http://www.meetup.com/Patagonia-Python-Meetup/>`_
+  * `Santa Fe Python Meetup <https://www.meetup.com/es-ES/Meetup-de-Python-en-Santa-Fe/>`_
+  * `Salta Python Meetup <https://www.meetup.com/es-ES/Meetup-de-Python-en-Salta/>`_
 
-* `Twitter <https://twitter.com/PythonArgentina>`__
+
 
 .. raw:: html
 
@@ -354,6 +359,30 @@ tienen: email, chat, foro, etc.
 
 * `Lista de correos <https://lists.riseup.net/www/subscribe/pythonbolivia>`__
 * `Twitter <https://twitter.com/pythonbolivia>`__
+
+.. raw:: html
+
+	</div>
+        <div role="tabpanel" class="tab-pane" id="python-colombia">
+
+
+*  Sitio web
+* `Web Chat <https://python-colombia.slack.com/>`__
+* `Twitter <https://twitter.com/ColombiaPython>`_
+* `Facebook <https://www.facebook.com/ColombiaPython/>`_
+* `Conferencia Anual de Python - PyConCo - Febrero <http://www.pycon.co/>`_
+*  Grupos Meetup:
+
+  * `Python Bogotá <https://www.meetup.com/es-ES/Django-Bogota/>`_
+  * `Python Barranquilla <https://www.meetup.com/es-ES/pythonbaq/>`_
+  * `Python Bucaramanga <https://www.meetup.com/es-ES/PythonBucaramanga/>`_
+  * `Python Cali <https://www.meetup.com/es-ES/Python-Cali/>`_
+  * `Python Cúcuta <https://www.meetup.com/es-ES/Python-Cucuta/>`_
+  * `Python Medellín <https://www.meetup.com/es-ES/Medellin-Python-y-Django-Meetup/>`_
+  * `Python Santa Marta <https://www.meetup.com/es-ES/python-santamarta/>`_
+  * `Python Cúcuta <https://www.meetup.com/es-ES/Python-Cucuta/>`_
+
+
 
 .. raw:: html
 

@@ -306,6 +306,9 @@ tienen: email, chat, foro, etc.
         <li role="presentation" class="active"><a href="#python-argentina" aria-controls="python-argentina" role="tab" data-toggle="tab">Python Argentina</a></li>
         <li role="presentation"><a href="#python-paraguay" aria-controls="python-paraguay" role="tab" data-toggle="tab">Python Paraguay</a></li>
         <li role="presentation"><a href="#python-bolivia" aria-controls="python-bolivia" role="tab" data-toggle="tab">Python Bolivia</a></li>
+
+         <li role="presentation"><a href="#python-colombia" aria-controls="python-colombia" role="tab" data-toggle="tab">Python Colombia</a></li>
+
         <li role="presentation"><a href="#scipy-la" aria-controls="scipy-la" role="tab" data-toggle="tab">SciPy LA</a></li>
       </ul>
     

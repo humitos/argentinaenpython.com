@@ -157,13 +157,13 @@ formas de vida.
    :description: Workshop Django Girls
 
 .. template:: bootstrap3/thumbnail-index
-   :href: /galeria/django-girls-bogota/
+   :href: /galeria/django-girls-bucaramanga/
    :src: IMG_1603.JPG
    :title: Django Girls Bucaramanga
    :description: Workshop Django Girls
 
 .. template:: bootstrap3/thumbnail-index
-   :href: /galeria/django-girls-bucaramanga/
+   :href: /galeria/django-girls-santiago-del-estero/
    :src: IMG_20161210_142130.jpg
    :title: Django Girls Santiago del Estero
    :description: Workshop Django Girls

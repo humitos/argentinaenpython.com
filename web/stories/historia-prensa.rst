@@ -19,8 +19,22 @@ Año 2017
 
 
 .. template:: prensa-image
+   :title: Programación web para mujeres en Barranquilla
+   :description: Django Girls Barranquilla, Colombia
+   :src: 2017_mayo_0.png
+   :href: https://www.elheraldo.co/entretenimiento/programacion-web-para-mujeres-en-barranquilla-366549
+
+
+.. template:: prensa-image
+   :title: Entrevista en el Programa Tiempo Fuera de Telemedellín
+   :description: Juan David H, co-organizador de Django Girls Medellín, Colombia
+   :src: 2017_mayo_1.png
+   :href: https://www.youtube.com/watch?v=mJymMFA5A9I&feature=youtu.be
+
+
+.. template:: prensa-image
    :title: Mujeres reciben un taller sobre programación
-   :description: Django Girls
+   :description: Django Girls Cuenca, Ecuador
    :src: 2017_marzo_0-340x255.png
    :href: http://www.eltiempo.com.ec/noticias/cuenca/2/409962/mujeres-reciben-un-taller-sobre-programacion
 
@@ -41,7 +55,7 @@ Año 2016
 
 .. template:: prensa-image
    :title: Nodo Tecnológico Santiago del Estero
-   :description: Django Girls
+   :description: Django Girls Santiago del Estero, Argentina
    :src: 2016_noviembre_0-340x255.png
    :href: http://www.nodosde.gob.ar/
 

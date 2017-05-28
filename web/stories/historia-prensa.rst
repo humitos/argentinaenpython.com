@@ -19,8 +19,8 @@ Año 2017
 
 
 .. template:: prensa-image
-   :title: Programación web para mujeres en Barranquilla
-   :description: Django Girls Barranquilla, Colombia
+   :title: El Heraldo
+   :description: Programación web para mujeres en Barranquilla
    :src: 2017_mayo_0.png
    :href: https://www.elheraldo.co/entretenimiento/programacion-web-para-mujeres-en-barranquilla-366549
 
@@ -33,8 +33,8 @@ Año 2017
 
 
 .. template:: prensa-image
-   :title: Mujeres reciben un taller sobre programación
-   :description: Django Girls Cuenca, Ecuador
+   :title: El Tiempo
+   :description: Mujeres reciben un taller sobre programación
    :src: 2017_marzo_0-340x255.png
    :href: http://www.eltiempo.com.ec/noticias/cuenca/2/409962/mujeres-reciben-un-taller-sobre-programacion
 
@@ -54,8 +54,8 @@ Año 2016
 
 
 .. template:: prensa-image
-   :title: Invitan al taller “Django Girls” en Santiago del Estero
-   :description: Django Girls Santiago del Estero, Argentina
+   :title: El Panorama
+   :description: Invitan al taller “Django Girls” en Santiago del Estero, Argentina
    :src: 2016_noviembre_1.png
    :href: http://www.diariopanorama.com/noticia/242196/invitan-al-taller-django-girls-santiago-estero
 

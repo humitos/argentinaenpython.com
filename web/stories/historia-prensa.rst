@@ -54,6 +54,13 @@ Año 2016
 
 
 .. template:: prensa-image
+   :title: Invitan al taller “Django Girls” en Santiago del Estero
+   :description: Django Girls Santiago del Estero, Argentina
+   :src: 2016_noviembre_1.png
+   :href: http://www.diariopanorama.com/noticia/242196/invitan-al-taller-django-girls-santiago-estero
+
+
+.. template:: prensa-image
    :title: Nodo Tecnológico Santiago del Estero
    :description: Django Girls Santiago del Estero, Argentina
    :src: 2016_noviembre_0-340x255.png

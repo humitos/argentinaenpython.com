@@ -306,11 +306,14 @@ tienen: email, chat, foro, etc.
         <li role="presentation" class="active"><a href="#python-argentina" aria-controls="python-argentina" role="tab" data-toggle="tab">Python Argentina</a></li>
         <li role="presentation"><a href="#python-paraguay" aria-controls="python-paraguay" role="tab" data-toggle="tab">Python Paraguay</a></li>
         <li role="presentation"><a href="#python-bolivia" aria-controls="python-bolivia" role="tab" data-toggle="tab">Python Bolivia</a></li>
+
+        <li role="presentation"><a href="#python-colombia" aria-controls="python-colombia" role="tab" data-toggle="tab">Python Colombia</a></li>
+
         <li role="presentation"><a href="#scipy-la" aria-controls="scipy-la" role="tab" data-toggle="tab">SciPy LA</a></li>
       </ul>
     
       <!-- Tab panes -->
-      <div class="tab-content" style="height: 250px; padding-top: 15px; border-width: 1px; border-style: solid; border-color: #DDD; border-top: none">
+      <div class="tab-content" style="height: 450px; padding-top: 15px; border-width: 1px; border-style: solid; border-color: #DDD; border-top: none">
         <div role="tabpanel" class="tab-pane active" id="python-argentina">
 
 .. image:: pyar.png
@@ -319,14 +322,19 @@ tienen: email, chat, foro, etc.
 * `Sitio web <http://python.org.ar/>`_
 * `Lista de correos <http://python.org.ar/lista/>`__
 * `Web Chat <http://python.org.ar/irc/>`_
+* `Twitter <https://twitter.com/PythonArgentina>`__
+* `PyCon (Conferencia anual) <https://twitter.com/pyconar>`_ 
 * Grupos Meetup:
 
-  * `Python NEA (Noreste Argentino) <http://www.meetup.com/Python-NEA/>`_
-  * `Python Buenos Aires <http://www.meetup.com/Buenos-Aires-Python-Meetup/>`_
-  * `La Plata Python Meetup <http://www.meetup.com/La-Plata-Python-Meetup/>`_
-  * `Patagonia Python Meetup <http://www.meetup.com/Patagonia-Python-Meetup/>`_
+  * `Buenos Aires <http://www.meetup.com/Buenos-Aires-Python-Meetup/>`_
+  * `Córdoba  <https://www.meetup.com/es-ES/Cordoba-Python-Meetup/>`_
+  * `La Plata <http://www.meetup.com/La-Plata-Python-Meetup/>`_
+  * `Noreste Argentino (NEA) <http://www.meetup.com/Python-NEA/>`_
+  * `Patagonia <http://www.meetup.com/Patagonia-Python-Meetup/>`_
+  * `Santa Fe <https://www.meetup.com/es-ES/Meetup-de-Python-en-Santa-Fe/>`_
+  * `Salta <https://www.meetup.com/es-ES/Meetup-de-Python-en-Salta/>`_
 
-* `Twitter <https://twitter.com/PythonArgentina>`__
+
 
 .. raw:: html
 
@@ -351,6 +359,28 @@ tienen: email, chat, foro, etc.
 
 * `Lista de correos <https://lists.riseup.net/www/subscribe/pythonbolivia>`__
 * `Twitter <https://twitter.com/pythonbolivia>`__
+
+.. raw:: html
+
+	</div>
+        <div role="tabpanel" class="tab-pane" id="python-colombia">
+
+
+* `Web Chat <https://python-colombia.slack.com/>`__
+* `Twitter <https://twitter.com/ColombiaPython>`_
+* `Facebook <https://www.facebook.com/ColombiaPython/>`_
+* `PyCon (Conferencia anual) <http://www.pycon.co/>`__
+*  Grupos Meetup:
+
+   * `Barranquilla <https://www.meetup.com/es-ES/pythonbaq/>`_
+   * `Bogotá <https://www.meetup.com/es-ES/Django-Bogota/>`_
+   * `Bucaramanga <https://www.meetup.com/es-ES/PythonBucaramanga/>`_
+   * `Cali <https://www.meetup.com/es-ES/Python-Cali/>`_
+   * `Cúcuta <https://www.meetup.com/es-ES/Python-Cucuta/>`_
+   * `Medellín <https://www.meetup.com/es-ES/Medellin-Python-y-Django-Meetup/>`_
+   * `Santa Marta <https://www.meetup.com/es-ES/python-santamarta/>`_
+
+
 
 .. raw:: html
 

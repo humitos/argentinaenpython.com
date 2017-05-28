@@ -328,8 +328,8 @@ tienen: email, chat, foro, etc.
 
   * `Buenos Aires <http://www.meetup.com/Buenos-Aires-Python-Meetup/>`_
   * `Córdoba  <https://www.meetup.com/es-ES/Cordoba-Python-Meetup/>`_
-  * `Noreste Argentino (NEA) <http://www.meetup.com/Python-NEA/>`_
   * `La Plata <http://www.meetup.com/La-Plata-Python-Meetup/>`_
+  * `Noreste Argentino (NEA) <http://www.meetup.com/Python-NEA/>`_
   * `Patagonia <http://www.meetup.com/Patagonia-Python-Meetup/>`_
   * `Santa Fe <https://www.meetup.com/es-ES/Meetup-de-Python-en-Santa-Fe/>`_
   * `Salta <https://www.meetup.com/es-ES/Meetup-de-Python-en-Salta/>`_

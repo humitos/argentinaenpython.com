@@ -161,7 +161,7 @@ Nombre del proyecto
 Aprovechando que *tenemos que cambiar* el logo, puede ser una buena
 idea, aprovechar y cambiar el nombre también. Ya que el proyecto creció
 y ya no solo hemos organizado diferentes eventos en Argentina, sino
-también en Paraguay y en Bolivia.
+también en Paraguay, Bolivia, Perú, Ecuador y Colombia.
 
 Entonces, puede ser un buen momento y aprovechar el cambio de logo
 para cambiar el nombre del proyecto. Además, uno de los problemas que

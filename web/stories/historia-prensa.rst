@@ -21,14 +21,14 @@ Año 2017
 .. template:: prensa-image
    :title: El Heraldo
    :description: Programación web para mujeres en Barranquilla
-   :src: 2017_mayo_0.png
+   :src: 2017_mayo_0-340x255.png
    :href: https://www.elheraldo.co/entretenimiento/programacion-web-para-mujeres-en-barranquilla-366549
 
 
 .. template:: prensa-image
-   :title: Entrevista en el Programa Tiempo Fuera de Telemedellín
-   :description: Juan David H, co-organizador de Django Girls Medellín, Colombia
-   :src: 2017_mayo_1.png
+   :title: Programa Tiempo Fuera de Telemedellín
+   :description: Entrevista a Juan David H. co-organizador de Django Girls Medellín, Colombia
+   :src: 2017_mayo_1-340x255.png
    :href: https://www.youtube.com/watch?v=mJymMFA5A9I&feature=youtu.be
 
 
@@ -56,7 +56,7 @@ Año 2016
 .. template:: prensa-image
    :title: El Panorama
    :description: Invitan al taller “Django Girls” en Santiago del Estero, Argentina
-   :src: 2016_noviembre_1.png
+   :src: 2016_noviembre_1-340x255.png
    :href: http://www.diariopanorama.com/noticia/242196/invitan-al-taller-django-girls-santiago-estero
 
 

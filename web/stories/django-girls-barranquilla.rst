@@ -268,7 +268,6 @@ contigo para coordinar los detalles.
    :image: guia-gonzalo.png
    :place: Bucaramanga
    :community: Python Bucaramanga
-   :email: goanpeca@gmail.com
    :web: https://linkedin.com/in/goanpeca
    :github: https://github.com/goanpeca
    :twitter: https://twitter.com/goanpeca
@@ -355,7 +354,7 @@ contigo para coordinar los detalles.
    :community: Python Barranquilla y Colombia
    :web: 
    :github: 
-   :twitter: 
+   :twitter: https://twitter.com/CesarAu0619
    :facebook: 
 
 .. raw:: html

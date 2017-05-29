@@ -28,7 +28,7 @@ Año 2017
 .. template:: prensa-image
    :title: Programa Tiempo Fuera de Telemedellín
    :description: Entrevista a Juan David H. co-organizador de Django Girls Medellín
-   :src: 2017_mayo_1.png
+   :src: 2017_mayo_1-340x255.png
    :href: https://www.youtube.com/watch?v=mJymMFA5A9I&feature=youtu.be
 
 

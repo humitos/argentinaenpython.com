@@ -27,8 +27,8 @@ Año 2017
 
 .. template:: prensa-image
    :title: Programa Tiempo Fuera de Telemedellín
-   :description: Entrevista a Juan David H. co-organizador de Django Girls Medellín, Colombia
-   :src: 2017_mayo_1-340x255.png
+   :description: Entrevista a Juan David H. co-organizador de Django Girls Medellín
+   :src: 2017_mayo_1.png
    :href: https://www.youtube.com/watch?v=mJymMFA5A9I&feature=youtu.be
 
 
@@ -55,14 +55,14 @@ Año 2016
 
 .. template:: prensa-image
    :title: El Panorama
-   :description: Invitan al taller “Django Girls” en Santiago del Estero, Argentina
+   :description: Invitan al taller “Django Girls” en Santiago del Estero
    :src: 2016_noviembre_1-340x255.png
    :href: http://www.diariopanorama.com/noticia/242196/invitan-al-taller-django-girls-santiago-estero
 
 
 .. template:: prensa-image
    :title: Nodo Tecnológico Santiago del Estero
-   :description: Django Girls Santiago del Estero, Argentina
+   :description: Django Girls Santiago del Estero
    :src: 2016_noviembre_0-340x255.png
    :href: http://www.nodosde.gob.ar/
 

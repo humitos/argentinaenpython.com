@@ -313,7 +313,7 @@ tienen: email, chat, foro, etc.
       </ul>
     
       <!-- Tab panes -->
-      <div class="tab-content" style="height: 450px; padding-top: 15px; border-width: 1px; border-style: solid; border-color: #DDD; border-top: none">
+      <div class="tab-content" style="height: 350px; padding-top: 15px; border-width: 1px; border-style: solid; border-color: #DDD; border-top: none">
         <div role="tabpanel" class="tab-pane active" id="python-argentina">
 
 .. image:: pyar.png

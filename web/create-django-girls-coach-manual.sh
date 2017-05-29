@@ -8,8 +8,8 @@ PATH=./node_modules/.bin:$PATH
 
 # create the GitBook Django Girls Coach Manual
 cd ../djangogirls/coach-manual/traducidos
-npm install gitbook-cli
-gitbook install
+# npm install gitbook-cli
+# gitbook install
 gitbook build
 
 

@@ -254,9 +254,19 @@ contigo para coordinar los detalles.
    <div class="section-guia">
 
 .. template:: bootstrap3/django-girls-guia
+   :name: Gonzalo Peña-Castellanos
+   :image: guia-gonzalo.png
+   :place: Bucaramanga
+   :community: Python Bucaramanga
+   :web: https://linkedin.com/in/goanpeca
+   :github: https://github.com/goanpeca
+   :twitter: https://twitter.com/goanpeca
+   :facebook: https://www.facebook.com/goanpeca
+
+.. template:: bootstrap3/django-girls-guia
    :name: Gustavo Angulo
    :image: guia-nnhombre.png
-   :place: Medellín, Colombia
+   :place: Medellín
    :community: Python Medellín
    :web: 
    :github: 

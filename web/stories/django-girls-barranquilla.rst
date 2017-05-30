@@ -256,12 +256,22 @@ contigo para coordinar los detalles.
 .. template:: bootstrap3/django-girls-guia
    :name: John Jairo Roa
    :image: guia-jhon.png
-   :place: Colombia
-   :community: 
+   :place: Bogota
+   :community: Python Colombia
    :web: https://about.me/jhonjairoroa87
    :github: https://github.com/jhonjairoroa87
    :twitter: https://twitter.com/jhonjairoroa87
    :facebook: https://www.facebook.com/johnroa87
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Gonzalo Peña-Castellanos
+   :image: guia-gonzalo.png
+   :place: Bucaramanga
+   :community: Python Bucaramanga
+   :web: https://linkedin.com/in/goanpeca
+   :github: https://github.com/goanpeca
+   :twitter: https://twitter.com/goanpeca
+   :facebook: https://www.facebook.com/goanpeca
 
 .. template:: bootstrap3/django-girls-guia
    :name: ¡Quiero ser guía!
@@ -344,7 +354,7 @@ contigo para coordinar los detalles.
    :community: Python Barranquilla y Colombia
    :web: 
    :github: 
-   :twitter: 
+   :twitter: https://twitter.com/CesarAu0619
    :facebook: 
 
 .. raw:: html

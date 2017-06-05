@@ -255,33 +255,33 @@ contigo para coordinar los detalles.
 
 .. template:: bootstrap3/django-girls-guia
    :name: Cesar Augusto
-   :image: guia-gonzalo.png
+   :image: guia-cesar.png
    :place: Medellín
    :community: Python Medellín
-   :web: https://linkedin.com/in/goanpeca
-   :github: https://github.com/goanpeca
-   :twitter: https://twitter.com/goanpeca
-   :facebook: https://www.facebook.com/goanpeca
+   :web: https://www.linkedin.com/in/cesar-augusto-cartagena-ocampo-25390468
+   :github: 
+   :twitter: 
+   :facebook: 
 
 .. template:: bootstrap3/django-girls-guia
    :name: Diego Patiño
-   :image: guia-nnhombre.png
+   :image: guia-diego.png
    :place: Medellín
-   :community: Python Medellín
+   :community: Machine Learning Colombia
    :web: 
-   :github: 
+   :github: https://github.com/dipaco
    :twitter: 
-   :facebook:
+   :facebook: https://www.facebook.com/dipaco
 
 .. template:: bootstrap3/django-girls-guia
    :name: Esteban Maya
-   :image: guia-gonzalo.png
+   :image: guia-esteban.png
    :place: Medellín
    :community: Python Medellín
-   :web: https://linkedin.com/in/goanpeca
-   :github: https://github.com/goanpeca
-   :twitter: https://twitter.com/goanpeca
-   :facebook: https://www.facebook.com/goanpec
+   :web: https://argentinaenpython.com/django-girls/2017/06/medellin/
+   :github: 
+   :twitter: 
+   :facebook: 
 
 .. template:: bootstrap3/django-girls-guia
    :name: Gonzalo Peña-Castellanos
@@ -295,33 +295,33 @@ contigo para coordinar los detalles.
 
 .. template:: bootstrap3/django-girls-guia
    :name: Gustavo Angulo
-   :image: guia-gonzalo.png
+   :image: guia-gustavo.png
    :place: Medellín
    :community: Python Medellín
-   :web: https://linkedin.com/in/goanpeca
-   :github: https://github.com/goanpeca
-   :twitter: https://twitter.com/goanpeca
-   :facebook: https://www.facebook.com/goanpec
+   :web: http://woakas.pehik.co/
+   :github: https://github.com/woakas
+   :twitter: https://twitter.com/woakas
+   :facebook: 
 
 .. template:: bootstrap3/django-girls-guia
    :name: Luis Moreno
-   :image: guia-gonzalo.png
+   :image: guia-luis.png
    :place: Medellín
    :community: Python Medellín
-   :web: https://linkedin.com/in/goanpeca
-   :github: https://github.com/goanpeca
-   :twitter: https://twitter.com/goanpeca
-   :facebook: https://www.facebook.com/goanpec
+   :web: 
+   :github: https://github.com/luismorenolopera
+   :twitter: https://twitter.com/mdavid95
+   :facebook: 
 
 .. template:: bootstrap3/django-girls-guia
    :name: Mauricio Collazos
-   :image: guia-gonzalo.png
+   :image: guia-mauricio.png
    :place: Cali
    :community: Python Cali
-   :web: https://linkedin.com/in/goanpeca
-   :github: https://github.com/goanpeca
-   :twitter: https://twitter.com/goanpeca
-   :facebook: https://www.facebook.com/goanpec 
+   :web: 
+   :github: https://github.com/ma0c
+   :twitter: https://twitter.com/Ma0Collazos
+   :facebook: 
 
 .. raw:: html
 
@@ -602,4 +602,4 @@ escribinos un email y nos pondremos en contacto con vos.
    <https://djangogirls.org/medellin/>`__
 
 .. [#] Registrate en el formulario y comentá con quién vas. Además,
-       decile a ella que también se registre e indique que va con vos.
+       decile a ella que también se registre e indique que va con vos.ython Medellín

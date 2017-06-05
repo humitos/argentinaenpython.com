@@ -687,6 +687,7 @@ DEPLOY_COMMANDS = {
         './create-django-girls-tutorial.sh',
         './create-django-girls-tutorial-extensions.sh',
         './create-django-girls-coach-manual.sh',
+        './create-django-girls-recursos.sh',
         './deploy-rsync.sh',
     ],
 }

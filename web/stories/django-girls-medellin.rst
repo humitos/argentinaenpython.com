@@ -254,17 +254,17 @@ contigo para coordinar los detalles.
    <div class="section-guia">
 
 .. template:: bootstrap3/django-girls-guia
-   :name: Gonzalo Peña-Castellanos
+   :name: Cesar Augusto
    :image: guia-gonzalo.png
-   :place: Bucaramanga
-   :community: Python Bucaramanga
+   :place: Medellín
+   :community: Python Medellín
    :web: https://linkedin.com/in/goanpeca
    :github: https://github.com/goanpeca
    :twitter: https://twitter.com/goanpeca
    :facebook: https://www.facebook.com/goanpeca
 
 .. template:: bootstrap3/django-girls-guia
-   :name: Gustavo Angulo
+   :name: Diego Patiño
    :image: guia-nnhombre.png
    :place: Medellín
    :community: Python Medellín
@@ -274,24 +274,54 @@ contigo para coordinar los detalles.
    :facebook:
 
 .. template:: bootstrap3/django-girls-guia
-   :name: ¡Quiero ser guía!
-   :image: guia-nnmujer.png
-   :place:
-   :community:
-   :web: 
-   :github: 
-   :twitter: 
-   :facebook: 
+   :name: Esteban Maya
+   :image: guia-gonzalo.png
+   :place: Medellín
+   :community: Python Medellín
+   :web: https://linkedin.com/in/goanpeca
+   :github: https://github.com/goanpeca
+   :twitter: https://twitter.com/goanpeca
+   :facebook: https://www.facebook.com/goanpec
 
 .. template:: bootstrap3/django-girls-guia
-   :name: ¡Quiero ser guía!
-   :image: guia-nnhombre.png
-   :place:
-   :community:
-   :web: 
-   :github: 
-   :twitter: 
-   :facebook: 
+   :name: Gonzalo Peña-Castellanos
+   :image: guia-gonzalo.png
+   :place: Bucaramanga
+   :community: Python Bucaramanga
+   :web: https://linkedin.com/in/goanpeca
+   :github: https://github.com/goanpeca
+   :twitter: https://twitter.com/goanpeca
+   :facebook: https://www.facebook.com/goanpec
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Gustavo Angulo
+   :image: guia-gonzalo.png
+   :place: Medellín
+   :community: Python Medellín
+   :web: https://linkedin.com/in/goanpeca
+   :github: https://github.com/goanpeca
+   :twitter: https://twitter.com/goanpeca
+   :facebook: https://www.facebook.com/goanpec
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Luis Moreno
+   :image: guia-gonzalo.png
+   :place: Medellín
+   :community: Python Medellín
+   :web: https://linkedin.com/in/goanpeca
+   :github: https://github.com/goanpeca
+   :twitter: https://twitter.com/goanpeca
+   :facebook: https://www.facebook.com/goanpec
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Mauricio Collazos
+   :image: guia-gonzalo.png
+   :place: Cali
+   :community: Python Cali
+   :web: https://linkedin.com/in/goanpeca
+   :github: https://github.com/goanpeca
+   :twitter: https://twitter.com/goanpeca
+   :facebook: https://www.facebook.com/goanpec 
 
 .. raw:: html
 

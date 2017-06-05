@@ -258,19 +258,14 @@ contigo para coordinar los detalles.
    :image: guia-cesar.png
    :place: Medellín
    :community: Python Medellín
-   :web: https://www.linkedin.com/in/cesar-augusto-cartagena-ocampo-25390468
-   :github: 
-   :twitter: 
-   :facebook: 
+   :web: https://www.linkedin.com/in/cesar-augusto-cartagena-ocampo-25390468 
 
 .. template:: bootstrap3/django-girls-guia
    :name: Diego Patiño
    :image: guia-diego.png
    :place: Medellín
    :community: Machine Learning Colombia
-   :web: 
    :github: https://github.com/dipaco
-   :twitter: 
    :facebook: https://www.facebook.com/dipaco
 
 .. template:: bootstrap3/django-girls-guia
@@ -278,10 +273,7 @@ contigo para coordinar los detalles.
    :image: guia-esteban.png
    :place: Medellín
    :community: Python Medellín
-   :web: https://argentinaenpython.com/django-girls/2017/06/medellin/
-   :github: 
-   :twitter: 
-   :facebook: 
+   :web: https://argentinaenpython.com/django-girls/2017/06/medellin/ 
 
 .. template:: bootstrap3/django-girls-guia
    :name: Gonzalo Peña-Castellanos
@@ -301,27 +293,22 @@ contigo para coordinar los detalles.
    :web: http://woakas.pehik.co/
    :github: https://github.com/woakas
    :twitter: https://twitter.com/woakas
-   :facebook: 
 
 .. template:: bootstrap3/django-girls-guia
    :name: Luis Moreno
    :image: guia-luis.png
    :place: Medellín
    :community: Python Medellín
-   :web: 
    :github: https://github.com/luismorenolopera
-   :twitter: https://twitter.com/mdavid95
-   :facebook: 
+   :twitter: https://twitter.com/mdavid95 
 
 .. template:: bootstrap3/django-girls-guia
    :name: Mauricio Collazos
    :image: guia-mauricio.png
    :place: Cali
    :community: Python Cali
-   :web: 
    :github: https://github.com/ma0c
    :twitter: https://twitter.com/Ma0Collazos
-   :facebook: 
 
 .. raw:: html
 

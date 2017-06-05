@@ -602,4 +602,4 @@ escribinos un email y nos pondremos en contacto con vos.
    <https://djangogirls.org/medellin/>`__
 
 .. [#] Registrate en el formulario y comentá con quién vas. Además,
-       decile a ella que también se registre e indique que va con vos.ython Medellín
+       decile a ella que también se registre e indique que va con vos.

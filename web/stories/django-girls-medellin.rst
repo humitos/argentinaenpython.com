@@ -190,8 +190,8 @@ Timeline (*línea de tiempo*)
    te fue asignado para participar del taller y ese puesto será
    re-asignado a una de las personas en LISTA DE ESPERA.
 
-..
-   .. class:: alert alert-danger
+
+.. class:: alert alert-danger
 
    ¡**Atención**!: hemos alcanzado el cupo máximo de inscriptos para
    el taller. Sin embargo, si estás interesada en participar,
@@ -254,6 +254,28 @@ contigo para coordinar los detalles.
    <div class="section-guia">
 
 .. template:: bootstrap3/django-girls-guia
+   :name: Cesar Augusto
+   :image: guia-cesar.png
+   :place: Medellín
+   :community: Python Medellín
+   :web: https://www.linkedin.com/in/cesar-augusto-cartagena-ocampo-25390468 
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Diego Patiño
+   :image: guia-diego.png
+   :place: Medellín
+   :community: Machine Learning Colombia
+   :github: https://github.com/dipaco
+   :facebook: https://www.facebook.com/dipaco
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Esteban Maya
+   :image: guia-esteban.png
+   :place: Medellín
+   :community: Python Medellín
+   :web: https://argentinaenpython.com/django-girls/2017/06/medellin/ 
+
+.. template:: bootstrap3/django-girls-guia
    :name: Gonzalo Peña-Castellanos
    :image: guia-gonzalo.png
    :place: Bucaramanga
@@ -261,37 +283,32 @@ contigo para coordinar los detalles.
    :web: https://linkedin.com/in/goanpeca
    :github: https://github.com/goanpeca
    :twitter: https://twitter.com/goanpeca
-   :facebook: https://www.facebook.com/goanpeca
+   :facebook: https://www.facebook.com/goanpec
 
 .. template:: bootstrap3/django-girls-guia
    :name: Gustavo Angulo
-   :image: guia-nnhombre.png
+   :image: guia-gustavo.png
    :place: Medellín
    :community: Python Medellín
-   :web: 
-   :github: 
-   :twitter: 
-   :facebook:
+   :web: http://woakas.pehik.co/
+   :github: https://github.com/woakas
+   :twitter: https://twitter.com/woakas
 
 .. template:: bootstrap3/django-girls-guia
-   :name: ¡Quiero ser guía!
-   :image: guia-nnmujer.png
-   :place:
-   :community:
-   :web: 
-   :github: 
-   :twitter: 
-   :facebook: 
+   :name: Luis Moreno
+   :image: guia-luis.png
+   :place: Medellín
+   :community: Python Medellín
+   :github: https://github.com/luismorenolopera
+   :twitter: https://twitter.com/mdavid95 
 
 .. template:: bootstrap3/django-girls-guia
-   :name: ¡Quiero ser guía!
-   :image: guia-nnhombre.png
-   :place:
-   :community:
-   :web: 
-   :github: 
-   :twitter: 
-   :facebook: 
+   :name: Mauricio Collazos
+   :image: guia-mauricio.png
+   :place: Cali
+   :community: Python Cali
+   :github: https://github.com/ma0c
+   :twitter: https://twitter.com/Ma0Collazos
 
 .. raw:: html
 

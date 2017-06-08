@@ -488,8 +488,7 @@ escribinos un email y nos pondremos en contacto con vos.
 
 .. collapse:: ¿Habrá comida?
 
-   Nos vamos a organizar para almozar todos juntos, pero cada uno
-   tendrá que abonar lo que consuma.
+   Nos vamos a organizar para almozar todos juntos en un lugar cercano. 
 
 .. collapse:: ¿Debo traer mi propia laptop?
 

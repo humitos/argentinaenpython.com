@@ -86,7 +86,7 @@ mujer con vos que también realice el taller [#]_.
 ¿Dónde y cuándo?
 ----------------
 
-* Lugar: `LYDHOUSE Coworking <http://lydhouse.com/>`_ en Cra. 49c #75- 47, Barranquilla, Colombia.
+* Lugar: `LYD HOUSE Coworking <http://lydhouse.com/>`_ en Cra. 49c #75- 47, Barranquilla, Colombia.
 
 * Fecha: Sábado 1 de Julio de 2017 de 8:30hs (¡puntual!) a 19:00hs.
 
@@ -190,8 +190,8 @@ Timeline (*línea de tiempo*)
    te fue asignado para participar del taller y ese puesto será
    re-asignado a una de las personas en LISTA DE ESPERA.
 
-..  
-   .. class:: alert alert-danger
+  
+.. class:: alert alert-danger
 
    ¡**Atención**!: hemos alcanzado el cupo máximo de inscriptos para
    el taller. Sin embargo, si estás interesada en participar,
@@ -274,21 +274,68 @@ contigo para coordinar los detalles.
    :facebook: https://www.facebook.com/goanpeca
 
 .. template:: bootstrap3/django-girls-guia
-   :name: ¡Quiero ser guía!
-   :image: guia-nnmujer.png
-   :place:
-   :community:
-   :web:
-   :github:
-   :twitter:
-   :facebook:
-  
+   :name: Juan Carlos Sarmiento 
+   :image: guia-juan.png
+   :place: Cartagena
+   :community: Python Cartagena
+   :twitter: https://twitter.com/JuanSarmiento23
+   :facebook: https://www.facebook.com/JuanSarmiento23
+
 .. template:: bootstrap3/django-girls-guia
-   :name: ¡Quiero ser guía!
+   :name: Andrés Simancas
    :image: guia-nnhombre.png
-   :place:
-   :web:
-   :github:
+   :place: Barranquilla
+   :community: GitHub
+   :github: https://github.com/asmateus
+   :facebook: https://web.facebook.com/andres.simancasmateus
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Javier Cardenas
+   :image: guia-nnhombre.png
+   :place: Barranquilla
+   :community: Stack Overflow
+   :github: https://github.com/jdash99
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Jorge Martinez
+   :image: guia-jorge.png
+   :place: Barranquilla
+   :community: Python Barranquilla
+   :github: https://github.com/jorgemartinezg
+   :facebook: https://www.facebook.com/jorge.martinezgomez.12
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Leonardo Orozco
+   :image: guia-leonardo.png
+   :place: Barranquilla
+   :community: Python Barranquilla
+   :github: https://github.com/leonardoo
+   :twitter: https://twitter.com/leon4rdoo_o
+   :facebook: https://www.facebook.com/leonardo.f.orozco
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Orlando Almario
+   :image: guia-orlando.png
+   :place: Barranquilla
+   :community: Python
+   :web: http://oalmario.com
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Oswaldo Rodriguez
+   :image: guia-oswaldo.png
+   :place: Barranquilla
+   :community: Python Barranquilla
+   :web: https://bitbucket.org/0sw4l/
+   :github: https://github.com/0sw4l
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Wayner Barrios
+   :image: guia-wayner.png
+   :place: Barranquilla
+   :community: Python
+   :github: https://github.com/waybarrios
+   :facebook: https://www.facebook.com/waybarrios
+
 
 .. raw:: html
 
@@ -416,8 +463,7 @@ escribinos un email y nos pondremos en contacto con vos.
 
 .. collapse:: ¿Habrá comida?
 
-   Nos vamos a organizar para almozar todos juntos, pero cada uno
-   tendrá que abonar lo que consuma.
+   Nos vamos a organizar para almozar todos juntos en un lugar cercano.
 
 .. collapse:: ¿Debo traer mi propia laptop?
 

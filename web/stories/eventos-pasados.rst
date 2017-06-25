@@ -9,6 +9,8 @@
 Eventos pasados
 ---------------
 
+* 24-06-2017: `Taller Django Girls en Medellín
+  <https://argentinaenpython.com/galeria/django-girls-medellin/>`_
 * 08-04-2017: `Taller Django Girls en Bucaramanga
   <https://argentinaenpython.com/galeria/django-girls-bucaramanga/>`_
 * 25-03-2017: `Taller Django Girls en Cuenca

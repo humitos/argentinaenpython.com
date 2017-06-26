@@ -21,8 +21,7 @@
 
 .. class:: alert alert-success
 
-   **NOVEDADES**: ¡Atención Colombia, se vienen dos eventos :doc:`Django Girls Medellín <django-girls/2017/06/medellin>`, el Sábado 24 de Junio y :doc:`Django Girls en Barranquilla <django-girls/2017/07/barranquilla>`, el Sábado 1 de Julio! ¡No
-   dejes de inscribirte!
+   **NOVEDADES**: ¡Atención Colombia, el Sábado 1 de Julio :doc:`Django Girls en Barranquilla <django-girls/2017/07/barranquilla>`
 
 .. class:: alert alert-warning
 

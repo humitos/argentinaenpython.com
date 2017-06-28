@@ -150,6 +150,12 @@ formas de vida.
    <hr style="border-width: 10px 0 0;">
 
 .. template:: bootstrap3/thumbnail-index
+   :href: /galeria/django-girls-medellin/
+   :src: IMG_2243.JPG
+   :title: Django Girls Medellín
+   :description: Workshop Django Girls
+
+.. template:: bootstrap3/thumbnail-index
    :href: /galeria/django-girls-bucaramanga/
    :src: IMG_1603.JPG
    :title: Django Girls Bucaramanga
@@ -159,12 +165,6 @@ formas de vida.
    :href: /galeria/django-girls-cuenca/2017/
    :src: IMG_4712.jpg
    :title: Django Girls Cuenca
-   :description: Workshop Django Girls
-
-.. template:: bootstrap3/thumbnail-index
-   :href: /galeria/django-girls-bogota/
-   :src: IMG_20170212_122818.jpg
-   :title: Django Girls Bogotá
    :description: Workshop Django Girls
 
 .. class:: lead align-center

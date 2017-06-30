@@ -336,6 +336,14 @@ contigo para coordinar los detalles.
    :github: https://github.com/waybarrios
    :facebook: https://www.facebook.com/waybarrios
 
+.. template:: bootstrap3/django-girls-guia
+   :name: Dario Guzman
+   :image: guia-nnhombre.png
+   :place: Barranquilla
+   :community: Python
+   :github: https://www.github.com/GudarJs
+   :web: http://guzmandario.com
+
 
 .. raw:: html
 

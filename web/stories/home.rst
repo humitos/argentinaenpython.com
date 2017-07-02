@@ -147,8 +147,8 @@ formas de vida.
 
 
 .. template:: bootstrap3/thumbnail-index
-   :href: /galeria/django-girls/2017/07/01/barranquilla/
-   :src: IMG_2839.jpg
+   :href: /galeria/django-girls-barranquilla/
+   :src: IMG_2830.JPG
    :title: Django Girls Barranquilla
    :description: Workshop Django Girls
 

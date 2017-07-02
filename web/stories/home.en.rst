@@ -142,6 +142,13 @@ How?
 
    <hr style="border-width: 10px 0 0;">
 
+
+.. template:: bootstrap3/thumbnail-index
+   :href: /galeria/django-girls/2017/07/01/barranquilla/
+   :src: IMG_2839.jpg
+   :title: Django Girls Barranquilla
+   :description: Workshop Django Girls
+
 .. template:: bootstrap3/thumbnail-index
    :href: /galeria/django-girls-medellin/
    :src: IMG_2243.JPG
@@ -152,12 +159,6 @@ How?
    :href: /galeria/django-girls-bucaramanga/
    :src: IMG_1603.JPG
    :title: Django Girls Bucaramanga
-   :description: Workshop Django Girls
-
-.. template:: bootstrap3/thumbnail-index
-   :href: /galeria/django-girls-cuenca/2017/
-   :src: IMG_4712.jpg
-   :title: Django Girls Cuenca
    :description: Workshop Django Girls
 
 .. class:: lead align-center

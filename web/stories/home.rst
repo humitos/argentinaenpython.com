@@ -19,14 +19,10 @@
    </style>
 
 
-.. class:: alert alert-success
+..
+   .. class:: alert alert-success
 
-   **NOVEDADES**: ¡Atención Colombia, el Sábado 1 de Julio :doc:`Django Girls en Barranquilla <django-girls/2017/07/barranquilla>`
-
-.. class:: alert alert-warning
-
-      **IMPORTANTE**: Estamos realizando una campaña de donación  :doc:`Pro-Eventos Django Girls Medellín y Barranquilla <donaciones/django-girls-colombia>`, te invitamos a ser parte de crear espacios gratuitos para compartir la pasión por la programación.
-
+      **NOVEDADES**: ¡Atención Colombia, el Sábado 1 de Julio :doc:`Django Girls en Barranquilla <django-girls/2017/07/barranquilla>`
 
 
 .. image:: /index/logo.thumbnail.png

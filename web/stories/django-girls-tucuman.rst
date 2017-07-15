@@ -1,5 +1,5 @@
-.. title: Taller Django Girls en Tucumán
-.. slug: django-girls-tucuman
+.. title: Taller Django Girls en Tucumán, Argentina
+.. slug: django-girls/2017/09/tucuman
 .. date: 2017-07-11 15:27:16 UTC-03:00
 .. tags: eventos, django girls, django, taller, python, tucumán, argentina, programación
 .. category: 
@@ -7,7 +7,7 @@
 .. description: ¡Queremos animar a más mujeres a dominar la web!
 .. type: text
 .. previewimage: flyer.png
-.. .. template: django-girls-snake.tmpl
+.. template: notitle.tmpl
 
 ..    
     .. class:: alert alert-success
@@ -82,14 +82,13 @@ mujer con vos que también realice el taller [#]_.
 ----------------
 
 * Lugar: `Facultad de Ciencias Exactas y Tecnología (FACET) 
-<https://www.facet.unt.edu.ar/>`_ Avda. Independencia 1800, Tucumán, 
-Argentina.
+  <https://www.facet.unt.edu.ar/>`_ Avda. Independencia 1800, Tucumán, 
+  Argentina.
 
 * Fecha: Sábado 16 de Septiembre de 2017 de 8:30hs (puntual) a 19:00hs.
 
 .. template:: iframe
-   :src: https://www.openstreetmap.org/search?query=tucuman%2C%20quinta%
-   20agron%C3%B3mica#map=17/-26.84135/-65.22878
+   :src: https://www.openstreetmap.org/search?query=tucuman%2C%20quinta%20agron%C3%B3mica#map=17/-26.84135/-65.22878
 
 .. sidebar:: Contacto
 
@@ -158,13 +157,14 @@ Timeline (*línea de tiempo*)
    :align: center
 
 
-.. class:: alert alert-danger
+..
+   .. class:: alert alert-danger
 
-..   ¡**Atención**!: hemos alcanzado el cupo máximo de inscriptos para
-..   el taller. Sin embargo, si estás interesada en participar,
-..   inscribite y pasarás automáticamente a una lista de espera que, en
-..   caso de que alguien no pueda asistir, nos estaremos comunicando con
-..   vos para informarte.
+      ¡**Atención**!: hemos alcanzado el cupo máximo de inscriptos para
+      el taller. Sin embargo, si estás interesada en participar,
+      inscribite y pasarás automáticamente a una lista de espera que, en
+      caso de que alguien no pueda asistir, nos estaremos comunicando con
+      vos para informarte.
 
 .. template:: bootstrap3/button
    :href: https://goo.gl/forms/05Al5bVFIik7ehit2
@@ -185,6 +185,11 @@ que tienen conocimiento sobre programación (no necesariamente
 Python/Django) pero que están más acostumbradas al manejo de
 herramientas tradicionales como ser sistemas de control de versiones,
 Internet, consola de GNU/Linux, programación básica y otros.
+
+
+
+Quiero ser guía
+***************
 
 Si querés colaborar con este evento y sumarte a los *guías* que serán
 nuestra ayuda durante todo el día del evento en esos momentos de caos,
@@ -355,8 +360,3 @@ escribinos un email y nos pondremos en contacto con vos.
 
 .. [#] Registrate en el formulario y comentá con quién vas. Además,
        decile a ella que también se registre e indique que va con vos.
-
-
-
-
-

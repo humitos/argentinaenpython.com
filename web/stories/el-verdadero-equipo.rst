@@ -299,6 +299,45 @@
    :twitter: http://twitter.com/goanpeca
    :facebook: http://facebook.com/goanpeca
 
+.. template:: bootstrap3/thumbnail-el-equipo-extra
+   :name: John Jairo Roa
+   :image: gonzalo_pena.png
+   :place: Bogotá, Colombia
+   :community: PyCon Colombia
+   :email: jhonjairoroa87@gmail.com 
+   :web: https://about.me/jhonjairoroa87
+   :github: https://github.com/jhonjairoroa87
+   :twitter: https://twitter.com/jhonjairoroa87
+   :facebook: https://www.facebook.com/johnroa87
+
+.. template:: bootstrap3/thumbnail-el-equipo-extra
+   :name: Juan David Hernández
+   :image: gonzalo_pena.png
+   :place: Medellín, Colombia
+   :community: Python Medellín
+   :email: juandhernandez2008@gmail.com 
+   :web: https://about.me/juandhernandezg
+   :github: https://github.com/davoshack
+   :twitter: https://twitter.com/JuanDHernandezG
+
+.. template:: bootstrap3/thumbnail-el-equipo-extra
+   :name: Javier Daza Comas
+   :image: gonzalo_pena.png
+   :place: Barranquilla, Colombia
+   :community: Python Barranquilla
+   :email: javierdazacomas@gmail.com
+   :web: http://javierdaza.co/
+   :github: https://github.com/javierdaza
+   :twitter: https://twitter.com/javidazac
+
+.. template:: bootstrap3/thumbnail-el-equipo-extra
+   :name: Cesar Herdenez
+   :image: gonzalo_pena.png
+   :place: Barranquilla, Colombia
+   :community: Python Barranquilla
+   :email: caherdenez@gmail.com 
+   :github: https://github.com/Cesar0510
+   :twitter: https://twitter.com/CesarAu0619 
 
 .. template:: bootstrap3/thumbnail-el-equipo-extra
    :name: ¿Vos?

@@ -88,7 +88,7 @@ mujer con vos que también realice el taller [#]_.
 * Fecha: Sábado 16 de Septiembre de 2017 de 8:30hs (puntual) a 19:00hs.
 
 .. template:: iframe
-   :src: https://www.openstreetmap.org/search?query=tucuman%2C%20quinta%20agron%C3%B3mica#map=17/-26.84135/-65.22878
+   :src: https://www.openstreetmap.org/export/embed.html?bbox=-65.24552822113039%2C-26.850914143478878%2C-65.21720409393312%2C-26.833587308336288&amp;layer=mapnik&amp;marker=-26.8422510573666%2C-65.23136615753174
 
 .. sidebar:: Contacto
 

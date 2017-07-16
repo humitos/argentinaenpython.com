@@ -301,7 +301,7 @@
 
 .. template:: bootstrap3/thumbnail-el-equipo-extra
    :name: John Jairo Roa
-   :image: gonzalo_pena.png
+   :image: jhonjairo_roa.png
    :place: Bogotá, Colombia
    :community: PyCon Colombia
    :email: jhonjairoroa87@gmail.com 
@@ -312,7 +312,7 @@
 
 .. template:: bootstrap3/thumbnail-el-equipo-extra
    :name: Juan David Hernández
-   :image: gonzalo_pena.png
+   :image: juandavid_hernandez.png
    :place: Medellín, Colombia
    :community: Python Medellín
    :email: juandhernandez2008@gmail.com 
@@ -321,8 +321,17 @@
    :twitter: https://twitter.com/JuanDHernandezG
 
 .. template:: bootstrap3/thumbnail-el-equipo-extra
+   :name: Juan Carlos Rodriguez
+   :image: juancarlos_rodriguez.png
+   :place: Medellín, Colombia
+   :community: Python Medellín
+   :email: jcrodriguezu@gmail.com 
+   :twitter: https://twitter.com/jcrodriguezu
+   :facebook: https://www.facebook.com/jcrodriguezu
+
+.. template:: bootstrap3/thumbnail-el-equipo-extra
    :name: Javier Daza Comas
-   :image: gonzalo_pena.png
+   :image: javier_daza.png
    :place: Barranquilla, Colombia
    :community: Python Barranquilla
    :email: javierdazacomas@gmail.com
@@ -332,7 +341,7 @@
 
 .. template:: bootstrap3/thumbnail-el-equipo-extra
    :name: Cesar Herdenez
-   :image: gonzalo_pena.png
+   :image: cesar_herdenez.png
    :place: Barranquilla, Colombia
    :community: Python Barranquilla
    :email: caherdenez@gmail.com 

@@ -145,7 +145,7 @@ How?
 
 .. template:: bootstrap3/thumbnail-index
    :href: /galeria/django-girls-barranquilla/
-   :src: IMG_2830.JPG
+   :src: IMG_2834.JPG
    :title: Django Girls Barranquilla
    :description: Workshop Django Girls
 

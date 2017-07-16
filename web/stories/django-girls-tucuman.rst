@@ -21,12 +21,9 @@
    :align: center
 
 
-¡Queremos animar a más mujeres a dominar la web! Es por eso que desde
-`Argentina en Python <https://argentinaenpython.com>`_ estamos
-organizando un taller en el cual podrás construir tu propio sitio web
-*desde cero* en un día. Además, vamos a utilizar todas las
-herramientas que programadores profesionales utilizan diariamente. ¡Y
-de una manera muy sencilla!
+----
+
+¡Queremos animar a más mujeres a dominar la web! Es por eso que desde la `Facultad de Ciencias Exactas y Tecnología (FACET) <https://www.facet.unt.edu.ar/>`_ con el apoyo de `Argentina en Python <https://argentinaenpython.com>`_ estamos organizando un taller en el cual podrás construir tu propio sitio web *desde cero* en un día. Además, vamos a utilizar todas las herramientas que programadores profesionales utilizan diariamente. ¡Y de una manera muy sencilla!
 
 .. class:: lead
 

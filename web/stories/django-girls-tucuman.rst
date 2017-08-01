@@ -1,5 +1,5 @@
-.. title: Taller Django Girls en Tucumán, Argentina
-.. slug: django-girls/2017/09/tucuman
+.. title: Taller Django Girls en Tucumán
+.. slug: django-girls-tucuman
 .. date: 2017-07-11 15:27:16 UTC-03:00
 .. tags: eventos, django girls, django, taller, python, tucumán, argentina, programación
 .. category: 
@@ -7,7 +7,7 @@
 .. description: ¡Queremos animar a más mujeres a dominar la web!
 .. type: text
 .. previewimage: flyer.png
-.. template: notitle.tmpl
+.. .. template: django-girls-snake.tmpl
 
 ..    
     .. class:: alert alert-success
@@ -20,6 +20,11 @@
 .. image:: membrete-tucuman-violeta.png
    :align: center
 
+
+En el marco de la "Semana del Programador 2017" organizada por la 
+carrera Programador Universitario, en su 20º aniversario, y el Dpto. de 
+Ciencias de la Computación de la Facultad de Ciencias Exactas y Tecnología
+de la Universidad Nacional de Tucumán...
 
 ¡Queremos animar a más mujeres a dominar la web! Es por eso que desde
 `Argentina en Python <https://argentinaenpython.com>`_ estamos
@@ -82,13 +87,14 @@ mujer con vos que también realice el taller [#]_.
 ----------------
 
 * Lugar: `Facultad de Ciencias Exactas y Tecnología (FACET) 
-  <https://www.facet.unt.edu.ar/>`_ Avda. Independencia 1800, Tucumán, 
-  Argentina.
+<https://www.facet.unt.edu.ar/>`_ Avda. Independencia 1800, Tucumán, 
+Argentina.
 
-* Fecha: Sábado 16 de Septiembre de 2017 de 8:30hs (puntual) a 19:00hs.
+* Fecha: Martes 12 de Septiembre de 2017 de 8:30hs (puntual) a 19:00hs.
 
 .. template:: iframe
-   :src: https://www.openstreetmap.org/export/embed.html?bbox=-65.24552822113039%2C-26.850914143478878%2C-65.21720409393312%2C-26.833587308336288&amp;layer=mapnik&amp;marker=-26.8422510573666%2C-65.23136615753174
+   :src: https://www.openstreetmap.org/search?query=tucuman%2C%20quinta%
+   20agron%C3%B3mica#map=17/-26.84135/-65.22878
 
 .. sidebar:: Contacto
 
@@ -157,14 +163,13 @@ Timeline (*línea de tiempo*)
    :align: center
 
 
-..
-   .. class:: alert alert-danger
+.. class:: alert alert-danger
 
-      ¡**Atención**!: hemos alcanzado el cupo máximo de inscriptos para
-      el taller. Sin embargo, si estás interesada en participar,
-      inscribite y pasarás automáticamente a una lista de espera que, en
-      caso de que alguien no pueda asistir, nos estaremos comunicando con
-      vos para informarte.
+..   ¡**Atención**!: hemos alcanzado el cupo máximo de inscriptos para
+..   el taller. Sin embargo, si estás interesada en participar,
+..   inscribite y pasarás automáticamente a una lista de espera que, en
+..   caso de que alguien no pueda asistir, nos estaremos comunicando con
+..   vos para informarte.
 
 .. template:: bootstrap3/button
    :href: https://goo.gl/forms/05Al5bVFIik7ehit2
@@ -173,7 +178,7 @@ Timeline (*línea de tiempo*)
 
 .. class:: lead align-center
 
-   ¡Sólo necesitás tener buena onda, el sábado completo libre y muchas
+   ¡Sólo necesitás tener buena onda, el Martes completo libre y muchas
    ganas de aprender! ¡Sumate!
 
 
@@ -185,11 +190,6 @@ que tienen conocimiento sobre programación (no necesariamente
 Python/Django) pero que están más acostumbradas al manejo de
 herramientas tradicionales como ser sistemas de control de versiones,
 Internet, consola de GNU/Linux, programación básica y otros.
-
-
-
-Quiero ser guía
-***************
 
 Si querés colaborar con este evento y sumarte a los *guías* que serán
 nuestra ayuda durante todo el día del evento en esos momentos de caos,
@@ -360,3 +360,8 @@ escribinos un email y nos pondremos en contacto con vos.
 
 .. [#] Registrate en el formulario y comentá con quién vas. Además,
        decile a ella que también se registre e indique que va con vos.
+
+
+
+
+

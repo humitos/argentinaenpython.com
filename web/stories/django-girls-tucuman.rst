@@ -20,10 +20,13 @@
 .. image:: membrete-tucuman-violeta.png
    :align: center
 
+En el marco de la "Semana del Programador 2017" organizada por la 
+carrera Programador Universitario, en su 20º aniversario, y el Dpto. de 
+Ciencias de la Computación de la Facultad de Ciencias Exactas y Tecnología
+de la Universidad Nacional de Tucumán...
 
-¡Queremos animar a más mujeres a dominar la web! Es por eso que desde
-`Argentina en Python <https://argentinaenpython.com>`_ estamos
-organizando un taller en el cual podrás construir tu propio sitio web
+¡Queremos animar a más mujeres a dominar la web! Es por eso que
+estamos organizando un taller en el cual podrás construir tu propio sitio web
 *desde cero* en un día. Además, vamos a utilizar todas las
 herramientas que programadores profesionales utilizan diariamente. ¡Y
 de una manera muy sencilla!
@@ -85,7 +88,7 @@ mujer con vos que también realice el taller [#]_.
   <https://www.facet.unt.edu.ar/>`_ Avda. Independencia 1800, Tucumán, 
   Argentina.
 
-* Fecha: Sábado 16 de Septiembre de 2017 de 8:30hs (puntual) a 19:00hs.
+* Fecha: Martes 19 de Septiembre de 2017 de 8:30hs (puntual) a 19:00hs.
 
 .. template:: iframe
    :src: https://www.openstreetmap.org/export/embed.html?bbox=-65.24552822113039%2C-26.850914143478878%2C-65.21720409393312%2C-26.833587308336288&amp;layer=mapnik&amp;marker=-26.8422510573666%2C-65.23136615753174
@@ -93,10 +96,7 @@ mujer con vos que también realice el taller [#]_.
 .. sidebar:: Contacto
 
    Cualquier duda que tengas sobre el taller, nos puedes escribir a
-   `argentinaenpython@openmailbox.org
-   <mailto:argentinaenpython@openmailbox.org>`_ o 
-   `programador.facet@herrera.unt.edu.ar  <mailto:programador.facet@herrera.unt.edu.ar>`_ para ponerte en
-   contacto con nosotros.
+   `programador.facet@herrera.unt.edu.ar  <mailto:programador.facet@herrera.unt.edu.ar>`_ para ponerte en contacto con nosotros.
 
    .. image:: organizadores.png
       :align: center
@@ -129,7 +129,7 @@ Tené en cuenta que...
 
 * ... en lo posible, debes llevar un extensor de corriente.
 
-* ... agrega la dirección argentinaenpython@openmailbox.org a tu libreta
+* ... agrega la dirección programador.facet@herrera.unt.edu.ar a tu libreta
   de direcciones así evitamos que el email llegue a *SPAM*
 
 * ... debes **revisar el email** durante los 15 días previos al evento
@@ -173,7 +173,7 @@ Timeline (*línea de tiempo*)
 
 .. class:: lead align-center
 
-   ¡Sólo necesitás tener buena onda, el sábado completo libre y muchas
+   ¡Sólo necesitás tener buena onda, el Martes completo libre y muchas
    ganas de aprender! ¡Sumate!
 
 
@@ -203,8 +203,86 @@ contigo para coordinar los detalles.
    ¡Quiero participar como guía!
 
 
-Colaboradores
--------------
+¡Conocé a nuestros guías!
+*************************
+
+.. raw:: html
+
+   <style>
+     div.django-girls-guia {
+       min-height: 250px;
+     }
+
+     div.section-guia {
+       display: inline-block;
+       width: 100%;
+     }
+   </style>
+
+   <div class="section-guia">
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Delgado Gonzalo
+   :image: GD.png
+   :place: Tucumán
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Dominguez Víctor
+   :image: VD.png
+   :place: Tucumán
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Corrales Malena
+   :image: MC.png
+   :place: Tucumán
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Dall'Ara Vanessa
+   :image: VaDa.png
+   :place: Tucumán
+
+.. raw:: html
+
+   </div>
+
+----
+
+¡Los organizadores!
+-------------------
+
+.. raw:: html
+
+   <style>
+     div.django-girls-organizadores {
+       min-height: 350px;
+     }
+
+     div.section-organizadores {
+       display: inline-block;
+     }
+   </style>
+
+   <div class="section-organizadores">
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Jorge Namour
+   :image: JN.png
+   :email: jnamour@herrera.unt.edu.ar
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Cristina Werenitzky
+   :image: CW.png
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Graciela Molina
+   :image: GM.png
+
+.. raw:: html
+
+   </div>
+
+Con el apoyo de
+---------------
 
 .. image:: colaboradores.png
    :align: center

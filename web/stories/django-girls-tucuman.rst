@@ -259,6 +259,7 @@ contigo para coordinar los detalles.
 
      div.section-organizadores {
        display: inline-block;
+       width: 100%;
      }
    </style>
 

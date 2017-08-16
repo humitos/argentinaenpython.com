@@ -91,7 +91,7 @@ mujer con vos que también realice el taller [#]_.
 * Fecha: Sábado 14 de Octubre de 2017 de 8:30hs (¡puntual!) a 19:00hs.
 
 .. template:: iframe
-   :src: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d125576.6102791794!2d-75.57873820538532!3d10.40019111135223!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef625e7ae9d1351%3A0xb161392e033f26ca!2sCartagena%2C+Bol%C3%ADvar!5e0!3m2!1ses-419!2sco!4v1502055157833
+   :src: http://www.openstreetmap.org/export/embed.html?bbox=-75.53744316101076%2C10.41330168615115%2C-75.52240133285524%2C10.425942878083998&amp;layer=mapnik
 
 
 .. sidebar:: Contacto

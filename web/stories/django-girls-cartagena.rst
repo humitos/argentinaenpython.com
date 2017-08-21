@@ -23,10 +23,11 @@
 
 ----
 
-¡Queremos animar a más mujeres a dominar la web! Es por eso que desde
-`Argentina en Python <https://argentinaenpython.com>`_ junto a `Python
-Cartagena <https://www.meetup.com/Python-Django-CTG/>`_ y `Django Girls Colombia 
-<https://www.facebook.com/djangogirlscolombia>`_ estamos
+¡Queremos animar a más mujeres a dominar la web! Es por eso que desde 
+`Django Girls Colombia <https://www.facebook.com/djangogirlscolombia>`_
+ junto a `Python Cartagena <https://www.meetup.com/Python-Django-CTG/>`_ 
+con el apoyo de `Argentina en Python <https://argentinaenpython.com>`_ y la comunidad
+de `Python Colombia <https://www.python-colombia.org>`_ estamos
 organizando un taller en el cual podrás construir tu propio sitio web
 *desde cero* en un día. Además, vamos a utilizar todas las
 herramientas que programadores profesionales utilizan diariamente. ¡Y

@@ -91,14 +91,12 @@ mujer con vos que también realice el taller [#]_.
 * Fecha: Sábado 14 de Octubre de 2017 de 8:30hs (¡puntual!) a 19:00hs.
 
 .. template:: iframe
-   :src: http://www.openstreetmap.org/export/embed.html?bbox=-75.53744316101076%2C10.41330168615115%2C-75.52240133285524%2C10.425942878083998&amp;layer=mapnik
+   :src: https://www.openstreetmap.org/export/embed.html?bbox=-75.53744316101076%2C10.41330168615115%2C-75.52240133285524%2C10.425942878083998&amp;layer=mapnik
 
 
 .. sidebar:: Contacto
 
-   Cualquier duda que tengas sobre el taller, nos puedes escribir a
-   `argentinaenpython@openmailbox.org
-   <mailto:argentinaenpython@openmailbox.org>`_ y `djangogirlscolombia@gmail.com <mailto:djangogirlscolombia@gmail.com>`_, para ponerte en contacto con nosotros.
+   Cualquier duda que tengas sobre el taller, nos puedes escribir a `djangogirlscolombia@gmail.com <mailto:djangogirlscolombia@gmail.com>`_, para ponerte en contacto con nosotros.
 
    .. image:: organizadores.png
       :align: center

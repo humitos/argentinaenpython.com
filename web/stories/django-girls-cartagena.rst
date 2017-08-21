@@ -1,6 +1,6 @@
 .. title: Taller Django Girls en Cartagena
 .. slug: django-girls/2017/10/cartagena 
-.. date: 2017-10-14 00:16:45 UTC-05:00
+.. date: 2017-08-09 00:16:45 UTC-05:00
 .. tags: eventos, django girls, django, taller, python, cartagena, programación, colombia
 .. category: 
 .. link: 

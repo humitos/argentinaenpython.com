@@ -280,7 +280,7 @@
 .. template:: bootstrap3/thumbnail-el-equipo-extra
    :name: Pilar Guauque Torres
    :image: pilar_guauque.png
-   :place: Santiago del Estero, Argentina
+   :place: Santiago del Estero, Santiago del Estero, Argentina
    :community: Amautas Huarmis
    :email: piliguauque@gmail.com
    :web: https://www.facebook.com/amautashuarmis/
@@ -291,7 +291,7 @@
 .. template:: bootstrap3/thumbnail-el-equipo-extra
    :name: Gonzalo Peña-Castellanos
    :image: gonzalo_pena.png
-   :place: Bucaramanga, Colombia
+   :place: Bucaramanga, Santander, Colombia
    :community: Python Bucaramanga
    :email: goanpeca@gmail.com
    :web: 
@@ -302,7 +302,7 @@
 .. template:: bootstrap3/thumbnail-el-equipo-extra
    :name: John Jairo Roa
    :image: jhonjairo_roa.png
-   :place: Bogotá, Colombia
+   :place: Bogotá, Santa Fe, Colombia
    :community: PyCon Colombia
    :email: jhonjairoroa87@gmail.com 
    :web: https://about.me/jhonjairoroa87
@@ -313,7 +313,7 @@
 .. template:: bootstrap3/thumbnail-el-equipo-extra
    :name: Juan David Hernández
    :image: juandavid_hernandez.png
-   :place: Medellín, Colombia
+   :place: Medellín, Antioquia, Colombia
    :community: Python Medellín
    :email: juandhernandez2008@gmail.com 
    :web: https://about.me/juandhernandezg
@@ -323,7 +323,7 @@
 .. template:: bootstrap3/thumbnail-el-equipo-extra
    :name: Juan Carlos Rodriguez
    :image: juancarlos_rodriguez.png
-   :place: Medellín, Colombia
+   :place: Medellín, Antioquia, Colombia
    :community: Python Medellín
    :email: jcrodriguezu@gmail.com 
    :twitter: https://twitter.com/jcrodriguezu
@@ -332,7 +332,7 @@
 .. template:: bootstrap3/thumbnail-el-equipo-extra
    :name: Javier Daza Comas
    :image: javier_daza.png
-   :place: Barranquilla, Colombia
+   :place: Barranquilla, Atlántico, Colombia
    :community: Python Barranquilla
    :email: javierdazacomas@gmail.com
    :web: http://javierdaza.co/
@@ -342,7 +342,7 @@
 .. template:: bootstrap3/thumbnail-el-equipo-extra
    :name: Cesar Herdenez
    :image: cesar_herdenez.png
-   :place: Barranquilla, Colombia
+   :place: Barranquilla, Atlántico, Colombia
    :community: Python Barranquilla
    :email: caherdenez@gmail.com 
    :github: https://github.com/Cesar0510

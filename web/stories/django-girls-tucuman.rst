@@ -241,6 +241,11 @@ contigo para coordinar los detalles.
    :image: VaDa.png
    :place: Tucumán
 
+.. template:: bootstrap3/django-girls-guia
+   :name: José Liezun Miguel Ángel
+   :image: JL.png
+   :place: Tucumán
+
 .. raw:: html
 
    </div>

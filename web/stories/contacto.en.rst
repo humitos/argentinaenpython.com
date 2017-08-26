@@ -15,7 +15,7 @@
 These are all the ways you can contact me in case you want to organize
 an event or to keep updated about the project:
 
-:Email: argentinaenpython@openmailbox.org
+:Email: argentinaenpython@gmail.com
 
 :Facebook: https://www.facebook.com/argentinaenpython
 

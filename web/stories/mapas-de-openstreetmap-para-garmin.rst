@@ -64,7 +64,7 @@ Los mapas se actualizan semanalmente mediante una `tarea de CRON
 <https://github.com/humitos/garmin-osm>`_ automática y sin supervisión
 humana. Por lo tanto si encuentras un problema con el enlace o el
 archivo está corrupto por algún motivo, envíanos un `email
-<mailto:argentinaenpython@openmailbox.org>`_.
+<mailto:argentinaenpython@gmail.com>`_.
 
 ..
    Creado utilizando las siguientes herramientas:

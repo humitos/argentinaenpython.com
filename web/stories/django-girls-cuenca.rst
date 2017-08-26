@@ -82,8 +82,8 @@ mujer con vos que también realice el taller [#]_.
 .. sidebar:: Contacto
 
    Cualquier duda que tengas sobre el taller, nos puedes escribir a
-   `argentinaenpython@openmailbox.org
-   <mailto:argentinaenpython@openmailbox.org>`_ para ponerte en
+   `argentinaenpython@gmail.com
+   <mailto:argentinaenpython@gmail.com>`_ para ponerte en
    contacto con nosotros.
 
    .. image:: organizadores.png

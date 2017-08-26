@@ -417,7 +417,7 @@ Muchísimo más material
 
    Si sabés de algún libro, documento, biblioteca o algo que te
    gustaría agregar a este sitio web, `enviame un email
-   <mailto:argentinaenpython@openmailbox.org>`_ (o dejá un comentario en
+   <mailto:argentinaenpython@gmail.com>`_ (o dejá un comentario en
    esta página) y lo revisaré.
 
    También podes dejar un comentario aquí mismo explicando porqué un

@@ -112,4 +112,4 @@ solicitas.
    donación, y mi recepción de dinero, sea algo grato para ambos.
 
 
-.. _email: mailto:argentinaenpython@openmailbox.org
+.. _email: mailto:argentinaenpython@gmail.com

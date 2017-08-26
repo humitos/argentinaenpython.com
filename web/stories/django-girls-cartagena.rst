@@ -122,7 +122,7 @@ Tené en cuenta que...
 
 * ... en lo posible, debes llevar un extensor de corriente.
 
-* ... agrega la dirección argentinaenpython@openmailbox.org a tu libreta
+* ... agrega la dirección argentinaenpython@gmail.com a tu libreta
   de direcciones así evitamos que el email llegue a *SPAM*
 
 * ... vamos a respetar las fechas publicadas en el *timeline* (línea
@@ -352,7 +352,7 @@ contigo para coordinar los detalles.
    :name: Manuel Kaufmann
    :image: guia-manuel.png
    :place: Parana, Argentina
-   :email: argentinaenpython@openmailbox.org
+   :email: argentinaenpython@gmail.com
    :community: Argentina en Python y Embajador de Python
    :web: https://elblogdehumitos.com/
    :github: https://github.com/humitos

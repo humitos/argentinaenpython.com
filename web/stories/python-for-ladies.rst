@@ -76,7 +76,7 @@ Programa tentativo
 .. sidebar:: Contactos
 
    :Manuel Kaufmann:
-      argentinaenpython@openmailbox.org
+      argentinaenpython@gmail.com
    :Johanna Sanchez:
       ellaquimica@gmail.com
 

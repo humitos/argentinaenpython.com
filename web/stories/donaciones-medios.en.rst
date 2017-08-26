@@ -92,4 +92,4 @@ it.
    Thank you a lot for your collaboration and helping to keep working
    on this project!
 
-.. _email: mailto:argentinaenpython@openmailbox.org
+.. _email: mailto:argentinaenpython@gmail.com

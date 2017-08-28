@@ -246,6 +246,11 @@ contigo para coordinar los detalles.
    :image: JL.png
    :place: Tucumán
 
+.. template:: bootstrap3/django-girls-guia
+   :name: Ruiz Ana Pamela
+   :image: PR.png
+   :place: Tucumán
+
 .. raw:: html
 
    </div>

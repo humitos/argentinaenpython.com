@@ -14,4 +14,4 @@ sobre el destino de tu donación.
 ¡Muchas gracias por tu colaboración y por ayudarme a empujar este
 proyecto!
 
-.. _email: mailto:argentinaenpython@openmailbox.org
+.. _email: mailto:argentinaenpython@gmail.com

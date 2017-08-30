@@ -16,7 +16,7 @@
 Estos son los medios de contacto que usamos para organizar eventos y
 mantener actualizados a nuestros seguidores:
 
-:Email: argentinaenpython@openmailbox.org
+:Email: argentinaenpython@gmail.com
 
 :Facebook: https://www.facebook.com/argentinaenpython
 

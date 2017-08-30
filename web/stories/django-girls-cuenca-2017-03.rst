@@ -88,8 +88,8 @@ mujer con vos que también realice el taller [#]_.
 .. sidebar:: Contacto
 
    Cualquier duda que tengas sobre el taller, nos puedes escribir a
-   `argentinaenpython@openmailbox.org
-   <mailto:argentinaenpython@openmailbox.org>`_ para ponerte en
+   `argentinaenpython@gmail.com
+   <mailto:argentinaenpython@gmail.com>`_ para ponerte en
    contacto con nosotros.
 
    .. image:: organizadores.png
@@ -123,7 +123,7 @@ Tené en cuenta que...
 
 * ... en lo posible, debes llevar un extensor de corriente.
 
-* ... agrega la dirección argentinaenpython@openmailbox.org a tu libreta
+* ... agrega la dirección argentinaenpython@gmail.com a tu libreta
   de direcciones así evitamos que el email llegue a *SPAM*
 
 * ... vamos a respetar las fechas publicadas en el *timeline* (línea
@@ -320,7 +320,7 @@ contigo para coordinar los detalles.
    :name: Johanna Sanchez
    :image: guia-johanna.png
    :web: https://quimicanomada.wordpress.com/
-   :email: argentinaenpython@openmailbox.org
+   :email: argentinaenpython@gmail.com
    :github: https://github.com/ellaquimica/
    :twitter: https://twitter.com/ellaquimica
    :facebook: https://www.facebook.com/argentinaenpython
@@ -356,7 +356,7 @@ contigo para coordinar los detalles.
    :name: Manuel Kaufmann
    :image: guia-manuel.png
    :place: Parana, Argentina
-   :email: argentinaenpython@openmailbox.org
+   :email: argentinaenpython@gmail.com
    :community: Python Argentina
    :web: https://elblogdehumitos.com/
    :github: https://github.com/humitos

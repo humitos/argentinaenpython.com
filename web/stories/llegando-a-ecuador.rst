@@ -118,7 +118,7 @@ lleguemos:
 
 Para ayudarnos con toda esta información puedes utilizar los
 comentarios de esta página o enviarnos un email a nuestra `dirección
-de contacto <mailto:argentinaenpython@openmailbox.org>`_. Además, en
+de contacto <mailto:argentinaenpython@gmail.com>`_. Además, en
 lo posible, colabora compartiendo esta página en redes sociales y
 amigos así nos ayudas a escuchar más voces :)
 

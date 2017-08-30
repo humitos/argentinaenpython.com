@@ -1,6 +1,6 @@
 .. title: Taller Django Girls en Cartagena
 .. slug: django-girls/2017/10/cartagena 
-.. date: 2017-10-14 00:16:45 UTC-05:00
+.. date: 2017-08-09 00:16:45 UTC-05:00
 .. tags: eventos, django girls, django, taller, python, cartagena, programación, colombia
 .. category: 
 .. link: 
@@ -23,12 +23,9 @@
 
 ----
 
-¡Queremos animar a más mujeres a dominar la web! Es por eso que desde
-`Python Cartagena <https://www.meetup.com/Python-Django-CTG/>`_ y `Django Girls Colombia 
-<https://www.facebook.com/djangogirlscolombia>`_ junto con el apoyo de `Argentina en Python <https://argentinaenpython.com>`_ y la comunidad de Python Colombia estamos organizando un taller en el cual podrás construir tu propio sitio web
-*desde cero* en un día. Además, vamos a utilizar todas las
-herramientas que programadores profesionales utilizan diariamente. ¡Y
-de una manera muy sencilla!
+¡Queremos animar a más mujeres a dominar la web! Es por eso que desde `Django Girls Colombia <https://www.facebook.com/djangogirlscolombia>`_ junto a `Python Cartagena <https://www.meetup.com/Python-Django-CTG/>`_ con el apoyo de `Argentina en Python <https://argentinaenpython.com>`_ y la comunidad de `Python Colombia <https://www.python-colombia.org>`_ estamos
+organizando un taller en el cual podrás construir tu propio sitio web *desde cero* en un día. Además, vamos a utilizar todas las
+herramientas que programadores profesionales utilizan diariamente. ¡Y de una manera muy sencilla!
 
 .. class:: lead
 
@@ -89,14 +86,12 @@ mujer con vos que también realice el taller [#]_.
 * Fecha: Sábado 14 de Octubre de 2017 de 8:30hs (¡puntual!) a 19:00hs.
 
 .. template:: iframe
-   :src: http://www.openstreetmap.org/export/embed.html?bbox=-75.50286948680879%2C10.40621057608779%2C-75.50098925828935%2C10.407790789053879&amp;layer=mapnik&amp;marker=10.407000683571374%2C-75.50192937254906
+   :src: https://www.openstreetmap.org/export/embed.html?bbox=-75.50286948680879%2C10.40621057608779%2C-75.50098925828935%2C10.407790789053879&amp;layer=mapnik&amp;marker=10.407000683571374%2C-75.50192937254906
 
 
 .. sidebar:: Contacto
 
-   Cualquier duda que tengas sobre el taller, nos puedes escribir a
-   `argentinaenpython@openmailbox.org
-   <mailto:argentinaenpython@openmailbox.org>`_ y `djangogirlscolombia@gmail.com <mailto:djangogirlscolombia@gmail.com>`_, para ponerte en contacto con nosotros.
+   Cualquier duda que tengas sobre el taller, nos puedes escribir a `djangogirlscolombia@gmail.com <mailto:djangogirlscolombia@gmail.com>`_, para ponerte en contacto con nosotros.
 
    .. image:: organizadores.png
       :align: center
@@ -127,7 +122,7 @@ Tené en cuenta que...
 
 * ... en lo posible, debes llevar un extensor de corriente.
 
-* ... agrega la dirección argentinaenpython@openmailbox.org a tu libreta
+* ... agrega la dirección argentinaenpython@gmail.com a tu libreta
   de direcciones así evitamos que el email llegue a *SPAM*
 
 * ... vamos a respetar las fechas publicadas en el *timeline* (línea
@@ -357,7 +352,7 @@ contigo para coordinar los detalles.
    :name: Manuel Kaufmann
    :image: guia-manuel.png
    :place: Parana, Argentina
-   :email: argentinaenpython@openmailbox.org
+   :email: argentinaenpython@gmail.com
    :community: Argentina en Python y Embajador de Python
    :web: https://elblogdehumitos.com/
    :github: https://github.com/humitos

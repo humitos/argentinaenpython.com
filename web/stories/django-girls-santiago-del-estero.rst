@@ -88,8 +88,8 @@ mujer con vos que también realice el taller [#]_.
 .. sidebar:: Contacto
 
    Cualquier duda que tengas sobre el taller, nos puedes escribir a
-   `argentinaenpython@openmailbox.org
-   <mailto:argentinaenpython@openmailbox.org>`_ para ponerte en
+   `argentinaenpython@gmail.com
+   <mailto:argentinaenpython@gmail.com>`_ para ponerte en
    contacto con nosotros.
 
    .. image:: organizadores.png
@@ -123,7 +123,7 @@ Tené en cuenta que...
 
 * ... en lo posible, debes llevar un extensor de corriente.
 
-* ... agrega la dirección argentinaenpython@openmailbox.org a tu libreta
+* ... agrega la dirección argentinaenpython@gmail.com a tu libreta
   de direcciones así evitamos que el email llegue a *SPAM*
 
 * ... debes **revisar el email** durante los 15 días previos al evento

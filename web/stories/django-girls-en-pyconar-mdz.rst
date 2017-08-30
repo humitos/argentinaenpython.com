@@ -91,8 +91,8 @@ Python. ¡Aprovechalos al máximo!
 .. sidebar:: Contacto
 
    Cualquier duda que tengas sobre el taller, nos puedes escribir a
-   `argentinaenpython@openmailbox.org
-   <mailto:argentinaenpython@openmailbox.org>`_ o
+   `argentinaenpython@gmail.com
+   <mailto:argentinaenpython@gmail.com>`_ o
    `contacto@ar.linuxchix.org <contacto@ar.linuxchix.org>`_ para
    ponerte en contacto con nosotros.
 

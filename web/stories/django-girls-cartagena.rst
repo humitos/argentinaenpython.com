@@ -24,10 +24,8 @@
 ----
 
 ¡Queremos animar a más mujeres a dominar la web! Es por eso que desde
-`Argentina en Python <https://argentinaenpython.com>`_ junto a `Python
-Cartagena <https://www.meetup.com/Python-Django-CTG/>`_ y `Django Girls Colombia 
-<https://www.facebook.com/djangogirlscolombia>`_ estamos
-organizando un taller en el cual podrás construir tu propio sitio web
+`Python Cartagena <https://www.meetup.com/Python-Django-CTG/>`_ y `Django Girls Colombia 
+<https://www.facebook.com/djangogirlscolombia>`_ junto con el apoyo de `Argentina en Python <https://argentinaenpython.com>`_ y la comunidad de Python Colombia estamos organizando un taller en el cual podrás construir tu propio sitio web
 *desde cero* en un día. Además, vamos a utilizar todas las
 herramientas que programadores profesionales utilizan diariamente. ¡Y
 de una manera muy sencilla!
@@ -86,12 +84,12 @@ mujer con vos que también realice el taller [#]_.
 ¿Dónde y cuándo?
 ----------------
 
-* Lugar: Por definir, en Cartagena, Colombia.
+* Lugar: `UNICOLOMBO <http://www.unicolombo.edu.co/>`_ en Avenida Pedro de Heredia. Sector 4 vientos. No. 31-50, en Cartagena, Colombia.
 
 * Fecha: Sábado 14 de Octubre de 2017 de 8:30hs (¡puntual!) a 19:00hs.
 
 .. template:: iframe
-   :src: http://www.openstreetmap.org/export/embed.html?bbox=-75.53744316101076%2C10.41330168615115%2C-75.52240133285524%2C10.425942878083998&amp;layer=mapnik
+   :src: http://www.openstreetmap.org/export/embed.html?bbox=-75.50286948680879%2C10.40621057608779%2C-75.50098925828935%2C10.407790789053879&amp;layer=mapnik&amp;marker=10.407000683571374%2C-75.50192937254906
 
 
 .. sidebar:: Contacto
@@ -159,13 +157,13 @@ Timeline (*línea de tiempo*)
 
 .. class:: col-md-4
 
-   Tienes tiempo hasta el **3 de Septiembre** para inscribirte. Te
+   Tienes tiempo hasta el **21 de Septiembre** para inscribirte. Te
    recomendamos leer la paǵina de forma completa y prestar mucha
    atención en el formulario.
 
 .. class:: col-md-4
 
-   El **5 de Septiembre** anunciaremos los participantes que fueron
+   El **24 de Septiembre** anunciaremos los participantes que fueron
    **CONFIRMADOS** para participar en el taller, como así también los
    que están en **LISTA DE ESPERA**. Ese día debes revisar tu correo
    electrónico buscando un email nuestro en *Bandeja de Entrada*, *Promociones* y
@@ -173,7 +171,7 @@ Timeline (*línea de tiempo*)
 
 .. class:: col-md-4
 
-   El **14 de Septiembre** anunciaremos los participantes que estaban en
+   El **4 de Octubre** anunciaremos los participantes que estaban en
    LISTA DE ESPERA y que han pasado a estar **CONFIRMADOS**. Si
    estabas en LISTA DE ESPERA es un buen momento para revisar tu correo
    electrónico.
@@ -289,14 +287,18 @@ contigo para coordinar los detalles.
    <div class="section-organizadores">
 
 .. template:: bootstrap3/django-girls-guia
-   :name: John Jairo Roa
-   :image: guia-jhonjairo.png
-   :place: Bogotá, Colombia
-   :community: Python Colombia
-   :web: https://about.me/jhonjairoroa87
-   :github: https://github.com/jhonjairoroa87
-   :twitter: https://twitter.com/jhonjairoroa87
-   :facebook: https://www.facebook.com/johnroa87
+   :name: Ana Elles
+   :image: guia-ana.jpeg
+   :place: Cartagena, Colombia
+   :community: Python Cartagena
+   :twitter: https://twitter.com/alelles16
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Javier Cardenas
+   :image: guia-javierc.jpeg
+   :place: Cartagena, Colombia
+   :community: Python Cartagena
+   :github: https://github.com/jdash99
 
 .. template:: bootstrap3/django-girls-guia
    :name: Javier Daza
@@ -310,18 +312,14 @@ contigo para coordinar los detalles.
    :facebook: 
 
 .. template:: bootstrap3/django-girls-guia
-   :name: Ana Elles
-   :image: guia-ana.jpeg
-   :place: Cartagena, Colombia
-   :community: Python Cartagena
-   :twitter: https://twitter.com/alelles16
-
-.. template:: bootstrap3/django-girls-guia
-   :name: Javier Cardenas
-   :image: guia-javierc.jpeg
-   :place: Cartagena, Colombia
-   :community: Python Cartagena
-   :github: https://github.com/jdash99
+   :name: John Jairo Roa
+   :image: guia-jhonjairo.png
+   :place: Bogotá, Colombia
+   :community: Python Colombia
+   :web: https://about.me/jhonjairoroa87
+   :github: https://github.com/jhonjairoroa87
+   :twitter: https://twitter.com/jhonjairoroa87
+   :facebook: https://www.facebook.com/johnroa87
 
 .. raw:: html
 
@@ -367,18 +365,15 @@ contigo para coordinar los detalles.
    :facebook: https://www.facebook.com/argentinaenpython
 
 .. template:: bootstrap3/django-girls-guia
-   :name: ¡Quiero colaborar!
-   :image: guia-nnmujer.png
-   :place: 
-   :community: 
-   :web: 
-   :github: 
-   :twitter: 
-   :facebook:
+   :name: Jesus Rodríguez
+   :image: guia-jesus.png
+   :place: Cartagena, Colombia
+   :email: marymuchy@gmail.com
+   :community: Python Cartagena
 
 .. template:: bootstrap3/django-girls-guia
    :name: ¡Quiero colaborar!
-   :image: guia-nnhombre.png
+   :image: guia-nnmujer.png
    :place: 
    :community: 
    :web: 

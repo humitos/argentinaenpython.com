@@ -367,14 +367,11 @@ contigo para coordinar los detalles.
    :community: Python Cartagena
 
 .. template:: bootstrap3/django-girls-guia
-   :name: ¡Quiero colaborar!
-   :image: guia-nnmujer.png
-   :place: 
-   :community: 
-   :web: 
-   :github: 
-   :twitter: 
-   :facebook: 
+   :name: Belsy Castillo
+   :image: belsy.png
+   :place: Cartagena, Colombia
+   :email: belcislilianac@gmail.com
+   :community: Python Cartagena
 
 .. raw:: html
 

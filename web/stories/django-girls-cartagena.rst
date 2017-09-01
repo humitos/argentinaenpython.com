@@ -242,6 +242,7 @@ contigo para coordinar los detalles.
    :image: guia-cesar.png
    :place: Barranquilla
    :community: Python Barranquilla
+   :web: http://pybaq.co
    :twitter: https://twitter.com/CesarAu0619  
 
 .. template:: bootstrap3/django-girls-guia
@@ -363,18 +364,13 @@ contigo para coordinar los detalles.
    :name: Jesus Rodríguez
    :image: guia-jesus.png
    :place: Cartagena, Colombia
-   :email: marymuchy@gmail.com
    :community: Python Cartagena
 
 .. template:: bootstrap3/django-girls-guia
-   :name: ¡Quiero colaborar!
-   :image: guia-nnmujer.png
-   :place: 
-   :community: 
-   :web: 
-   :github: 
-   :twitter: 
-   :facebook: 
+   :name: Belsy Castillo
+   :image: belsy.png
+   :place: Cartagena, Colombia
+   :community: Python Cartagena
 
 .. raw:: html
 

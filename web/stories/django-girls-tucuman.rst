@@ -251,6 +251,16 @@ contigo para coordinar los detalles.
    :image: PR.png
    :place: Tucumán
 
+.. template:: bootstrap3/django-girls-guia
+   :name: Asaye Analía
+   :image: AS.png
+   :place: Jujuy
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Ramos Ariel Silvio
+   :image: AR.png
+   :place: Salta
+
 .. raw:: html
 
    </div>

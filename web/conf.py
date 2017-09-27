@@ -324,7 +324,10 @@ DATE_FANCINESS = 2
 # LOCALE_DEFAULT = locale to use for languages not mentioned in LOCALES; if
 # not set the default Nikola mapping is used.
 
-# LOCALES = {}
+LOCALES = {
+    'es': 'es_AR.utf8',
+    'en': 'en_US.utf8',
+}
 # LOCALE_FALLBACK = None
 # LOCALE_DEFAULT = None
 

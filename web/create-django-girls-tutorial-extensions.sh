@@ -14,6 +14,11 @@ gitbook build
 
 
 # PDF
+
+# we need to run first aep python version (3.6.2) and then the system
+# one (because calibre needs Python2 from the system
+pyenv local aep system
+
 # this needs calibre since it uses `ebook-convert`
 # https://trello.com/c/JWgZfauR/24-create-pdf-con-gitbook
 gitbook pdf

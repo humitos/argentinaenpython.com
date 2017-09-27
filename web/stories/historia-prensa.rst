@@ -19,6 +19,13 @@ Año 2017
 
 
 .. template:: prensa-image
+   :title: Our Django Girls workshop
+   :description: Blog post por Jorge Namour
+   :src: 2017_septiembre_0-340x255.png
+   :href: http://blog.djangogirls.org/post/165656387217/this-blog-post-was-written-by-jorge-namour-thank
+
+
+.. template:: prensa-image
    :title: El Heraldo
    :description: Programación web para mujeres en Barranquilla
    :src: 2017_mayo_0-340x255.png

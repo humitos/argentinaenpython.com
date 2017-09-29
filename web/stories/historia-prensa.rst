@@ -19,6 +19,12 @@ Año 2017
 
 
 .. template:: prensa-image
+   :title: Keynote Speaker PyCon Brasil 2017
+   :description: Argentina en Python: comunidad, sueños, viajes y aprendizaje
+   :src: 2017_octubre_0-340x255.png
+   :href: http://2017.pythonbrasil.org.br/
+
+.. template:: prensa-image
    :title: Our Django Girls workshop
    :description: Blog post por Jorge Namour
    :src: 2017_septiembre_0-340x255.png

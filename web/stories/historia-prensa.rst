@@ -26,6 +26,13 @@ Año 2017
 
 
 .. template:: prensa-image
+   :title: ¿Cómo fue organizar el primer Django Girls Barranquilla?
+   :description: Blog post por Javier Daza
+   :src: 2017_agosto_0-340x255.png
+   :href: http://pybaq.co/blog/como-fue-organizar-primer-django-girls-barranquilla/
+
+
+.. template:: prensa-image
    :title: El Heraldo
    :description: Programación web para mujeres en Barranquilla
    :src: 2017_mayo_0-340x255.png

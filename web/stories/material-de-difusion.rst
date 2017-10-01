@@ -24,7 +24,7 @@ Logo Argentina en Python
 * `Logo 256x244 <logo-argenpython-237x246.png>`_ (png transparente)
 * `Logo 512x489 <logo-argenpython-528x504.png>`_ (png transparente)
 * `Logo 1024x978 <logo-argenpython-1024x978-fondo-blanco.png>`_ (png fondo blanco)
-* `Logo Escalable <logo_oficial.svg>`_ (svg)
+* `Logo Escalable <logo-oficial-argenpython.svg>`_ (svg)
 
 
 ----

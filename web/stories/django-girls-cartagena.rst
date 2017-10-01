@@ -275,7 +275,7 @@ contigo para coordinar los detalles.
    :name: Carlos Arturo Pimentel
    :place: Bucaramanga
    :github: https://github.com/carlosp81
-   :image: guia-nnhombre.png
+   :image: guia-carlosarturo.png
 
 .. raw:: html
 

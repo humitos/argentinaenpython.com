@@ -7,7 +7,7 @@
 
    <style>
      div.el-equipo-extra {
-       min-height: 415px;
+       min-height: 420px;
      }
    </style>
 

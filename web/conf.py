@@ -779,8 +779,9 @@ def resize_historia_prensa_images(filename):
         # from doit import tools
         # tools.set_trace()
         # TODO: use the OUTPUT variable here
-        cmd = "convert -resize 340x -crop 340x255+0 '{}' output/historia/prensa/`basename '{}' .png`-340x255.png"
-        cmd = cmd.format(abspath, abspath)
+        _, ext = os.path.splitext(filename)
+        cmd = "convert -resize 340x -crop 340x255+0 '{}' output/historia/prensa/`basename '{}' {}`-340x255{}"
+        cmd = cmd.format(abspath, abspath, ext, ext)
         os.system(cmd)
 
 
@@ -794,6 +795,8 @@ FILTERS = {
     #     new_email=BLOG_EMAIL.replace('@', 'ð').replace('.', 'ø')
     # )],
     '.png': [resize_historia_prensa_images],
+    '.jpeg': [resize_historia_prensa_images],
+    '.jpg': [resize_historia_prensa_images],
 }
 
 # Expert setting! Create a gzipped copy of each generated file. Cheap server-

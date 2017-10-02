@@ -39,6 +39,13 @@ Año 2017
 
 
 .. template:: prensa-image
+   :title: Django Girls: cuando la programación es cosa de mujeres
+   :description: Entrevista a Florencia Rosas de Mendoza, Argentina
+   :src: 2017_junio_0-340x255.png
+   :href: http://www.mdzol.com/nota/740702/
+
+
+.. template:: prensa-image
    :title: El Heraldo
    :description: Programación web para mujeres en Barranquilla
    :src: 2017_mayo_0-340x255.png

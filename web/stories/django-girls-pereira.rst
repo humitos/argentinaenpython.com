@@ -1,6 +1,6 @@
 .. title: Taller Django Girls en Pereira
 .. slug: django-girls/2017/12/pereira
-.. date: 2017-10-30 00:16:45 UTC-05:00
+.. date: 2017-09-30 00:16:45 UTC-05:00
 .. tags: eventos, django girls, django, taller, python, pereira, programación, colombia
 .. category: 
 .. link: 

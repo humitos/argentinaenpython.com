@@ -85,12 +85,12 @@ mujer con vos que también realice el taller [#]_.
 ¿Dónde y cuándo?
 ----------------
 
-* Lugar: Pereira, Colombia.
+* Lugar: `Auditorio Mecánica - Universidad Tecnológica de Pereira <http://utp.edu.co/>`_, en la Carrera 27 # 10-02 Barrio Alamos Pereira, Colombia.
 
 * Fecha: Sábado 02 de Diciembre de 2017 de 8:30hs (¡puntual!) a 19:00hs.
 
 .. template:: iframe
-   :src: https://www.openstreetmap.org/export/embed.html?bbox=-76.04324340820314%2C4.631863743750568%2C-75.51727294921875%2C4.996554018613109&amp;layer=mapnik&amp;marker=4.814233319066415%2C-75.78025817871094
+   :src: https://www.openstreetmap.org/export/embed.html?bbox=-75.68912476301195%2C4.794986601117841%2C-75.68815916776659%2C4.795587985748816&amp;layer=mapnik&amp;marker=4.795287293499522%2C-75.68864196538925
 
 
 .. sidebar:: Contacto
@@ -157,13 +157,13 @@ Timeline (*línea de tiempo*)
 
 .. class:: col-md-4
 
-   Tienes tiempo hasta el **10 de Noviembre** para inscribirte. Te
-   recomendamos leer la paǵina de forma completa y prestar mucha
+   Tienes tiempo hasta el **14 de Noviembre** para inscribirte. Te
+   recomendamos leer la página de forma completa y prestar mucha
    atención en el formulario.
 
 .. class:: col-md-4
 
-   El **12 de Noviembre** anunciaremos los participantes que fueron
+   El **15 de Noviembre** anunciaremos los participantes que fueron
    **CONFIRMADOS** para participar en el taller, como así también los
    que están en **LISTA DE ESPERA**. Ese día debes revisar tu correo
    electrónico buscando un email nuestro en *Bandeja de Entrada*, *Promociones* y
@@ -171,7 +171,7 @@ Timeline (*línea de tiempo*)
 
 .. class:: col-md-4
 
-   El **22 de Noviembre** anunciaremos los participantes que estaban en
+   El **21 de Noviembre** anunciaremos los participantes que estaban en
    LISTA DE ESPERA y que han pasado a estar **CONFIRMADOS**. Si
    estabas en LISTA DE ESPERA es un buen momento para revisar tu correo
    electrónico.
@@ -187,15 +187,6 @@ Timeline (*línea de tiempo*)
    email en las fechas establecidas) hace que pierdas el cupo que se
    te fue asignado para participar del taller y ese puesto será
    re-asignado a una de las personas en LISTA DE ESPERA.
-
-
-.. class:: alert alert-danger
-
-   ¡**Atención**!: hemos alcanzado el cupo máximo de inscriptos para
-   el taller. Sin embargo, si estás interesada en participar,
-   inscribite y pasarás automáticamente a una lista de espera que, en
-   caso de que alguien no pueda asistir, nos estaremos comunicando con
-   vos para informarte.!
 
 .. template:: bootstrap3/button
    :href: https://goo.gl/forms/a3rDQ9A193fELk8e2

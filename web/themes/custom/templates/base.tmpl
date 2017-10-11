@@ -1,5 +1,6 @@
 ## -*- coding: utf-8 -*-
 <%namespace name="base" file="base_helper.tmpl" import="*" />
+<%namespace name="nav" file="nav_helper.tmpl" import="*" />
 <%namespace name="footer" file="base_footer.tmpl" import="*" />
 <%namespace name="notes" file="annotation_helper.tmpl" import="*" />
 ${set_locale(lang)}
@@ -43,8 +44,17 @@ ${template_hooks['extra_head']()}
             %endif
 
             <ul class="nav navbar-nav navbar-right">
+                <!-- This needs more work -->
                 <%block name="belowtitle">
-                %if len(translations) > 1:
+                %if len(translations) > 2:
+                    <li class="dropdown">
+                      <a class="dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Languages
+                        <b class="caret"></b>
+                      </a>
+                      <ul class="dropdown-menu">${nav.html_translations()}</ul>
+                    </li>
+                %elif len(translations) == 2:
                     <li>${base.html_translations()}</li>
                 %endif
                 </%block>

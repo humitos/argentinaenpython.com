@@ -23,6 +23,7 @@ BLOG_AUTHOR = 'Manuel Kaufmann'  # (translatable)
 BLOG_TITLE = {
     'es': 'Argentina en Python',
     'en': 'Argentina in Python',
+    'pt': 'Argentina em Python',
 }
 # This is the main URL for your site. It will be used
 # in a prominent link
@@ -34,6 +35,7 @@ BLOG_EMAIL = 'argentinaenpython@openmailbox.org'
 BLOG_DESCRIPTION = {
     'es': 'Recorre latinoamerica y el mundo compartiendo conocimiento, Python y su filosofía',
     'en': 'Travel around latinamerica and the world sharing knowledge, Python and its philosophy',
+    'pt': 'Explore a América Latina e o mundo, compartilhando conhecimento, Python e sua filosofia',
 }  # yapf: disable
 
 # Nikola is multilingual!
@@ -104,6 +106,7 @@ TRANSLATIONS = {
     # Example for another language:
     # "es": "./es",
     'en': './en',
+    'pt': './pt',
 }
 
 # What will translated input files be named like?

@@ -399,7 +399,7 @@ contigo para coordinar los detalles.
 Con el Apoyo de
 ---------------
 
-.. image:: sponsors.jpeg
+.. image:: sponsors.png
    :align: center
 
 ----

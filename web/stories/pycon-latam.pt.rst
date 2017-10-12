@@ -10,7 +10,7 @@
 Este ano, na PyCon USA, um grupo de ~10 pessoas organizou um espaço
 aberto para falar sobre a idéia da PyCon Latam e compartilhar
 experiências sobre PyCons em diferentes municípios. Havia
-pessoas presentes de México, Argentina, Rep;ublica Dominicana, Uruguai,
+pessoas presentes de México, Argentina, República Dominicana, Uruguai,
 Colômbia e muito mais.
 
 Naquele momento, compartilhamos e-mails e começamos a conversar sobre

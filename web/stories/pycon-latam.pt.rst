@@ -7,6 +7,10 @@
 .. description: 
 .. type: text
 
+.. class:: align-right small
+
+   *Esta tradução foi feita por* ` Marco Rougeth <https://github.com/rougeth>`_
+
 Este ano, na PyCon USA, um grupo de ~10 pessoas organizou um espaço
 aberto para falar sobre a idéia da PyCon Latam e compartilhar
 experiências sobre PyCons em diferentes municípios. Havia

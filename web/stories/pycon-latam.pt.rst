@@ -7,39 +7,39 @@
 .. description: 
 .. type: text
 
-Este ano, na PyCon USA, um grupo de ~ 10 pessoas organizou um espaço
-aberto para falar sobre a idéia de PyCon Latam e compartilhar
-experiências sobre PyCon diferente em diferentes municípios. Havia
-pessoas presentes de México, Argentina, Dominic Republic, Uruguai,
+Este ano, na PyCon USA, um grupo de ~10 pessoas organizou um espaço
+aberto para falar sobre a idéia da PyCon Latam e compartilhar
+experiências sobre PyCons em diferentes municípios. Havia
+pessoas presentes de México, Argentina, República Dominicana, Uruguai,
 Colômbia e muito mais.
 
-Naquele momento, decidimos compartilhar e-mails e começar a falar
-sobre isso Mas não avançamos muito sobre esse assunto. Na verdade, nós
-nem sequer decidiu o caminho da comunicação para a qual íamos
-use. Finalmente, providenciaremos o lugar mais adequado para isso Seja
-um canal Slack dentro do oficial PSF Slack: https://thepsf.slack.com
+Naquele momento, compartilhamos e-mails e começamos a conversar sobre
+isso. Mas não avançamos muito sobre o assunto. Na verdade, nós nem
+decidimos o canal de comunicação que iríamos usar. Decidimos que o
+lugar mais adequado para isso seria um canal no Slack oficial da Python
+Software Foundation: https://thepsf.slack.com.
 
-Enfim, nada aconteceu.
+Mesmo assim, nada aconteceu.
 
 Algum tempo depois, viajei para `Python Brasil[13]
-<http://2017.pythonbrasil.org.br/>`_ e muitas pessoas me perguntou
-"Quando vamos ter um PyCon Latam?" e eu disse: "Ei Muitas pessoas
-estão interessadas em começar a falar sobre isso. Me dê seu e-mail e
-vou tentar fazer você se comunicar. "
+<http://2017.pythonbrasil.org.br/>`_ e muitas pessoas me perguntaram
+"Quando teremos uma PyCon Latam?" e eu disse: "Ei! Muitas pessoas
+estão interessadas em uma PyCon Latam. Me dê seu e-mail que vou tentar
+comunicar todas vocês".
 
-Alguns dias depois disso, *Vandy BoBandy* certou isso e explodiu:
+Alguns dias depois disso, um twite do *Vandy BoBandy* explodiu:
 
 .. media:: https://twitter.com/argentinomota/status/917442410568998912
 
 Finalmente, perguntei a Ewa (diretor de operações da PSF) e ela me deu
-luz verde para criar este canal Slack sob o PSF oficial Slack. Então,
-neste momento eu estou coletando a lista de discussão da pessoas
-interessadas nesta incrível ideia lista na próxima semana (s) para
-abrir este canal e, finalmente, torná-lo acontecer
+luz verde para criar o canal no Slack oficial da PSF. Então, neste
+momento eu estou coletando a lista de emails da pessoas interessadas
+nesta incrível ideia na próxima semanas para então conectar todo mundo
+e enfim dar os primeiros passos da PyCon Latam!
 
 .. media:: https://twitter.com/argenpython/status/918206197337149442
            
 Espero que você se junte a nós (enviando um e-mail para
-argentinaenpython@gmail.com ou Twitter, mensagem direta para
+argentinaenpython@gmail.com ou uma mensagem direta no Twitter para
 @argenpython) e podemos trabalhar juntos para faça deste sonho uma
 realidade.

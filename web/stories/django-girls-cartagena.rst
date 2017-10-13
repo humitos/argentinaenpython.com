@@ -277,6 +277,15 @@ contigo para coordinar los detalles.
    :github: https://github.com/carlosp81
    :image: guia-carlosarturo.png
 
+.. template:: bootstrap3/django-girls-guia
+   :name: Dario Guzman
+   :place: Barranquilla
+   :github: https://github.com/gudarjs
+   :twitter: https://twitter.com/gudarjs
+   :community: Python Barranquilla
+   :web: http://pybaq.co
+   :image: guia-dario.png
+
 .. raw:: html
 
    </div>
@@ -399,7 +408,7 @@ contigo para coordinar los detalles.
 Con el Apoyo de
 ---------------
 
-.. image:: sponsors.jpeg
+.. image:: sponsors.png
    :align: center
 
 ----

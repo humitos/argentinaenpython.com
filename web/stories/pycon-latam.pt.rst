@@ -45,5 +45,5 @@ e enfim dar os primeiros passos da PyCon Latam!
            
 Espero que você se junte a nós (enviando um e-mail para
 argentinaenpython@gmail.com ou uma mensagem direta no Twitter para
-@argenpython) e podemos trabalhar juntos para faça deste sonho uma
+@argenpython) e podemos trabalhar juntos para fazer deste sonho uma
 realidade.

@@ -24,5 +24,5 @@ cp _book/django-girls-coach.es.pdf /home/humitos/Source/argentinaenpython.com.ar
 cd -
 
 # create symbolic link to the GitBook Django Girls Tutorial Translation
-rm -f output/django-girls/manual-de-guia
+rm -rf output/django-girls/manual-de-guia
 ln -sf ../../../djangogirls/coach-manual/traducidos/_book output/django-girls/manual-de-guia

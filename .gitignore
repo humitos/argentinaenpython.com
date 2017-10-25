@@ -69,9 +69,13 @@ web/tmp
 
 *_flymake.py
 *.bak
+web/.doit.db.db
 web/.doit.db.dat
 web/.doit.db.dir
 web/django-girls-recursos.zip
 web/files/django-girls/django-girls-recursos.zip
 web/galleries
 web/@djangogirls
+
+# OSX specific
+.DS_Store

@@ -389,16 +389,13 @@ contigo para coordinar los detalles.
   :community: Vivelab Ibagué
   :facebook: https://www.facebook.com/gandy.saavedra
 
-
 .. template:: bootstrap3/django-girls-guia
-  :name: ¡Quiero colaborar!
-  :image: nn-hombre-180x180.png
-  :place:
-  :community:
-  :web:
-  :github:
-  :twitter:
-  :facebook:
+  :name: Adriana Matallana
+  :image: colaboradora-adriana.png
+  :place: Ibagué, Colombia
+  :email: Adriana.matallana@hotmail.com
+  :community: UCC sede Ibagué
+  :facebook: https://www.facebook.com/AdrianaMatallanaM
 
 .. raw:: html
 

@@ -1,6 +1,6 @@
 .. title: Taller Django Girls en Ibagué
 .. slug: django-girls/2017/12/ibague
-.. date: 2017-09-30 00:16:45 UTC-05:00
+.. date: 2017-10-25 00:16:45 UTC-05:00
 .. tags: eventos, django girls, django, taller, python, ibagué, programación, colombia
 .. category: 
 .. link: 
@@ -18,7 +18,7 @@
    espera*. Por favor, revisa tu correo electrónico (incluso en la
    carpeta SPAM / Correo no deseado) para verificar tu situación.
 
-.. image:: portada-argentinaenpython-ibague.png
+.. image:: portada.png
    :align: center
 
 ----
@@ -368,14 +368,14 @@ contigo para coordinar los detalles.
 
 .. template:: bootstrap3/django-girls-guia
   :name:  Carlos Mario Poveda
-  :image: organizador-carlos.png
+  :image: colaborador-carlos.png
   :place: Ibagué, Colombia
   :email: capoveda92@gmail.com
   :community: Vivelab Ibagué
 
 .. template:: bootstrap3/django-girls-guia
   :name: Juan Sebastian Salazar
-  :image: organizador-juan.png
+  :image: colaborador-juan.png
   :place: Ibagué, Colombia
   :email: juanssalazar@gmail.com
   :community: Vivelab Ibagué
@@ -383,7 +383,7 @@ contigo para coordinar los detalles.
 
 .. template:: bootstrap3/django-girls-guia
   :name: Gandy Javier Marroquin
-  :image: organizador-gandy.png
+  :image: colaborador-gandy.png
   :place: Ibagué, Colombia
   :email: daymios1@gmail.com
   :community: Vivelab Ibagué
@@ -407,13 +407,13 @@ contigo para coordinar los detalles.
 
 
 Patrocinadores
-----------------
+---------------
 
 .. image:: patrocina.png
    :align: center
 
 Con el apoyo de
-----------------
+---------------
 
 .. image:: apoya.png
    :align: center

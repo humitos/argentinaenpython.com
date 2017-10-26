@@ -112,7 +112,7 @@ Ten en cuenta que...
   asistir.
 
 * ... te recomendamos seguirnos en Twitter `@argenpython
-  <https://twitter.com/argenpython>`_ `@DjangoGirlsCo <https://www.twitter.com/djangogirlscolombia/>`__, `@PythonIbague <https://twitter.com/pythonibague/>`__ y/o Facebook `Argentina en Python <https://facebook.com/argentinaenpython/>`__, `Django Girls Colombia <https://www.facebook.com/djangogirlscolombia/>`__, `Python Ibagué <https://www.facebook.com/pythonibague/>`__,  donde publicaremos novedades sobre el evento.
+  <https://twitter.com/argenpython>`_ `@DjangoGirlsCo <https://www.twitter.com/djangogirlsco/>`__, `@PythonIbague <https://twitter.com/pythonibague/>`__ y/o Facebook `Argentina en Python <https://facebook.com/argentinaenpython/>`__, `Django Girls Colombia <https://www.facebook.com/djangogirlscolombia/>`__, `Python Ibagué <https://www.facebook.com/pythonibague/>`__,  donde publicaremos novedades sobre el evento.
 
 * ... no es necesario saber programar o tener algún conocimiento
   previo de programación.

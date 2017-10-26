@@ -285,6 +285,27 @@ contigo para coordinar los detalles.
    <div class="section-organizadores">
 
 .. template:: bootstrap3/django-girls-guia
+  :name: Johanna Sanchez
+  :image: organizador-johanna.png
+  :place: Armenia, Colombia
+  :email: ellaquimica@gmail.com
+  :community: Argentina en Python y Django Girls Colombia
+  :web: https://argentinaenpython.com/
+  :github: https://github.com/ellaquimica/
+  :twitter: https://twitter.com/ellaquimica
+  :facebook: https://www.facebook.com/argentinaenpython
+
+.. template:: bootstrap3/django-girls-guia
+  :name: John Jairo Roa
+  :image: organizador-jhonjairo.png
+  :place: Bogotá, Colombia
+  :community: Python Colombia
+  :web: https://about.me/jhonjairoroa87
+  :github: https://github.com/jhonjairoroa87
+  :twitter: https://twitter.com/jhonjairoroa87
+  :facebook: https://www.facebook.com/johnroa87
+
+.. template:: bootstrap3/django-girls-guia
    :name: Gonzalo Peña Castellanos
    :image: organizador-gonzalo.png
    :place: Bucaramanga, Colombia
@@ -302,30 +323,6 @@ contigo para coordinar los detalles.
    :email: jhonvargas85@gmail.com
    :community: Vivelab Ibagué
    :facebook: https://www.facebook.com/johnalexander.vargasgraciano
-
-.. template:: bootstrap3/django-girls-guia
-  :name:  Carlos Mario Poveda
-  :image: organizador-carlos.png
-  :place: Ibagué, Colombia
-  :email: capoveda92@gmail.com
-  :community: Vivelab Ibagué
-
-.. template:: bootstrap3/django-girls-guia
-  :name: Juan Sebastian Salazar
-  :image: organizador-juan.png
-  :place: Ibagué, Colombia
-  :email: juanssalazar@gmail.com
-  :community: Vivelab Ibagué
-  :facebook: https://www.facebook.com/salazarjuans
-
-.. template:: bootstrap3/django-girls-guia
-  :name: Gandy Javier Marroquin
-  :image: organizador-gandy.png
-  :place: Ibagué, Colombia
-  :email: daymios1@gmail.com
-  :community: Vivelab Ibagué
-  :facebook: https://www.facebook.com/gandy.saavedra
-
 
 .. raw:: html
 
@@ -370,25 +367,28 @@ contigo para coordinar los detalles.
    <div class="section-guia">
 
 .. template:: bootstrap3/django-girls-guia
-  :name: Johanna Sanchez
-  :image: organizador-johanna.png
-  :place: Armenia, Colombia
-  :email: ellaquimica@gmail.com
-  :community: Argentina en Python y Django Girls Colombia
-  :web: https://argentinaenpython.com/
-  :github: https://github.com/ellaquimica/
-  :twitter: https://twitter.com/ellaquimica
-  :facebook: https://www.facebook.com/argentinaenpython
+  :name:  Carlos Mario Poveda
+  :image: organizador-carlos.png
+  :place: Ibagué, Colombia
+  :email: capoveda92@gmail.com
+  :community: Vivelab Ibagué
 
 .. template:: bootstrap3/django-girls-guia
-  :name: John Jairo Roa
-  :image: organizador-jhonjairo.png
-  :place: Bogotá, Colombia
-  :community: Python Colombia
-  :web: https://about.me/jhonjairoroa87
-  :github: https://github.com/jhonjairoroa87
-  :twitter: https://twitter.com/jhonjairoroa87
-  :facebook: https://www.facebook.com/johnroa87
+  :name: Juan Sebastian Salazar
+  :image: organizador-juan.png
+  :place: Ibagué, Colombia
+  :email: juanssalazar@gmail.com
+  :community: Vivelab Ibagué
+  :facebook: https://www.facebook.com/salazarjuans
+
+.. template:: bootstrap3/django-girls-guia
+  :name: Gandy Javier Marroquin
+  :image: organizador-gandy.png
+  :place: Ibagué, Colombia
+  :email: daymios1@gmail.com
+  :community: Vivelab Ibagué
+  :facebook: https://www.facebook.com/gandy.saavedra
+
 
 .. template:: bootstrap3/django-girls-guia
   :name: ¡Quiero colaborar!

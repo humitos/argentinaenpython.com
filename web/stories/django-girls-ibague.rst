@@ -90,7 +90,7 @@ mujer contigo que también realice el taller [#]_.
 * Fecha: Sábado 02 de Diciembre de 2017 de 8:30hs (¡puntual!) a 19:00hs.
 
 .. template:: iframe
-   :src: http://www.openstreetmap.org/export/embed.html?bbox=-75.24454325437547%2C4.442408796260321%2C-75.24229288101198%2C4.444227216587721&amp;layer=mapnik&amp;marker=4.443318006984594%2C-75.24341806769371
+   :src: https://www.openstreetmap.org/export/embed.html?bbox=-75.24454325437547%2C4.442408796260321%2C-75.24229288101198%2C4.444227216587721&amp;layer=mapnik&amp;marker=4.443318006984594%2C-75.24341806769371
 
 .. sidebar:: Contacto
 

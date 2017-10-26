@@ -85,7 +85,7 @@ mujer contigo que también realice el taller [#]_.
 ¿Dónde y cuándo?
 ----------------
 
-* Lugar: `Vivelab Ibagué - Universidad Coperativa de Colombia sede Ibagué <https://www.ucc.edu.co/ibague>`_, en la Calle 10 # 1 - 64 Barrio Centro - Ibagué, Colombia.
+* Lugar: `Universidad Coperativa de Colombia sede Ibagué <https://www.ucc.edu.co/ibague>`_, en la Calle 10 # 1 - 64 Barrio Centro - Ibagué, Colombia.
 
 * Fecha: Sábado 02 de Diciembre de 2017 de 8:30hs (¡puntual!) a 19:00hs.
 

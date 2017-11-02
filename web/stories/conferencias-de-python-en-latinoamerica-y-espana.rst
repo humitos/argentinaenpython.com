@@ -1,5 +1,5 @@
 .. title: Conferencias de Python en Latinoamérica y España
-.. slug: conferencias-de-python
+.. slug: conferencias-de-python-en-latinoamerica-y-espana
 .. date: 2017-10-31 20:38:09 UTC-03:00
 .. tags: python, pycon, latinoamerica, conferencia
 .. category: 
@@ -7,9 +7,18 @@
 .. description: 
 .. type: text
 
+.. class:: align-right small
+
+   *Este post fue escrito por* `Johanna Sanchez <https://argentinaenpython.com/el-equipo/>`_, *Co-Equiper del proyecto Argentina en Python*.
+
 .. epigraph::
 
    *"…más que una conferencia, un espacio para compartir y expandir tu mundo de ideas y conocimiento"*
+
+
+Este post tiene como objetivo compartir una pequeña recopilación de información sobre las conferencias de programación en Python que se realizan en Latinoamerica y España, a lo largo de estos dos últimos años y de haber participado en varias conferencias, organización de talleres de programación para mujeres, meetups y charlas informales. He notado que muchas personas desconocen las existencia de estas conferencias y como participar de estas.
+
+Muchas otras, no se animan por que consideran que es solo para profesionales o personas con conocimiento avanzado del tema. Desconocen la calidez de la comunidad de Python en cualquier país y también que la conferencia abarca todos los niveles de conocimiento desde principiante a avanzado.
 
 
 PyCon – Connecting the Python [1]_
@@ -67,14 +76,14 @@ Se realiza en **Febrero**, la ciudad en la cual se realiza la conferencia va cam
 
 Este es un comentario a nivel personal, en el 2017 tuve la posibilidad de unirme al equipo de organizadores de la `PyCon Colombia 2018 <https://www.pycon.co/>`_ y aportar mi granito de arena ha sido una linda experiencia. 
 
-`PyCaribbean – Puerto Rico <pycaribbean.com>`_
+`PyCaribbean <http://pycaribbean.com>`_
 ---------------------------------------------- 
 
-Se realiza en **Febrero**, cuenta con el histórico de tres conferencias organizadas en Puerto Rico.
+Se realiza en **Febrero**, cuenta con el histórico de tres conferencias organizadas.
 
-* 2016 – Febrero 20, 21 y 22 en Santo Domingo
-* 2017 – Febrero 18 y 19 en Bayamón
-* `2018 – Febrero 17 y 18 en en Santo Domingo <pycaribbean.com>`_
+* 2016 – Febrero 20, 21 y 22 en Santo Domingo, República Dominicana
+* 2017 – Febrero 18 y 19 en Bayamón, Puerto Rico
+* `2018 – Febrero 17 y 18 en  Santo Domingo, República Dominicana <http://pycaribbean.com>`_
 
 `Python Brasil <http://python.org.br/>`_
 ----------------------------------------
@@ -103,7 +112,7 @@ Algo importante que me gustaría resaltar de esta conferencia es el gran esfuerz
 * `2017 – Python Brasil [13], Octubre 6 al 11 en Belo Horizonte <http://2017.pythonbrasil.org.br/>`_
 * `2018 – Python Brasil [14], Octubre 17 al 22 en Natal <http://2018.pythonbrasil.org.br/>`_
 
-Si te preocupas de no entender mucho el Portugués, quedate tranquilo casi todos hablan ingles y Portuñol(mezcla de español y portugués). 
+Si te preocupas de no entender mucho el Portugués, quedate tranquilo casi todos hablan ingles y Portuñol (mezcla de español y portugués). 
 
 Tuve la suerte de poder participar en la versión de PyBR13 y me la disfrute al máximo, aún sin saber portugués. 
 
@@ -123,11 +132,11 @@ Python Nordeste
 
 Python Nordeste es el mayor encuentro de la región noreste para la comunidad Python, que ocurre anualmente en ciudades del nordeste de Brasil. Esta conferencia cuenta con un histórico de 5 conferencias organizadas.
 
-* 2013 – `Mayo 24 y 25 en Fortaleza <http://2013.pythonnordeste.org/>`_
-* 2014 – `Mayo 1 al 3 en Salvador <http://2014.pythonnordeste.org/>`_
-* 2015 – `Mayo 14 al16 en Natal  <http://2015.pythonnordeste.org/>`_
-* 2016 – `Junio 9 al 11 en Teresina <http://2016.pythonnordeste.org/>`_
-* 2017 – `Junio 8 al 10  en São Luís <http://2017.pythonnordeste.org/>`_
+* `2013 – Mayo 24 y 25 en Fortaleza <http://2013.pythonnordeste.org/>`_
+* `2014 – Mayo 1 al 3 en Salvador <http://2014.pythonnordeste.org/>`_
+* `2015 – Mayo 14 al16 en Natal  <http://2015.pythonnordeste.org/>`_
+* `2016 – Junio 9 al 11 en Teresina <http://2016.pythonnordeste.org/>`_
+* `2017 – Junio 8 al 10  en São Luís <http://2017.pythonnordeste.org/>`_
 
 PyCon Amazonía
 **************
@@ -140,10 +149,9 @@ Su primera versión se realizó en Agosto.
 `PyCon Argentina – PyConAR <http://ar.pycon.org/>`_
 ---------------------------------------------------
 
-Se realiza en **Noviembre**, la ciudad en la cual se realiza la conferencia va cambiando a lo largo del país, ya que su filosofía de comunidad es ser federal.
+Se realiza en **Noviembre**, la ciudad en la cual se realiza la conferencia va cambiando a lo largo del país, ya que su filosofía de comunidad es ser federal. Esta conferencia cuenta con un histórico de 9 conferencias realizadas y es *una de las pocas conferencias que es gratuita en Latinoamérica*.
 
-Es una de las pocas conferencias que es gratuita en Latinoamérica.
-
+* 2009 – Septiembre 4 y 5 en Buenos Aires
 * `2010 – Octubre 15 y 16 en Córdoba <http://www.web2py.com.ar/2010/about/>`_
 * `2011 – Septiembre 23 y 24 en Buenos Aires <http://www.web2py.com.ar/2011>`_
 * `2012 – Noviembre 12 al 17 en Quilmes, Buenos Aires <http://www.web2py.com.ar/2012>`_
@@ -155,12 +163,19 @@ Es una de las pocas conferencias que es gratuita en Latinoamérica.
 
 En el 2014 fue mi primera PyCon y mi primer contacto con el lenguaje de programación en Python y su comunidad.  Así que me es imposible ser neutral y no demostrar mi cariño y gratitud por la comunidad de Python Argentina, donde me sentí tan cómoda y acogida por cada uno de la comunidad que participaba en la conferencia y fue gracias a sentirme tan bien en la conferencia, que me anime a participar de una lightningtalk y decidí que yo debía ser parte de esta comunidad tan amigable. 
 
+PyCon Uruguay
+--------------
+Se realiza en **Noviembre** y cuenta con un histórico de dos conferencias realizadas.
+
+* 2012 – Noviembre 10 y 11 en Montevideo 
+* 2013 – Noviembre 1 y 2 en Montevideo
+
 Y finalmente nuestra última conferencia en español 
 
 `Pycon España – PyConES <https://2017.es.pycon.org/en/>`_
 ---------------------------------------------------------
 
-Se realiza entre **Septiembre y Noviembre**, va depender mucho del equipo organizador de la conferencia y la ciudad en la cual se realiza la conferencia va cambiando a lo largo del país. Esta conferencia cuenta con un histórico de 5 conferencias organizadas.
+Se realiza entre **Septiembre y Noviembre**, va a depender mucho del equipo organizador de la conferencia y la ciudad en la cual se realiza la conferencia va cambiando a lo largo del país. Esta conferencia cuenta con un histórico de 5 conferencias organizadas.
 
 * `2013 –  Noviembre 23 y 24 en Madrid <http://2013.es.pycon.org/>`_
 * `2014 –  Noviembre 8 y 9 en Zaragoza <http://2014.es.pycon.org/>`_
@@ -170,13 +185,14 @@ Se realiza entre **Septiembre y Noviembre**, va depender mucho del equipo organi
 
 En PyCon Es, su comunidad te recibe con los brazos abiertos, es una de las conferencias que tuve la oportunidad de participar en la versión 2016 gracias a una beca otorgada por la organización y la verdad que esta conferencia hizo que mi cerebro explotara de felicidad con el contenido de las diferentes charlas del track de ciencia, con el cual tenía más afinidad.
 
+Ahora que tocamos el tema de ciencia, también tenemos una conferencia para la comunidad que usan python en el ámbito de la ciencia.
 
 `SciPy Latin America <http://scipyla.org/es/>`_
 -----------------------------------------------
 
 Esta conferencia nuclea a la comunidad de Python en el **ámbito científico**, para centralizar la comunicación a nivel de Latinoamérica
 
-Pretende llegar a la comunidad académicos y  deempresas, para promover el uso de Python, intercambiar información, compartir experiencias y en general, ser el marco de referencia local en el uso y difusión de esta tecnología en la ciencia.
+Pretende llegar a la comunidad académicos y  de empresas, para promover el uso de Python, intercambiar información, compartir experiencias y en general, ser el marco de referencia local en el uso y difusión de esta tecnología en la ciencia.
 
 Sus objetivos son simples:
 
@@ -184,13 +200,13 @@ Sus objetivos son simples:
 * Fomentar la adopción de la informática como herramienta de estudio científico.
 * Fomentar el uso de Python como principal herramienta informática en la ciencia. [3]_
 
-Se realiza en el mes de **Mayo**, la idea es que cada país de latinoamerica sea anfitrion de esta conferencia.
+Se realiza en el mes de **Mayo**, la idea es que cada país de latinoamerica sea anfitrión de esta conferencia.
 
 * `2013 – Mayo 16 al 18 en Puerto Madrid, Argentina <http://scipyla.org/conf/2013/>`_
 * `2014 – Mayo en Bahía Blanca, Argentina <http://scipyla.org/conf/2014/>`_
 * `2015 – Mayo 20 al 22 en Posadas, Argentina <http://scipyla.org/conf/2015/>`_
 * `2016 – Mayo 16 al 20 en Florianópolis,Brasil <http://scipyla.org/conf/2016/>`_
-* `2017 – Noviembre 22 al 25 en Cuba <http://scipyla.org/conf/2017/>`_
+* `2017 – Noviembre 22 al 25 en La Habana, Cuba <http://scipyla.org/conf/2017/>`_
  
 
 En la versión de `SciPy Latin America de 2015 <http://scipyla.org/conf/2015/>`_, tuve la oportunidad de asistir y aportar a la conferencia de la mano con el proyecto Argentina en Python generando el espacio `Track Teen <https://argentinaenpython.com/track-teen-scipy-la-2015/>`_ en el marco de la conferencia
@@ -201,13 +217,9 @@ En la versión de `SciPy Latin America de 2015 <http://scipyla.org/conf/2015/>`_
 
 ----
 
-Volviendo a los rasgos generales de las PyCon en Latinoamérica y España, contemplemos el tema de **costos y como participar** de ellas. 
+Volviendo a los rasgos generales de las PyCon en Latinoamérica y España, contemplemos el tema de **costos y como participar** de ellas. Para *participar* de cada una de las conferencias es necesario **comprar una entrada**, excepto en la conferencia de **Argentina** que es **gratuita**.  El valor de la entrada varía entre cada conferencia y también en la fecha que compres la entrada.
 
-Para *participar* de cada una de las conferencias es necesario **comprar una entrada**, excepto en la conferencia de **Argentina** que es **gratuita**. 
-
-El valor de la entrada varía entre cada conferencia y también en la fecha que compres la entrada.
-
-En algunas conferencias existe una **convocatoria para becas o ayudas económicas**, así que tendrás que buscar con detalle sobre este tema.
+En algunas conferencias existe una **convocatoria para becas o ayudas económicas**, así que tendrás que buscar con detalle sobre este tema en la conferencia que te interese o contactarte vía email con el equipo organizador consultando sobre el tema.
 
 Otro rasgo general sobre las PyCon, es que en cada versión anual se define cual será la ciudad anfitriona para la siguiente versión. 
 
@@ -215,6 +227,8 @@ Una idea en proceso es PyCon Latam
 **********************************
 En el mes de octubre, *Manuel Kaufmann* quien es `Embajador de Python en Latinoamérica <https://www.python.org/psf/records/board/minutes/2016-02-25/#new-business>`_ y fundador del proyecto `Argentina en Python <https://argentinaenpython.com>`_, publico la idea para comenzar a hablar de la posibilidad de organizar una `PyCon Latam <https://argentinaenpython.com/pycon-latam/>`_ donde todas las comunidades de Python en Latinoamerica puedan participar.
 
+
+Espero que después de haber leído esta post, te animes a participar de la conferencia que más te guste, sin importar si eres principiante en la programación o tienes conocimiento avanzado en el lenguaje.
 
 .. class:: align-center width-70 lead
 
@@ -230,8 +244,4 @@ En el mes de octubre, *Manuel Kaufmann* quien es `Embajador de Python en Latinoa
 .. [2] https://argentinaenpython.com/eventos/#sprint
 
 .. [3] http://scipyla.org/es/
-
-
-.. Note::
-
-   Este post fue escrito por `Johanna Sanchez <https://argentinaenpython.com/el-equipo/>`_, Co-Equiper del proyecto Argentina en Python.
+   

@@ -203,9 +203,9 @@ Sus objetivos son simples:
 Se realiza en el mes de **Mayo**, la idea es que cada país de latinoamerica sea anfitrión de esta conferencia.
 
 * `2013 – Mayo 16 al 18 en Puerto Madrid, Argentina <http://scipyla.org/conf/2013/>`_
-* `2014 – Mayo en Bahía Blanca, Argentina <http://scipyla.org/conf/2014/>`_
+* `2014 – Octubre 20 al 24 en Bahía Blanca, Argentina <http://scipyla.org/conf/2014/>`_
 * `2015 – Mayo 20 al 22 en Posadas, Argentina <http://scipyla.org/conf/2015/>`_
-* `2016 – Mayo 16 al 20 en Florianópolis,Brasil <http://scipyla.org/conf/2016/>`_
+* `2016 – Mayo 16 al 20 en Florianópolis, Brasil <http://scipyla.org/conf/2016/>`_
 * `2017 – Noviembre 22 al 25 en La Habana, Cuba <http://scipyla.org/conf/2017/>`_
  
 
@@ -232,7 +232,7 @@ Espero que después de haber leído esta post, te animes a participar de la conf
 
 .. class:: align-center width-70 lead
 
-  ¡ Vamos, Animate a participar de las próximas conferencias de Python!
+  ¡Vamos, anímate a participar de las próximas conferencias de Python!
 
 
 

@@ -19,6 +19,12 @@ Año 2017
 
 
 .. template:: prensa-image
+   :title: ¿Cómo fue organizar Django Girls Cartagena?
+   :description: Blog post por Ana Elles Manzur
+   :src: 2017_noviembre_0-340x255.png
+   :href: https://medium.com/django-girls-colombia/django-girls-cartagena-c%C3%B3mo-fue-organizar-django-girls-cartagena-ca9457d514f4
+
+.. template:: prensa-image
    :title: Keynote Speaker PyCon Brasil 2017
    :description: Argentina en Python: comunidad, sueños, viajes y aprendizaje
    :src: 2017_octubre_0-340x255.png

@@ -83,11 +83,11 @@ Eventos en que colaboramos
 Eventos en los que hemos participado
 ************************************
 
-* 17-05-2017: Manuel Kaufmann participó en `PyCon 2017 <https://us.pycon.org/2017/about/>`_ en Portland, Estados Unidos
-* 14-05-2017: Manuel Kaufmann participó en `Write the Docs <http://www.writethedocs.org/conf/na/2017/>`_
-* 07-10-2016: El equipo completo de Argentina en Python (Manuel y Johanna) participó como guías en el `Django Girls Almería en el marco de la PyConEs 2016 <https://djangogirls.org/almeria/>`_
-* 27-10-2016: Manuel Kaufmann participó como `disertante en PyConAr <http://www.python.org.ar/eventos/30/>`__
-* 20-02-2016: Manuel Kaufmann participó como `disertante en PyCaribbean <http://pycaribbean.com/>`_
+* 17-05-2017: Manuel Kaufmann participó en `PyCon 2017 <https://us.pycon.org/2017/about/>`_ realizado en Portland, Estados Unidos
+* 14-05-2017: Manuel Kaufmann participó en `Write the Docs <http://www.writethedocs.org/conf/na/2017/>`_ realizado en Portland, Estados Unidos
+* 07-10-2016: El equipo completo de Argentina en Python (Manuel y Johanna) participó como guías en el `Django Girls Almería en el marco de la PyConEs 2016 <https://djangogirls.org/almeria/>`_ realizado en Almería, España
+* 27-10-2016: Manuel Kaufmann participó como `disertante en PyConAr <http://www.python.org.ar/eventos/30/>`__ realizado en Bahía Blanca, Argentina
+* 20-02-2016: Manuel Kaufmann participó como `disertante en PyCaribbean <http://pycaribbean.com/>`_ realizado en Santo Domingo, Republica	Dominicana 
 
 
 Invitaciones Especiales

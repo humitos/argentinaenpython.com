@@ -690,7 +690,7 @@ Año 2014
 
 .. template:: prensa-image
    :title: Argentina En Python: Como destruir el sueño de todo programador en 2 minutos
-   :description: Charla en PyCon 2014. Rafaela, Santa Fe, Argentina
+   :description: Charla en PyConAr 2014
    :src: 2014_noviembre_3-340x255.png
    :href: https://www.youtube.com/watch?v=eNQ9O_3ySs8
 

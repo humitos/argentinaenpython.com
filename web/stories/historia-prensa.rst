@@ -38,6 +38,12 @@ Año 2017
 
 
 .. template:: prensa-image
+   :title: Django Girls en Mendoza: Mi primer taller
+   :description: Blog post Javier Sánchez
+   :src: 2017_agosto_1-340x255.png
+   :href: http://memoriasdeunsysadmin.info/mi-primer-django-girls/
+
+.. template:: prensa-image
    :title: ¿Cómo fue organizar el primer Django Girls Barranquilla?
    :description: Blog post por Javier Daza
    :src: 2017_agosto_0-340x255.png

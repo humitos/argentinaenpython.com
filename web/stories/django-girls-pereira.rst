@@ -188,6 +188,14 @@ Timeline (*línea de tiempo*)
    te fue asignado para participar del taller y ese puesto será
    re-asignado a una de las personas en LISTA DE ESPERA.
 
+.. class:: alert alert-danger
+
+   ¡**Atención**!: hemos alcanzado el cupo máximo de inscriptos para
+   el taller. Sin embargo, si estás interesada en participar,
+   inscribite y pasarás automáticamente a una lista de espera que, en
+   caso de que alguien no pueda asistir, nos estaremos comunicando con
+   vos para informarte.!
+   
 .. template:: bootstrap3/button
    :href: https://goo.gl/forms/a3rDQ9A193fELk8e2
 
@@ -231,7 +239,7 @@ contigo para coordinar los detalles.
 
    <style>
      div.django-girls-guia {
-       min-height: 250px;
+       min-height: 350px;
      }
 
      div.section-guia {
@@ -243,7 +251,106 @@ contigo para coordinar los detalles.
    <div class="section-guia">
 
 .. template:: bootstrap3/django-girls-guia
-   :name: ¡Quiero ser guía!
+   :name: Alejandro Suárez
+   :image: guia-alejandro.png
+   :place: 
+   :community: PereiraTech Talks
+   :web: 
+   :github: https://github.com/alsuga
+   :twitter: https://twitter.com/alsug4
+   :facebook: 
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Felipe Salazar
+   :image: guia-felipe.png
+   :place: Pereira, Colombia
+   :community: 
+   :web: 
+   :github: https://github.com/salazarfelipe
+   :twitter: https://twitter.com/elpipesalazar
+   :facebook: 
+
+.. template:: bootstrap3/django-girls-guia
+   :name: John Darwin Morales Gonzáles
+   :image: guia-darwin.png
+   :place: Pereira, Colombia
+   :community: PereiraJS y PereiraTech Talk
+   :web: 
+   :github: https://github.com/jdmorales
+   :twitter: https://twitter.com/jdmorales092
+   :facebook: 
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Jonatan Gutierrez Obando
+   :image: guia-jonatan.png
+   :place: Pereira, Colombia
+   :community: Python Pereira
+   :web: 
+   :github: https://github.com/jonatan6
+   :twitter: https://twitter.com/jotangutierrez
+   :facebook: 
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Jose Antonio Andrade
+   :image: guia-jose-antonio.png
+   :place: Medellín, Colombia
+   :community: Django Girls
+   :web: 
+   :github: https://github.com/avarajar
+   :twitter: https://twitter.com/nirvajara
+   :facebook: 
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Juan Camilo Zuluaga Henao
+   :image: guia-juan-camilo.png
+   :place: Pereira, Colombia
+   :community: 
+   :web: 
+   :github: https://github.com/JuanKzuhe
+   :twitter: https://twitter.com/Juankzuhe
+   :facebook: 
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Juan David Hernández Giraldo
+   :image: guia-juan-david.png
+   :place: Medellín, Colombia
+   :community: Python Medellín
+   :web: 
+   :github: https://github.com/davoshack
+   :twitter: https://twitter.com/JuanDHernandezG
+   :facebook: 
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Julián Amaya
+   :image: guia-julian.png
+   :place: Medellín, Colombia
+   :community: Python Colombia
+   :web: 
+   :github: https://github.com/julian-amaya
+   :twitter: https://twitter.com/julian_amaya
+   :facebook: 
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   <style>
+     div.django-girls-guia {
+       min-height: 350px;
+     }
+
+     div.section-guia {
+       display: inline-block;
+       width: 100%;
+     }
+   </style>
+
+   <div class="section-guia">
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Nicolas Táutiva
    :image: nn-hombre-180x180.png
    :place: 
    :community: 

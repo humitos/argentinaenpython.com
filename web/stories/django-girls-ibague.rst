@@ -229,8 +229,8 @@ contigo para coordinar los detalles.
 .. raw:: html
 
    <style>
-     div.django-girls-guia {
-       min-height: 250px;
+     div.section-guia.django-girls-guia {
+       min-height: 400px;
      }
 
      div.section-guia {
@@ -242,24 +242,77 @@ contigo para coordinar los detalles.
    <div class="section-guia">
 
 .. template:: bootstrap3/django-girls-guia
-   :name: ¡Quiero ser guía!
-   :image: nn-hombre-180x180.png
-   :place: 
-   :community: 
-   :web: 
-   :github: 
-   :twitter: 
-   :facebook: 
+   :name: Camilo Andres Galeano
+   :image: guia-camilo.png
+   :place: Bogotá, Colombia
+   :email: Camilo@nodax.co
+   :community: Python Bogotá
+   :facebook: https://www.facebook.com/viajeroaprendiz
 
 .. template:: bootstrap3/django-girls-guia
-   :name: ¡Quiero ser guía!
-   :image: nn-mujer-180x180.png
-   :place: 
-   :community: 
-   :web: 
-   :github: 
-   :twitter: 
-   :facebook: 
+   :name: Gonzalo Peña Castellanos
+   :image: guia-gonzalo.png
+   :place: Bucaramanga, Colombia
+   :community: Python Bucaramanga<br>Python Colombia<br>Django Girls Colombia
+   :email: goanpeca@gmail.com
+   :web: https://linkedin.com/in/goanpeca
+   :github: https://github.com/goanpeca
+   :twitter: https://twitter.com/goanpeca
+   :facebook: https://www.facebook.com/goanpeca
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Jonathan Diaz<br>
+   :image: guia-jonathan.png
+   :place: Bogotá, Colombia
+   :email: jonthdiaz@gmail.com
+   :community: Python Bogotá
+   :web: http://jonthdiaz.com
+   :github: https://github.com/jonthdiaz
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Pedro Miguel Cuadros de Avila
+   :image: guia-pedro-miguel.png
+   :place: Cartagena, Colombia
+   :email: pemcda@gmail.com
+   :community: Python Bogotá<br>Java Bogotá<br>Bogotá Vue JS
+   :github: https://github.com/pcu4dros
+   :twitter: https://twitter.com/pcu4dros
+   :facebook: https://www.facebook.com/cuadrospedro
+
+.. raw:: html
+
+   <br><br>
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Pedro Rivera
+   :image: guia-pedro.png
+   :place: Popayán, Colombia
+   :email: ppsirg@gmail.com
+   :community: Python Popayán<br>Bitcoin Colombia<br>Python Colombia
+   :web: http://blog.emdyp.me/
+   :github: https://github.com/ppsirg
+   :facebook: https://www.facebook.com/ppsirg
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Rafael Laverde
+   :image: guia-rafael.png
+   :place: Sogamoso, Colombia
+   :email: leafar91@gmail.com
+   :community: Python Tunja<br>Python Colombia
+   :web: https://rlaverde.me
+   :github: https://github.com/rlaverde
+   :twitter: https://twitter.com/rlaverde
+   :facebook: https://www.facebook.com/rlaverde
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Sergio Orjuela
+   :image: guia-sergio.png
+   :place: Ibagué, Colombia
+   :email: seorjuela@uan.edu.co
+   :community: Semillero Ciudad futuro digital<br>Grupo GEPRO<br>COMPAS
+   :web: https://biblio.ugent.be/person/802000407840
+   :twitter: https://twitter.com/somostolima
+   :facebook: https://www.facebook.com/somostolima
 
 .. raw:: html
 
@@ -289,7 +342,7 @@ contigo para coordinar los detalles.
   :image: organizador-johanna.png
   :place: Armenia, Colombia
   :email: ellaquimica@gmail.com
-  :community: Argentina en Python y Django Girls Colombia
+  :community: Argentina en Python | Django Girls Colombia
   :web: https://argentinaenpython.com/
   :github: https://github.com/ellaquimica/
   :twitter: https://twitter.com/ellaquimica
@@ -299,7 +352,7 @@ contigo para coordinar los detalles.
   :name: John Jairo Roa
   :image: organizador-jhonjairo.png
   :place: Bogotá, Colombia
-  :community: Python Colombia
+  :community: Python Colombia | PyCon Colombia
   :web: https://about.me/jhonjairoroa87
   :github: https://github.com/jhonjairoroa87
   :twitter: https://twitter.com/jhonjairoroa87
@@ -309,7 +362,7 @@ contigo para coordinar los detalles.
    :name: Gonzalo Peña Castellanos
    :image: organizador-gonzalo.png
    :place: Bucaramanga, Colombia
-   :community: Python Bucaramanga
+   :community: Python Bucaramanga | Python Colombia | Django Girls Colombia
    :email: goanpeca@gmail.com
    :web: https://linkedin.com/in/goanpeca
    :github: https://github.com/goanpeca
@@ -372,6 +425,7 @@ contigo para coordinar los detalles.
   :place: Ibagué, Colombia
   :email: capoveda92@gmail.com
   :community: Vivelab Ibagué
+  :facebook: https://www.facebook.com/YoSoyPoveda
 
 .. template:: bootstrap3/django-girls-guia
   :name: Juan Sebastian Salazar

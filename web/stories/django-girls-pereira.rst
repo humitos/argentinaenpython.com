@@ -311,23 +311,22 @@ contigo para coordinar los detalles.
    :facebook: 
 
 .. template:: bootstrap3/django-girls-guia
-   :name: Juan David Hernández Giraldo
+   :name: Juan Medina
    :image: guia-juan-david.png
+   :place: Medellín, Colombia   
+   :web: 
+   :github: https://github.com/Juan.Jose.Medina.Sarmiento
+   :twitter: https://twitter.com/jjmedinas
+   :facebook: 
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Juan David Hernández Giraldo
+   :image: guia-juan-medina.png
    :place: Medellín, Colombia
    :community: Python Medellín
    :web: 
    :github: https://github.com/davoshack
    :twitter: https://twitter.com/JuanDHernandezG
-   :facebook: 
-
-.. template:: bootstrap3/django-girls-guia
-   :name: Julián Amaya
-   :image: guia-julian.png
-   :place: Medellín, Colombia
-   :community: Python Colombia
-   :web: 
-   :github: https://github.com/julian-amaya
-   :twitter: https://twitter.com/julian_amaya
    :facebook: 
 
 .. raw:: html
@@ -350,8 +349,18 @@ contigo para coordinar los detalles.
    <div class="section-guia">
 
 .. template:: bootstrap3/django-girls-guia
+   :name: Julián Amaya
+   :image: guia-julian.png
+   :place: Medellín, Colombia
+   :community: Python Colombia
+   :web: 
+   :github: https://github.com/julian-amaya
+   :twitter: https://twitter.com/julian_amaya
+   :facebook: 
+   
+.. template:: bootstrap3/django-girls-guia
    :name: Nicolas Táutiva
-   :image: nn-hombre-180x180.png
+   :image: guia-nicolas.png
    :place: 
    :community: 
    :web: 

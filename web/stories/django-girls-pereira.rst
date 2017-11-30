@@ -311,17 +311,8 @@ contigo para coordinar los detalles.
    :facebook: 
 
 .. template:: bootstrap3/django-girls-guia
-   :name: Juan Medina
-   :image: guia-juan-david.png
-   :place: Medellín, Colombia   
-   :web: 
-   :github: https://github.com/Juan.Jose.Medina.Sarmiento
-   :twitter: https://twitter.com/jjmedinas
-   :facebook: 
-
-.. template:: bootstrap3/django-girls-guia
    :name: Juan David Hernández Giraldo
-   :image: guia-juan-medina.png
+   :image: guia-juan-david.png
    :place: Medellín, Colombia
    :community: Python Medellín
    :web: 
@@ -329,6 +320,15 @@ contigo para coordinar los detalles.
    :twitter: https://twitter.com/JuanDHernandezG
    :facebook: 
 
+.. template:: bootstrap3/django-girls-guia
+   :name: Juan Medina
+   :image: guia-juan-medina.png
+   :place: Medellín, Colombia   
+   :web: 
+   :github: https://github.com/Juan.Jose.Medina.Sarmiento
+   :twitter: https://twitter.com/jjmedinas
+   :facebook: 
+   
 .. raw:: html
 
    </div>

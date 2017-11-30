@@ -321,15 +321,14 @@ contigo para coordinar los detalles.
    :facebook: 
 
 .. template:: bootstrap3/django-girls-guia
-   :name: Julián Amaya
-   :image: guia-julian.png
-   :place: Medellín, Colombia
-   :community: Python Colombia
+   :name: Juan Medina
+   :image: guia-juan-medina.png
+   :place: Medellín, Colombia   
    :web: 
-   :github: https://github.com/julian-amaya
-   :twitter: https://twitter.com/julian_amaya
+   :github: https://github.com/Juan.Jose.Medina.Sarmiento
+   :twitter: https://twitter.com/jjmedinas
    :facebook: 
-
+   
 .. raw:: html
 
    </div>
@@ -350,8 +349,18 @@ contigo para coordinar los detalles.
    <div class="section-guia">
 
 .. template:: bootstrap3/django-girls-guia
+   :name: Julián Amaya
+   :image: guia-julian.png
+   :place: Medellín, Colombia
+   :community: Python Colombia
+   :web: 
+   :github: https://github.com/julian-amaya
+   :twitter: https://twitter.com/julian_amaya
+   :facebook: 
+   
+.. template:: bootstrap3/django-girls-guia
    :name: Nicolas Táutiva
-   :image: nn-hombre-180x180.png
+   :image: guia-nicolas.png
    :place: 
    :community: 
    :web: 

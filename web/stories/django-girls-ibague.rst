@@ -187,6 +187,14 @@ Cronograma
    te fue asignado para participar del taller y ese puesto será
    re-asignado a una de las personas en LISTA DE ESPERA.
 
+.. class:: alert alert-danger
+
+   ¡**Atención**!: hemos alcanzado el cupo máximo de inscriptos para
+   el taller. Sin embargo, si estás interesada en participar,
+   inscribite y pasarás automáticamente a una lista de espera que, en
+   caso de que alguien no pueda asistir, nos estaremos comunicando con
+   vos para informarte.!
+
 .. template:: bootstrap3/button
    :href: https://goo.gl/forms/Jj59AfAOilKkhDFw1
 
@@ -261,13 +269,43 @@ contigo para coordinar los detalles.
    :facebook: https://www.facebook.com/goanpeca
 
 .. template:: bootstrap3/django-girls-guia
-   :name: Jonathan Diaz<br>
-   :image: guia-jonathan.png
-   :place: Bogotá, Colombia
-   :email: jonthdiaz@gmail.com
-   :community: Python Bogotá
-   :web: http://jonthdiaz.com
-   :github: https://github.com/jonthdiaz
+   :name: José Manuel Zamora Ortiz
+   :image: guia-jose.png
+   :place: Ibagué, Colombia
+   :email: jomazao@gmail.com
+   :community: Python Ibagué<br>IbaCrea<br>Hackids
+   :github: https://github.com/jomazao
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Pedro Rivera<br><br>
+   :image: guia-pedro.png
+   :place: Popayán, Colombia
+   :email: ppsirg@gmail.com
+   :community: Python Popayán<br>Bitcoin Colombia<br>Python Colombia
+   :web: http://blog.emdyp.me/
+   :github: https://github.com/ppsirg
+   :facebook: https://www.facebook.com/ppsirg
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Rafael Laverde<br><br>
+   :image: guia-rafael.png
+   :place: Sogamoso, Colombia
+   :email: leafar91@gmail.com
+   :community: Python Tunja<br>Python Colombia
+   :web: https://rlaverde.me
+   :github: https://github.com/rlaverde
+   :twitter: https://twitter.com/rlaverde
+   :facebook: https://www.facebook.com/rlaverde
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Sergio Orjuela<br><br>
+   :image: guia-sergio.png
+   :place: Ibagué, Colombia
+   :email: seorjuela@uan.edu.co
+   :community: Semillero Ciudad futuro digital<br>Grupo GEPRO<br>COMPAS
+   :web: https://biblio.ugent.be/person/802000407840
+   :twitter: https://twitter.com/somostolima
+   :facebook: https://www.facebook.com/somostolima
 
 .. template:: bootstrap3/django-girls-guia
    :name: Pedro Miguel Cuadros de Avila
@@ -279,40 +317,18 @@ contigo para coordinar los detalles.
    :twitter: https://twitter.com/pcu4dros
    :facebook: https://www.facebook.com/cuadrospedro
 
+.. template:: bootstrap3/django-girls-guia
+   :name: Jonathan Diaz<br><br>
+   :image: guia-jonathan.png
+   :place: Bogotá, Colombia
+   :email: jonthdiaz@gmail.com
+   :community: Python Bogotá
+   :web: http://jonthdiaz.com
+   :github: https://github.com/jonthdiaz
+
 .. raw:: html
 
    <br><br>
-
-.. template:: bootstrap3/django-girls-guia
-   :name: Pedro Rivera
-   :image: guia-pedro.png
-   :place: Popayán, Colombia
-   :email: ppsirg@gmail.com
-   :community: Python Popayán<br>Bitcoin Colombia<br>Python Colombia
-   :web: http://blog.emdyp.me/
-   :github: https://github.com/ppsirg
-   :facebook: https://www.facebook.com/ppsirg
-
-.. template:: bootstrap3/django-girls-guia
-   :name: Rafael Laverde
-   :image: guia-rafael.png
-   :place: Sogamoso, Colombia
-   :email: leafar91@gmail.com
-   :community: Python Tunja<br>Python Colombia
-   :web: https://rlaverde.me
-   :github: https://github.com/rlaverde
-   :twitter: https://twitter.com/rlaverde
-   :facebook: https://www.facebook.com/rlaverde
-
-.. template:: bootstrap3/django-girls-guia
-   :name: Sergio Orjuela
-   :image: guia-sergio.png
-   :place: Ibagué, Colombia
-   :email: seorjuela@uan.edu.co
-   :community: Semillero Ciudad futuro digital<br>Grupo GEPRO<br>COMPAS
-   :web: https://biblio.ugent.be/person/802000407840
-   :twitter: https://twitter.com/somostolima
-   :facebook: https://www.facebook.com/somostolima
 
 .. raw:: html
 

@@ -9,12 +9,9 @@
 Eventos pasados
 ---------------
 
-*  01-12-2017: `Taller de Programación en Python y Open ERP (Orientado a GIS) en Cuenca 
-  <https://www.meetup.com/es-ES/python-ecuador/events/245671803/>`_
-*  08-12-2017: `Taller de Tecnologías de Virtualización - Introducción a Docker- Parte 2 en Cuenca 
-  <https://www.meetup.com/es-ES/python-ecuador/events/245654351/`_
-*  01-12-2017: `Taller de Tecnologías de Virtualización - Introducción a Docker en Cuenca 
-  <https://www.meetup.com/es-ES/python-ecuador/events/245114680/>`_
+*  14-12-2017: `Taller de Programación en Python y Open ERP (Orientado a GIS) en Cuenca <https://www.meetup.com/es-ES/python-ecuador/events/245671803/>`_
+*  08-12-2017: `Taller de Tecnologías de Virtualización: Introducción a Docker Parte 2 en Cuenca <https://www.meetup.com/es-ES/python-ecuador/events/245654351/>`_
+*  01-12-2017: `Taller de Tecnologías de Virtualización: Introducción a Docker en Cuenca <https://www.meetup.com/es-ES/python-ecuador/events/245114680/>`_
 * 22-09-2017: `8va Meetup Python Ecuador en Cuenca 
   <https://www.meetup.com/es-ES/python-ecuador/events/243508086/>`_
 * 01-07-2017: `Taller Django Girls en Barranquilla

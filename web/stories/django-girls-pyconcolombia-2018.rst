@@ -84,13 +84,14 @@ mujer con vos que también realice el taller [#]_.
 ¿Dónde y cuándo?
 ----------------
 
-* Lugar: `Aula del 4to piso en el Bloque 19 - Universidad EAFIT sede Medellín <http://utp.edu.co/>`_, ubicado en la Carrera 49 Medellín, Colombia.
+Este taller de Django Girls se realiza en el marco de la Conferencia de `Python Colombia 2018 <https://www.pycon.co/>`_ organizado por la comunidad de Python Colombia. Es el evento de programación en Python más grande del país. ¡Aprovechalos al máximo!
+
+* Lugar: `Aula del 4to piso en el Bloque 19 - Universidad EAFIT sede Medellín <http://www.eafit.edu.co/>`_, ubicado en la Carrera 49 Medellín, Colombia.
 
 * Fecha: Jueves 08 de Febrero de 2018 de 8:30hs (¡puntual!) a 19:00hs.
 
 .. template:: iframe
-   :src: https://www.openstreetmap.org/export/embed.html?bbox=-75.68912476301195%2C4.794986601117841%2C-75.68815916776659%2C4.795587985748816&amp;layer=mapnik&amp;marker=4.795287293499522%2C-75.68864196538925
-
+   :src: https://www.openstreetmap.org/export/embed.html?bbox=-75.5825847387314%2C6.196443049947637%2C-75.57661950588228%2C6.199296238595173&amp;layer=mapnik&amp;marker=6.197866979668658%2C-75.57960212230682
 
 .. sidebar:: Contacto
 
@@ -179,14 +180,14 @@ Timeline (*línea de tiempo*)
    </div>
 
 
-.. class:: alert alert-warning
+.. .. class:: alert alert-warning
 
    Tené en cuenta que la falta de confirmación (respondiendo a nuestro
    email en las fechas establecidas) hace que pierdas el cupo que se
    te fue asignado para participar del taller y ese puesto será
    re-asignado a una de las personas en LISTA DE ESPERA.
 
-.. class:: alert alert-danger
+.. .. class:: alert alert-danger
 
    ¡**Atención**!: hemos alcanzado el cupo máximo de inscriptos para
    el taller. Sin embargo, si estás interesada en participar,
@@ -201,7 +202,7 @@ Timeline (*línea de tiempo*)
 
 .. class:: lead align-center
 
-   ¡Sólo necesitás tener buena onda, el sábado completamente libre y muchas
+   ¡Sólo necesitás tener buena onda, el j completamente libre y muchas
    ganas de aprender! ¡Sumate!
 
 
@@ -707,8 +708,8 @@ escribinos un email y nos pondremos en contacto con vos.
 
    Este evento forma parte de `Django Girls
    <http://djangogirls.org/>`__ y tiene su propio sitio web bajo esta
-   marca: `Django Girls Pereira
-   <https://djangogirls.org/pereira/>`__
+   marca: `Django Girls Medellín
+   <https://djangogirls.org/medellin/>`__
 
 .. [#] Registrate en el formulario y comentá con quién vas. Además,
        decile a ella que también se registre e indique que va con vos.

@@ -1,5 +1,5 @@
 .. title: Taller Django Girls PyCon Colombia
-.. slug: django-girls/2018/02/pyconcolombia2018
+.. slug: django-girls/2018/02/pyconcolombia
 .. date: 2017-12-14 00:16:45 UTC-05:00
 .. tags: eventos, django girls, django, taller, python, medellín, pycon, programación, colombia
 .. category: 
@@ -343,7 +343,7 @@ contigo para coordinar los detalles.
 
 .. template:: bootstrap3/django-girls-guia
    :name: Javier Daza
-   :image: guia-javier.png
+   :image: organizador-javier.png
    :place: Barranquilla, Colombia
    :email: javierdazacomas@gmail.com
    :community: Django Girls Colombia y Python Barranquilla

@@ -196,7 +196,7 @@ Timeline (*línea de tiempo*)
    vos para informarte.!
    
 .. template:: bootstrap3/button
-   :href: https://goo.gl/forms/a3rDQ9A193fELk8e2
+   :href: https://goo.gl/forms/P5kqLJAJAtVyCLaR2
 
    ¡Quiero inscribirme!
 
@@ -227,7 +227,7 @@ contigo para coordinar los detalles.
 
 
 .. template:: bootstrap3/button
-   :href: https://goo.gl/forms/7ArhLMeTbmmgkbjm1
+   :href: https://goo.gl/forms/wZtJ3DIrELU811He2
 
    ¡Quiero participar como guía!
 
@@ -261,16 +261,6 @@ contigo para coordinar los detalles.
    :facebook: https://www.facebook.com/goanpeca
 
 .. .. template:: bootstrap3/django-girls-guia
-   :name: Felipe Salazar
-   :image: guia-felipe.png
-   :place: Pereira, Colombia
-   :community: 
-   :web: 
-   :github: https://github.com/salazarfelipe
-   :twitter: https://twitter.com/elpipesalazar
-   :facebook: 
-
-.. .. template:: bootstrap3/django-girls-guia
    :name: Jose Antonio Andrade
    :image: guia-jose-antonio.png
    :place: Medellín, Colombia
@@ -279,7 +269,6 @@ contigo para coordinar los detalles.
    :github: https://github.com/avarajar
    :twitter: https://twitter.com/nirvajara
    :facebook: 
-
 
 .. .. template:: bootstrap3/django-girls-guia
    :name: Juan Medina
@@ -327,16 +316,6 @@ contigo para coordinar los detalles.
    :web: 
    :github: https://github.com/julian-amaya
    :twitter: https://twitter.com/julian_amaya
-   :facebook: 
-   
-.. .. template:: bootstrap3/django-girls-guia
-   :name: Nicolas Táutiva
-   :image: guia-nicolas.png
-   :place: 
-   :community: 
-   :web: 
-   :github: 
-   :twitter: 
    :facebook: 
 
 .. raw:: html

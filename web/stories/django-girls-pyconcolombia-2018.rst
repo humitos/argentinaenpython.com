@@ -377,7 +377,7 @@ contigo para coordinar los detalles.
    :image: organizador-juandavid.png
    :place: Medellín, Colombia
    :community: Python Medellín y PyCon Colombia
-   :email: goanpeca@gmail.com
+   :email:
    :web: https://medium.com/@JuanDHernandezG
    :github: https://github.com/davoshack
    :twitter: https://twitter.com/JuanDHernandezG
@@ -419,10 +419,11 @@ contigo para coordinar los detalles.
    :image: organizador-marian.png
    :place: Medellín, Colombia
    :community: Pioneras Dev
-   :email: goanpeca@gmail.com
-   :web: https://medium.com/@JuanDHernandezG
-   :github: https://github.com/davoshack
-   :twitter: https://twitter.com/JuanDHernandezG
+   :email: marian@marian-villa.com
+   :web: http://www.marianvilla.co/
+   :github: https://github.com/marianvilla
+   :twitter: https://twitter.com/Marianvilla
+   :facebook: https://www.facebook.com/MarianVillaDC
 
 .. raw:: html
 

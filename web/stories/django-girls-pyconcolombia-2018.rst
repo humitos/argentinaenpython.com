@@ -1,5 +1,5 @@
 .. title: Taller Django Girls PyCon Colombia
-.. slug: django-girls/2018/02/pyconcolombia
+.. slug: django-girls/2018/02/pyconcolombia2018
 .. date: 2017-12-14 00:16:45 UTC-05:00
 .. tags: eventos, django girls, django, taller, python, medellín, pycon, programación, colombia
 .. category: 
@@ -18,14 +18,14 @@
    espera*. Por favor, revisa tu correo electrónico (incluso en la
    carpeta SPAM / Correo no deseado) para verificar tu situación.
 
-.. image:: membrete-djangogirls-pereira.png
+.. image:: membrete-djangogirls-pyconcolombia2018.png
    :align: center
 
 ----
 
 ¡Queremos animar a más mujeres a dominar la web! Es por eso que desde
 `Django Girls Colombia <https://www.facebook.com/djangogirlscolombia>`_  y `PyCon Colombia 
-<https://www.pycon.co>`_ con el apoyo de Python Colombia y  `Argentina en Python <https://www.pycon.co>`_ estamos organizando un taller en el cual podrás construir tu propio sitio web
+<https://www.pycon.co>`_ con el apoyo de Python Colombia y  `Argentina en Python <https://www.argentinaenpython.com>`_ estamos organizando un taller en el cual podrás construir tu propio sitio web
 *desde cero* en un día. Además, vamos a utilizar todas las
 herramientas que programadores profesionales utilizan diariamente. ¡Y
 de una manera muy sencilla!
@@ -84,7 +84,7 @@ mujer con vos que también realice el taller [#]_.
 ¿Dónde y cuándo?
 ----------------
 
-Este taller de Django Girls se realiza en el marco de la Conferencia de `Python Colombia 2018 <https://www.pycon.co/>`_ organizado por la comunidad de Python Colombia. Es el evento de programación en Python más grande del país. ¡Aprovechalos al máximo!
+Este taller de Django Girls se realiza en el marco de la Conferencia de `PyCon Colombia 2018 <https://www.pycon.co/>`_ organizado por la comunidad de `Python Colombia <https://www.facebook.com/colombiapython/>`_. Es el evento de programación en Python más grande del país. ¡Aprovechalos al máximo!
 
 * Lugar: `Aula del 4to piso en el Bloque 19 - Universidad EAFIT sede Medellín <http://www.eafit.edu.co/>`_, ubicado en la Carrera 49 Medellín, Colombia.
 
@@ -126,7 +126,7 @@ Tené en cuenta que...
 
 * ... en lo posible, debes llevar un extensor de corriente.
 
-* ... agrega la dirección argentinaenpython@gmail.com a tu libreta
+* ... agrega la dirección djangogirlscolombia@gmail.com a tu libreta
   de direcciones así evitamos que el email llegue a *SPAM*
 
 * ... vamos a respetar las fechas publicadas en el *timeline* (línea
@@ -202,7 +202,7 @@ Timeline (*línea de tiempo*)
 
 .. class:: lead align-center
 
-   ¡Sólo necesitás tener buena onda, el j completamente libre y muchas
+   ¡Sólo necesitás tener buena onda, el jueves completamente libre y muchas
    ganas de aprender! ¡Sumate!
 
 
@@ -250,16 +250,17 @@ contigo para coordinar los detalles.
    <div class="section-guia">
 
 .. template:: bootstrap3/django-girls-guia
-   :name: Alejandro Suárez
-   :image: guia-alejandro.png
-   :place: 
-   :community: PereiraTech Talks
-   :web: 
-   :github: https://github.com/alsuga
-   :twitter: https://twitter.com/alsug4
-   :facebook: 
+   :name: Gonzalo Peña Castellanos
+   :image: guia-gonzalo.png
+   :place: Bucaramanga, Colombia
+   :community: Python Bucaramanga y Django Girls Colombia
+   :email: goanpeca@gmail.com
+   :web: https://linkedin.com/in/goanpeca
+   :github: https://github.com/goanpeca
+   :twitter: https://twitter.com/goanpeca
+   :facebook: https://www.facebook.com/goanpeca
 
-.. template:: bootstrap3/django-girls-guia
+.. .. template:: bootstrap3/django-girls-guia
    :name: Felipe Salazar
    :image: guia-felipe.png
    :place: Pereira, Colombia
@@ -269,27 +270,7 @@ contigo para coordinar los detalles.
    :twitter: https://twitter.com/elpipesalazar
    :facebook: 
 
-.. template:: bootstrap3/django-girls-guia
-   :name: John Darwin Morales Gonzáles
-   :image: guia-darwin.png
-   :place: Pereira, Colombia
-   :community: PereiraJS y PereiraTech Talk
-   :web: 
-   :github: https://github.com/jdmorales
-   :twitter: https://twitter.com/jdmorales092
-   :facebook: 
-
-.. template:: bootstrap3/django-girls-guia
-   :name: Jonatan Gutierrez Obando
-   :image: guia-jonatan.png
-   :place: Pereira, Colombia
-   :community: Python Pereira
-   :web: 
-   :github: https://github.com/jonatan6
-   :twitter: https://twitter.com/jotangutierrez
-   :facebook: 
-
-.. template:: bootstrap3/django-girls-guia
+.. .. template:: bootstrap3/django-girls-guia
    :name: Jose Antonio Andrade
    :image: guia-jose-antonio.png
    :place: Medellín, Colombia
@@ -299,33 +280,24 @@ contigo para coordinar los detalles.
    :twitter: https://twitter.com/nirvajara
    :facebook: 
 
-.. template:: bootstrap3/django-girls-guia
-   :name: Juan Camilo Zuluaga Henao
-   :image: guia-juan-camilo.png
-   :place: Pereira, Colombia
-   :community: 
-   :web: 
-   :github: https://github.com/JuanKzuhe
-   :twitter: https://twitter.com/Juankzuhe
-   :facebook: 
 
-.. template:: bootstrap3/django-girls-guia
-   :name: Juan David Hernández Giraldo
-   :image: guia-juan-david.png
-   :place: Medellín, Colombia
-   :community: Python Medellín
-   :web: 
-   :github: https://github.com/davoshack
-   :twitter: https://twitter.com/JuanDHernandezG
-   :facebook: 
-
-.. template:: bootstrap3/django-girls-guia
+.. .. template:: bootstrap3/django-girls-guia
    :name: Juan Medina
    :image: guia-juan-medina.png
    :place: Medellín, Colombia   
    :web: 
    :github: https://github.com/Juan.Jose.Medina.Sarmiento
    :twitter: https://twitter.com/jjmedinas
+   :facebook: 
+
+.. template:: bootstrap3/django-girls-guia
+   :name: ¡Quiero ser guía!
+   :image: guia-nn-mujer-180x180.png
+   :place: 
+   :community: 
+   :web: 
+   :github: 
+   :twitter: 
    :facebook: 
    
 .. raw:: html
@@ -347,7 +319,7 @@ contigo para coordinar los detalles.
 
    <div class="section-guia">
 
-.. template:: bootstrap3/django-girls-guia
+.. .. template:: bootstrap3/django-girls-guia
    :name: Julián Amaya
    :image: guia-julian.png
    :place: Medellín, Colombia
@@ -357,19 +329,9 @@ contigo para coordinar los detalles.
    :twitter: https://twitter.com/julian_amaya
    :facebook: 
    
-.. template:: bootstrap3/django-girls-guia
+.. .. template:: bootstrap3/django-girls-guia
    :name: Nicolas Táutiva
    :image: guia-nicolas.png
-   :place: 
-   :community: 
-   :web: 
-   :github: 
-   :twitter: 
-   :facebook: 
-
-.. template:: bootstrap3/django-girls-guia
-   :name: ¡Quiero ser guía!
-   :image: nn-mujer-180x180.png
    :place: 
    :community: 
    :web: 
@@ -401,48 +363,46 @@ contigo para coordinar los detalles.
    <div class="section-organizadores">
 
 .. template:: bootstrap3/django-girls-guia
-   :name: Alejandro E. Rendón
-   :image: organizador-alejandro.png
-   :place: Pereira, Colombia
-   :email: alejorendon@utp.edu.co
-   :community: Python Pereira     
-   :web: https://aerendon.github.io
-   :github: https://github.com/aerendon
-   :twitter: https://twitter.com/alejoerendon
-   :facebook: https://www.facebook.com/AlejoERendon
+   :name: Javier Daza
+   :image: guia-javier.png
+   :place: Barranquilla, Colombia
+   :email: javierdazacomas@gmail.com
+   :community: Django Girls Colombia y Python Barranquilla
+   :web: http://javierdaza.co
+   :github: https://github.com/javierdaza
+   :twitter: https://twitter.com/javidazac
 
 .. template:: bootstrap3/django-girls-guia
-   :name: Angelica Aguirre Castro
-   :image: organizador-angelica.png
-   :place: Pereira, Colombia
-   :email: angelicaaguicas@gmail.com
-   :web: https://www.linkedin.com/in/angelica-aguirre-castro-50abb5110/
-   :community: JointDeveloper   
-   :github: https://github.com/anaguicas
-   :twitter: https://twitter.com/angelicaaguicas
-   :facebook: https://www.facebook.com/angelica.aguirrecastro
+   :name: Johanna Sanchez
+   :image: organizador-johanna.png
+   :place: Armenia, Colombia
+   :email: ellaquimica@gmail.com
+   :community: Django Girls Colombia y Argentina en Python
+   :web: https://argentinaenpython.com/
+   :github: https://github.com/ellaquimica/
+   :twitter: https://twitter.com/ellaquimica
+   :facebook: https://www.facebook.com/argentinaenpython
 
 .. template:: bootstrap3/django-girls-guia
-   :name: Carolina Gómez
-   :image: organizador-carolina.png
-   :place: Pereira, Colombia
-   :email: carolina9511@gmail.com
-   :community: Python Pereira   
-   :web: https://carogomez.github.io/
-   :github: https://github.com/carogomezt
-   :twitter: https://twitter.com/caro_gomez
-   :facebook: https://www.facebook.com/Caro.gomez.t
+   :name: John Jairo Roa
+   :image: organizador-jhonjairo.png
+   :place: Bogotá, Colombia
+   :community: PyCon Colombia y Python Colombia
+   :web: https://about.me/jhonjairoroa87
+   :github: https://github.com/jhonjairoroa87
+   :twitter: https://twitter.com/jhonjairoroa87
+   :facebook: https://www.facebook.com/johnroa87
 
 .. template:: bootstrap3/django-girls-guia
-   :name: Gonzalo Peña Castellanos
-   :image: organizador-gonzalo.png
-   :place: Bucaramanga, Colombia
-   :community: Python Bucaramanga
+   :name: Juan David
+   :image: organizador-juandavid.png
+   :place: Medellín, Colombia
+   :community: Python Medellín y PyCon Colombia
    :email: goanpeca@gmail.com
-   :web: https://linkedin.com/in/goanpeca
-   :github: https://github.com/goanpeca
-   :twitter: https://twitter.com/goanpeca
-   :facebook: https://www.facebook.com/goanpeca
+   :web: https://medium.com/@JuanDHernandezG
+   :github: https://github.com/davoshack
+   :twitter: https://twitter.com/JuanDHernandezG
+
 
 .. raw:: html
 
@@ -463,33 +423,38 @@ contigo para coordinar los detalles.
 
    <div class="section-organizadores">
 
+
 .. template:: bootstrap3/django-girls-guia
-   :name: Johanna Sanchez
-   :image: organizador-johanna.png
-   :place: Armenia, Colombia
-   :email: ellaquimica@gmail.com
-   :community: Argentina en Python y Django Girls Colombia
-   :web: https://argentinaenpython.com/
-   :github: https://github.com/ellaquimica/
-   :twitter: https://twitter.com/ellaquimica
+   :name: Manuel Kaufmann
+   :image: organizador-manuel.png
+   :place: Parana, Argentina
+   :email: argentinaenpython@gmail.com
+   :community: Argentina en Python y Embajador de Python
+   :web: https://elblogdehumitos.com/
+   :github: https://github.com/humitos
+   :twitter: https://twitter.com/reydelhumo
    :facebook: https://www.facebook.com/argentinaenpython
-   
+
 .. template:: bootstrap3/django-girls-guia
-   :name: John Jairo Roa
-   :image: organizador-jhonjairo.png
-   :place: Bogotá, Colombia
-   :community: Python Colombia
-   :web: https://about.me/jhonjairoroa87
-   :github: https://github.com/jhonjairoroa87
-   :twitter: https://twitter.com/jhonjairoroa87
-   :facebook: https://www.facebook.com/johnroa87
+   :name: Marian Villa
+   :image: organizador-marian.png
+   :place: Medellín, Colombia
+   :community: Pioneras Dev
+   :email: goanpeca@gmail.com
+   :web: https://medium.com/@JuanDHernandezG
+   :github: https://github.com/davoshack
+   :twitter: https://twitter.com/JuanDHernandezG
 
 .. raw:: html
 
    </div>
 
+----
+
 ¡Los colaboradores!
 -------------------
+
+Son personas comprometidas que hacen posible llevar adelante esta propuesta de inclusión tecnológica
 
 .. raw:: html
 
@@ -506,39 +471,43 @@ contigo para coordinar los detalles.
    <div class="section-guia">
 
 .. template:: bootstrap3/django-girls-guia
-   :name: John Haiber Osorio
-   :image: colaborador-johnosorio.png
+   :name: Angelica Aguirre Castro
+   :image: colaborador-angelica.png
    :place: Pereira, Colombia
-   :email: john@sirius.utp.edu.co 
-   :community: JointDeveloper
-   :web: 
-   :github: https://github.com/kala855
-   :twitter: https://twitter.com/kala855
-   :facebook:
+   :email: angelicaaguicas@gmail.com
+   :web: https://www.linkedin.com/in/angelica-aguirre-castro-50abb5110/
+   :community: Django Girls Colombia y Python Pereira   
+   :github: https://github.com/anaguicas
+   :twitter: https://twitter.com/angelicaaguicas
+   :facebook: https://www.facebook.com/angelica.aguirrecastro
 
 .. template:: bootstrap3/django-girls-guia
-   :name: Manuel Kaufmann
-   :image: colaborador-manuel.png
-   :place: Parana, Argentina
-   :email: argentinaenpython@gmail.com
-   :community: Argentina en Python y Embajador de Python
-   :web: https://elblogdehumitos.com/
-   :github: https://github.com/humitos
-   :twitter: https://twitter.com/reydelhumo
-   :facebook: https://www.facebook.com/argentinaenpython
+   :name: Alejandro E. Rendón
+   :image: colaborador-alejandro.png
+   :place: Pereira, Colombia
+   :email: alejorendon@utp.edu.co
+   :community: Python Colombia y Python Pereira     
+   :web: https://aerendon.github.io
+   :github: https://github.com/aerendon
+   :twitter: https://twitter.com/alejoerendon
+   :facebook: https://www.facebook.com/AlejoERendon
 
 .. template:: bootstrap3/django-girls-guia
-   :name: Vanessa Velasquez Gómez
-   :image: colaborador-vanessa.png
-   :place: Pereira, Colombia
-   :email: Vanessa@sirius.utp.edu.co
-   :community: JointDeveloper
-   :web: 
-   :github: https://github.com/vanevela
+   :name: Carolina Gómez
+   :image: colaborador-carolina.png
+   :place: Medellín, Colombia
+   :email: carolina9511@gmail.com
+   :community: Django Girls Colombia y Python Pereira 
+   :web: https://carogomez.github.io/
+   :github: https://github.com/carogomezt
+   :twitter: https://twitter.com/caro_gomez
+   :facebook: https://www.facebook.com/Caro.gomez.t
+
+
 
 .. template:: bootstrap3/django-girls-guia
    :name: ¡Quiero colaborar!
-   :image: nn-hombre-180x180.png
+   :image: colaborador-nnhombre-180x180.png
    :place: 
    :community: 
    :web: 
@@ -550,7 +519,7 @@ contigo para coordinar los detalles.
 
    </div>
 
-
+----
 
 Sponsors
 ---------------

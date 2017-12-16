@@ -19,10 +19,9 @@
    </style>
 
 
-..
-   .. class:: alert alert-success
+.. class:: alert alert-success
 
-      **NOVEDADES**: ¡Atención Colombia, el Sábado 1 de Julio :doc:`Django Girls en Barranquilla <django-girls/2017/07/barranquilla>`
+      **NOVEDADES**: ¡Atención Colombia, el Jueves 8 de Febrero en el marco de la conferencia `PyCon Colombia 2018 <https://wwww.pycon.co>`_ tendremos el **taller de programación para mujeres** :doc:`Django Girls PyCon Colombia <django-girls/2018/02/pyconcolombia>` en la ciudad de Medellín!   
 
 
 .. image:: /index/logo.thumbnail.png

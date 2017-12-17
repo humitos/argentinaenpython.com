@@ -81,6 +81,8 @@ lo has logrado!
 *¡No te preocupés, podés sumarte igual!*. La condición: llevar a una
 mujer con vos que también realice el taller [#]_.
 
+
+
 ¿Dónde y cuándo?
 ----------------
 
@@ -104,6 +106,8 @@ Este taller de Django Girls se realiza en el marco de la Conferencia de `PyCon C
 
 Tené en cuenta que...
 ---------------------
+
+* ... para participar del evento NO es necesario contar con una entrada a `PyCon Colombia <https://www.pycon.co>`_.
 
 * ... tenés que **inscribirte** utilizando el botón "*¡Quiero
   inscribirme!*"
@@ -194,6 +198,7 @@ Timeline (*línea de tiempo*)
    inscribite y pasarás automáticamente a una lista de espera que, en
    caso de que alguien no pueda asistir, nos estaremos comunicando con
    vos para informarte.!
+
    
 .. template:: bootstrap3/button
    :href: https://goo.gl/forms/P5kqLJAJAtVyCLaR2
@@ -202,8 +207,10 @@ Timeline (*línea de tiempo*)
 
 .. class:: lead align-center
 
-   ¡Sólo necesitás tener buena onda, el jueves completamente libre y muchas
-   ganas de aprender! ¡Sumate!
+   ¡Sólo necesitás tener buena onda, el jueves completamente libre y muchas ganas de aprender! ¡Sumate!
+
+
+
 
 
 Guías / Entrenadores

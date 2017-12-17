@@ -107,7 +107,7 @@ Este taller de Django Girls se realiza en el marco de la Conferencia de `PyCon C
 Tené en cuenta que...
 ---------------------
 
-* ... Para participar del evento NO es necesario contar con una entrada a `PyCon Colombia <https://www.pycon.co>`_.
+* ... para participar del evento NO es necesario contar con una entrada a `PyCon Colombia <https://www.pycon.co>`_.
 
 * ... tenés que **inscribirte** utilizando el botón "*¡Quiero
   inscribirme!*"

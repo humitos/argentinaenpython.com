@@ -11,6 +11,27 @@
 
    *Este post fue escrito por* `Johanna Sanchez <https://argentinaenpython.com/el-equipo/>`_, *Co-Equiper del proyecto Argentina en Python*.
 
+
+.. raw:: html
+
+   <style>
+     .zen-picture {
+       margin-left: 0;
+       margin-right: 0;
+       max-width: 100%;
+     }
+
+     div.figure {
+       max-width: 100% !important;
+       margin: 0 !important;
+     }
+   </style>
+
+.. figure:: pyconar-2016.png
+   :class: pycon-picture
+
+
+
 .. epigraph::
 
    *"…más que una conferencia, un espacio para compartir y expandir tu mundo de ideas y conocimiento"*

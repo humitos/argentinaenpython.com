@@ -252,7 +252,7 @@ Se realiza en el mes de **Mayo**, la idea es que cada país de latinoamerica sea
 
 En la versión de `SciPy Latin America de 2015 <http://scipyla.org/conf/2015/>`_, tuve la oportunidad de asistir y aportar a la conferencia de la mano con el proyecto Argentina en Python generando el espacio `Track Teen <https://argentinaenpython.com/track-teen-scipy-la-2015/>`_ en el marco de la conferencia
 
-`Track Teen <https://argentinaenpython.com/track-teen-scipy-la-2015/>`_ : Es una Jornada que se realiza con el propósito de introducir a un público de gran potencial creativo (como chicos y adolescentes) al mundo de la ciencia, la programación y en toda área que pueda contribuir a su creativo, a través de una didáctica divertida e interactiva que involucre al participante.
+`Track Teen <https://argentinaenpython.com/track-teen-scipy-la-2015/>`_: Es una jornada que se realiza con el propósito de introducir a un público de gran potencial creativo (como chicos y adolescentes) al mundo de la ciencia, la programación y en toda área que pueda contribuir a su creativo, a través de una didáctica divertida e interactiva que involucre al participante.
 
 * `Fotos del Track Teen en SciPy Latin America 2015 <https://argentinaenpython.com/galeria/track-teen-scipy-la-2015/>`_
 

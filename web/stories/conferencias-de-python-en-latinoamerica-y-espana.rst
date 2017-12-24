@@ -15,11 +15,6 @@
 .. raw:: html
 
    <style>
-     .zen-picture {
-       margin-left: 0;
-       margin-right: 0;
-       max-width: 100%;
-     }
 
      div.figure {
        max-width: 100% !important;
@@ -85,26 +80,11 @@ La conferencia en rasgos generales incluye:
 
 Los organizadores de las PyCon, son un grupo de voluntarios y normalmente son aquellas personas que participan o sienten un gran compromiso con la comunidad Python de su país o ciudad más el apoyo de  voluntarios de diferentes áreas que se animan a colaborar como por ejemplo: diseñadores gráficos, contadores, estudiantes universitarios, comunidades de inclusión tecnológica relacionadas a la programación, madres/hermanos de los programadores, entre muchas otras personas.
 
-En Latinoamérica y España contamos con varias conferencias en diferentes fechas del año.
-
-
-.. raw:: html
-
-   <style>
-     .zen-picture {
-       margin-left: 0;
-       margin-right: 0;
-       max-width: 100%;
-     }
-
-     div.figure {
-       max-width: 100% !important;
-       margin: 0 !important;
-     }
-   </style>
 
 .. figure:: timeline-pycon.png
    :class: pycon-picture
+
+En Latinoamérica y España contamos con varias conferencias en diferentes fechas del año.
 
 
 `PyCon Colombia – PyConCo <https://www.pycon.co/>`_

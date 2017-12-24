@@ -87,6 +87,26 @@ Los organizadores de las PyCon, son un grupo de voluntarios y normalmente son aq
 
 En Latinoamérica y España contamos con varias conferencias en diferentes fechas del año.
 
+
+.. raw:: html
+
+   <style>
+     .zen-picture {
+       margin-left: 0;
+       margin-right: 0;
+       max-width: 100%;
+     }
+
+     div.figure {
+       max-width: 100% !important;
+       margin: 0 !important;
+     }
+   </style>
+
+.. figure:: timeline-pycon.png
+   :class: pycon-picture
+
+
 `PyCon Colombia – PyConCo <https://www.pycon.co/>`_
 ---------------------------------------------------
 

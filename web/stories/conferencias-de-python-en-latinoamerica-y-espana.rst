@@ -39,7 +39,7 @@
 
 Este post tiene como objetivo compartir una pequeña recopilación de información sobre las conferencias de programación en Python que se realizan en Latinoamerica y España, a lo largo de estos dos últimos años y de haber participado en varias conferencias, organización de talleres de programación para mujeres, meetups y charlas informales. He notado que muchas personas desconocen las existencia de estas conferencias y como participar de estas.
 
-Muchas otras, no se animan por que consideran que es solo para profesionales o personas con conocimiento avanzado del tema. Desconocen la calidez de la comunidad de Python en cualquier país y también que la conferencia abarca todos los niveles de conocimiento desde principiante a avanzado.
+Muchas otras, no se animan por que consideran que es solo para profesionales o personas con conocimiento avanzado. Desconocen la calidez de la comunidad de Python en cualquier país y también que la conferencia abarca todos los niveles de conocimiento desde principiante a avanzado.
 
 
 PyCon – Connecting the Python [1]_
@@ -115,7 +115,7 @@ Se realiza en **Febrero**, la ciudad en la cual se realiza la conferencia va cam
 * `2017 – Febrero en Bogotá <https://2017.pycon.co/>`_
 * `2018 – Febrero 9, 10 y 11 en Medellín <https://www.pycon.co/>`_
 
-Este es un comentario a nivel personal, en el 2017 tuve la posibilidad de unirme al equipo de organizadores de la `PyCon Colombia 2018 <https://www.pycon.co/>`_ y aportar mi granito de arena ha sido una linda experiencia. 
+En el 2017 tuve la posibilidad de unirme al equipo de organizadores de la `PyCon Colombia 2018 <https://www.pycon.co/>`_ y aportar mi granito de arena ha sido una linda experiencia. 
 
 `PyCaribbean <http://pycaribbean.com>`_
 ---------------------------------------------- 
@@ -134,9 +134,9 @@ Considerando el gran tamaño de este país, es lógico que cuente con varias con
 `Python Brasil – PyBr[#] <http://2018.pythonbrasil.org.br/>`_
 *************************************************************
 
-Es la conferencia nacional de la comunidad de Python en Brasil, se realiza en el mes de **Octubre ó Noviembre**. Es la conferencia con el mayor histórico de conferencia organizadas en Latinoamérica, un total de 13 conferencias.
+Es la conferencia nacional de la comunidad de Python en Brasil, se realiza en el mes de **Octubre ó Noviembre**. Es la conferencia con el mayor histórico de conferencias organizadas en Latinoamérica.
 
-Algo importante que me gustaría resaltar de esta conferencia es el gran esfuerzo que han realizado en conjunto con la comunidad de `Pyladies Brasil <http://brasil.pyladies.com/>`_ sobre la inclusión de genero dentro de cada versión, en la versión PyBr[13] fue la conferencia en donde vi participar un porcentaje representativo de mujeres y comunidad LGBT. 
+Algo importante que me gustaría resaltar de esta conferencia es el gran esfuerzo que han realizado en conjunto con la comunidad de `Pyladies Brasil <http://brasil.pyladies.com/>`_ sobre la inclusión de genero dentro de cada versión, en la versión PyBr[13] la conferencia tuvo un porcentaje representativo de mujeres y comunidad LGBT participando. 
 
 * `2005 –  PyCon Brasil, Abril 20 y 19 en São Paulo <https://manual-do-big-kahuna.readthedocs.io/en/latest/historia/pyconbrasil.html>`_
 * `2006 –  PyCon Brasil [2], Junio 1 y 2 en Distrito Federal <https://manual-do-big-kahuna.readthedocs.io/en/latest/historia/pyconbrasil2.html>`_
@@ -202,7 +202,7 @@ Se realiza en **Noviembre**, la ciudad en la cual se realiza la conferencia va c
 * 2016 – Noviembre 25 al 27  en Bahía Blanca
 * `2017 – Noviembre 17 al 19 en Córdoba <http://ar.pycon.org/>`_
 
-En el 2014 fue mi primera PyCon y mi primer contacto con el lenguaje de programación en Python y su comunidad.  Así que me es imposible ser neutral y no demostrar mi cariño y gratitud por la comunidad de Python Argentina, donde me sentí tan cómoda y acogida por cada uno de la comunidad que participaba en la conferencia y fue gracias a sentirme tan bien en la conferencia, que me anime a participar de una lightningtalk y decidí que yo debía ser parte de esta comunidad tan amigable. 
+En el 2014 fue mi 1ra PyCon y primer contacto con el lenguaje de programación Python y su comunidad.  Así que es imposible ser neutral y no demostrar mi cariño y gratitud por la comunidad de Python Argentina, donde me sentí tan cómoda y acogida por cada uno en la conferencia, fue gracias a sentirme tan bien en la conferencia que me anime a participar de una lightningtalk y decidí que debía ser parte de esta comunidad tan amigable. 
 
 PyCon Uruguay
 --------------
@@ -224,7 +224,7 @@ Se realiza entre **Septiembre y Noviembre**, va a depender mucho del equipo orga
 * `2016 –  Octubre 7 al 9 en Almería <http://2016.es.pycon.org/en/>`_
 * `2017 –  Septiembre 22 y 24 en Caceres <https://2017.es.pycon.org/en/>`_
 
-En PyCon Es, su comunidad te recibe con los brazos abiertos, es una de las conferencias que tuve la oportunidad de participar en la versión 2016 gracias a una beca otorgada por la organización y la verdad que esta conferencia hizo que mi cerebro explotara de felicidad con el contenido de las diferentes charlas del track de ciencia, con el cual tenía más afinidad.
+En PyCon Es, su comunidad te recibe con los brazos abiertos, es una de las conferencias que tuve la oportunidad de participar en la versión 2016 gracias a una beca otorgada por la organización y la verdad que esta conferencia hizo que mi cerebro explotara de felicidad con el contenido de las diferentes charlas del track de ciencia, con el cual tengo más afinidad.
 
 Ahora que tocamos el tema de ciencia, también tenemos una conferencia para la comunidad que usan python en el ámbito de la ciencia.
 

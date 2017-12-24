@@ -110,7 +110,7 @@ En Latinoamérica y España contamos con varias conferencias en diferentes fecha
 `PyCon Colombia – PyConCo <https://www.pycon.co/>`_
 ---------------------------------------------------
 
-Se realiza en **Febrero**, la ciudad en la cual se realiza la conferencia va cambiando a lo largo del país, ya que su filosofía de comunidad es nacional. Cuenta con el histórico de dos conferencias organizadas y la verdad que el esfuerzo para que sea una buena conferencia, se ve reflejado. 
+Se realiza en **Febrero**, la ciudad en la cual se lleva a cabo la conferencia va cambiando a lo largo del país, ya que su filosofía de comunidad es nacional. Cuenta con el histórico de dos conferencias organizadas y la verdad que el esfuerzo para que sea una buena conferencia, se ve reflejado. 
 
 * `2017 – Febrero en Bogotá <https://2017.pycon.co/>`_
 * `2018 – Febrero 9, 10 y 11 en Medellín <https://www.pycon.co/>`_
@@ -190,7 +190,7 @@ Su primera versión se realizó en Agosto.
 `PyCon Argentina – PyConAR <http://ar.pycon.org/>`_
 ---------------------------------------------------
 
-Se realiza en **Noviembre**, la ciudad en la cual se realiza la conferencia va cambiando a lo largo del país, ya que su filosofía de comunidad es ser federal. Esta conferencia cuenta con un histórico de 9 conferencias realizadas y es *una de las pocas conferencias que es gratuita en Latinoamérica*.
+Se realiza en **Noviembre**, la ciudad en la cual se lleva a cabo la conferencia va cambiando a lo largo del país, ya que su filosofía de comunidad es ser federal. Esta conferencia cuenta con un histórico de 9 conferencias realizadas y es *una de las pocas conferencias que es gratuita en Latinoamérica*.
 
 * 2009 – Septiembre 4 y 5 en Buenos Aires
 * `2010 – Octubre 15 y 16 en Córdoba <http://www.web2py.com.ar/2010/about/>`_
@@ -202,7 +202,7 @@ Se realiza en **Noviembre**, la ciudad en la cual se realiza la conferencia va c
 * 2016 – Noviembre 25 al 27  en Bahía Blanca
 * `2017 – Noviembre 17 al 19 en Córdoba <http://ar.pycon.org/>`_
 
-En el 2014 fue mi 1ra PyCon y primer contacto con el lenguaje de programación Python y su comunidad.  Así que es imposible ser neutral y no demostrar mi cariño y gratitud por la comunidad de Python Argentina, donde me sentí tan cómoda y acogida por cada uno en la conferencia, fue gracias a sentirme tan bien en la conferencia que me anime a participar de una lightningtalk y decidí que debía ser parte de esta comunidad tan amigable. 
+En el 2014 fue mi 1ra PyCon y primer contacto con el lenguaje de programación Python y su comunidad.  Así que es imposible ser neutral y no demostrar mi cariño y gratitud por la comunidad de Python Argentina, donde me sentí tan cómoda y acogida por cada uno en la conferencia, que fue gracias a sentirme tan bien en la conferencia lo que me llevó animarme a participar de una lightningtalk y decidí que debía ser parte de esta comunidad tan amigable. 
 
 PyCon Uruguay
 --------------
@@ -216,7 +216,7 @@ Y finalmente nuestra última conferencia en español
 `Pycon España – PyConES <https://2017.es.pycon.org/en/>`_
 ---------------------------------------------------------
 
-Se realiza entre **Septiembre y Noviembre**, va a depender mucho del equipo organizador de la conferencia y la ciudad en la cual se realiza la conferencia va cambiando a lo largo del país. Esta conferencia cuenta con un histórico de 5 conferencias organizadas.
+Se realiza entre **Septiembre y Noviembre**, va a depender mucho del equipo organizador de la conferencia y la ciudad en la cual se lleve a cabo la conferencia va cambiando a lo largo del país. Esta conferencia cuenta con un histórico de 5 conferencias organizadas.
 
 * `2013 –  Noviembre 23 y 24 en Madrid <http://2013.es.pycon.org/>`_
 * `2014 –  Noviembre 8 y 9 en Zaragoza <http://2014.es.pycon.org/>`_
@@ -224,7 +224,7 @@ Se realiza entre **Septiembre y Noviembre**, va a depender mucho del equipo orga
 * `2016 –  Octubre 7 al 9 en Almería <http://2016.es.pycon.org/en/>`_
 * `2017 –  Septiembre 22 y 24 en Caceres <https://2017.es.pycon.org/en/>`_
 
-En PyCon Es, su comunidad te recibe con los brazos abiertos, es una de las conferencias que tuve la oportunidad de participar en la versión 2016 gracias a una beca otorgada por la organización y la verdad que esta conferencia hizo que mi cerebro explotara de felicidad con el contenido de las diferentes charlas del track de ciencia, con el cual tengo más afinidad.
+En PyCon Es y su comunidad te reciben con los brazos abiertos, es una de las conferencias que tuve la oportunidad de participar en la versión 2016 gracias a una beca otorgada por la organización y la verdad que esta conferencia hizo que mi cerebro explotara de felicidad con el contenido de las diferentes charlas del track de ciencia, con el cual tengo más afinidad.
 
 Ahora que tocamos el tema de ciencia, también tenemos una conferencia para la comunidad que usan python en el ámbito de la ciencia.
 

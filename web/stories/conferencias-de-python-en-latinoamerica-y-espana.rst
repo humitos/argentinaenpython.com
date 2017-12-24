@@ -241,13 +241,12 @@ Sus objetivos son simples:
 * Fomentar la adopción de la informática como herramienta de estudio científico.
 * Fomentar el uso de Python como principal herramienta informática en la ciencia. [3]_
 
-Se realiza en el mes de **Mayo**, la idea es que cada país de latinoamerica sea anfitrión de esta conferencia.
+Se realiza en el mes de **Mayo**, la idea es que cada país de Latinoamérica sea anfitrión de esta conferencia.
 
 * `2013 – Mayo 16 al 18 en Puerto Madrid, Argentina <http://scipyla.org/conf/2013/>`_
 * `2014 – Octubre 20 al 24 en Bahía Blanca, Argentina <http://scipyla.org/conf/2014/>`_
 * `2015 – Mayo 20 al 22 en Posadas, Argentina <http://scipyla.org/conf/2015/>`_
 * `2016 – Mayo 16 al 20 en Florianópolis, Brasil <http://scipyla.org/conf/2016/>`_
-* `2017 – Noviembre 22 al 25 en La Habana, Cuba <http://scipyla.org/conf/2017/>`_
  
 
 En la versión de `SciPy Latin America de 2015 <http://scipyla.org/conf/2015/>`_, tuve la oportunidad de asistir y aportar a la conferencia de la mano con el proyecto Argentina en Python generando el espacio `Track Teen <https://argentinaenpython.com/track-teen-scipy-la-2015/>`_ en el marco de la conferencia
@@ -269,7 +268,8 @@ Una idea en proceso es PyCon Latam
 En el mes de octubre, *Manuel Kaufmann* quien es `Embajador de Python en Latinoamérica <https://www.python.org/psf/records/board/minutes/2016-02-25/#new-business>`_ y fundador del proyecto `Argentina en Python <https://argentinaenpython.com>`_, publico la idea para comenzar a hablar de la posibilidad de organizar una `PyCon Latam <https://argentinaenpython.com/pycon-latam/>`_ donde todas las comunidades de Python en Latinoamerica puedan participar.
 
 
-Espero que después de haber leído esta post, te animes a participar de la conferencia que más te guste, sin importar si eres principiante en la programación o tienes conocimiento avanzado en el lenguaje.
+Espero que después de haber leído esta post, te animes a participar de la conferencia que más te guste, sin importar si eres principiante en programación o tienes conocimiento avanzado.
+
 
 .. class:: align-center width-70 lead
 

@@ -19,6 +19,18 @@ Año 2017
 
 
 .. template:: prensa-image
+   :title: Python Software Foundation Fellow Members for Q4 2017
+   :description: Blog post sobre los miembros de honor
+   :src: 2017_diciembre_1-340x255.png
+   :href: https://pyfound.blogspot.com/2017/12/python-software-foundation-fellow.html
+
+.. template:: prensa-image
+   :title: PSF Membership Roster
+   :description: Manuel Kaufmann declarado como miembro de honor de la PSF
+   :src: 2017_diciembre_0-340x255.png
+   :href: https://www.python.org/psf/members/
+
+.. template:: prensa-image
    :title: ¿Cómo fue organizar Django Girls Cartagena?
    :description: Blog post por Ana Elles Manzur
    :src: 2017_noviembre_0-340x255.png

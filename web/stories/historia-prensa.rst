@@ -416,7 +416,7 @@ Año 2015
 .. template:: prensa-image
    :title: Python Software Foundation
    :description: First-Ever PyCaribbean Coming This February!
-   :src: 2015_noviembre_4-340x255.png
+   :src: 2015_noviembre_5-340x255.png
    :href: https://pyfound.blogspot.com/2015/11/first-ever-pycaribbean-coming-this.html
 
 

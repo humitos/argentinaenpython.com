@@ -414,6 +414,13 @@ Año 2015
 
 
 .. template:: prensa-image
+   :title: Python Software Foundation
+   :description: First-Ever PyCaribbean Coming This February!
+   :src: 2015_noviembre_4-340x255.png
+   :href: https://pyfound.blogspot.com/2015/11/first-ever-pycaribbean-coming-this.html
+
+
+.. template:: prensa-image
    :title: Marcos Dione
    :description: Went to pycon.ar 2015
    :src: 2015_noviembre_4-340x255.png

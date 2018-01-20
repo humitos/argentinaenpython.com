@@ -422,15 +422,16 @@ contigo para coordinar los detalles.
    :facebook: https://www.facebook.com/argentinaenpython
 
 .. template:: bootstrap3/django-girls-guia
-   :name: Marian Villa
-   :image: organizador-marian.png
+   :name: Carolina Gómez
+   :image: organizador-carolina.png
    :place: Medellín, Colombia
-   :community: Pioneras Dev
-   :email: marian@marian-villa.com
-   :web: http://www.marianvilla.co/
-   :github: https://github.com/marianvilla
-   :twitter: https://twitter.com/Marianvilla
-   :facebook: https://www.facebook.com/MarianVillaDC
+   :email: carolina9511@gmail.com
+   :community: Django Girls Colombia y Python Pereira
+   :web: https://carogomez.github.io/
+   :github: https://github.com/carogomezt
+   :twitter: https://twitter.com/caro_gomez
+   :facebook: https://www.facebook.com/Caro.gomez.t
+
 
 .. raw:: html
 
@@ -480,17 +481,15 @@ Son personas comprometidas que hacen posible llevar adelante esta propuesta de i
    :facebook: https://www.facebook.com/AlejoERendon
 
 .. template:: bootstrap3/django-girls-guia
-   :name: Carolina Gómez
-   :image: colaborador-carolina.png
+   :name: Marian Villa
+   :image: colaboradora-marian.png
    :place: Medellín, Colombia
-   :email: carolina9511@gmail.com
-   :community: Django Girls Colombia y Python Pereira 
-   :web: https://carogomez.github.io/
-   :github: https://github.com/carogomezt
-   :twitter: https://twitter.com/caro_gomez
-   :facebook: https://www.facebook.com/Caro.gomez.t
-
-
+   :community: Pioneras Dev
+   :email: marian@marian-villa.com
+   :web: http://www.marianvilla.co/
+   :github: https://github.com/marianvilla
+   :twitter: https://twitter.com/Marianvilla
+   :facebook: https://www.facebook.com/MarianVillaDC
 
 .. template:: bootstrap3/django-girls-guia
    :name: ¡Quiero colaborar!

@@ -256,6 +256,27 @@ contigo para coordinar los detalles.
 
    <div class="section-guia">
 
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Dario Guzman
+   :image: guia-dario.png
+   :place: Barranquilla, Colombia
+   :community: Python Barranquilla
+   :web: 
+   :github: https://github.com/gudarjs
+   :twitter: https://twitter.com/gudarjs
+   :facebook: 
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Esteban Maya Cadavid
+   :image: guia-esteban.png
+   :place: Medellín, Colombia
+   :community: Python Medellín, Python Colombia, Flisol Medellín
+   :web: 
+   :github: 
+   :twitter: 
+   :facebook: 
+
 .. template:: bootstrap3/django-girls-guia
    :name: Gonzalo Peña Castellanos
    :image: guia-gonzalo.png
@@ -267,35 +288,16 @@ contigo para coordinar los detalles.
    :twitter: https://twitter.com/goanpeca
    :facebook: https://www.facebook.com/goanpeca
 
-.. .. template:: bootstrap3/django-girls-guia
-   :name: Jose Antonio Andrade
-   :image: guia-jose-antonio.png
-   :place: Medellín, Colombia
-   :community: Django Girls
-   :web: 
-   :github: https://github.com/avarajar
-   :twitter: https://twitter.com/nirvajara
-   :facebook: 
-
-.. .. template:: bootstrap3/django-girls-guia
-   :name: Juan Medina
-   :image: guia-juan-medina.png
-   :place: Medellín, Colombia   
-   :web: 
-   :github: https://github.com/Juan.Jose.Medina.Sarmiento
-   :twitter: https://twitter.com/jjmedinas
-   :facebook: 
-
 .. template:: bootstrap3/django-girls-guia
-   :name: ¡Quiero ser guía!
-   :image: guia-nn-mujer-180x180.png
-   :place: 
+   :name: Gustavo Diaz Jaimes
+   :image: guia-gustavo.png
+   :place: Bucaramanga, Colombia
    :community: 
    :web: 
-   :github: 
+   :github: https://github.com/Gustavodiazjaimes
    :twitter: 
-   :facebook: 
-   
+   :facebook: https://www.facebook.com/gustabot42
+
 .. raw:: html
 
    </div>
@@ -315,15 +317,105 @@ contigo para coordinar los detalles.
 
    <div class="section-guia">
 
-.. .. template:: bootstrap3/django-girls-guia
-   :name: Julián Amaya
-   :image: guia-julian.png
-   :place: Medellín, Colombia
-   :community: Python Colombia
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Isabel Ruiz Buritica
+   :image: guia-isabel.png
+   :place: Colombia
+   :community: 
    :web: 
-   :github: https://github.com/julian-amaya
-   :twitter: https://twitter.com/julian_amaya
+   :github: https://github.com/iris9112
+   :twitter: 
+   :facebook: https://www.facebook.com/isabelcristina.ruizburitica 
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Jesus David Steer Varela
+   :image: guia-jesus.png
+   :place: Colombia
+   :community: Python Cartagena, Python Barranquilla
+   :web: 
+   :github: https://github.com/jsteerv
+   :twitter: 
+   :facebook: https://www.facebook.com/jsteerv
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Juan Carlos Rodriguez
+   :image: guia-juan.png
+   :place: Colombia
+   :community: Python Colombia, Python Medellín, Django Girls Medellín
+   :web: 
+   :github: 
+   :twitter: 
    :facebook: 
+
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Keveen Rodriguez
+   :image: guia-keveen.png
+   :place: Medellín, Colombia
+   :community: 
+   :web: 
+   :github: https://github.com/keveenrodz/
+   :twitter: 
+   :facebook: 
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   <style>
+     div.django-girls-guia {
+       min-height: 350px;
+     }
+
+     div.section-guia {
+       display: inline-block;
+       width: 100%;
+     }
+   </style>
+
+   <div class="section-guia">
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Maria Camila Gómez Restrepo
+   :image: guia-camila.png
+   :place: Medellín, Colombia
+   :community: Pionera Developers
+   :web: 
+   :github: https://github.com/camigomez35
+   :twitter: https://twitter.com/camigomez31
+   :facebook: 
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Yerley Katterine Sanchez Florez
+   :image: guia-yurley.png
+   :place: Bucaramanga, Colombia
+   :community: Python Bucaramanga, BucaramangaJS
+   :web: 
+   :github: https://github.com/Yursksf1
+   :twitter: 
+   :facebook: https://www.facebook.com/fsk.sruy
+   
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   <style>
+     div.django-girls-guia {
+       min-height: 350px;
+     }
+
+     div.section-guia {
+       display: inline-block;
+       width: 100%;
+     }
+   </style>
+
+   <div class="section-guia">
 
 .. raw:: html
 

@@ -339,22 +339,23 @@ contigo para coordinar los detalles.
    :facebook: https://www.facebook.com/jsteerv
 
 .. template:: bootstrap3/django-girls-guia
-   :name: Jose Antonio Andrade
-   :image: guia-jose-antonio.png
-   :place: Medellín, Colombia
-   :community: Django Girls
-   :web: 
-   :github: https://github.com/avarajar
-   :twitter: https://twitter.com/nirvajara
-   :facebook: 
-
-.. template:: bootstrap3/django-girls-guia
    :name: Juan Carlos Rodriguez
    :image: guia-juan.png
    :place: Colombia
    :community: Python Colombia, Python Medellín, Django Girls Medellín
    :web: 
    :github: 
+   :twitter: 
+   :facebook: 
+
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Keveen Rodriguez
+   :image: guia-keveen.png
+   :place: Medellín, Colombia
+   :community: 
+   :web: 
+   :github: https://github.com/keveenrodz/
    :twitter: 
    :facebook: 
 
@@ -376,36 +377,6 @@ contigo para coordinar los detalles.
    </style>
 
    <div class="section-guia">
-
-
-.. template:: bootstrap3/django-girls-guia
-   :name: Juan Medina
-   :image: guia-juan-medina.png
-   :place: Medellín, Colombia   
-   :web: 
-   :github: https://github.com/Juan.Jose.Medina.Sarmiento
-   :twitter: https://twitter.com/jjmedinas
-   :facebook: 
-
-.. template:: bootstrap3/django-girls-guia
-   :name: Julián Amaya
-   :image: guia-julian.png
-   :place: Medellín, Colombia
-   :community: Python Colombia
-   :web: 
-   :github: https://github.com/julian-amaya
-   :twitter: https://twitter.com/julian_amaya
-   :facebook: 
-
-.. template:: bootstrap3/django-girls-guia
-   :name: Keveen Rodriguez
-   :image: guia-keveen.png
-   :place: Medellín, Colombia
-   :community: 
-   :web: 
-   :github: https://github.com/keveenrodz/
-   :twitter: 
-   :facebook: 
 
 .. template:: bootstrap3/django-girls-guia
    :name: Maria Camila Gómez Restrepo
@@ -445,16 +416,6 @@ contigo para coordinar los detalles.
    </style>
 
    <div class="section-guia">
-
-.. .. template:: bootstrap3/django-girls-guia
-   :name: Julián Amaya
-   :image: guia-julian.png
-   :place: Medellín, Colombia
-   :community: Python Colombia
-   :web: 
-   :github: https://github.com/julian-amaya
-   :twitter: https://twitter.com/julian_amaya
-   :facebook: 
 
 .. raw:: html
 

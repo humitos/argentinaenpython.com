@@ -244,8 +244,8 @@ contigo para coordinar los detalles.
 .. raw:: html
 
    <style>
-     div.django-girls-guia {
-       min-height: 350px;
+     .section-guia div.django-girls-guia {
+       min-height: 375px;
      }
 
      div.section-guia {
@@ -298,26 +298,6 @@ contigo para coordinar los detalles.
    :twitter: 
    :facebook: https://www.facebook.com/gustabot42
 
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <style>
-     div.django-girls-guia {
-       min-height: 350px;
-     }
-
-     div.section-guia {
-       display: inline-block;
-       width: 100%;
-     }
-   </style>
-
-   <div class="section-guia">
-
-
 .. template:: bootstrap3/django-girls-guia
    :name: Isabel Ruiz Buritica
    :image: guia-isabel.png
@@ -359,25 +339,6 @@ contigo para coordinar los detalles.
    :twitter: 
    :facebook: 
 
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <style>
-     div.django-girls-guia {
-       min-height: 350px;
-     }
-
-     div.section-guia {
-       display: inline-block;
-       width: 100%;
-     }
-   </style>
-
-   <div class="section-guia">
-
 .. template:: bootstrap3/django-girls-guia
    :name: Maria Camila Gómez Restrepo
    :image: guia-camila.png
@@ -402,25 +363,6 @@ contigo para coordinar los detalles.
 
    </div>
 
-.. raw:: html
-
-   <style>
-     div.django-girls-guia {
-       min-height: 350px;
-     }
-
-     div.section-guia {
-       display: inline-block;
-       width: 100%;
-     }
-   </style>
-
-   <div class="section-guia">
-
-.. raw:: html
-
-   </div>
-
 ----
 
 ¡Los organizadores!
@@ -429,12 +371,13 @@ contigo para coordinar los detalles.
 .. raw:: html
 
    <style>
-     div.django-girls-organizadores {
-       min-height: 350px;
+     .section-organizadores div.django-girls-guia {
+       min-height: 400px;
      }
 
      div.section-organizadores {
        display: inline-block;
+       width: 100%;
      }
    </style>
 
@@ -481,27 +424,6 @@ contigo para coordinar los detalles.
    :github: https://github.com/davoshack
    :twitter: https://twitter.com/JuanDHernandezG
 
-
-.. raw:: html
-
-   </div>
-
-.. raw:: html
-
-   <style>
-     div.django-girls-organizadores {
-       min-height: 350px;
-     }
-
-     div.section-organizadores {
-       display: inline-block;
-       width: 100%;
-     }
-   </style>
-
-   <div class="section-organizadores">
-
-
 .. template:: bootstrap3/django-girls-guia
    :name: Manuel Kaufmann
    :image: organizador-manuel.png
@@ -539,16 +461,17 @@ Son personas comprometidas que hacen posible llevar adelante esta propuesta de i
 .. raw:: html
 
    <style>
-     div.django-girls-guia {
-       min-height: 250px;
+     .section-colaboradores div.django-girls-guia {
+       min-height: 375px;
      }
 
-     div.section-guia {
+     div.section-colaboradores {
        display: inline-block;
+       width: 100%;
      }
    </style>
 
-   <div class="section-guia">
+   <div class="section-colaboradores">
 
 .. template:: bootstrap3/django-girls-guia
    :name: Angelica Aguirre Castro

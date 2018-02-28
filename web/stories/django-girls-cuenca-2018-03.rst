@@ -384,7 +384,6 @@ Son personas comprometidas que hacen posible llevar adelante esta propuesta de i
    :twitter: https://twitter.com/rommel_german
    :facebook: https://www.facebook.com/rommel.german
 
-
 .. template:: bootstrap3/django-girls-guia
    :name: Paulo Gonzalez
    :image: Colaborador-PauloGonzalez.png
@@ -407,6 +406,22 @@ Son personas comprometidas que hacen posible llevar adelante esta propuesta de i
    :community: Universidad Politécnica Salesiana
    :twitter:  https://twitter.com/LuisLima_jls
    :facebook: https://www.facebook.com/llimajls
+
+.. template:: bootstrap3/django-girls-guia
+   :name:  Manuel Kaufmann
+   :image: colaborador-manuel.png
+   :place: Argentina
+   :community: Argentina en Python, Python Argentina, Python Cuenca
+   :twitter:  https://twitter.com/LuisLima_jls
+   :facebook: https://www.facebook.com/llimajls
+
+.. template:: bootstrap3/django-girls-guia
+   :name:  Johanna Sanchez
+   :image: colaborador-johanna.png
+   :place: Colombia
+   :community: Argentina en Python, Django Girls Colombia, Python Cuenca
+   :twitter:  https://twitter.com/ellaquimica
+   :facebook: https://www.facebook.com/ellaquimica
 
 
 .. raw:: html

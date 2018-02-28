@@ -21,7 +21,7 @@
 
 .. class:: alert alert-success
 
-      **NOVEDADES**: ¡Atención Colombia, el Jueves 8 de Febrero en el marco de la conferencia `PyCon Colombia 2018 <https://www.pycon.co>`_ tendremos el taller de programación para mujeres :doc:`Django Girls PyCon Colombia <django-girls/2018/02/pyconcolombia>` en la ciudad de Medellín!   
+      **NOVEDADES**: ¡Atención Ecuador, el Sábado 24 de Marzo tendremos el taller de programación para mujeres `Django Girls Cuenca 2018 <django-girls/2018/03/cuenca/>`_ en la ciudad de Cuenca, Ecuador. Este evento es organizado por la Catedra UNESCO y Universidad Politécnica Salesiana con el apoyo de Argentina en python y Python Cuenca!   
 
 
 .. image:: /index/logo.thumbnail.png

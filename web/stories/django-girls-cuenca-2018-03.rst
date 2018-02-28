@@ -87,7 +87,7 @@ mujer con vos que también realice el taller [#]_.
 ¿Dónde y cuándo?
 ----------------
 
-* Lugar: `Coworking StartUPS <https://www.facebook.com/COWORKINGUPS/>`_, ubicado en las instalaciones de la Universidad Politécnica Saleciana en la calle Vieja, Cuenca, Ecuador.
+* Lugar: `Coworking StartUPS <https://www.facebook.com/COWORKINGUPS/>`_, ubicado en las instalaciones de la Universidad Politécnica Salesiana en la calle Vieja, Cuenca, Ecuador.
 
 * Fecha: Sábado 24 de Marzo de 2018 de 8:30hs (¡puntual!) a 19:00hs.
 

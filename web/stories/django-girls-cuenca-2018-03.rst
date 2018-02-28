@@ -301,24 +301,19 @@ contigo para coordinar los detalles.
 
 .. template:: bootstrap3/django-girls-guia
    :name: Paola Ingavelez
-   :image: organizador-paola.png
+   :image: organizador-Paola-Ingavelez.png
    :place: Cuenca, Ecuador
    :email: pcingavelez@ups.edu.ec
    :community: Cátedra UNESCO Tecnologías de apoyo para la inclusión educativa 
-   :web: 
-   :github: 
    :twitter: @ingavelezpaola
 
 .. template:: bootstrap3/django-girls-guia
    :name: Vladimir Robles B
-   :image: organizadore-vladimir.png
+   :image: organizador-Vladimir-RoblesB.png
    :place: Cuenca, Ecuador
    :email: vrobles@ups.edu.ec
-   :community: Cátedra UNESCO Tecnologías de apoyo para la inclusión educativa
-   :web: 
-   :github: 
+   :community: Cátedra UNESCO Tecnologías de apoyo para la inclusión educativa 
    :twitter: @vlarobbyk
-   :facebook: 
 
 
 
@@ -358,7 +353,7 @@ Son personas comprometidas que hacen posible llevar adelante esta propuesta de i
 
 .. template:: bootstrap3/django-girls-guia
    :name: Doris Marca
-   :image: colaborador-nnhombre-180x180.png
+   :image: colaborador-DorisMarca.png
    :place: Cuenca, Ecuador
    :email: dmarcag@est.ups.edu.ec
    :community: Universidad Politécnica Salesiana
@@ -366,7 +361,7 @@ Son personas comprometidas que hacen posible llevar adelante esta propuesta de i
 
 .. template:: bootstrap3/django-girls-guia
    :name: Rommel Germán Paredes Morales
-   :image: colaborador-nnhombre-180x180.png
+   :image: colaborador-Romel-Paredes.png
    :place: Cuenca, Ecuador
    :community: Universidad Politécnica Salesiana
    :twitter: https://twitter.com/rommel_german
@@ -374,21 +369,21 @@ Son personas comprometidas que hacen posible llevar adelante esta propuesta de i
 
 .. template:: bootstrap3/django-girls-guia
    :name: Vanessa Amendaño
-   :image: colaborador-nnhombre-180x180.png
+   :image: 
    :place: Cuenca, Ecuador
    :community: Universidad Politécnica Salesiana
    :facebook: https://www.facebook.com/vanesa.amendano
 
 .. template:: bootstrap3/django-girls-guia
    :name: Paulo Gonzalez
-   :image: colaborador-nnhombre-180x180.png
+   :image: Colaborador-PauloGonzalez.png
    :place: Cuenca, Ecuador
    :community: Universidad Politécnica Salesiana
    :twitter: https://twitter.com/paulogonzalez10
 
 .. template:: bootstrap3/django-girls-guia
    :name: Jenniffer Rojas Toro
-   :image: colaborador-nnhombre-180x180.png
+   :image: colaborador-jennifferRojasT.png
    :place: Cuenca, Ecuador
    :community: Universidad Politécnica Salesiana
    :twitter: https://twitter.com/jpaullette15
@@ -396,7 +391,7 @@ Son personas comprometidas que hacen posible llevar adelante esta propuesta de i
 
 .. template:: bootstrap3/django-girls-guia
    :name: John Llanes
-   :image: colaborador-nnhombre-180x180.png
+   :image: colaborador-johnllanes.png
    :place: Cuenca, Ecuador
    :community: Universidad Politécnica Salesiana
    :twitter: https://twitter.com/jhonllanes
@@ -404,7 +399,7 @@ Son personas comprometidas que hacen posible llevar adelante esta propuesta de i
 
 .. template:: bootstrap3/django-girls-guia
    :name:  Luis Miguel Lima Juma
-   :image: colaborador-nnhombre-180x180.png
+   :image: Colaborador-LuisLima.png
    :place: Cuenca, Ecuador
    :community: Universidad Politécnica Salesiana
    :twitter:  https://twitter.com/LuisLima_jls

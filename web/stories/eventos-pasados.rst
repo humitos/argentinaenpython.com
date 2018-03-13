@@ -8,7 +8,9 @@
 
 Eventos pasados
 ---------------
-*  01-12-2017: `Taller de Tecnologías de Virtualización: Introducción a Docker en Cuenca <https://www.meetup.com/es-ES/python-ecuador/events/245114680/>`_
+* 08-02-2018: `Taller Django Girls en PyConColombia 2018
+  <https://argentinaenpython.com/galeria/django-girls-medellin/>`_
+*  12-01-2018: `Taller de Tecnologías de Virtualización: Introducción a Docker en Cuenca <https://www.meetup.com/es-ES/python-ecuador/events/246196158/>`_
 *  14-12-2017: `Taller de Programación en Python y Open ERP (Orientado a GIS) en Cuenca <https://www.meetup.com/es-ES/python-ecuador/events/245671803/>`_
 *  08-12-2017: `Taller de Tecnologías de Virtualización: Introducción a Docker Parte 2 en Cuenca <https://www.meetup.com/es-ES/python-ecuador/events/245654351/>`_
 *  01-12-2017: `Taller de Tecnologías de Virtualización: Introducción a Docker en Cuenca <https://www.meetup.com/es-ES/python-ecuador/events/245114680/>`_

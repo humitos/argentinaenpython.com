@@ -157,11 +157,6 @@ formas de vida.
    :title: Django Girls Medellín
    :description: Workshop Django Girls
 
-.. template:: bootstrap3/thumbnail-index
-   :href: /galeria/django-girls-bucaramanga/
-   :src: IMG_1603.JPG
-   :title: Django Girls Bucaramanga
-   :description: Workshop Django Girls
 
 .. class:: lead align-center
 

@@ -144,6 +144,11 @@ formas de vida.
 
    <hr style="border-width: 10px 0 0;">
 
+.. template:: bootstrap3/thumbnail-index
+   :href: /galeria/django-girls-pyconcolombia-2018/
+   :src: DSCF4438.JPG
+   :title: Django Girls PyConColombia 2018 - Medellín
+   :description: Workshop Django Girls
 
 .. template:: bootstrap3/thumbnail-index
    :href: /galeria/django-girls-barranquilla/

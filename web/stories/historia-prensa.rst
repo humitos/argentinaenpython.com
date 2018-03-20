@@ -19,6 +19,12 @@ Año 2017
 
 
 .. template:: prensa-image
+   :title: Mi experiencia en PyCon Colombia 2018
+   :description: Django Girls Colombia
+   :src: 2018_marzo_0-340x255.png
+   :href: https://medium.com/@djangogirlscolombia/mi-experiencia-en-pycon-colombia-2018-41d10ecabe99
+
+.. template:: prensa-image
    :title: Python Software Foundation Fellow Members for Q4 2017
    :description: Blog post sobre los miembros de honor
    :src: 2017_diciembre_1-340x255.png

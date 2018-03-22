@@ -25,6 +25,12 @@ Año 2017
    :href: https://medium.com/@djangogirlscolombia/mi-experiencia-en-pycon-colombia-2018-41d10ecabe99
 
 .. template:: prensa-image
+   :title: ¿Cómo fue mi experiencia organizando el Django Girls 2017?
+   :description: Django Girls Colombia
+   :src: 2017_diciembre_2-340x255.jpg
+   :href: https://medium.com/@djangogirlscolombia/django-girls-medell%C3%ADn-c%C3%B3mo-fue-mi-experiencia-organizando-el-django-girls-2017-1e5629dc02a4
+
+.. template:: prensa-image
    :title: Python Software Foundation Fellow Members for Q4 2017
    :description: Blog post sobre los miembros de honor
    :src: 2017_diciembre_1-340x255.png

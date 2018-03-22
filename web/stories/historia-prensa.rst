@@ -21,7 +21,7 @@ Año 2017
 .. template:: prensa-image
    :title: Mi experiencia en PyCon Colombia 2018
    :description: Django Girls Colombia
-   :src: 2018_marzo_0-340x255.png
+   :src: 2018_marzo_0-340x255.jpg
    :href: https://medium.com/@djangogirlscolombia/mi-experiencia-en-pycon-colombia-2018-41d10ecabe99
 
 .. template:: prensa-image

@@ -7,8 +7,8 @@
 .. description: Notas en donde el proyecto Argentina en Python ha sido mencionado.
 .. type: text
 
-Estas son algunas de las notas en donde el proyecto ha sido publicado
-de alguna manera:
+Estas son algunas de las notas en donde el proyecto ha sido publicado,
+mencionado o ha estado involucrado de alguna manera:
 
 Año 2017
 --------

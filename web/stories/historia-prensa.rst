@@ -10,7 +10,8 @@
 Estas son algunas de las notas en donde el proyecto ha sido publicado,
 mencionado o ha estado involucrado de alguna manera:
 
-Año 2017
+
+Año 2018
 --------
 
 .. raw:: html
@@ -29,6 +30,19 @@ Año 2017
    :description: Modus Laborandi
    :src: 2018_enero_0-340x255.png
    :href: https://moduslaborandi.net/post/psf-fellow/
+
+.. raw:: html
+
+   </div>
+
+
+Año 2017
+--------
+
+.. raw:: html
+
+   <div class="row">
+
 
 .. template:: prensa-image
    :title: ¿Cómo fue mi experiencia organizando el Django Girls 2017?

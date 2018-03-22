@@ -8,7 +8,9 @@
 
 Eventos pasados
 ---------------
-
+* 08-02-2018: `Taller Django Girls en PyConColombia 2018
+  <https://argentinaenpython.com/galeria/django-girls-pyconcolombia-2018/>`_
+*  12-01-2018: `Taller de Tecnologías de Virtualización: Introducción a Docker en Cuenca <https://www.meetup.com/es-ES/python-ecuador/events/246196158/>`__
 *  14-12-2017: `Taller de Programación en Python y Open ERP (Orientado a GIS) en Cuenca <https://www.meetup.com/es-ES/python-ecuador/events/245671803/>`_
 *  08-12-2017: `Taller de Tecnologías de Virtualización: Introducción a Docker Parte 2 en Cuenca <https://www.meetup.com/es-ES/python-ecuador/events/245654351/>`_
 *  01-12-2017: `Taller de Tecnologías de Virtualización: Introducción a Docker en Cuenca <https://www.meetup.com/es-ES/python-ecuador/events/245114680/>`_
@@ -76,22 +78,23 @@ Eventos pasados
 
 Eventos en que colaboramos
 **************************
-
-* 16-12-2017: `Taller Django Girls en Montevideo
+* 24-03-2018: `Taller Django Girls en Cuenca, Ecuador
+  <https://argentinaenpython.com/django-girls/2018/03/cuenca/>`_
+* 16-12-2017: `Taller Django Girls en Montevideo, Uruguay
   <https://djangogirls.org/montevideo/>`_
-* 02-12-2017: `Taller Django Girls en Pereira
+* 02-12-2017: `Taller Django Girls en Pereira, Colombia
   <https://argentinaenpython.com/django-girls/2017/12/pereira/>`_
-* 02-12-2017: `Taller Django Girls en Ibague
+* 02-12-2017: `Taller Django Girls en Ibague, Colombia
   <https://argentinaenpython.com/django-girls/2017/12/ibague/>`_
-* 14-10-2017: `Taller Django Girls en Cartagena
+* 14-10-2017: `Taller Django Girls en Cartagena, Colombia
   <https://argentinaenpython.com/django-girls/2017/10/cartagena/>`_
-* 19-09-2017: `Taller Django Girls en Túcuman
+* 19-09-2017: `Taller Django Girls en Túcuman, Argentina
   <https://argentinaenpython.com/django-girls/2017/09/tucuman/>`_
 
 
 Eventos en los que hemos participado
 ************************************
-
+* 10-02-2018: Manuel Kaufmann y Johanna Sanchez participaron como `disertantes cada uno en PyCon Colombia 2018 <https://www.pycon.co/>`_ realizado en Medellín, Colombia.
 * 17-05-2017: Manuel Kaufmann participó en `PyCon 2017 <https://us.pycon.org/2017/about/>`_ realizado en Portland, Estados Unidos
 * 14-05-2017: Manuel Kaufmann participó en `Write the Docs <http://www.writethedocs.org/conf/na/2017/>`_ realizado en Portland, Estados Unidos
 * 07-10-2016: El equipo completo de Argentina en Python (Manuel y Johanna) participó como guías en el `Django Girls Almería en el marco de la PyConEs 2016 <https://djangogirls.org/almeria/>`_ realizado en Almería, España

@@ -25,6 +25,12 @@ Año 2017
    :href: https://medium.com/@djangogirlscolombia/mi-experiencia-en-pycon-colombia-2018-41d10ecabe99
 
 .. template:: prensa-image
+   :title: PSF "fellow"
+   :description: Modus Laborandi
+   :src: 2018_enero_0-340x255.png
+   :href: https://moduslaborandi.net/post/psf-fellow/
+
+.. template:: prensa-image
    :title: ¿Cómo fue mi experiencia organizando el Django Girls 2017?
    :description: Django Girls Colombia
    :src: 2017_diciembre_2-340x255.jpg

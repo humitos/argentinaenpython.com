@@ -19,7 +19,7 @@
    </style>
 
 
-.. .. class:: alert alert-success
+.... class:: alert alert-success
 
       **NOVEDADES**: ¡Atención Ecuador, el Sábado 24 de Marzo tendremos el taller de programación para mujeres `Django Girls Cuenca 2018 <django-girls/2018/03/cuenca/>`_ en la ciudad de Cuenca, Ecuador. Este evento es organizado por la Catedra UNESCO y Universidad Politécnica Salesiana con el apoyo de Argentina en python y Python Cuenca!   
 

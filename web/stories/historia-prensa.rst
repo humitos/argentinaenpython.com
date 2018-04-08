@@ -28,7 +28,7 @@ Año 2018
 .. template:: prensa-image
    :title: Pulso Social
    :description: Llega a Medellín el Taller de Programación para Mujeres Django Girls PyCon Colombia 2018
-   :src: 2018_febrero_0-340x255.jpg
+   :src: 2018_enero_0-340x255.jpg
    :href: https://pulsosocial.com/2018/01/29/llega-medellin-taller-programacion-mujeres-django-girls-pycon-colombia-2018/
 
 .. template:: prensa-image

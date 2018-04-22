@@ -91,78 +91,93 @@ formas de vida.
 
    <hr style="border-width: 10px 0 0;">
 
+   <div class="container">
+   
    <div class="row" style="margin-top: 50px;">
+   
+       <div class="col-4">
      <a class="home-sections" href="/donde-esta-humitos/">
-       <div class="col-md-4 col-sm-6 col-xs-12">
          <p style="text-align: center"><i class="fa fa-car fa-5x"></p>
          <h2 style="text-align: center">¿Dónde está <em>humitos</em>?</h2>
          <p style="text-align: center">¡Enterate dónde estamos y ayudanos a planear nuestra ruta!</p>
-       </div>
      </a>
+       </div>
 
+       <div class="col-4">
      <a class="home-sections" href="/galeria/">
-       <div class="col-md-4 col-sm-6 col-xs-12">
          <p style="text-align: center"><i class="fa fa-picture-o fa-5x"></p>
          <h2 style="text-align: center">Fotos</h2>
          <p style="text-align: center">Galería de fotos de los eventos en los que hemos participado</p>
-       </div>
      </a>
+       </div>
 
+       <div class="col-4">
      <a class="home-sections" href="/nuestro-zen/">
-       <div class="col-md-4 col-sm-6 col-xs-12">
          <p style="text-align: center"><i class="fa fa-thumbs-o-up fa-5x"></p>
          <h2 style="text-align: center">Nuestro Zen</h2>
          <p style="text-align: center">Algunas reglas que seguimos para que el viaje y los eventos sean un éxito</p>
-       </div>
      </a>
+       </div>
+   </div>
 
+   <div class="row">
+       <div class="col-4">
      <a class="home-sections" href="/quiero-aprender-python/">
-       <div class="col-md-4 col-sm-6 col-xs-12">
          <p style="text-align: center"><i class="fa fa-mortar-board fa-5x"></p>
          <h2 style="text-align: center">Quiero aprender Python</h2>
          <p style="text-align: center">Tutoriales y documentación que te ayudarán a aprender Python de forma autodidacta</p>
-       </div>
      </a>
+       </div>
 
+       <div class="col-4">
      <a class="home-sections" href="/eventos/">
-       <div class="col-md-4 col-sm-6 col-xs-12">
          <p style="text-align: center"><i class="fa fa-calendar fa-5x"></p>
          <h2 style="text-align: center">Próximos Eventos</h2>
          <p style="text-align: center">Eventos que estamos organizando a futuro y que nos podés ayudar a coordinar en tu ciudad</p>
-       </div>
      </a>
+       </div>
 
+       <div class="col-4">
      <a class="home-sections" href="/donaciones/">
-       <div class="col-md-4 col-sm-6 col-xs-12">
          <p style="text-align: center"><i class="fa fa-dollar fa-5x"></p>
          <h2 style="text-align: center">Donaciones</h2>
          <p style="text-align: center">Colabora económicamente para ayudarnos a seguir adelante con este proyecto</p>
-       </div>
      </a>
+       </div>
 
+   </div>
    </div>
 
    <hr style="border-width: 10px 0 0;">
 
-.. template:: bootstrap3/thumbnail-index
+.. raw:: html
+
+   <div class="container">
+       <div class="row">
+   
+.. template:: bootstrap4/thumbnail-index
    :href: /galeria/django-girls-pyconcolombia-2018/
    :src: DSCF4438.JPG
    :title: Django Girls PyCon Colombia
    :description: Workshop Django Girls
 
-.. template:: bootstrap3/thumbnail-index
+.. template:: bootstrap4/thumbnail-index
    :href: /galeria/django-girls-barranquilla/
    :src: IMG_2834.JPG
    :title: Django Girls Barranquilla
    :description: Workshop Django Girls
 
-.. template:: bootstrap3/thumbnail-index
+.. template:: bootstrap4/thumbnail-index
    :href: /galeria/django-girls-medellin/
    :src: IMG_2243.JPG
    :title: Django Girls Medellín
    :description: Workshop Django Girls
 
+.. raw:: html
 
+       </div>
+   </div>
+                 
 .. class:: lead align-center
 
    Recorre Latinoamérica y el mundo compartiendo conocimiento, Python

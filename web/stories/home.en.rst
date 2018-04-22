@@ -142,24 +142,32 @@ How?
 
    <hr style="border-width: 10px 0 0;">
 
+.. raw:: html
 
-.. template:: bootstrap3/thumbnail-index
+   <div class="container">
+
+.. template:: bootstrap4/thumbnail-index
    :href: /galeria/django-girls-pyconcolombia-2018/
    :src: DSCF4438.JPG
    :title: Django Girls PyCon Colombia
    :description: Workshop Django Girls
 
-.. template:: bootstrap3/thumbnail-index
+.. template:: bootstrap4/thumbnail-index
    :href: /galeria/django-girls-barranquilla/
    :src: IMG_2834.JPG
    :title: Django Girls Barranquilla
    :description: Workshop Django Girls
 
-.. template:: bootstrap3/thumbnail-index
+.. template:: bootstrap4/thumbnail-index
    :href: /galeria/django-girls-medellin/
    :src: IMG_2243.JPG
    :title: Django Girls Medellín
    :description: Workshop Django Girls
+
+.. raw:: html
+
+   </div>
+   
 
 .. class:: lead align-center
 

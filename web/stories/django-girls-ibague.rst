@@ -152,15 +152,15 @@ Cronograma
 
 .. raw:: html
 
-   <div style="display: inline-block;">
+   <div class="row">
 
-.. class:: col-md-4
+.. class:: col
 
    Tienes tiempo hasta el **14 de Noviembre** para inscribirte. Te
    recomendamos leer la página de forma completa y prestar mucha
    atención al llenar el formulario.
 
-.. class:: col-md-4
+.. class:: col
 
    El **15 de Noviembre** anunciaremos los participantes que fueron
    **CONFIRMADOS** para participar en el taller, como así también los
@@ -168,7 +168,7 @@ Cronograma
    electrónico buscando un email nuestro en *Bandeja de Entrada*, *Promociones* y
    *SPAM* y confirmar tu asistencia respondiéndolo.
 
-.. class:: col-md-4
+.. class:: col
 
    El **21 de Noviembre** anunciaremos los participantes que estaban en
    LISTA DE ESPERA y que han pasado a estar **CONFIRMADOS**. Si
@@ -195,7 +195,7 @@ Cronograma
    caso de que alguien no pueda asistir, nos estaremos comunicando con
    vos para informarte.!
 
-.. template:: bootstrap3/button
+.. template:: bootstrap4/button
    :href: https://goo.gl/forms/Jj59AfAOilKkhDFw1
 
    ¡Quiero inscribirme!
@@ -226,7 +226,7 @@ registrate en el siguiente formulario y nos pondremos en contacto
 contigo para coordinar los detalles.
 
 
-.. template:: bootstrap3/button
+.. template:: bootstrap4/button
    :href: https://goo.gl/forms/y7eEtD3cXEtt7yCU2
 
    ¡Quiero participar como guía!
@@ -247,9 +247,9 @@ contigo para coordinar los detalles.
      }
    </style>
 
-   <div class="section-guia">
+   <div class="row" class="section-guia">
 
-.. template:: bootstrap3/django-girls-guia
+.. template:: bootstrap4/django-girls-guia
    :name: Camilo Andres Galeano
    :image: guia-camilo.png
    :place: Bogotá, Colombia
@@ -257,7 +257,7 @@ contigo para coordinar los detalles.
    :community: Python Bogotá
    :facebook: https://www.facebook.com/viajeroaprendiz
 
-.. template:: bootstrap3/django-girls-guia
+.. template:: bootstrap4/django-girls-guia
    :name: Gonzalo Peña Castellanos
    :image: guia-gonzalo.png
    :place: Bucaramanga, Colombia
@@ -268,7 +268,7 @@ contigo para coordinar los detalles.
    :twitter: https://twitter.com/goanpeca
    :facebook: https://www.facebook.com/goanpeca
 
-.. template:: bootstrap3/django-girls-guia
+.. template:: bootstrap4/django-girls-guia
    :name: José Manuel Zamora Ortiz
    :image: guia-jose.png
    :place: Ibagué, Colombia
@@ -276,7 +276,7 @@ contigo para coordinar los detalles.
    :community: Python Ibagué<br>IbaCrea<br>Hackids
    :github: https://github.com/jomazao
 
-.. template:: bootstrap3/django-girls-guia
+.. template:: bootstrap4/django-girls-guia
    :name: Pedro Rivera<br><br>
    :image: guia-pedro.png
    :place: Popayán, Colombia
@@ -286,7 +286,7 @@ contigo para coordinar los detalles.
    :github: https://github.com/ppsirg
    :facebook: https://www.facebook.com/ppsirg
 
-.. template:: bootstrap3/django-girls-guia
+.. template:: bootstrap4/django-girls-guia
    :name: Rafael Laverde<br><br>
    :image: guia-rafael.png
    :place: Sogamoso, Colombia
@@ -297,7 +297,7 @@ contigo para coordinar los detalles.
    :twitter: https://twitter.com/rlaverde
    :facebook: https://www.facebook.com/rlaverde
 
-.. template:: bootstrap3/django-girls-guia
+.. template:: bootstrap4/django-girls-guia
    :name: Sergio Orjuela<br><br>
    :image: guia-sergio.png
    :place: Ibagué, Colombia
@@ -307,7 +307,7 @@ contigo para coordinar los detalles.
    :twitter: https://twitter.com/somostolima
    :facebook: https://www.facebook.com/somostolima
 
-.. template:: bootstrap3/django-girls-guia
+.. template:: bootstrap4/django-girls-guia
    :name: Pedro Miguel Cuadros de Avila
    :image: guia-pedro-miguel.png
    :place: Cartagena, Colombia
@@ -317,7 +317,7 @@ contigo para coordinar los detalles.
    :twitter: https://twitter.com/pcu4dros
    :facebook: https://www.facebook.com/cuadrospedro
 
-.. template:: bootstrap3/django-girls-guia
+.. template:: bootstrap4/django-girls-guia
    :name: Jonathan Diaz<br><br>
    :image: guia-jonathan.png
    :place: Bogotá, Colombia
@@ -351,9 +351,9 @@ contigo para coordinar los detalles.
      }
    </style>
 
-   <div class="section-organizadores">
+   <div class="row" class="section-organizadores">
 
-.. template:: bootstrap3/django-girls-guia
+.. template:: bootstrap4/django-girls-guia
   :name: Johanna Sanchez
   :image: organizador-johanna.png
   :place: Armenia, Colombia
@@ -364,7 +364,7 @@ contigo para coordinar los detalles.
   :twitter: https://twitter.com/ellaquimica
   :facebook: https://www.facebook.com/argentinaenpython
 
-.. template:: bootstrap3/django-girls-guia
+.. template:: bootstrap4/django-girls-guia
   :name: John Jairo Roa
   :image: organizador-jhonjairo.png
   :place: Bogotá, Colombia
@@ -374,7 +374,7 @@ contigo para coordinar los detalles.
   :twitter: https://twitter.com/jhonjairoroa87
   :facebook: https://www.facebook.com/johnroa87
 
-.. template:: bootstrap3/django-girls-guia
+.. template:: bootstrap4/django-girls-guia
    :name: Gonzalo Peña Castellanos
    :image: organizador-gonzalo.png
    :place: Bucaramanga, Colombia
@@ -385,7 +385,7 @@ contigo para coordinar los detalles.
    :twitter: https://twitter.com/goanpeca
    :facebook: https://www.facebook.com/goanpeca
 
-.. template:: bootstrap3/django-girls-guia
+.. template:: bootstrap4/django-girls-guia
    :name: John Alexander Vargas
    :image: organizador-john-alexander.png
    :place: Ibagué, Colombia
@@ -410,7 +410,7 @@ contigo para coordinar los detalles.
      }
    </style>
 
-   <div class="section-organizadores">
+   <div class="row" class="section-organizadores">
 
 
 
@@ -433,9 +433,9 @@ contigo para coordinar los detalles.
      }
    </style>
 
-   <div class="section-guia">
+   <div class="row" class="section-guia">
 
-.. template:: bootstrap3/django-girls-guia
+.. template:: bootstrap4/django-girls-guia
   :name:  Carlos Mario Poveda
   :image: colaborador-carlos.png
   :place: Ibagué, Colombia
@@ -443,7 +443,7 @@ contigo para coordinar los detalles.
   :community: Vivelab Ibagué
   :facebook: https://www.facebook.com/YoSoyPoveda
 
-.. template:: bootstrap3/django-girls-guia
+.. template:: bootstrap4/django-girls-guia
   :name: Juan Sebastian Salazar
   :image: colaborador-juan.png
   :place: Ibagué, Colombia
@@ -451,7 +451,7 @@ contigo para coordinar los detalles.
   :community: Vivelab Ibagué
   :facebook: https://www.facebook.com/salazarjuans
 
-.. template:: bootstrap3/django-girls-guia
+.. template:: bootstrap4/django-girls-guia
   :name: Gandy Javier Marroquin
   :image: colaborador-gandy.png
   :place: Ibagué, Colombia
@@ -459,7 +459,7 @@ contigo para coordinar los detalles.
   :community: Vivelab Ibagué
   :facebook: https://www.facebook.com/gandy.saavedra
 
-.. template:: bootstrap3/django-girls-guia
+.. template:: bootstrap4/django-girls-guia
   :name: Adriana Matallana
   :image: colaboradora-adriana.png
   :place: Ibagué, Colombia
@@ -522,7 +522,7 @@ escribinos un email y nos pondremos en contacto con vos.
 
 .. raw:: html
 
-   <div class="panel-group" id="accordion">
+   <div id="accordion">
 
 
 .. collapse:: ¿Necesito saber programación?

@@ -10,8 +10,10 @@
        min-height: 420px;
      }
    </style>
+   
+   <div class="row">
 
-.. template:: bootstrap3/thumbnail-el-equipo-extra
+.. template:: bootstrap4/thumbnail-el-equipo-extra
    :name: Sebastián J. Seba
    :image: sebastian_seba.png
    :place: Resistencia, Chaco, Argentina
@@ -25,7 +27,7 @@
    :facebook: https://www.facebook.com/ssebastianj
 
 
-.. template:: bootstrap3/thumbnail-el-equipo-extra
+.. template:: bootstrap4/thumbnail-el-equipo-extra
    :name: Diego Puente
    :image: diego_puente.png
    :place: Corrientes, Corrientes, Argentina
@@ -39,7 +41,7 @@
    :facebook: https://www.facebook.com/diego.l.puente
 
 
-.. template:: bootstrap3/thumbnail-el-equipo-extra
+.. template:: bootstrap4/thumbnail-el-equipo-extra
    :name: Javier Roa Benitez
    :image: javier_roa.png
    :place: Asunción, Central, Paraguay
@@ -53,7 +55,7 @@
    :facebook: https://www.facebook.com/javier.roabenitez
 
 
-.. template:: bootstrap3/thumbnail-el-equipo-extra
+.. template:: bootstrap4/thumbnail-el-equipo-extra
    :name: Florencia Rosas
    :image: florencia_rosas.png
    :place: Mendoza, Mendoza, Argentina
@@ -67,7 +69,7 @@
    :facebook: https://www.facebook.com/florencia.rosas.921
 
 
-.. template:: bootstrap3/thumbnail-el-equipo-extra
+.. template:: bootstrap4/thumbnail-el-equipo-extra
    :name: Lennon Shimokawa
    :image: lennon_shimokawa.png
    :place: Ica, Ica, Perú
@@ -81,7 +83,7 @@
    :facebook: https://www.facebook.com/lshimokawa
 
 
-.. template:: bootstrap3/thumbnail-el-equipo-extra
+.. template:: bootstrap4/thumbnail-el-equipo-extra
    :name: Magalí Escobar
    :image: magali_escobar.png
    :place: Resistencia, Chaco, Argentina
@@ -95,7 +97,7 @@
    :facebook: https://www.facebook.com/escobar.magali
 
 
-.. template:: bootstrap3/thumbnail-el-equipo-extra
+.. template:: bootstrap4/thumbnail-el-equipo-extra
    :name: Ariel Montenegro
    :image: ariel_montenegro.png
    :place: Formosa, Formosa, Argentina
@@ -109,7 +111,7 @@
    :facebook:
 
 
-.. template:: bootstrap3/thumbnail-el-equipo-extra
+.. template:: bootstrap4/thumbnail-el-equipo-extra
    :name: Emiliano López
    :image: emiliano_lopez.png
    :place: Santa Fe, Santa Fe, Argentina
@@ -123,7 +125,7 @@
    :facebook:
 
 
-.. template:: bootstrap3/thumbnail-el-equipo-extra
+.. template:: bootstrap4/thumbnail-el-equipo-extra
    :name: Farid Ivanir Escate
    :image: farid_escate.png
    :place: Ica, Ica, Perú
@@ -137,7 +139,7 @@
    :facebook: https://www.facebook.com/faridescate
 
 
-.. template:: bootstrap3/thumbnail-el-equipo-extra
+.. template:: bootstrap4/thumbnail-el-equipo-extra
    :name: Rocío González Toral
    :image: rocio_gonzalez.png
    :place: Cuenca, Azuay, Ecuador
@@ -151,7 +153,7 @@
    :facebook: https://www.facebook.com/chio.gonzaleztoral
 
 
-.. template:: bootstrap3/thumbnail-el-equipo-extra
+.. template:: bootstrap4/thumbnail-el-equipo-extra
    :name: José Miguel Amaya
    :image: miguel_amaya.png
    :place: Piura, Piura, Perú
@@ -165,7 +167,7 @@
    :facebook:
 
 
-.. template:: bootstrap3/thumbnail-el-equipo-extra
+.. template:: bootstrap4/thumbnail-el-equipo-extra
    :name: Tonet Pascualet Jallo Colquehuanca
    :image: tonet_jallo.png
    :place: Puno, Puno, Perú
@@ -179,7 +181,7 @@
    :facebook: https://www.facebook.com/tonet666p
 
 
-.. template:: bootstrap3/thumbnail-el-equipo-extra
+.. template:: bootstrap4/thumbnail-el-equipo-extra
    :name: Karina Maidana
    :image: karina_maidana.png
    :place: Encarnación, Itapúa, Paraguay
@@ -193,7 +195,7 @@
    :facebook: https://www.facebook.com/kari.maidana.1
 
 
-.. template:: bootstrap3/thumbnail-el-equipo-extra
+.. template:: bootstrap4/thumbnail-el-equipo-extra
    :name: Agustín Fontaine
    :image: agustin_fontaine.png
    :place: Capilla del Monte, Córdoba, Argentina
@@ -207,7 +209,7 @@
    :facebook: https://www.facebook.com/agustinfontaine
 
 
-.. template:: bootstrap3/thumbnail-el-equipo-extra
+.. template:: bootstrap4/thumbnail-el-equipo-extra
    :name: Daniela Pariona Coronado
    :image: daniela_pariona.png
    :place: Ica, Ica, Perú
@@ -222,7 +224,7 @@
 
 
 
-.. template:: bootstrap3/thumbnail-el-equipo-extra
+.. template:: bootstrap4/thumbnail-el-equipo-extra
    :name: Noemi Ticona Angles
    :image: noemi_ticona_angles.png
    :place: Santa Cruz, Santa Cruz, Bolivia
@@ -236,7 +238,7 @@
    :facebook: https://www.facebook.com/nao.t.angles
 
 
-.. template:: bootstrap3/thumbnail-el-equipo-extra
+.. template:: bootstrap4/thumbnail-el-equipo-extra
    :name: Leandro Félix Rueda
    :image: leandro_felix_rueda.png
    :place: Cruz del Eje, Córdoba, Argentina
@@ -250,7 +252,7 @@
    :facebook: https://www.facebook.com/leoruedasanmarcos
 
 
-.. template:: bootstrap3/thumbnail-el-equipo-extra
+.. template:: bootstrap4/thumbnail-el-equipo-extra
    :name: Eugenio Knoll
    :image: eugenio_knoll.png
    :place: Apóstoles, Misiones, Argentina
@@ -264,7 +266,7 @@
    :facebook: https://www.facebook.com/eugenioknoll
 
 
-.. template:: bootstrap3/thumbnail-el-equipo-extra
+.. template:: bootstrap4/thumbnail-el-equipo-extra
    :name: Catherin Ortiz
    :image: catherin_ortiz.png
    :place: Posadas, Misiones, Argentina
@@ -277,7 +279,7 @@
    :linkedin: https://www.linkedin.com/in/cathortiz
    :facebook: https://www.facebook.com/catherinortiz
 
-.. template:: bootstrap3/thumbnail-el-equipo-extra
+.. template:: bootstrap4/thumbnail-el-equipo-extra
    :name: Pilar Guauque Torres
    :image: pilar_guauque.png
    :place: Santiago del Estero, Santiago del Estero, Argentina
@@ -288,7 +290,7 @@
    :twitter:
    :facebook: https://www.facebook.com/amautashuarmis/
 
-.. template:: bootstrap3/thumbnail-el-equipo-extra
+.. template:: bootstrap4/thumbnail-el-equipo-extra
    :name: Gonzalo Peña-Castellanos
    :image: gonzalo_pena.png
    :place: Bucaramanga, Santander, Colombia
@@ -299,7 +301,7 @@
    :twitter: http://twitter.com/goanpeca
    :facebook: http://facebook.com/goanpeca
 
-.. template:: bootstrap3/thumbnail-el-equipo-extra
+.. template:: bootstrap4/thumbnail-el-equipo-extra
    :name: John Jairo Roa
    :image: jhonjairo_roa.png
    :place: Bogotá, Santa Fe, Colombia
@@ -310,7 +312,7 @@
    :twitter: https://twitter.com/jhonjairoroa87
    :facebook: https://www.facebook.com/johnroa87
 
-.. template:: bootstrap3/thumbnail-el-equipo-extra
+.. template:: bootstrap4/thumbnail-el-equipo-extra
    :name: Juan David Hernández
    :image: juandavid_hernandez.png
    :place: Medellín, Antioquia, Colombia
@@ -320,7 +322,7 @@
    :github: https://github.com/davoshack
    :twitter: https://twitter.com/JuanDHernandezG
 
-.. template:: bootstrap3/thumbnail-el-equipo-extra
+.. template:: bootstrap4/thumbnail-el-equipo-extra
    :name: Juan Carlos Rodriguez
    :image: juancarlos_rodriguez.png
    :place: Medellín, Antioquia, Colombia
@@ -329,7 +331,7 @@
    :twitter: https://twitter.com/jcrodriguezu
    :facebook: https://www.facebook.com/jcrodriguezu
 
-.. template:: bootstrap3/thumbnail-el-equipo-extra
+.. template:: bootstrap4/thumbnail-el-equipo-extra
    :name: Javier Daza Comas
    :image: javier_daza.png
    :place: Barranquilla, Atlántico, Colombia
@@ -339,7 +341,7 @@
    :github: https://github.com/javierdaza
    :twitter: https://twitter.com/javidazac
 
-.. template:: bootstrap3/thumbnail-el-equipo-extra
+.. template:: bootstrap4/thumbnail-el-equipo-extra
    :name: Cesar Herdenez
    :image: cesar_herdenez.png
    :place: Barranquilla, Atlántico, Colombia
@@ -348,7 +350,7 @@
    :github: https://github.com/Cesar0510
    :twitter: https://twitter.com/CesarAu0619 
 
-.. template:: bootstrap3/thumbnail-el-equipo-extra
+.. template:: bootstrap4/thumbnail-el-equipo-extra
    :name: ¿Vos?
    :image: proximo.png
    :place:
@@ -360,3 +362,7 @@
    :twitter:
    :linkedin:
    :facebook:
+
+.. raw:: html
+
+   </div>

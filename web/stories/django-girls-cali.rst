@@ -17,11 +17,10 @@
 ----
 
 ¡Queremos animar a más mujeres a dominar la web! Es por eso que desde
-`Argentina en Python <https://argentinaenpython.com>`_ junto a `Python
-Cali <https://www.pythoncali.com/>`_ y `Django Girls Colombia 
-<https://www.facebook.com/djangogirlscolombia>`_ estamos
-organizando un taller en el cual podrás construir tu propio sitio web
-*desde cero* en un día. Además, vamos a utilizar todas las
+`Django Girls Colombia <https://www.facebook.com/djangogirlscolombia>`_ y `Python
+Cali <https://www.pythoncali.com/>`_ con el apoyo de `Argentina en Python <https://argentinaenpython.com>`_ 
+y `Python Colombia <https://python.org.co>`_ estamos organizando un taller en el 
+cual podrás construir tu propio sitio web *desde cero* en un día. Además, vamos a utilizar todas las
 herramientas que programadores profesionales utilizan diariamente. ¡Y
 de una manera muy sencilla!
 
@@ -84,14 +83,14 @@ mujer contigo que también realice el taller [#]_.
 * Fecha: Sábado 9 de Junio de 2018 de 8:30hs (¡puntual!) a 19:00hs.
 
 .. template:: iframe
-   :src: https://www.openstreetmap.org/export/embed.html?bbox=-76.52502715587617%2C3.351786647991996%2C-76.51913702487947%2C3.3553960741341835&amp;layer=mapnik&amp;marker=3.3535905915085595%2C-76.52208154850086" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=3.35359&amp;mlon=-76.52208#map=18/3.35359/-76.52208&amp;layers=N
+   :src: https://www.openstreetmap.org/export/embed.html?bbox=-76.52502715587617%2C3.351786647991996%2C-76.51913702487947%2C3.3553960741341835&amp;layer=mapnik&amp;marker=3.3535905915085595%2C-76.52208154850086
 
 
 .. sidebar:: Contacto
 
-   Cualquier duda que tengas sobre el taller, nos puedes escribir a
-   `argentinaenpython@gmail.com
-   <mailto:argentinaenpython@gmail.com>`_ y `djangogirlscolombia@gmail.com <mailto:djangogirlscolombia@gmail.com>`_, para ponerte en contacto con nosotros.
+   Cualquier duda que tengas sobre el taller, puedes escribir a 
+   `djangogirlscolombia@gmail.com <mailto:djangogirlscolombia@gmail.com>`_ 
+   para ponerte en contacto con nosotros.
 
    .. image:: organizadores.png
       :align: center
@@ -309,26 +308,6 @@ contigo para coordinar los detalles.
    :facebook: 
 
 .. template:: bootstrap3/django-girls-guia
-   :name: Milton Lenis
-   :image: organizador-milton.png
-   :place: Cali, Colombia
-   :community: Python Cali
-   :web: http://www.miltonlenis.com
-   :github: https://github.com/miltonln
-   :twitter: https://twitter.com/MiltonLn
-   :facebook: 
-
-.. template:: bootstrap3/django-girls-guia
-   :name: Isabel Ruiz
-   :image: organizador-isabel.png
-   :place: Medellín, Colombia
-   :community: Python Colombia, Python Tuluá
-   :web: 
-   :github: https://github.com/iris9112
-   :twitter: https://twitter.com/iris9112
-   :facebook: 
-
-.. template:: bootstrap3/django-girls-guia
    :name: Angelica Aguirre
    :image: organizador-angelica.png
    :place: Pereira, Colombia
@@ -337,6 +316,28 @@ contigo para coordinar los detalles.
    :web: 
    :github: https://github.com/anaguicas
    :twitter: https://twitter.com/angelicaaguicas
+   :facebook: 
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Carolina Gómez Trejos
+   :image: organizador-carolina.png
+   :place: Pereira, Colombia
+   :email: carolina9511@gmail.com
+   :community: Django Girls Colombia, Python Pereira
+   :web: https://carogomezt.github.io/
+   :github: https://github.com/carogomezt
+   :twitter: https://twitter.com/caro_gomez
+   :facebook: 
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Johanna Sanchez
+   :image: organizador-johanna.png
+   :place: Armenia, Colombia
+   :email: ellaquimica@gmail.com
+   :community: Argentina en Python y Django Girls Colombia
+   :web: https://argentinaenpython.com/
+   :github: https://github.com/ellaquimica/
+   :twitter: https://twitter.com/ellaquimica
    :facebook: 
 
 .. raw:: html
@@ -356,25 +357,23 @@ contigo para coordinar los detalles.
    <div class="section-organizadores">
 
 .. template:: bootstrap3/django-girls-guia
-   :name: Johanna Sanchez
-   :image: organizador-johanna.png
-   :place: Armenia, Colombia
-   :email: ellaquimica@gmail.com
-   :community: Argentina en Python y Django Girls Colombia
-   :web: https://argentinaenpython.com/
-   :github: https://github.com/ellaquimica/
-   :twitter: https://twitter.com/ellaquimica
+   :name: Isabel Ruiz
+   :image: organizador-isabel.png
+   :place: Cali, Colombia
+   :community: Python Colombia, Python Tuluá
+   :web: 
+   :github: https://github.com/iris9112
+   :twitter: https://twitter.com/iris9112
    :facebook: 
 
 .. template:: bootstrap3/django-girls-guia
-   :name: Carolina Gómez Trejos
-   :image: organizador-carolina.png
-   :place: Pereira, Colombia
-   :email: carolina9511@gmail.com
-   :community: Django Girls Colombia, Python Pereira
-   :web: https://carogomezt.github.io/
-   :github: https://github.com/carogomezt
-   :twitter: https://twitter.com/caro_gomez
+   :name: Milton Lenis
+   :image: organizador-milton.png
+   :place: Cali, Colombia
+   :community: Python Cali
+   :web: http://www.miltonlenis.com
+   :github: https://github.com/miltonln
+   :twitter: https://twitter.com/MiltonLn
    :facebook: 
 
 .. raw:: html
@@ -482,12 +481,17 @@ contigo para coordinar los detalles.
 
    </div>
 
+Sponsors
+---------------
 
+Estamos en la búsqueda de sponsor para este evento de inclusión social, 
+por favor dejanos saber que estás interesado en apoyarnos como sponsor enviando 
+un email a djangogirlscolombia@gmail.com
 
 Con el Apoyo de
 ---------------
 
-.. image:: sponsors.png
+.. image:: apoyan.png
    :align: center
 
 ----
@@ -634,8 +638,8 @@ escribinos un email y nos pondremos en contacto con vos.
 
    Este evento forma parte de `Django Girls
    <http://djangogirls.org/>`__ y tiene su propio sitio web bajo esta
-   marca: `Django Girls Medellín
-   <https://djangogirls.org/medellin/>`__
+   marca: `Django Girls Cali
+   <https://djangogirls.org/cali/>`__
 
 .. [#] Registrate en el formulario y comenta con quién vas. Además,
        dile a ella que también se registre e indique que va contigo.

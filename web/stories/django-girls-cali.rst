@@ -1,6 +1,6 @@
 .. title: Taller Django Girls en Cali
 .. slug: django-girls/2018/06/cali
-.. date: 2018-06-09 12:21:45 UTC-05:00
+.. date: 2018-04-23 12:21:45 UTC-05:00
 .. tags: eventos, django girls, django, taller, python, cali, programación, colombia
 .. category:
 .. link:

@@ -123,7 +123,7 @@ Ten en cuenta que...
 
 * ... en lo posible, debes llevar un extensor de corriente.
 
-* ... agrega la dirección argentinaenpython@gmail.com a tu libreta
+* ... agrega la dirección djangogirlscolombia@gmail.com a tu libreta
   de direcciones así evitamos que el email llegue a *SPAM*
 
 * ... vamos a respetar las fechas publicadas en el *timeline* (línea

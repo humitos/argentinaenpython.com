@@ -18,8 +18,8 @@
 
 ¡Queremos animar a más mujeres a dominar la web! Es por eso que desde
 `Django Girls Colombia <https://www.facebook.com/djangogirlscolombia>`_ y `Python
-Cali <https://www.pythoncali.com/>`_ con el apoyo de `Argentina en Python <https://argentinaenpython.com>`_ 
-y `Python Colombia <https://python.org.co>`_ estamos organizando un taller en el 
+Cali <https://www.pythoncali.com/>`_ con el apoyo de `Argentina en Python <https://argentinaenpython.com>`_
+y `Python Colombia <https://python.org.co>`_ estamos organizando un taller en el
 cual podrás construir tu propio sitio web *desde cero* en un día. Además, vamos a utilizar todas las
 herramientas que programadores profesionales utilizan diariamente. ¡Y
 de una manera muy sencilla!
@@ -88,8 +88,8 @@ mujer contigo que también realice el taller [#]_.
 
 .. sidebar:: Contacto
 
-   Cualquier duda que tengas sobre el taller, puedes escribir a 
-   `djangogirlscolombia@gmail.com <mailto:djangogirlscolombia@gmail.com>`_ 
+   Cualquier duda que tengas sobre el taller, puedes escribir a
+   `djangogirlscolombia@gmail.com <mailto:djangogirlscolombia@gmail.com>`_
    para ponerte en contacto con nosotros.
 
    .. image:: organizadores.png
@@ -107,8 +107,8 @@ Ten en cuenta que...
   asistir.
 
 * ... te recomendamos seguirnos en Twitter `@argenpython
-  <https://twitter.com/argenpython>`_ y/o Facebook `Argentina en Python <https://facebook.com/argentinaenpython/>`__, 
-  `Django Girls Colombia <https://www.facebook.com/djangogirlscolombia/>`__ y 
+  <https://twitter.com/argenpython>`_ y/o Facebook `Argentina en Python <https://facebook.com/argentinaenpython/>`__,
+  `Django Girls Colombia <https://www.facebook.com/djangogirlscolombia/>`__ y
   `Python Cali <https://www.facebook.com/pythoncali/>`__ donde publicaremos novedades sobre el evento.
 
 * ... no es necesario saber programar o tener algún conocimiento
@@ -244,33 +244,33 @@ contigo para coordinar los detalles.
    :place: Medellín, Colombia
    :community: Python Medellín
    :web: www.camigomez.me
-   :github: 
-   :twitter: 
+   :github:
+   :twitter:
 
 .. template:: bootstrap3/django-girls-guia
    :name: Carolina Gómez Trejos
    :image: guia-carolina.png
    :place: Pereira, Colombia
    :community: Python Pereira
-   :web: 
-   :github: 
-   :twitter: 
+   :web:
+   :github:
+   :twitter:
 
 .. template:: bootstrap3/django-girls-guia
    :name: Carolina Guzmán
    :image: colaborador-caroguza.png
    :place: Cali, Colombia
    :community:
-   :web: 
+   :web:
    :github: https://www.github.com/caroguza
-   :twitter: 
+   :twitter:
 
 .. template:: bootstrap3/django-girls-guia
    :name: Isabel Ruiz
    :image: guia-isabel.png
    :place: Cali, Colombia
    :community: Python Cali
-   :web: 
+   :web:
    :github: https://github.com/iris9112
    :twitter: https://twitter.com/iris9112
 
@@ -302,10 +302,10 @@ contigo para coordinar los detalles.
    :image: organizador-andres.png
    :place: Cali, Colombia
    :community: Python Cali
-   :web: 
+   :web:
    :github: https://github.com/andresgz
-   :twitter: 
-   :facebook: 
+   :twitter:
+   :facebook:
 
 .. template:: bootstrap3/django-girls-guia
    :name: Angelica Aguirre
@@ -313,10 +313,10 @@ contigo para coordinar los detalles.
    :place: Pereira, Colombia
    :email: angelicaaguicas@gmail.com
    :community: Django Girls Colombia, Python Pereira
-   :web: 
+   :web:
    :github: https://github.com/anaguicas
    :twitter: https://twitter.com/angelicaaguicas
-   :facebook: 
+   :facebook:
 
 .. template:: bootstrap3/django-girls-guia
    :name: Carolina Gómez Trejos
@@ -327,7 +327,7 @@ contigo para coordinar los detalles.
    :web: https://carogomezt.github.io/
    :github: https://github.com/carogomezt
    :twitter: https://twitter.com/caro_gomez
-   :facebook: 
+   :facebook:
 
 .. template:: bootstrap3/django-girls-guia
    :name: Johanna Sanchez
@@ -338,7 +338,7 @@ contigo para coordinar los detalles.
    :web: https://argentinaenpython.com/
    :github: https://github.com/ellaquimica/
    :twitter: https://twitter.com/ellaquimica
-   :facebook: 
+   :facebook:
 
 .. raw:: html
 
@@ -361,10 +361,10 @@ contigo para coordinar los detalles.
    :image: organizador-isabel.png
    :place: Cali, Colombia
    :community: Python Colombia, Python Tuluá
-   :web: 
+   :web:
    :github: https://github.com/iris9112
    :twitter: https://twitter.com/iris9112
-   :facebook: 
+   :facebook:
 
 .. template:: bootstrap3/django-girls-guia
    :name: Milton Lenis
@@ -374,7 +374,7 @@ contigo para coordinar los detalles.
    :web: http://www.miltonlenis.com
    :github: https://github.com/miltonln
    :twitter: https://twitter.com/MiltonLn
-   :facebook: 
+   :facebook:
 
 .. raw:: html
 
@@ -430,7 +430,7 @@ contigo para coordinar los detalles.
    :image: colaborador-caroguza.png
    :place: Cali, Colombia
    :email: ppsirg.developer@gmail.com
-   :community: 
+   :community:
    :github: https://github.com/caroguza
 
 .. raw:: html
@@ -462,20 +462,20 @@ contigo para coordinar los detalles.
 .. template:: bootstrap3/django-girls-guia
    :name: ¡Quiero colaborar!
    :image: guia-nnmujer.png
-   :place: 
-   :community: 
-   :web: 
-   :github: 
-   :twitter: 
+   :place:
+   :community:
+   :web:
+   :github:
+   :twitter:
 
 .. template:: bootstrap3/django-girls-guia
    :name: ¡Quiero colaborar!
    :image: guia-nnhombre.png
-   :place: 
-   :community: 
-   :web: 
-   :github: 
-   :twitter: 
+   :place:
+   :community:
+   :web:
+   :github:
+   :twitter:
 
 .. raw:: html
 
@@ -484,8 +484,8 @@ contigo para coordinar los detalles.
 Sponsors
 ---------------
 
-Estamos en la búsqueda de sponsor para este evento de inclusión social, 
-por favor dejanos saber que estás interesado en apoyarnos como sponsor enviando 
+Estamos en la búsqueda de sponsor para este evento de inclusión social,
+por favor dejanos saber que estás interesado en apoyarnos como sponsor enviando
 un email a djangogirlscolombia@gmail.com
 
 Con el Apoyo de

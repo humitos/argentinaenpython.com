@@ -20,10 +20,16 @@ Año 2018
 
 
 .. template:: prensa-image
-   :title: Mi experiencia en PyCon Colombia 2018
-   :description: Django Girls Colombia
+   :title: Blog Django Girls Colombia
+   :description: Mi experiencia en PyCon Colombia 2018
    :src: 2018_marzo_0-340x255.jpg
    :href: https://medium.com/@djangogirlscolombia/mi-experiencia-en-pycon-colombia-2018-41d10ecabe99
+
+.. template:: prensa-image
+   :title: Pulso Social
+   :description: Llega a Medellín el Taller de Programación para Mujeres Django Girls PyCon Colombia 2018
+   :src: 2018_enero_0-340x255.jpg
+   :href: https://pulsosocial.com/2018/01/29/llega-medellin-taller-programacion-mujeres-django-girls-pycon-colombia-2018/
 
 .. template:: prensa-image
    :title: PSF "fellow"

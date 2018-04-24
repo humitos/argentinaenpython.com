@@ -1,7 +1,8 @@
 # Ubuntu system dependencies/extras
 # sudo apt install yui-compressor optipng tidy closure-compiler
 
--e git+https://github.com/getnikola/nikola@gallery-thumbnails#egg=Nikola
+# -e git+https://github.com/getnikola/nikola@gallery-thumbnails#egg=Nikola
+-e git+https://github.com/humitos/nikola@gallery-thumbnails-v7.8.8#egg=Nikola
 webassets
 ws4py
 watchdog

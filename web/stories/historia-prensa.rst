@@ -32,6 +32,12 @@ Año 2018
    :href: https://pulsosocial.com/2018/01/29/llega-medellin-taller-programacion-mujeres-django-girls-pycon-colombia-2018/
 
 .. template:: prensa-image
+   :title: Pythonízame
+   :description: Entrevista al organizador principal PyConColombia 2018
+   :src: 2018_enero_1-340x255.png
+   :href: https://www.pythoniza.me/pycon-colombia-2018/
+
+.. template:: prensa-image
    :title: PSF "fellow"
    :description: Modus Laborandi
    :src: 2018_enero_0-340x255.png

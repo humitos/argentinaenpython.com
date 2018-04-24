@@ -185,7 +185,7 @@ Timeline (*línea de tiempo*)
    re-asignado a una de las personas en LISTA DE ESPERA.
 
 .. template:: bootstrap3/button
-   :href: https://goo.gl/forms/MzP5fJMWmbd87JE03
+   :href: https://docs.google.com/forms/d/e/1FAIpQLSdcqWYb872rWjtT79_y9izL8ep3AGGEAjcvvD8XLdNinKks_Q/viewform
 
    ¡Quiero inscribirme!
 
@@ -216,7 +216,7 @@ contigo para coordinar los detalles.
 
 
 .. template:: bootstrap3/button
-   :href: https://goo.gl/forms/COkQKqtHCuiouh793
+   :href: https://goo.gl/forms/8neRA6kOzgJqqONP2
 
    ¡Quiero participar como guía!
 

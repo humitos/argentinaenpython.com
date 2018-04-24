@@ -18,6 +18,11 @@ Año 2018
 
    <div class="row">
 
+.. template:: prensa-image
+   :title: Blog PyCon Colombia
+   :description: PyCon Colombia 2018 - The Art of Coding
+   :src: 2018_abril_0-340x255.jpg
+   :href: https://medium.com/@pyconcolombia/pycon-colombia-2018-864c8dd05283
 
 .. template:: prensa-image
    :title: Blog Django Girls Colombia

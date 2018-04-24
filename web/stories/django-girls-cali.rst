@@ -243,9 +243,9 @@ contigo para coordinar los detalles.
    :image: colaborador-camila.png
    :place: Medellín, Colombia
    :community: Python Medellín
-   :web: www.camigomez.me
-   :github:
-   :twitter:
+   :web: http://www.camigomez.me
+   :github: 
+   :twitter: 
 
 .. template:: bootstrap3/django-girls-guia
    :name: Carolina Gómez Trejos

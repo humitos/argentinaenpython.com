@@ -80,7 +80,7 @@ mujer contigo que también realice el taller [#]_.
 
 * Lugar: `Universidad Autónoma de Occidente <http://www.uao.edu.co/>`_, Auditorio Lile, en la Calle 25 # 115 - 85.
 
-* Fecha: Sábado 9 de Junio de 2018 de 8:00hs (¡puntual!) a 19:00hs.
+* Fecha: Sábado 9 de Junio de 2018 de 8:30hs (¡puntual!) a 19:00hs.
 
 .. template:: iframe
    :src: https://www.openstreetmap.org/export/embed.html?bbox=-76.52502715587617%2C3.351786647991996%2C-76.51913702487947%2C3.3553960741341835&amp;layer=mapnik&amp;marker=3.3535905915085595%2C-76.52208154850086

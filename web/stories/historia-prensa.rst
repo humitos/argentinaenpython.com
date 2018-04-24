@@ -21,13 +21,13 @@ Año 2018
 .. template:: prensa-image
    :title: Blog PyCon Colombia
    :description: PyCon Colombia 2018 - The Art of Coding
-   :src: 2018_abril_0-340x255.jpg
+   :src: 2018_abril_0-340x255.png
    :href: https://medium.com/@pyconcolombia/pycon-colombia-2018-864c8dd05283
 
 .. template:: prensa-image
    :title: Web Universidad Politécnica Salesiana
    :description: Django Girls: empoderamiento de la mujer en la tecnología
-   :src: 2018_abril_1-340x255.jpg
+   :src: 2018_abril_1-340x255.png
    :href: https://www.ups.edu.ec/noticias?articleId=11461968&version=1.0
 
 .. template:: prensa-image

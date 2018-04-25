@@ -379,3 +379,17 @@
    :github: https://github.com/vlarobbyk
    :twitter: https://twitter.com/vlarobbyk
 
+
+.. template:: bootstrap3/thumbnail-el-equipo-extra
+   :name: ¿Vos?
+   :image: proximo.png
+   :place:
+   :community:
+   :email:
+   :web:
+   :github:
+   :bitbucket:
+   :twitter:
+   :linkedin:
+   :facebook:
+

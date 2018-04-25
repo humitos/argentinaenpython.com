@@ -349,14 +349,33 @@
    :twitter: https://twitter.com/CesarAu0619 
 
 .. template:: bootstrap3/thumbnail-el-equipo-extra
-   :name: ¿Vos?
-   :image: proximo.png
-   :place:
-   :community:
-   :email:
-   :web:
-   :github:
-   :bitbucket:
-   :twitter:
-   :linkedin:
-   :facebook:
+   :name: Santos Gallegos
+   :image: santo_gallegos.png
+   :place: Cuenca, Azuay, Ecuador
+   :community: Python Ecuador
+   :email: santos_g@outlook.com
+   :web:  https://stsewd.github.io/
+   :github: https://github.com/stsewd
+   :twitter: https://twitter.com/stsewd
+
+
+.. template:: bootstrap3/thumbnail-el-equipo-extra
+   :name: Paola Ingavelez
+   :image: paola_ingavelez.png
+   :place: Cuenca, Azuay, Ecuador
+   :community: Catédra UNESCO - Universidad Politécnica Salesiana
+   :email: pcingavelez@ups.edu.ec
+   :web: https://www.facebook.com/ReciclaCuenca/
+   :twitter: https://twitter.com/IngavelezPaola
+
+
+.. template:: bootstrap3/thumbnail-el-equipo-extra
+   :name: Vladimir Robles
+   :image: vladimir_robles.png
+   :place: Cuenca, Azuay, Ecuador
+   :community: Catédra UNESCO - Universidad Politécnica Salesiana
+   :email: vrobles@ups.edu.ec
+   :web: https://www.facebook.com/inclusionups/
+   :github: https://github.com/vlarobbyk
+   :twitter: https://twitter.com/vlarobbyk
+

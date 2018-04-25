@@ -17,36 +17,15 @@ folletería.
 Logo Argentina en Python
 ------------------------
 
-.. figure:: logo_256.png
+.. figure:: logo-argenpython-237x246.png
    :width: 200px
 
-* `Logo 128x122 <logo_128.png>`_ (png transparente)
-* `Logo 256x244 <logo_256.png>`_ (png transparente)
-* `Logo 512x489 <logo_512.png>`_ (png transparente)
-* `Logo 1024x978 <logo_1024.png>`_ (png fondo blanco)
-* `Logo Escalable <logo_oficial.svg>`_ (svg)
+* `Logo 128x122 <logo-argenpython-123x128.png>`_ (png transparente)
+* `Logo 256x244 <logo-argenpython-237x246.png>`_ (png transparente)
+* `Logo 512x489 <logo-argenpython-528x504.png>`_ (png transparente)
+* `Logo 1024x978 <logo-argenpython-1024x978-fondo-blanco.png>`_ (png fondo blanco)
+* `Logo Escalable <logo-oficial-argenpython.svg>`_ (svg)
 
-.. admonition:: Nota
-
-   Este logo *no se debería* utilizar más debido a que tiene algunos
-   conflictos con las `reglas de trademark
-   <https://www.python.org/psf/trademarks/>`_ de la Python Software
-   Foundation y no es válido como `logo derivado
-   <https://www.python.org/psf/trademarks/#derived-logos>`_.
-
-----
-   
-Logo Argentina en Python (temporal)
------------------------------------
-
-.. figure:: logo_temporal_256.png
-   :width: 200px
-
-* `Logo 128x122 <logo_temporal_128.png>`__ (png transparente)
-* `Logo 256x244 <logo_temporal_256.png>`__ (png transparente)
-* `Logo 512x489 <logo_temporal_512.png>`__ (png transparente)
-* `Logo 1024x978 <logo_temporal_1024.png>`__ (png fondo blanco)
-* `Logo Escalable <logo_temporal_oficial.svg>`__ (svg)
 
 ----
 

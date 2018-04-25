@@ -358,6 +358,14 @@
    :github: https://github.com/stsewd
    :twitter: https://twitter.com/stsewd
 
+.. template:: bootstrap3/thumbnail-el-equipo-extra
+   :name: Franklin Lara
+   :image: franklin_lara.png
+   :place: Cuenca, Azuay, Ecuador
+   :community: Python Ecuador
+   :email: larafranklin95@gmail.com
+   :github: https://github.com/LaraFranklin
+   :facebook: https://www.facebook.com/lara9frank
 
 .. template:: bootstrap3/thumbnail-el-equipo-extra
    :name: Paola Ingavelez

@@ -68,14 +68,14 @@ Año 2017
 
 
 .. template:: prensa-image
-   :title: ¿Cómo fue mi experiencia organizando el Django Girls 2017?
-   :description: Django Girls Colombia
+   :title: Blog Django Girls Colombia 
+   :description: ¿Cómo fue mi experiencia organizando el Django Girls 2017?
    :src: 2017_diciembre_2-340x255.jpg
    :href: https://medium.com/@djangogirlscolombia/django-girls-medell%C3%ADn-c%C3%B3mo-fue-mi-experiencia-organizando-el-django-girls-2017-1e5629dc02a4
 
 .. template:: prensa-image
-   :title: Python Software Foundation Fellow Members for Q4 2017
-   :description: Blog post sobre los miembros de honor
+   :title: Blog post sobre los miembros de honor 
+   :description: Python Software Foundation Fellow Members for Q4 2017
    :src: 2017_diciembre_1-340x255.png
    :href: https://pyfound.blogspot.com/2017/12/python-software-foundation-fellow.html
 
@@ -86,8 +86,8 @@ Año 2017
    :href: https://www.python.org/psf/members/
 
 .. template:: prensa-image
-   :title: ¿Cómo fue organizar Django Girls Cartagena?
-   :description: Blog post por Ana Elles Manzur
+   :title: Blog Django Girls Colobia 
+   :description: ¿Cómo fue organizar Django Girls Cartagena? post por Ana Elles Manzur
    :src: 2017_noviembre_0-340x255.png
    :href: https://medium.com/django-girls-colombia/django-girls-cartagena-c%C3%B3mo-fue-organizar-django-girls-cartagena-ca9457d514f4
 

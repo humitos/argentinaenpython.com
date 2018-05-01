@@ -111,8 +111,8 @@ Año 2017
    :href: http://memoriasdeunsysadmin.info/mi-primer-django-girls/
 
 .. template:: prensa-image
-   :title: ¿Cómo fue organizar el primer Django Girls Barranquilla?
-   :description: Python Barranquilla
+   :title: Blog Python Barranquilla 
+   :description: ¿Cómo fue organizar el primer Django Girls Barranquilla? post por Javier Daza
    :src: 2017_agosto_0-340x255.png
    :href: http://pybaq.co/blog/como-fue-organizar-primer-django-girls-barranquilla/
 
@@ -126,7 +126,7 @@ Año 2017
 
 .. template:: prensa-image
    :title: Blog PyCon Colombia 
-   :description: Pasando del sueño a la Realidad - 2017
+   :description: Pasando del sueño a la Realidad - PyCon Colombia 2017
    :src: 2017_mayo_2-340x255.png
    :href: https://medium.com/pycon-colombia-2017/pycon-colombia-2017-pasando-del-sue%C3%B1o-a-la-realidad-cf1f7808447e
 

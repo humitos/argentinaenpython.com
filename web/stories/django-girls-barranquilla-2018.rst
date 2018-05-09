@@ -87,7 +87,7 @@ mujer contigo que también realice el taller [#]_.
 ¿Dónde y cuándo?
 ----------------
 
-* Lugar: Koombea, Carrera 53 # 85 - 154, Barranquilla, Colombia.
+* Lugar: `Koombea <https://www.koombea.com/>`__, Carrera 53 # 85 - 154, Barranquilla, Colombia.
 
 * Fecha: Sábado 14 de Julio de 2018 de 8:30hs (¡puntual!) a 19:00hs.
 
@@ -95,6 +95,7 @@ mujer contigo que también realice el taller [#]_.
    :src: https://www.openstreetmap.org/export/embed.html?bbox=-74.82130944728853%2C11.005498996395493%2C-74.81269955635072%2C11.0104224411285&amp;layer=mapnik&amp;marker=11.007960729049252%2C-74.81700450181961
    
    
+.. sidebar:: Contacto
 
    Cualquier duda que tengas sobre el taller, nos puedes escribir a 
    `pythonbarranquilla@gmail.com <mailto:pythonbarranquilla@gmail.com>`_ y  `djangogirlscolombia@gmail.com <mailto:djangogirlscolombia@gmail.com>`_, para ponerte en contacto con nosotros.

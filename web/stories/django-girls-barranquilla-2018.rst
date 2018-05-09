@@ -199,7 +199,7 @@ Timeline (*línea de tiempo*)
 ..    vos para informarte.!
 
 .. template:: bootstrap3/button
-   :href: https://goo.gl/forms/DJw3VWzxAGvCXQ1n1
+   :href: https://goo.gl/forms/y3dHJEavz8BuYUnh1
 
    ¡Quiero inscribirme!
 
@@ -230,7 +230,7 @@ contigo para coordinar los detalles.
 
 
 .. template:: bootstrap3/button
-   :href: https://goo.gl/forms/1Q6T7vNoBZo2JDsW2
+   :href: https://goo.gl/forms/uTxNTxBgFDOzr11b2
 
    ¡Quiero participar como guía!
 

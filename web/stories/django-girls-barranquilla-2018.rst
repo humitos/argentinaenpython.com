@@ -1,6 +1,6 @@
 .. title: Taller Django Girls en Barranquilla
 .. slug: django-girls/2018/07/barranquilla 
-.. date: 2018-07-14 00:08:30 UTC-05:00
+.. date: 2018-05-24 00:18:30 UTC-05:00
 .. tags: eventos, django girls, django, taller, python, barranquilla, programación, colombia
 .. category: 
 .. link: 
@@ -24,9 +24,10 @@
 ----
 
 ¡Queremos animar a más mujeres a dominar la web! Es por eso que desde
-`Argentina en Python <https://argentinaenpython.com>`_ junto a `Python
-Barranquilla <https://www.facebook.com/pybaq/>`_ y `Django Girls Colombia 
-<https://www.facebook.com/djangogirlscolombia/>`_ estamos
+`Django Girls Colombia <https://www.facebook.com/djangogirlscolombia>`_ y 
+`Python Barranquilla <https://www.facebook.com/pybaq/>`_ con el apoyo de 
+`Argentina en Python <https://argentinaenpython.com>`_ y 
+`Python Colombia <https://python.org.co>`_ estamos
 organizando un taller en el cual podrás construir tu propio sitio web
 *desde cero* en un día. Además, vamos a utilizar todas las
 herramientas que programadores profesionales utilizan diariamente. ¡Y
@@ -86,18 +87,17 @@ mujer contigo que también realice el taller [#]_.
 ¿Dónde y cuándo?
 ----------------
 
-* Lugar: Barranquilla, Colombia.
+* Lugar: Koombea, Carrera 53 # 85 - 154, Barranquilla, Colombia.
 
 * Fecha: Sábado 14 de Julio de 2018 de 8:30hs (¡puntual!) a 19:00hs.
 
 .. template:: iframe
-   :src: https://www.openstreetmap.org/export/embed.html?bbox=-74.9329%2C10.8980%2C-74.6746%2C11.0474&amp;layer=mapnik&amp
+   :src: https://www.openstreetmap.org/export/embed.html?bbox=-74.82130944728853%2C11.005498996395493%2C-74.81269955635072%2C11.0104224411285&amp;layer=mapnik&amp;marker=11.007960729049252%2C-74.81700450181961
+   
+   
 
-.. sidebar:: Contacto
-
-   Cualquier duda que tengas sobre el taller, nos puedes escribir a
-   `argentinaenpython@gmail.com
-   <mailto:argentinaenpython@gmail.com>`_, `pythonbarranquilla@gmail.com <mailto:pythonbarranquilla@gmail.com>`_ y  `djangogirlscolombia@gmail.com <mailto:djangogirlscolombia@gmail.com>`_, para ponerte en contacto con nosotros.
+   Cualquier duda que tengas sobre el taller, nos puedes escribir a 
+   `pythonbarranquilla@gmail.com <mailto:pythonbarranquilla@gmail.com>`_ y  `djangogirlscolombia@gmail.com <mailto:djangogirlscolombia@gmail.com>`_, para ponerte en contacto con nosotros.
 
    .. image:: organizadores.png
       :align: center
@@ -128,7 +128,7 @@ Ten en cuenta que...
 
 * ... en lo posible, debes llevar un extensor de corriente.
 
-* ... agrega la dirección argentinaenpython@gmail.com a tu libreta
+* ... agrega la dirección djangogirlscolombia@gmail.com a tu libreta
   de direcciones así evitamos que el email llegue a *SPAM*
 
 * ... vamos a respetar las fechas publicadas en el *timeline* (línea
@@ -158,7 +158,7 @@ Timeline (*línea de tiempo*)
 
 .. class:: col-md-4
 
-   Tienes tiempo hasta el **23 de Junio** para inscribirte. Te
+   Tienes tiempo hasta el **21 de Junio** para inscribirte. Te
    recomendamos leer la paǵina de forma completa y prestar mucha
    atención en el formulario.
 
@@ -172,7 +172,7 @@ Timeline (*línea de tiempo*)
 
 .. class:: col-md-4
 
-   El **26 de Junio** anunciaremos los participantes que estaban en
+   El **4 de Julio** anunciaremos los participantes que estaban en
    LISTA DE ESPERA y que han pasado a estar **CONFIRMADOS**. Si
    estabas en LISTA DE ESPERA es un buen momento para revisar tu correo
    electrónico.
@@ -278,6 +278,17 @@ contigo para coordinar los detalles.
    :community: Python Barranquilla
    :github: https://github.com/Xaraxx
 
+.. template:: bootstrap3/django-girls-guia
+   :name: Johanna Sanchez
+   :image: guia-johanna.png
+   :place: Armenia, Colombia
+   :email: ellaquimica@gmail.com
+   :community: Argentina en Python y Django Girls Colombia
+   :web: https://argentinaenpython.com/
+   :github: https://github.com/ellaquimica/
+   :twitter: https://twitter.com/ellaquimica
+   :facebook: https://www.facebook.com/argentinaenpython
+
 .. raw:: html
 
    </div>
@@ -301,15 +312,36 @@ contigo para coordinar los detalles.
    <div class="section-guia">
 
 .. template:: bootstrap3/django-girls-guia
-   :name: Johanna Sanchez
-   :image: guia-johanna.png
-   :place: Armenia, Colombia
-   :email: ellaquimica@gmail.com
-   :community: Argentina en Python y Django Girls Colombia
-   :web: https://argentinaenpython.com/
-   :github: https://github.com/ellaquimica/
-   :twitter: https://twitter.com/ellaquimica
-   :facebook: https://www.facebook.com/argentinaenpython
+   :name: Paula Aragón
+   :image: guia-paula.png
+   :place: Barranquilla, Colombia
+   :email: paulaaragon.9@gmail.com
+   :community: Python Barranquilla
+   :github: https://github.com/pandrearro
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Ana Elles
+   :image: guia-ana.png
+   :place: Cartagena, Colombia
+   :email: alelles16@gmail.com
+   :community: Python Cartagena
+   :github: https://github.com/alelles16
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Sorelys Sandoval
+   :image: guia-sorelys.png
+   :place: Barranquilla, Colombia
+   :email: sorboy11@gmail.com
+   :community: Python Barranquilla
+   :github: https://github.com/sorelyss
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Jorge Martinez
+   :image: guia-jorge.png
+   :place: Barranquilla
+   :community: Python Barranquilla
+   :github: https://github.com/jorgemartinezg
+   :facebook: https://www.facebook.com/jorge.martinezgomez.12
 
 .. template:: bootstrap3/django-girls-guia
    :name: Manuel Kaufmann
@@ -322,47 +354,22 @@ contigo para coordinar los detalles.
    :twitter: https://twitter.com/reydelhumo
    :facebook: https://www.facebook.com/argentinaenpython
 
-.. template:: bootstrap3/django-girls-guia
-   :name: Jorge Martinez
-   :image: guia-jorge.png
-   :place: Barranquilla
-   :community: Python Barranquilla
-   :github: https://github.com/jorgemartinezg
-   :facebook: https://www.facebook.com/jorge.martinezgomez.12
-
-.. template:: bootstrap3/django-girls-guia
-   :name: Ana Elles
-   :image: guia-ana.png
-   :place: Cartagena, Colombia
-   :email: alelles16@gmail.com
-   :community: Python Cartagena
-   :github: https://github.com/alelles16
-
-.. template:: bootstrap3/django-girls-guia
-   :name: Paula Aragón
-   :image: guia-paula.png
-   :place: Barranquilla, Colombia
-   :email: paulaaragon.9@gmail.com
-   :community: Python Barranquilla
-   :github: https://github.com/pandrearro
-
-.. template:: bootstrap3/django-girls-guia
-   :name: Sorelys Sandoval
-   :image: guia-sorelys.png
-   :place: Barranquilla, Colombia
-   :email: sorboy11@gmail.com
-   :community: Python Barranquilla
-   :github: https://github.com/sorelyss
-
 .. raw:: html
 
    </div>
 
 
+Sponsors
+---------------
+
+Estamos en la búsqueda de sponsor para este evento de inclusión social,
+por favor dejanos saber que estás interesado en apoyarnos como sponsor enviando
+un email a `djangogirlscolombia@gmail.com <mailto:djangogirlscolombia@gmail.com>`_.
+
 Con el Apoyo de 
 ---------------
 
-.. image:: sponsors.png
+.. image:: apoyan.png
    :align: center
 
 ----

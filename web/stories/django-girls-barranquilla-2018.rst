@@ -229,7 +229,7 @@ contigo para coordinar los detalles.
 
 
 .. template:: bootstrap3/button
-   :href: https://goo.gl/forms/JqrqHXgwHmKjG6Bi2
+   :href: https://goo.gl/forms/1Q6T7vNoBZo2JDsW2
 
    ¡Quiero participar como guía!
 

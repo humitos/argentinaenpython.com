@@ -1,6 +1,6 @@
 .. title: Taller Django Girls en Barranquilla
 .. slug: django-girls/2018/07/barranquilla 
-.. date: 2018-05-24 00:18:30 UTC-05:00
+.. date: 2018-05-11 00:18:30 UTC-05:00
 .. tags: eventos, django girls, django, taller, python, barranquilla, programación, colombia
 .. category: 
 .. link: 

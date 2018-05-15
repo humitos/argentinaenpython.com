@@ -21,7 +21,9 @@
 
 .. class:: alert alert-success
 
-  **NOVEDADES**: ¡Atención Colombia, el Sábado 9 de Junio tendremos el taller de programación para mujeres `Django Girls Cali 2018 <django-girls/2018/06/cali/>`_ en la ciudad de Cali, Colombia. Este evento es organizado por Python Cali y Django Girls Colombia con el apoyo de Argentina en python!   
+  **NOVEDADES**: ¡Atención Colombia, el Sábado 9 de Junio tendremos el taller de programación para mujeres `Django Girls Cali 2018 <django-girls/2018/06/cali/>`_ en la ciudad de Cali, Colombia. Este evento es organizado por Python Cali y Django Girls Colombia con el apoyo de Argentina en python!.
+  
+  ¡También, el Sábado 14 de Julio tendremos el taller de programación para mujeres `Django Girls Barranquilla 2018 <django-girls/2018/07/barranquilla/>`_ en la ciudad de Barranquilla, Colombia. Este evento es organizado por Python Barranquilla y Django Girls Colombia con el apoyo de Argentina en Python!
 
 
 .. image:: /index/logo.thumbnail.png

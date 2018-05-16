@@ -484,9 +484,8 @@ contigo para coordinar los detalles.
 Sponsors
 ---------------
 
-Estamos en la búsqueda de sponsor para este evento de inclusión social, 
-por favor dejanos saber que estás interesado en apoyarnos como sponsor enviando 
-un email a djangogirlscolombia@gmail.com
+.. image:: sponsors.png
+   :align: center
 
 Con el Apoyo de
 ---------------

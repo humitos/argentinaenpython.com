@@ -6,7 +6,7 @@
 .. link: 
 .. description: ¡Queremos animar a más mujeres a dominar la web!
 .. type: text
-.. previewimage: flyer.png
+.. previewimage: flyer.jpg
 .. .. template: django-girls-snake.tmpl
 .. template: notitle.tmpl
 
@@ -38,8 +38,8 @@ de una manera muy sencilla!
    ¡Es hora de aprender a programar!
 
 
-.. image:: flyer.thumbnail.png
-   :target: flyer.png
+.. image:: flyer.thumbnail.jpg
+   :target: flyer.jpg
    :align: right
 
 El taller comienza por la mañana temprano en donde presentamos la
@@ -98,7 +98,7 @@ mujer contigo que también realice el taller [#]_.
 .. sidebar:: Contacto
 
    Cualquier duda que tengas sobre el taller, nos puedes escribir a 
-   `pythonbarranquilla@gmail.com <mailto:pythonbarranquilla@gmail.com>`_ y  `djangogirlscolombia@gmail.com <mailto:djangogirlscolombia@gmail.com>`_, para ponerte en contacto con nosotros.
+   `djangoquilla@gmail.com <mailto:djangoquilla@gmail.com>`_ y  `djangogirlscolombia@gmail.com <mailto:djangogirlscolombia@gmail.com>`_, para ponerte en contacto con nosotros.
 
    .. image:: organizadores.png
       :align: center

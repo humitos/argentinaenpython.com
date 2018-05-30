@@ -98,7 +98,7 @@ mujer con vos que también realice el taller [#]_.
 
    Cualquier duda que tengas sobre el taller, nos puedes escribir a
    `argentinaenpython@gmail.com
-   <mailto:argentinaenpython@gmail.com>`_, `djangoquilla@gmail.com <mailto:djangoquilla@gmail.com>`_ y  `djangogirlscolombia@gmail.com <mailto:djangogirlscolombia@gmail.com>`_, para ponerte en contacto con nosotros.
+   <mailto:argentinaenpython@gmail.com>`_, y  `djangogirlscolombia@gmail.com <mailto:djangogirlscolombia@gmail.com>`_, para ponerte en contacto con nosotros.
 
    .. image:: organizadores.png
       :align: center

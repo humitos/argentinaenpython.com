@@ -97,8 +97,7 @@ mujer contigo que también realice el taller [#]_.
    
 .. sidebar:: Contacto
 
-   Cualquier duda que tengas sobre el taller, nos puedes escribir a 
-   `djangoquilla@gmail.com <mailto:djangoquilla@gmail.com>`_ y  `djangogirlscolombia@gmail.com <mailto:djangogirlscolombia@gmail.com>`_, para ponerte en contacto con nosotros.
+   Cualquier duda que tengas sobre el taller, nos puedes escribir a `djangogirlscolombia@gmail.com <mailto:djangogirlscolombia@gmail.com>`_, para ponerte en contacto con nosotros.
 
    .. image:: organizadores.png
       :align: center

@@ -38,8 +38,8 @@ de una manera muy sencilla!
    ¡Es hora de aprender a programar!
 
 
-.. image:: flyer.thumbnail.jpg
-   :target: flyer.jpg
+.. image:: flyer.thumbnail.png
+   :target: flyer.png
    :align: right
 
 El taller comienza por la mañana temprano en donde presentamos la
@@ -361,9 +361,6 @@ contigo para coordinar los detalles.
 
 Sponsors
 ---------------
-
-.. image:: sponsors.png
-   :align: center
 
 Estamos en la búsqueda de sponsor para este evento de inclusión social,
 por favor dejanos saber que estás interesado en apoyarnos como sponsor enviando

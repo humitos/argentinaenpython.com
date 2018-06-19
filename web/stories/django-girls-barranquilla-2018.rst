@@ -38,8 +38,8 @@ de una manera muy sencilla!
    ¡Es hora de aprender a programar!
 
 
-.. image:: flyer.thumbnail.jpg
-   :target: flyer.jpg
+.. image:: flyer.thumbnail.png
+   :target: flyer.png
    :align: right
 
 El taller comienza por la mañana temprano en donde presentamos la

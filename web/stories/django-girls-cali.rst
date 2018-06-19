@@ -239,40 +239,184 @@ contigo para coordinar los detalles.
    <div class="section-guia">
 
 .. template:: bootstrap3/django-girls-guia
-   :name: Maria Camila Gómez
-   :image: colaborador-camila.png
-   :place: Medellín, Colombia
-   :community: Python Medellín
-   :web: http://www.camigomez.me
-   :github: 
-   :twitter: 
+   :name: Angelica Aguirre
+   :image: guia_angelica.png
+   :place: Pereira, Colombia
+   :community: Django Girls Colombia, Python Pereira
+   :web:
+   :github: https://github.com/anaguicas
+   :twitter: https://twitter.com/angelicaaguicas
 
 .. template:: bootstrap3/django-girls-guia
    :name: Carolina Gómez Trejos
    :image: guia-carolina.png
    :place: Pereira, Colombia
-   :community: Python Pereira
-   :web:
-   :github:
-   :twitter:
+   :community: Django Girls Colombia, Python Pereira
+   :web: https://carogomezt.github.io/
+   :github: https://www.github.com/carogomezt
+   :twitter: https://www.twitter.com/caro_gomezt
 
 .. template:: bootstrap3/django-girls-guia
    :name: Carolina Guzmán
    :image: colaborador-caroguza.png
    :place: Cali, Colombia
-   :community:
-   :web:
+   :community: 
+   :web: 
    :github: https://www.github.com/caroguza
-   :twitter:
+   :twitter: https://www.twitter.com/caroguza
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Critian Vargas
+   :image: colaborador-cristian.png
+   :place: Cali, Colombia
+   :community: Python Cali
+   :web: 
+   :github: https://www.github.com/cdvv7788
+   :twitter: 
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   <style>
+     div.django-girls-guia {
+       min-height: 250px;
+     }
+
+     div.section-guia {
+       display: inline-block;
+     }
+   </style>
+
+   <div class="section-guia">
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Gonzalo Peña
+   :image: guia_gonzalo.png
+   :place: Bucaramanga, Colombia
+   :community: Django Girls Colombia, Python Colombia
+   :web: 
+   :github: https://www.github.com/goanpeca
+   :twitter: https://www.twitter.com/goanpeca
 
 .. template:: bootstrap3/django-girls-guia
    :name: Isabel Ruiz
-   :image: guia-isabel.png
+   :image: guia_isabel.png
    :place: Cali, Colombia
-   :community: Python Cali
+   :community: Python Cali, Python Tuluá
    :web:
    :github: https://github.com/iris9112
    :twitter: https://twitter.com/iris9112
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Jose Andrade
+   :image: guia_jose.png
+   :place: Bogotá, Colombia
+   :community: 
+   :web: 
+   :github: https://www.github.com/avarajar
+   :twitter: https://www.twitter.com/nirvajara
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Juan Medina
+   :image: guia_juan.png
+   :place: Bogotá, Colombia
+   :community: 
+   :web: 
+   :github: https://www.github.com/jjmedinas
+   :twitter: 
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   <style>
+     div.django-girls-guia {
+       min-height: 250px;
+     }
+
+     div.section-guia {
+       display: inline-block;
+     }
+   </style>
+
+   <div class="section-guia">
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Julian Amaya
+   :image: guia_julian.png
+   :place: Bogotá, Colombia
+   :community: 
+   :web: 
+   :github: https://www.github.com/julian-amaya
+   :twitter: https://www.twitter.com/julian_amaya
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Maria Camila Gómez
+   :image: colaborador-camila.png
+   :place: Medellín, Colombia
+   :community: Pioneras Dev
+   :web: http://www.camigomez.me
+   :github: https://www.github.com/camigomez35
+   :twitter: https://www.twitter.com/camigomez318
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Mauricio Collazos
+   :image: colaborador-mauricio.png
+   :place: Cali, Colombia
+   :community: Python Cali
+   :web: 
+   :github: https://www.github.com/ma0c
+   :twitter: https://www.twitter.com/ma0collazos
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Nathalia Bedoya
+   :image: guia_nathalia.png
+   :place: Cali, Colombia
+   :community: 
+   :web: 
+   :github: https://www.github.com/natha9404
+   :twitter: https://www.twitter.com/natha9404
+
+.. raw:: html
+
+   </div>
+
+.. raw:: html
+
+   <style>
+     div.django-girls-guia {
+       min-height: 250px;
+     }
+
+     div.section-guia {
+       display: inline-block;
+     }
+   </style>
+
+   <div class="section-guia">
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Pedro Rivera
+   :image: colaborador-pedro.png
+   :place: Popayan, Colombia
+   :community: Python Popayan
+   :web: 
+   :github: https://github.com/ppsirg
+   :twitter: 
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Yully Guzmán
+   :image: guia_yully.png
+   :place: Cali, Colombia
+   :community: 
+   :web:
+   :github: 
+   :twitter: 
 
 .. raw:: html
 
@@ -416,22 +560,20 @@ contigo para coordinar los detalles.
    :github: https://github.com/ppsirg
 
 .. template:: bootstrap3/django-girls-guia
-   :name: Maria Camila Gómez
-   :image: colaborador-camila.png
-   :place: Medellín, Colombia
-   :email: camigomez35@gmail.com
-   :community: Python Medellín
-   :web: http://www.camigomez.me
-   :github: https://github.com/camigomez35
-   :twitter: https://www.twitter.com/camigomez318
-
-.. template:: bootstrap3/django-girls-guia
    :name: Carolina Guzmán
    :image: colaborador-caroguza.png
    :place: Cali, Colombia
    :email: ppsirg.developer@gmail.com
    :community:
    :github: https://github.com/caroguza
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Cristian Vargas
+   :image: colaborador-cristian.png
+   :place: Cali, Colombia
+   :email: cristianvargasvalencia@gmail.com
+   :community: Python Cali
+   :github: https://github.com/cdvv7788
 
 .. raw:: html
 
@@ -450,14 +592,6 @@ contigo para coordinar los detalles.
    </style>
 
    <div class="section-guia">
-
-.. template:: bootstrap3/django-girls-guia
-   :name: Cristian Vargas
-   :image: colaborador-cristian.png
-   :place: Cali, Colombia
-   :email: cristianvargasvalencia@gmail.com
-   :community: Python Cali
-   :github: https://github.com/cdvv7788
 
 .. template:: bootstrap3/django-girls-guia
    :name: ¡Quiero colaborar!
@@ -484,9 +618,8 @@ contigo para coordinar los detalles.
 Sponsors
 ---------------
 
-Estamos en la búsqueda de sponsor para este evento de inclusión social,
-por favor dejanos saber que estás interesado en apoyarnos como sponsor enviando
-un email a djangogirlscolombia@gmail.com
+.. image:: sponsors.png
+   :align: center
 
 Con el Apoyo de
 ---------------

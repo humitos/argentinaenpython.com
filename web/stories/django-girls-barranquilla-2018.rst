@@ -1,12 +1,12 @@
 .. title: Taller Django Girls en Barranquilla
 .. slug: django-girls/2018/07/barranquilla 
-.. date: 2018-05-24 00:18:30 UTC-05:00
+.. date: 2018-05-11 00:18:30 UTC-05:00
 .. tags: eventos, django girls, django, taller, python, barranquilla, programación, colombia
 .. category: 
 .. link: 
 .. description: ¡Queremos animar a más mujeres a dominar la web!
 .. type: text
-.. previewimage: flyer.png
+.. previewimage: flyer.jpg
 .. .. template: django-girls-snake.tmpl
 .. template: notitle.tmpl
 
@@ -38,8 +38,8 @@ de una manera muy sencilla!
    ¡Es hora de aprender a programar!
 
 
-.. image:: flyer.thumbnail.png
-   :target: flyer.png
+.. image:: flyer.thumbnail.jpg
+   :target: flyer.jpg
    :align: right
 
 El taller comienza por la mañana temprano en donde presentamos la
@@ -97,8 +97,7 @@ mujer contigo que también realice el taller [#]_.
    
 .. sidebar:: Contacto
 
-   Cualquier duda que tengas sobre el taller, nos puedes escribir a 
-   `pythonbarranquilla@gmail.com <mailto:pythonbarranquilla@gmail.com>`_ y  `djangogirlscolombia@gmail.com <mailto:djangogirlscolombia@gmail.com>`_, para ponerte en contacto con nosotros.
+   Cualquier duda que tengas sobre el taller, nos puedes escribir a `djangogirlscolombia@gmail.com <mailto:djangogirlscolombia@gmail.com>`_, para ponerte en contacto con nosotros.
 
    .. image:: organizadores.png
       :align: center
@@ -369,6 +368,13 @@ Sponsors
 Estamos en la búsqueda de sponsor para este evento de inclusión social,
 por favor dejanos saber que estás interesado en apoyarnos como sponsor enviando
 un email a `djangogirlscolombia@gmail.com <mailto:djangogirlscolombia@gmail.com>`_.
+
+---------------
+
+.. image:: sponsors.png
+   :align: center
+
+----
 
 Con el Apoyo de 
 ---------------

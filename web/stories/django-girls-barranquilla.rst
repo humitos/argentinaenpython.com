@@ -98,7 +98,7 @@ mujer con vos que también realice el taller [#]_.
 
    Cualquier duda que tengas sobre el taller, nos puedes escribir a
    `argentinaenpython@gmail.com
-   <mailto:argentinaenpython@gmail.com>`_, `pythonbarranquilla@gmail.com <mailto:pythonbarranquilla@gmail.com>`_ y  `djangogirlscolombia@gmail.com <mailto:djangogirlscolombia@gmail.com>`_, para ponerte en contacto con nosotros.
+   <mailto:argentinaenpython@gmail.com>`_, y  `djangogirlscolombia@gmail.com <mailto:djangogirlscolombia@gmail.com>`_, para ponerte en contacto con nosotros.
 
    .. image:: organizadores.png
       :align: center
@@ -291,7 +291,7 @@ contigo para coordinar los detalles.
 
 .. template:: bootstrap3/django-girls-guia
    :name: Javier Cardenas
-   :image: guia-nnhombre.png
+   :image: guia-javierc.jpeg
    :place: Barranquilla
    :community: Stack Overflow
    :github: https://github.com/jdash99
@@ -335,6 +335,14 @@ contigo para coordinar los detalles.
    :community: Python
    :github: https://github.com/waybarrios
    :facebook: https://www.facebook.com/waybarrios
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Darío Guzmán
+   :image: guia-dario.png
+   :place: Barranquilla
+   :community: Python Barranquilla
+   :github: https://github.com/gudarjs
+   :twitter: https://twitter.com/gudarjs
 
 
 .. raw:: html

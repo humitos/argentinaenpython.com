@@ -8,6 +8,10 @@
 
 Eventos pasados
 ---------------
+* 30-05-2018: `Meetup Python Salta
+  <https://www.elintra.com.ar/sociedad/2018/7/2/anses-la-sucursal-de-calle-pellegrini-no-atendera-durante-julio-124187.html>`_
+* 25-05-2018: `Meetup Pysquadpython 
+  <https://www.facebook.com/events/212578079550909/>`_
 * 08-02-2018: `Taller Django Girls en PyConColombia 2018
   <https://argentinaenpython.com/galeria/django-girls-pyconcolombia-2018/>`_
 *  12-01-2018: `Taller de Tecnologías de Virtualización: Introducción a Docker en Cuenca <https://www.meetup.com/es-ES/python-ecuador/events/246196158/>`__

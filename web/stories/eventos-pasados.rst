@@ -8,9 +8,9 @@
 
 Eventos pasados
 ---------------
-* 30-05-2018: `Meetup Python Salta
+* 30-05-2018: `Meetup Python en Salta
   <https://www.elintra.com.ar/sociedad/2018/7/2/anses-la-sucursal-de-calle-pellegrini-no-atendera-durante-julio-124187.html>`_
-* 25-05-2018: `Meetup Pysquadpython 
+* 25-05-2018: `Meetup Pysquadpython en Arica
   <https://www.facebook.com/events/212578079550909/>`_
 * 08-02-2018: `Taller Django Girls en PyConColombia 2018
   <https://argentinaenpython.com/galeria/django-girls-pyconcolombia-2018/>`_

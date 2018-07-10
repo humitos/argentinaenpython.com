@@ -82,6 +82,8 @@ Eventos pasados
 
 Eventos en que colaboramos
 **************************
+* 14-07-2018: `Taller Django Girls en Barranquilla, Colombia
+  <https://argentinaenpython.com/django-girls/2018/07/barranquilla/>`_
 * 09-06-2018: `Taller Django Girls en Cali, Colombia
   <https://argentinaenpython.com/django-girls/2018/06/cali/>`_
 * 24-03-2018: `Taller Django Girls en Cuenca, Ecuador

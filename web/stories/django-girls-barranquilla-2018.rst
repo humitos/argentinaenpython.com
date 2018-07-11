@@ -190,12 +190,13 @@ Timeline (*línea de tiempo*)
    re-asignado a una de las personas en LISTA DE ESPERA.
 
   
-.. .. class:: alert alert-danger
-..    ¡**Atención**!: hemos alcanzado el cupo máximo de inscriptos para
-..    el taller. Sin embargo, si estás interesada en participar,
-..    inscribite y pasarás automáticamente a una lista de espera que, en
-..    caso de que alguien no pueda asistir, nos estaremos comunicando con
-..    vos para informarte.!
+.. class:: alert alert-danger
+
+   ¡**Atención**!: hemos alcanzado el cupo máximo de inscriptos para
+   el taller. Sin embargo, si estás interesada en participar,
+   inscribite y pasarás automáticamente a una lista de espera que, en
+   caso de que alguien no pueda asistir, nos estaremos comunicando contigo 
+   para informarte.!
 
 .. template:: bootstrap3/button
    :href: https://goo.gl/forms/y3dHJEavz8BuYUnh1
@@ -233,6 +234,76 @@ contigo para coordinar los detalles.
 
    ¡Quiero participar como guía!
 
+¡Conoce a nuestros guías!
+*************************
+
+.. raw:: html
+
+
+   <style>
+     div.django-girls-guia {
+       min-height: 350px;
+     }
+
+     div.section-guia {
+       display: inline-block;
+     }
+   </style>
+
+   <div class="section-guia">
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Paula Aragón
+   :image: guia-paula.png
+   :place: Barranquilla, Colombia
+   :email: paulaaragon.9@gmail.com
+   :community: Python Barranquilla
+   :github: https://github.com/pandrearro
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Ana Elles
+   :image: guia-ana.png
+   :place: Cartagena, Colombia
+   :email: alelles16@gmail.com
+   :community: Python Cartagena
+   :github: https://github.com/alelles16
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Sorelys Sandoval
+   :image: guia-sorelys.png
+   :place: Barranquilla, Colombia
+   :email: sorboy11@gmail.com
+   :community: Python Barranquilla
+   :github: https://github.com/sorelyss
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Deiry Navas
+   :image: guia-sofia.png
+   :place: Medellin, Colombia
+   :email: sofia.navas96@gmail.com
+   :community: Python Medellin
+   :github: https://github.com/deiry
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Jorge Martinez
+   :image: guia-jorge.png
+   :place: Barranquilla
+   :community: Python Barranquilla
+   :github: https://github.com/jorgemartinezg
+   :facebook: https://www.facebook.com/jorge.martinezgomez.12
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Cesar Herdenez
+   :image: guia-cesar.png
+   :place: Barranquilla, Colombia
+   :email: caherdenez@gmail.com
+   :community: Python Barranquilla y Colombia
+   :github:  https://github.com/cesar0510
+   :twitter: https://twitter.com/CesarAu0619
+
+.. raw:: html
+
+   </div>
 
 
 ¡Los organizadores!
@@ -356,7 +427,7 @@ contigo para coordinar los detalles.
 
 .. raw:: html
 
-   </div>
+  </div>
 
 
 Sponsors

@@ -21,9 +21,14 @@
 
 .. class:: alert alert-success
 
-  **NOVEDADES**: ¡Atención Colombia, el Sábado 9 de Junio tendremos el taller de programación para mujeres `Django Girls Cali 2018 <django-girls/2018/06/cali/>`_ en la ciudad de Cali, Colombia. Este evento es organizado por Python Cali y Django Girls Colombia con el apoyo de Argentina en python!.
-  
-  ¡También, el Sábado 14 de Julio tendremos el taller de programación para mujeres `Django Girls Barranquilla 2018 <django-girls/2018/07/barranquilla/>`_ en la ciudad de Barranquilla, Colombia. Este evento es organizado por Python Barranquilla y Django Girls Colombia con el apoyo de Argentina en Python!
+  **NOVEDADES**: ¡Atención Colombia, el Sábado 14 de Julio tendremos el taller de programación para mujeres `Django Girls Barranquilla 2018 <django-girls/2018/07/barranquilla/>`_ en la ciudad de Barranquilla, Colombia. Este evento es organizado por Python Barranquilla y Django Girls Colombia con el apoyo de Argentina en Python. 
+
+.. class:: alert alert-success
+
+  ¡El equipo `Argentina en Python </>`_  estará participando de tres eventos en diferentes paises!
+    * Argentina: Johanna será disertante en el `Meetup de Python Buenos Aires <https://www.meetup.com/es-ES/Buenos-Aires-Python-Meetup/>`_ , el 12 de Julio
+    * Japón: Manuel será el Opening Keynote de la `PyCon Japón <https://pycon.jp/2018/>`_ , el 17 de Septiembre en Tokio
+    * España: Manuel estará participando de la `PyCon España <https://2018.es.pycon.org/>`_, del 5 al 7 de Octubre en Malaga
 
 
 .. image:: /index/logo.thumbnail.png

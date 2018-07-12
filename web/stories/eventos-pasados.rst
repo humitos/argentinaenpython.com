@@ -8,6 +8,10 @@
 
 Eventos pasados
 ---------------
+* 30-05-2018: `Meetup Python en Salta
+  <https://www.elintra.com.ar/sociedad/2018/5/30/se-realizo-una-capacitacion-de-python-para-programadores-en-salta-122959.html>`_
+* 25-05-2018: `Meetup Pysquadpython en Arica
+  <https://www.facebook.com/events/212578079550909/>`_
 * 08-02-2018: `Taller Django Girls en PyConColombia 2018
   <https://argentinaenpython.com/galeria/django-girls-pyconcolombia-2018/>`_
 *  12-01-2018: `Taller de Tecnologías de Virtualización: Introducción a Docker en Cuenca <https://www.meetup.com/es-ES/python-ecuador/events/246196158/>`__
@@ -78,6 +82,10 @@ Eventos pasados
 
 Eventos en que colaboramos
 **************************
+* 14-07-2018: `Taller Django Girls en Barranquilla, Colombia
+  <https://argentinaenpython.com/django-girls/2018/07/barranquilla/>`_
+* 09-06-2018: `Taller Django Girls en Cali, Colombia
+  <https://argentinaenpython.com/django-girls/2018/06/cali/>`_
 * 24-03-2018: `Taller Django Girls en Cuenca, Ecuador
   <https://argentinaenpython.com/django-girls/2018/03/cuenca/>`_
 * 16-12-2017: `Taller Django Girls en Montevideo, Uruguay

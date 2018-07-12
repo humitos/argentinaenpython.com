@@ -153,7 +153,7 @@ formas de vida.
 
 .. template:: bootstrap3/thumbnail-index
    :href: /galeria/django-girls-cali/
-   :src: DGCali-185.jpg
+   :src: DGCali-137.jpg
    :title: Django Girls Cali
    :description: Workshop Django Girls
 

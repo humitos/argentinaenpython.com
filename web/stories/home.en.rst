@@ -144,6 +144,12 @@ How?
 
 
 .. template:: bootstrap3/thumbnail-index
+   :href: /galeria/django-girls-cali/
+   :src: DGCali-185.jpg
+   :title: Django Girls Cali
+   :description: Workshop Django Girls
+
+.. template:: bootstrap3/thumbnail-index
    :href: /galeria/django-girls-pyconcolombia-2018/
    :src: DSCF4438.JPG
    :title: Django Girls PyCon Colombia
@@ -153,12 +159,6 @@ How?
    :href: /galeria/django-girls-barranquilla/
    :src: IMG_2834.JPG
    :title: Django Girls Barranquilla
-   :description: Workshop Django Girls
-
-.. template:: bootstrap3/thumbnail-index
-   :href: /galeria/django-girls-medellin/
-   :src: IMG_2243.JPG
-   :title: Django Girls Medellín
    :description: Workshop Django Girls
 
 .. class:: lead align-center

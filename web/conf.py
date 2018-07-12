@@ -736,6 +736,8 @@ REDIRECTIONS = [
     ('django-girls/2017/02/cuenca/index.html', '/django-girls/2017/03/cuenca/'),
 
     ('django-girls/index.html', '/django-girls/tutorial/'),
+    ('django-girls-tutorial-es/index.html', '/django-girls/tutorial/'),
+    ('django-girls-tutorial-es_v2/index.html', '/django-girls/tutorial/'),
 ]  # yapf: disable
 
 # Presets of commands to execute to deploy. Can be anything, for

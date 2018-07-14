@@ -19,6 +19,12 @@ Año 2018
    <div class="row">
 
 .. template:: prensa-image
+   :title: Ahora TV -  Noticias Entre Ríos
+   :description: Argentina en Python, el proyecto de un paranaense para difundir el conocimiento
+   :src: 2018_mayo_3-340x255.png
+   :href: https://ahora.com.ar/argentina-python-el-proyecto-un-paranaense-difundir-el-conocimiento-n4153851
+
+.. template:: prensa-image
    :title: Santos Gallegos -  Blog
    :description: De guía en Django Girls a pasante en Read the Docs
    :src: 2018_mayo_2-340x255.png

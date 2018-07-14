@@ -19,6 +19,12 @@ Año 2018
    <div class="row">
 
 .. template:: prensa-image
+   :title: Santos Gallegos -  Blog
+   :description: De guía en Django Girls a pasante en Read the Docs
+   :src: 2018_mayo_2-340x255.png
+   :href: https://stsewd.github.io/es/posts/historia-django-girls-rtd/
+
+.. template:: prensa-image
    :title: El Intra.com.ar -  Noticias de Salta
    :description: Capacitación de Python para programadores en Salta
    :src: 2018_mayo_1-340x255.png

@@ -21,12 +21,7 @@
 
 .. class:: alert alert-success
 
-  **NOVEDADES**: ¡Atención Colombia, el Sábado 14 de Julio tendremos el taller de programación para mujeres `Django Girls Barranquilla 2018 <django-girls/2018/07/barranquilla/>`_ en la ciudad de Barranquilla, Colombia. Este evento es organizado por Python Barranquilla y Django Girls Colombia con el apoyo de Argentina en Python. 
-
-.. class:: alert alert-success
-
-  ¡El equipo `Argentina en Python </>`_  estará participando de tres eventos en diferentes paises!
-    * Argentina: Johanna será disertante en el `Meetup de Python Buenos Aires <https://www.meetup.com/es-ES/Buenos-Aires-Python-Meetup/>`_ , el 12 de Julio
+  ¡El equipo `Argentina en Python </>`_  estará participando de dos eventos en diferentes paises!
     * Japón: Manuel será el Opening Keynote de la `PyCon Japón <https://pycon.jp/2018/>`_ , el 17 de Septiembre en Tokio
     * España: Manuel estará participando de la `PyCon España <https://2018.es.pycon.org/>`_, del 5 al 7 de Octubre en Malaga
 
@@ -164,7 +159,7 @@ formas de vida.
    :description: Workshop Django Girls
 
 .. template:: bootstrap3/thumbnail-index
-   :href: /galeria/django-girls-barranquilla/
+   :href: /galeria/django-girls-barranquilla/2017/
    :src: IMG_2834.JPG
    :title: Django Girls Barranquilla
    :description: Workshop Django Girls

@@ -102,6 +102,7 @@ Eventos en que colaboramos
 
 Eventos en los que hemos participado
 ************************************
+* 12-07-2018: Johanna Sanchez participó como `disertante en el Meetup de Python Buenos Aires <https://www.meetup.com/es-ES/Buenos-Aires-Python-Meetup/events/252280608/>`_ realizado en Buenos Aires, Argentina.
 * 10-02-2018: Manuel Kaufmann y Johanna Sanchez participaron como `disertantes cada uno en PyCon Colombia 2018 <https://www.pycon.co/>`_ realizado en Medellín, Colombia.
 * 17-05-2017: Manuel Kaufmann participó en `PyCon 2017 <https://us.pycon.org/2017/about/>`_ realizado en Portland, Estados Unidos
 * 14-05-2017: Manuel Kaufmann participó en `Write the Docs <http://www.writethedocs.org/conf/na/2017/>`_ realizado en Portland, Estados Unidos

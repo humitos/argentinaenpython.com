@@ -153,7 +153,7 @@ formas de vida.
    :description: Workshop Django Girls
 
 .. template:: bootstrap3/thumbnail-index
-   :href: /galeria/django-girls-pyconcolombia-2018/
+   :href: /galeria/meetup-python-buenosaires/
    :src: photo5084854736158566385.jpg
    :title: Python Buenos Aires
    :description: Meetup Python Buenos Aires

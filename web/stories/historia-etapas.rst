@@ -235,10 +235,16 @@ hemos visitado estos lugares:
 * Chiclayo, Lambayeque, Perú
 * Piura, Piura, Perú
 * Las Lomas, Piura, Perú
+* Santo Domingo, Distrito Nacional, Republica Dominicana
+* Las Lomas, Piura, Perú
 * Macará, Loja, Ecuador
 * Machala, El Oro, Ecuador
 * Cuenca, Azuay, Ecuador
 * Guayaquil, Guayas, Ecuador
+* Madrid, Madrid, España
+* Almería, Almería, España
+* Bahía Blanca, Argentina
+* Santiago del Estero, Santiago del Estero, Argentina
 * Girón, Azuay, Ecuador
 * San Fernando, Azuay, Ecuador
 * Salinas, Santa Elena, Ecuador
@@ -247,6 +253,39 @@ hemos visitado estos lugares:
 * Bogotá, Santafe, Colombia
 * Bucaramanga, Santander, Colombia
 * Cuenca, Azuay, Ecuador
+* Portland, Oregón, Estados Unidos
+* Medellín, Antioquía, Colombia
+* Barranquilla, Atlántico, Colombia
+* Cuenca, Azuay, Ecuador
+* Belo Horizonte, Minas Gerais, Brasil
+* Río de Janeiro, Río de Janeiro, Brasil
+* Ilha Grande, Río de Janeiro, Brasil
+* Cuenca, Azuay, Ecuador
+* Medellín, Antioquía, Colombia
+* Bogotá, Cundinamarca, Colombia
+* Cuenca, Azuay, Ecuador
+* Guayaquil, Guayas, Ecuador
+* Puerto Lopez, Ecuador
+* Cuenca, Azuay, Ecuador
+* Macará, Loja, Ecuador
+* Machala, El Oro, Ecuador
+* Piura, Piura, Perú
+* Chiclayo, Lambayeque, Perú
+* Lima, Lima, Perú
+* Ica, Ica, Perú
+* Illo, Moquegua, Perú
+* Arica, Región de Arica, Chile
+* Calama, San Pedro de Atacama, Chile
+* Salta, Salta, Argentina
+* San Salvador de Jujuy, Jujuy, Argentina
+* Tucumán, Tucumán, Argentina
+* Santiago del Estero, Santiago del Estero, Argentina
+* Rafaela, Santa Fe, Argentina 
+* Paraná, Entre Ríos, Argentina
+* Santa Fe, Santa Fe, Argentina
+* Buenos Aires, Buenos Aires, Argentina
+* Paraná, Entre Ríos, Argentina
+
 
 
 .. raw:: html

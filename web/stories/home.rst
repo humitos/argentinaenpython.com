@@ -147,22 +147,25 @@ formas de vida.
    <hr style="border-width: 10px 0 0;">
 
 .. template:: bootstrap3/thumbnail-index
+   :href: /galeria/django-girls-barranquilla/2018/
+   :src: IMG_5505.JPG
+   :title: Django Girls Barranquilla
+   :description: Workshop Django Girls
+
+.. template:: bootstrap3/thumbnail-index
+   :href: /galeria/django-girls-pyconcolombia-2018/
+   :src: photo5084854736158566385.jpg
+   :title: Python Buenos Aires
+   :description: Meetup Python Buenos Aires
+
+.. template:: bootstrap3/thumbnail-index
    :href: /galeria/django-girls-cali/
    :src: DGCali-137.jpg
    :title: Django Girls Cali
    :description: Workshop Django Girls
 
-.. template:: bootstrap3/thumbnail-index
-   :href: /galeria/django-girls-pyconcolombia-2018/
-   :src: DSCF4438.JPG
-   :title: Django Girls PyCon Colombia
-   :description: Workshop Django Girls
 
-.. template:: bootstrap3/thumbnail-index
-   :href: /galeria/django-girls-barranquilla/2017/
-   :src: IMG_2834.JPG
-   :title: Django Girls Barranquilla
-   :description: Workshop Django Girls
+
 
 
 .. class:: lead align-center

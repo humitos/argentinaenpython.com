@@ -19,13 +19,25 @@ Año 2018
    <div class="row">
 
 .. template:: prensa-image
-   :title: El Intra.com.ar -  Noticias de Salta
+   :title: Ahora TV
+   :description: Argentina en Python, el proyecto de un paranaense para difundir el conocimiento
+   :src: 2018_mayo_3.png
+   :href: https://ahora.com.ar/argentina-python-el-proyecto-un-paranaense-difundir-el-conocimiento-n4153851
+
+.. template:: prensa-image
+   :title: Blog Santos Gallegos  
+   :description: De guía en Django Girls a pasante en Read the Docs
+   :src: 2018_mayo_2.png
+   :href: https://stsewd.github.io/es/posts/historia-django-girls-rtd/
+
+.. template:: prensa-image
+   :title: El Intra
    :description: Capacitación de Python para programadores en Salta
    :src: 2018_mayo_1-340x255.png
    :href: https://www.elintra.com.ar/sociedad/2018/5/30/se-realizo-una-capacitacion-de-python-para-programadores-en-salta-122959.html
 
 .. template:: prensa-image
-   :title: El Morrocotudo -  Noticias de Arica, Chile
+   :title: El Morrocotudo
    :description: Informática popular: Software libre para todos y con presencia del robot Biri-Biri 
    :src: 2018_mayo_0-340x255.png
    :href: http://www.elmorrocotudo.cl/noticia/tecnologia/informatica-popular-software-libre-para-todos-y-con-presencia-del-robot-biri-biri

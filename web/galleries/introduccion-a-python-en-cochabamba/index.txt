@@ -1,0 +1,8 @@
+.. title: Introducción a Python en Cochabamba
+.. previewimage: DSC_9307_01.jpg
+.. description: Charla Introducción a Python
+
+:Fecha: 19 de Agosto de 2015
+:Lugar: Cochabamba, Cochabamba, Bolivia
+:Descripción: Charla "Introducción a Python" en el Proyecto mARTadero
+:Web: http://elblogdehumitos.com/posts/introduccion-a-python-en-cochabamba/

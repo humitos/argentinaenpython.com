@@ -1,0 +1,6 @@
+.. title: Django Girls Barranquilla
+.. previewimage: 2017/IMG_2830.JPG
+.. description: Workshop Django Girls
+
+:Lugar: Barranquilla, Atlántico, Colombia
+:Descripción: Taller de programación para mujeres con Django Girls

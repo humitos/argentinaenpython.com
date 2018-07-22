@@ -1,0 +1,8 @@
+.. title: PyDay Formosa
+.. previewimage: DSC_3979_01.jpg
+.. description: Evento PyDay
+
+:Fecha: 14 de Febrero de 2015
+:Lugar: Formosa, Formosa, Argentina
+:Descripción: PyDay organizado por la comunidad de Python Argentina y forsol (Formosa Software Libre)
+:Blog Post: http://elblogdehumitos.com/posts/pyday-formosa/

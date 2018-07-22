@@ -1,0 +1,7 @@
+.. title: HACKÁra Asuka Guaraní
+.. previewimage: IMG_20150411_163307.jpg
+.. description: Traducción de Sugar al Guaraní
+
+:Fecha: 11 de Abril de 2015
+:Lugar: Caacupé, Cordillera, Paraguay
+:Descripción: Jornada de traducción de la plataforma Sugar al Guaraní

@@ -1,0 +1,8 @@
+.. title: Django Girls Cali
+.. previewimage: DGCali-137.jpg
+.. description: Workshop Django Girls
+
+:Fecha: 9 de Junio de 2018
+:Lugar: Santiago de Cali, Valle del Cauca, Colombia
+:Descripción: Workshop Django Girls
+:Web: https://argentinaenpython.com/django-girls/2018/06/cali/

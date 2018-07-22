@@ -1,0 +1,8 @@
+.. title: Django Girls Bahía Blanca - PyConAR 2016
+.. previewimage: IMG_20161125_184517.jpg
+.. description: Workshop Django Girls
+
+:Fecha: 25 de Noviembre de 2016
+:Lugar: Bahía Blanca, Buenos Aires, Argentina
+:Descripción: Taller de programación para mujeres con Django Girls organizado por `Argentina en Python <http://argentinaenpython.com/>`_ y Django Girls Mendoza en el marco de `PyCon Argentina <http://ar.pycon.org/>`_
+:Web: http://argentinaenpython.com/django-girls-pyconar-2016

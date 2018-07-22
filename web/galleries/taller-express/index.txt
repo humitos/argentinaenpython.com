@@ -1,0 +1,10 @@
+.. title: Taller Express
+.. previewimage: IMG_20150611_005633.jpg
+.. description: Taller improvisado de Python
+
+:Fecha: 10 de Junio de 2015
+:Lugar: San Ignacio Guazú, Misiones, Paraguay
+:Descripción: Taller organizado en menos de 10hs con los chicos de iTec
+
+
+.. for x in `ls *.jpg`; do convert "$x" -resize 1024 "$x";done

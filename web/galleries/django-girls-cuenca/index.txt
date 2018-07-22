@@ -1,0 +1,6 @@
+.. title: Django Girls Cuenca
+.. previewimage: 2017/IMG_4689.jpg
+.. description: Workshop Django Girls
+
+:Lugar: Cuenca, Azuay, Ecuador
+:Descripción: Taller de programación para mujeres con Django Girls

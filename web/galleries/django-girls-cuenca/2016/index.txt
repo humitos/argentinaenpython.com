@@ -1,0 +1,9 @@
+.. title: 2016
+.. previewimage: DSC_2576_01.jpg
+.. description: Workshop Django Girls
+
+:Fecha: 30 de Abril de 2016
+:Lugar: Cuenca, Azuay, Ecuador
+:Descripción: Taller de programación para mujeres con Django Girls
+:Web: http://argentinaenpython.com/django-girls-cuenca/
+

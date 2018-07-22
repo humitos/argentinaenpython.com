@@ -1,0 +1,8 @@
+.. title: OpenStreetMap: nuestros mapas
+.. previewimage: DSC_0385.JPG
+.. description: Charla de introducción a OpenStreetMap
+
+:Fecha: 19 de Diciembre de 2014
+:Lugar: Las Breñas, Chacho, Argentina
+:Descripción: Charla de introducción a OpenStreetMap
+:Web: http://elblogdehumitos.com/posts/charla-abierta-de-openstreetmap-en-las-brenas/

@@ -1,0 +1,13 @@
+.. title: Django Girls Piura
+.. previewimage: DSC_2518_01.jpg
+.. description: Workshop Django Girls
+
+:Fecha: 23 de Enero de 2016
+:Lugar: Piura, Piura, Perú
+:Descripción: Taller de programación para mujeres/chicas con Django Girls
+:Web: http://argentinaenpython.com/django-girls-piura/
+
+.. Escalar todas las imágenes a máximo 1024 en cualquiera de sus dimensiones (se conserva el aspecto)
+..   http://www.imagemagick.org/script/command-line-processing.php#geometry
+..
+.. mkdir -p resized; for IMG in `ls DSCF*.JPG IMG_*.jpg`; do convert -resize 1024x1024 ${IMG} resized/${IMG}; done

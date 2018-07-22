@@ -1,0 +1,8 @@
+.. title: Django Girls Santa Cruz
+.. previewimage: IMG_20150829_104112.jpg
+.. description: Workshop Django Girls
+
+:Fecha: 29 de Agosto de 2015
+:Lugar: Santa Cruz, Santa Cruz, Bolivia
+:Descripción: Taller de programación para mujeres/chicas
+:Web: http://argentinaenpython.com/django-girls-santa-cruz

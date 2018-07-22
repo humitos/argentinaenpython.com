@@ -1,0 +1,8 @@
+.. title: 2018
+.. previewimage: IMG_2757.JPG
+.. description: Workshop Django Girls
+
+:Fecha: 24 de Marzo de 2018
+:Lugar: Cuenca, Azuay, Ecuador
+:Descripción: Taller de programación para mujeres con Django Girls
+:Web: https://argentinaenpython.com/django-girls/2018/04/cuenca/

@@ -1,0 +1,10 @@
+.. title: Python, Sofware Libre y realidad laboral
+.. previewimage: IMG_20150626_190731.jpg
+.. description: Charla improvisada sobre Python
+
+:Fecha: 26 de Junio de 2015
+:Lugar: Ledesma, Jujuy, Argentina
+:Descripción: Charla express organizada en Ledesma para los alumnos de la Escuela Técnica "Ingeniero Herminio Arrieta"
+
+
+.. for x in `ls *.jpg`; do convert "$x" -resize 1024 "$x";done

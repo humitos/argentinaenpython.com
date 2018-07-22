@@ -1,0 +1,8 @@
+.. title: Django Girls Santiago del Estero
+.. previewimage: IMG_20161210_142130.jpg
+.. description: Workshop Django Girls
+
+:Fecha: 10 de Diciembre de 2016
+:Lugar: Santiago del Estero, Santiago del Estero, Argentina
+:Descripción: Taller de programación para mujeres con Django Girls
+:Web: https://argentinaenpython.com/django-girls-santiago-del-estero

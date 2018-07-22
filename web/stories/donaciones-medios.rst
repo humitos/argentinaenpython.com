@@ -15,19 +15,6 @@ puedas -*todo suma*.
 .. _PayPal: https://www.paypal.com/
 .. _Payoneer: http://payoneer.com/
 
-Transferencia desde Argentina
------------------------------
-
-:Banco: Santander Río
-
-:Titular: Manuel Kaufmann
-
-:Nro de cuenta: 396-351904/8
-
-:CBU: 0720396988000035190486
-
-:CUIT: 20-31995222-6
-
 
 Transferencias desde Ecuador
 ----------------------------

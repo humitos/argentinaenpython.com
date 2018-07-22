@@ -24,7 +24,7 @@ poder :doc:`coordinar algo relacionado al proyecto
 encontrarnos en las cercanías.
 
 
-* |destinos| destinos que tenemos pensado visitar en esos meses
+* |destinos| destinos que tenemos pensado visitar en los próximos meses
 * |visitados| lugares visitados desde el inicio del proyecto
 
 .. |destinos| image:: /assets/img/marker-icon-red.png

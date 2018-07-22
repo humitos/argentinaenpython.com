@@ -30,9 +30,9 @@ import time
 import webbrowser
 from logging.handlers import RotatingFileHandler
 
-import configobj
-import geocoder
-from docopt import docopt
+import configobj  # fades
+import geocoder  # fades
+from docopt import docopt  # fades
 
 logger = logging.getLogger('geolocation')
 
@@ -165,13 +165,6 @@ def create_symlinks(dirname=SYMLINKS_DIR):
 
 def calc_my_position_ip(output=MY_POSITION_FILENAME):
     setup_output(output)
-
-    # print(config.get('activated'))
-
-    # if not config.get('activated', False):
-    #     logger.info('Exiting: not activated')
-    #     return
-
     logger.info('Waiting %s seconds...', WAIT_BEFORE_QUERY)
     time.sleep(WAIT_BEFORE_QUERY)
     logger.info('Querying the server about my ip...')
@@ -196,11 +189,15 @@ def calc_my_position_address(address, output, upload=True):
 
 
 def upload_my_position():
-    command = 'scp {} ' \
-              'mkaufmann.com.ar:~/apps/argentinaenpython.com/' \
-              'assets/data/'.format(
-                  MY_POSITION_FILENAME,
-              )
+    command = ' '.join([
+        'runuser',
+        '-l',
+        'humitos',
+        '-c',
+        '"scp',
+        MY_POSITION_FILENAME,
+        'elblogdehumitos.com:~/apps/argentinaenpython.com.ar/assets/data/"',
+    ])
 
     logger.debug(command)
     logger.info('Uploading new "my-position.json" file...')

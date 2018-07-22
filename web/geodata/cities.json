@@ -1,189 +1,445 @@
 {
     "next": [
         {
-            "accuracy": 0.78245217444264,
-            "address": "Guayaquil, Cedros, Urdesa, Guayaquil, Provincia del Guayas, PUNTO 10, Ecuador",
+            "accuracy": 0.8755299073009,
+            "address": "Barcelona, BCN, CAT, Espa\u00f1a",
             "bbox": {
                 "northeast": [
-                    -2.0533614,
-                    -79.856351
+                    41.468252,
+                    2.2283555
                 ],
                 "southwest": [
-                    -2.2875727,
-                    -79.9591198
+                    41.3170353,
+                    2.0524977
                 ]
             },
-            "city": "Guayaquil",
-            "confidence": 1,
-            "country": "Ecuador",
-            "county": "Guayaquil",
-            "district": "Guayaquil",
-            "encoding": "utf-8",
+            "city": "Barcelona",
+            "confidence": 2,
+            "country": "Espa\u00f1a",
+            "country_code": "es",
+            "county": "BCN",
             "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
-            "importance": 0.78245217444264,
-            "lat": -2.1704142,
-            "lng": -79.9050239842774,
-            "location": "guayaquil, ecuador",
+            "importance": 0.8755299073009,
+            "lat": 41.3828939,
+            "lng": 2.1774322,
             "ok": true,
-            "osm_id": "2403848",
+            "osm_id": "347950",
             "osm_type": "relation",
-            "place_id": "145125242",
+            "place_id": "179523246",
             "place_rank": 16,
-            "postal": "PUNTO 10",
-            "provider": "osm",
             "quality": "city",
-            "region": "Provincia del Guayas",
-            "state": "Provincia del Guayas",
+            "raw": {
+                "address": {
+                    "city": "Barcelona",
+                    "country": "Espa\u00f1a",
+                    "country_code": "es",
+                    "county": "BCN",
+                    "state": "CAT"
+                },
+                "boundingbox": [
+                    "41.3170353",
+                    "41.468252",
+                    "2.0524977",
+                    "2.2283555"
+                ],
+                "category": "place",
+                "display_name": "Barcelona, BCN, CAT, Espa\u00f1a",
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+                "importance": 0.8755299073009,
+                "lat": "41.3828939",
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "lon": "2.1774322",
+                "osm_id": "347950",
+                "osm_type": "relation",
+                "place_id": "179523246",
+                "place_rank": 16,
+                "type": "city"
+            },
+            "region": "CAT",
+            "state": "CAT",
             "status": "OK",
-            "status_code": 200,
-            "street": "Cedros",
-            "suburb": "Urdesa",
             "type": "city"
         },
         {
-            "accuracy": 0.81712250845332,
-            "address": "Quito, Pichincha, Ecuador",
+            "accuracy": 0.85204361110498,
+            "address": "\u6771\u4eac, \u5343\u4ee3\u7530\u533a, \u6771\u4eac\u90fd, \u95a2\u6771\u5730\u65b9, 100-0002, \u65e5\u672c",
             "bbox": {
                 "northeast": [
-                    -0.047208,
-                    -78.4413152
+                    35.8428387,
+                    139.9194549
                 ],
                 "southwest": [
-                    -0.3658892,
-                    -78.6195449
+                    35.5228387,
+                    139.5994549
                 ]
             },
-            "city": "Quito",
+            "city": "\u6771\u4eac",
             "confidence": 1,
-            "country": "Ecuador",
-            "county": "Quito",
-            "encoding": "utf-8",
+            "country": "\u65e5\u672c",
+            "country_code": "jp",
+            "county": "\u5343\u4ee3\u7530\u533a",
             "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
-            "importance": 0.81712250845332,
-            "lat": -0.155388,
-            "lng": -78.4862308,
-            "location": "quito, ecuador",
+            "importance": 0.85204361110498,
+            "lat": 35.6828387,
+            "lng": 139.7594549,
             "ok": true,
-            "osm_id": "330794",
-            "osm_type": "relation",
-            "place_id": "2605957438",
-            "place_rank": 16,
-            "provider": "osm",
+            "osm_id": "265018692",
+            "osm_type": "node",
+            "place_id": "782266",
+            "place_rank": "15",
+            "postal": "100-0002",
             "quality": "city",
-            "region": "Pichincha",
-            "state": "Pichincha",
+            "raw": {
+                "address": {
+                    "city": "\u6771\u4eac",
+                    "country": "\u65e5\u672c",
+                    "country_code": "jp",
+                    "county": "\u5343\u4ee3\u7530\u533a",
+                    "postcode": "100-0002",
+                    "region": "\u95a2\u6771\u5730\u65b9",
+                    "state": "\u6771\u4eac\u90fd"
+                },
+                "boundingbox": [
+                    "35.5228387",
+                    "35.8428387",
+                    "139.5994549",
+                    "139.9194549"
+                ],
+                "category": "place",
+                "display_name": "\u6771\u4eac, \u5343\u4ee3\u7530\u533a, \u6771\u4eac\u90fd, \u95a2\u6771\u5730\u65b9, 100-0002, \u65e5\u672c",
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+                "importance": 0.85204361110498,
+                "lat": "35.6828387",
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "lon": "139.7594549",
+                "osm_id": "265018692",
+                "osm_type": "node",
+                "place_id": "782266",
+                "place_rank": "15",
+                "type": "city"
+            },
+            "region": "\u6771\u4eac\u90fd",
+            "state": "\u6771\u4eac\u90fd",
             "status": "OK",
-            "status_code": 200,
             "type": "city"
         },
         {
-            "accuracy": 1.05,
-            "address": "Santo Domingo de los Tsachilas, Provincia de Santo Domingo de los Ts\u00e1chilas, Ecuador",
+            "accuracy": 0.62359836669253,
+            "address": "M\u00e1laga, Andaluc\u00eda, Espa\u00f1a",
             "bbox": {
                 "northeast": [
-                    0.0191171,
-                    -78.7445174
+                    36.8940412,
+                    -4.2604897
                 ],
                 "southwest": [
-                    -0.6986918,
-                    -79.5478742
+                    36.6345688,
+                    -4.5878887
                 ]
             },
+            "city": "M\u00e1laga",
             "confidence": 1,
-            "country": "Ecuador",
-            "county": "Santo Domingo de los Tsachilas",
-            "encoding": "utf-8",
+            "country": "Espa\u00f1a",
+            "country_code": "es",
+            "county": "M\u00e1laga",
             "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png",
-            "importance": 1.05,
-            "lat": -0.33954755,
-            "lng": -79.1716523866611,
-            "location": "santo domingo de los tsachilas, ecuador",
+            "importance": 0.62359836669253,
+            "lat": 36.7213028,
+            "lng": -4.4216366,
             "ok": true,
-            "osm_id": "113720",
+            "osm_id": "340746",
             "osm_type": "relation",
-            "place_id": "127746393",
-            "place_rank": "12",
-            "provider": "osm",
+            "place_id": "177752900",
+            "place_rank": "16",
             "quality": "administrative",
-            "region": "Provincia de Santo Domingo de los Ts\u00e1chilas",
-            "state": "Provincia de Santo Domingo de los Ts\u00e1chilas",
+            "raw": {
+                "address": {
+                    "city": "M\u00e1laga",
+                    "country": "Espa\u00f1a",
+                    "country_code": "es",
+                    "county": "M\u00e1laga",
+                    "state": "Andaluc\u00eda"
+                },
+                "boundingbox": [
+                    "36.6345688",
+                    "36.8940412",
+                    "-4.5878887",
+                    "-4.2604897"
+                ],
+                "category": "boundary",
+                "display_name": "M\u00e1laga, Andaluc\u00eda, Espa\u00f1a",
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png",
+                "importance": 0.62359836669253,
+                "lat": "36.7213028",
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "lon": "-4.4216366",
+                "osm_id": "340746",
+                "osm_type": "relation",
+                "place_id": "177752900",
+                "place_rank": "16",
+                "type": "administrative"
+            },
+            "region": "Andaluc\u00eda",
+            "state": "Andaluc\u00eda",
             "status": "OK",
-            "status_code": 200,
             "type": "administrative"
+        },
+        {
+            "accuracy": 1.0598211827753,
+            "address": "Santiago, Provincia de Santiago, Regi\u00f3n Metropolitana de Santiago, Chile",
+            "bbox": {
+                "northeast": [
+                    -33.4265436,
+                    -70.6249963
+                ],
+                "southwest": [
+                    -33.4784736,
+                    -70.6920166
+                ]
+            },
+            "city": "Santiago",
+            "confidence": 5,
+            "country": "Chile",
+            "country_code": "cl",
+            "county": "Provincia de Santiago",
+            "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+            "importance": 1.0598211827753,
+            "lat": -33.4377968,
+            "lng": -70.6504451,
+            "ok": true,
+            "osm_id": "164609",
+            "osm_type": "relation",
+            "place_id": "177689596",
+            "place_rank": 16,
+            "quality": "city",
+            "raw": {
+                "address": {
+                    "city": "Santiago",
+                    "country": "Chile",
+                    "country_code": "cl",
+                    "county": "Provincia de Santiago",
+                    "state": "Regi\u00f3n Metropolitana de Santiago"
+                },
+                "boundingbox": [
+                    "-33.4784736",
+                    "-33.4265436",
+                    "-70.6920166",
+                    "-70.6249963"
+                ],
+                "category": "place",
+                "display_name": "Santiago, Provincia de Santiago, Regi\u00f3n Metropolitana de Santiago, Chile",
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+                "importance": 1.0598211827753,
+                "lat": "-33.4377968",
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "lon": "-70.6504451",
+                "osm_id": "164609",
+                "osm_type": "relation",
+                "place_id": "177689596",
+                "place_rank": 16,
+                "type": "city"
+            },
+            "region": "Regi\u00f3n Metropolitana de Santiago",
+            "state": "Regi\u00f3n Metropolitana de Santiago",
+            "status": "OK",
+            "type": "city"
+        },
+        {
+            "accuracy": 0.87464977753628,
+            "address": "Bogot\u00e1, Distrito Capital de Bogot\u00e1, 111711, Colombia",
+            "bbox": {
+                "northeast": [
+                    4.7580772,
+                    -73.9161028
+                ],
+                "southwest": [
+                    4.4380772,
+                    -74.2361028
+                ]
+            },
+            "city": "Bogot\u00e1",
+            "confidence": 1,
+            "country": "Colombia",
+            "country_code": "co",
+            "county": "Bogot\u00e1",
+            "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+            "importance": 0.87464977753628,
+            "lat": 4.5980772,
+            "lng": -74.0761028,
+            "ok": true,
+            "osm_id": "671806634",
+            "osm_type": "node",
+            "place_id": "6535935",
+            "place_rank": "15",
+            "postal": "111711",
+            "quality": "city",
+            "raw": {
+                "address": {
+                    "city": "Bogot\u00e1",
+                    "country": "Colombia",
+                    "country_code": "co",
+                    "county": "Bogot\u00e1",
+                    "postcode": "111711",
+                    "state": "Distrito Capital de Bogot\u00e1"
+                },
+                "boundingbox": [
+                    "4.4380772",
+                    "4.7580772",
+                    "-74.2361028",
+                    "-73.9161028"
+                ],
+                "category": "place",
+                "display_name": "Bogot\u00e1, Distrito Capital de Bogot\u00e1, 111711, Colombia",
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+                "importance": 0.87464977753628,
+                "lat": "4.5980772",
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "lon": "-74.0761028",
+                "osm_id": "671806634",
+                "osm_type": "node",
+                "place_id": "6535935",
+                "place_rank": "15",
+                "type": "city"
+            },
+            "region": "Distrito Capital de Bogot\u00e1",
+            "state": "Distrito Capital de Bogot\u00e1",
+            "status": "OK",
+            "type": "city"
+        },
+        {
+            "accuracy": 0.76410162999415,
+            "address": "Armenia, Quind\u00edo, 630004100, Colombia",
+            "bbox": {
+                "northeast": [
+                    4.696307,
+                    -75.5123751
+                ],
+                "southwest": [
+                    4.376307,
+                    -75.8323751
+                ]
+            },
+            "city": "Armenia",
+            "confidence": 1,
+            "country": "Colombia",
+            "country_code": "co",
+            "county": "Armenia",
+            "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+            "importance": 0.76410162999415,
+            "lat": 4.536307,
+            "lng": -75.6723751,
+            "ok": true,
+            "osm_id": "293168610",
+            "osm_type": "node",
+            "place_id": "991322",
+            "place_rank": "16",
+            "postal": "630004100",
+            "quality": "city",
+            "raw": {
+                "address": {
+                    "city": "Armenia",
+                    "country": "Colombia",
+                    "country_code": "co",
+                    "county": "Armenia",
+                    "postcode": "630004100",
+                    "state": "Quind\u00edo"
+                },
+                "boundingbox": [
+                    "4.376307",
+                    "4.696307",
+                    "-75.8323751",
+                    "-75.5123751"
+                ],
+                "category": "place",
+                "display_name": "Armenia, Quind\u00edo, 630004100, Colombia",
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+                "importance": 0.76410162999415,
+                "lat": "4.536307",
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "lon": "-75.6723751",
+                "osm_id": "293168610",
+                "osm_type": "node",
+                "place_id": "991322",
+                "place_rank": "16",
+                "type": "city"
+            },
+            "region": "Quind\u00edo",
+            "state": "Quind\u00edo",
+            "status": "OK",
+            "type": "city"
         }
     ],
     "previous": [
-      {
-        "accuracy": 0.95,
-        "address": "Cuenca, Provincia del Azuay, Ecuador",
-        "bbox": {
-          "northeast": [
-                   -2.5578081,
-                  -78.8482146
-          ],
-          "southwest": [
-                   -3.1757924,
-                  -79.598348
-          ]
+        {
+            "accuracy": 0.95,
+            "address": "Cuenca, Provincia del Azuay, Ecuador",
+            "bbox": {
+                "northeast": [
+                    -2.5578081,
+                    -78.8482146
+                ],
+                "southwest": [
+                    -3.1757924,
+                    -79.598348
+                ]
+            },
+            "confidence": 1,
+            "country": "Ecuador",
+            "county": "Cuenca",
+            "encoding": "utf-8",
+            "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png",
+            "importance": 0.95,
+            "lat": -2.8971,
+            "lng": -79.0037,
+            "location": "cuenca, Provincia del Azuay, ecuador",
+            "ok": true,
+            "osm_id": "107724",
+            "osm_type": "relation",
+            "place_id": "143356897",
+            "place_rank": "12",
+            "provider": "osm",
+            "quality": "administrative",
+            "region": "Provincia del Azuay",
+            "state": "Provincia del Azuay",
+            "status": "OK",
+            "status_code": 200,
+            "type": "administrative"
         },
-        "confidence": 1,
-        "country": "Ecuador",
-        "county": "Cuenca",
-        "encoding": "utf-8",
-        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png",
-        "importance": 0.95,
-	"lat": -2.8971,
-	"lng": -79.0037,
-        "location": "cuenca, Provincia del Azuay, ecuador",
-        "ok": true,
-        "osm_id": "107724",
-        "osm_type": "relation",
-        "place_id": "143356897",
-        "place_rank": "12",
-        "provider": "osm",
-        "quality": "administrative",
-        "region": "Provincia del Azuay",
-        "state": "Provincia del Azuay",
-        "status": "OK",
-        "status_code": 200,
-        "type": "administrative"
-      },
-      {
-        "accuracy": 0.60671998773647,
-        "address": "Machala, Provincia El Oro, Ecuador",
-        "bbox": {
-          "northeast": [
-                   -3.0871998,
-                  -79.8421827
-          ],
-          "southwest": [
-                   -3.3551508,
-                  -80.1069005
-          ]
+        {
+            "accuracy": 0.60671998773647,
+            "address": "Machala, Provincia El Oro, Ecuador",
+            "bbox": {
+                "northeast": [
+                    -3.0871998,
+                    -79.8421827
+                ],
+                "southwest": [
+                    -3.3551508,
+                    -80.1069005
+                ]
+            },
+            "city": "Machala",
+            "confidence": 1,
+            "country": "Ecuador",
+            "county": "Machala",
+            "encoding": "utf-8",
+            "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png",
+            "importance": 0.60671998773647,
+            "lat": -3.2587493,
+            "lng": -79.9595132,
+            "location": "machala, ecuador",
+            "ok": true,
+            "osm_id": "2670341",
+            "osm_type": "relation",
+            "place_id": "145119886",
+            "place_rank": "16",
+            "provider": "osm",
+            "quality": "administrative",
+            "region": "Provincia El Oro",
+            "state": "Provincia El Oro",
+            "status": "OK",
+            "status_code": 200,
+            "type": "administrative"
         },
-        "city": "Machala",
-        "confidence": 1,
-        "country": "Ecuador",
-        "county": "Machala",
-        "encoding": "utf-8",
-        "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png",
-        "importance": 0.60671998773647,
-        "lat": -3.2587493,
-        "lng": -79.9595132,
-        "location": "machala, ecuador",
-        "ok": true,
-        "osm_id": "2670341",
-        "osm_type": "relation",
-        "place_id": "145119886",
-        "place_rank": "16",
-        "provider": "osm",
-        "quality": "administrative",
-        "region": "Provincia El Oro",
-        "state": "Provincia El Oro",
-        "status": "OK",
-        "status_code": 200,
-        "type": "administrative"
-      },
         {
             "address": "Rafaela, Municipio de Rafaela, Departamento Castellanos, Santa Fe, Argentina",
             "city": "Rafaela",
@@ -2397,48 +2653,48 @@
             "status_code": 200,
             "type": "city"
         },
-      {
-        "accuracy": 0.56385461349205,
-        "address": "Loja, Ecuador",
-        "bbox": {
-          "northeast": [
-                   -3.8501061,
-                  -79.1373785
-          ],
-          "southwest": [
-                   -4.1328624,
-                  -79.2699454
-          ]
-        },
-        "city": "Loja",
-        "confidence": 1,
-        "country": "Ecuador",
-        "county": "Loja",
-        "encoding": "utf-8",
-        "geometry": {
-          "coordinates": [
-                   -79.2015997,
-                  -3.9967311
-          ],
-          "type": "Point"
-        },
-        "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png",
-        "importance": 0.56385461349205,
-        "lat": -3.9967311,
-        "lng": -79.2015997,
-        "location": "loja, ecuador",
-        "method": "geocode",
-        "ok": true,
-        "osm_id": "3651090",
-        "osm_type": "relation",
-        "place_id": "128163956",
-        "place_rank": "16",
-        "provider": "osm",
-        "quality": "administrative",
-        "region": "Loja",
-        "state": "Loja",
-        "status": "OK",
-        "type": "administrative"
-      }
+        {
+            "accuracy": 0.56385461349205,
+            "address": "Loja, Ecuador",
+            "bbox": {
+                "northeast": [
+                    -3.8501061,
+                    -79.1373785
+                ],
+                "southwest": [
+                    -4.1328624,
+                    -79.2699454
+                ]
+            },
+            "city": "Loja",
+            "confidence": 1,
+            "country": "Ecuador",
+            "county": "Loja",
+            "encoding": "utf-8",
+            "geometry": {
+                "coordinates": [
+                    -79.2015997,
+                    -3.9967311
+                ],
+                "type": "Point"
+            },
+            "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png",
+            "importance": 0.56385461349205,
+            "lat": -3.9967311,
+            "lng": -79.2015997,
+            "location": "loja, ecuador",
+            "method": "geocode",
+            "ok": true,
+            "osm_id": "3651090",
+            "osm_type": "relation",
+            "place_id": "128163956",
+            "place_rank": "16",
+            "provider": "osm",
+            "quality": "administrative",
+            "region": "Loja",
+            "state": "Loja",
+            "status": "OK",
+            "type": "administrative"
+        }
     ]
 }

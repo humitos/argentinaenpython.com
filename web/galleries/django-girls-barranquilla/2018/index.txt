@@ -1,5 +1,5 @@
 .. title: 2018
-.. previewimage: DSC05568.JPG
+.. previewimage: IMG_5505.JPG
 .. description: Workshop Django Girls
 
 :Fecha: 14 de Julio de 2018

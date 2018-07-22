@@ -63,7 +63,7 @@ config = configobj.ConfigObj(
 
 def setup_logging(verbose):
     logfile = os.path.join(DIRNAME, 'geodata/geolocation.log')
-    handler = RotatingFileHandler(logfile, maxBytes=1e6, backupCount=10)
+    handler = RotatingFileHandler(logfile, maxBytes=1e6, backupCount=10, encoding='utf-8')
     logger.addHandler(handler)
     formatter = logging.Formatter("%(asctime)s  %(name)-10s  "
                                   "%(levelname)-8s %(message)s")

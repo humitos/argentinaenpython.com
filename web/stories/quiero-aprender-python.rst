@@ -172,6 +172,9 @@ automatizada. Además, ¡hay toda `una comunidad (SciPy LA)
 * `Curso de AeroPython (notebooks sobre cálculo científico)
   <https://github.com/AeroPython/Curso_AeroPython>`_
 
+* `Curso de python cientifico (elaborado por @mgaitan)
+  <https://github.com/mgaitan/curso-python-cientifico>`_
+
 Y si te manejas con el inglés:
 
 * `Software Carpentry (Python, git y más)
@@ -181,6 +184,12 @@ Y si te manejas con el inglés:
   <https://github.com/jakevdp/PythonDataScienceHandbook>`_
 
 * `SciPy Lecture Notes <http://www.scipy-lectures.org/>`_
+
+* `Courses from George Washington University
+  <http://openedx.seas.gwu.edu/courses/>`_
+
+* `CFD Python: 12 steps to Navier-Stokes
+  <http://lorenabarba.com/blog/cfd-python-12-steps-to-navier-stokes/>`_
 
 
 Ya leí todo, ¡quiero más!
@@ -275,16 +284,6 @@ una de ellas:
 .. raw:: html
 
    </div>
-
-* Python para el ambito científico
-
-  * `Curso online: Introducción a Python para científicos e ingenieros <http://cacheme.org/curso-online-python-cientifico-ingenieros/>`_
-
-  * `Curso de python cientifico (elaborado por @mgaitan) <https://github.com/mgaitan/curso-python-cientifico>`_
-
-  * `CFD con python: 12 pasos para Navier Stokes *(en inglés)* <http://lorenabarba.com/blog/cfd-python-12-steps-to-navier-stokes/>`_
-
-  * `Métodos numéricos con python *(en inglés)* <http://openedx.seas.gwu.edu/courses/GW/MAE6286/2014_fall/about>`_
 
 ----
 
@@ -422,17 +421,9 @@ tienen: email, chat, foro, etc.
 
 .. raw:: html
 
-	</div>
+		</div>
       </div>
     </div>
-
-
-Comunidad Latinoamericana de Python en la Ciencia
---------------------------------------------------
-
-* `Sitio web <http://scipyla.org/es/>`_
-* `Lista de correos <https://groups.google.com/forum/#!forum/scipyla>`_
-
 
 .. class:: lead align-center width-70
 

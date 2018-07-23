@@ -1,0 +1,8 @@
+.. title: 2018
+.. previewimage: IMG_5505.JPG
+.. description: Workshop Django Girls
+
+:Fecha: 14 de Julio de 2018
+:Lugar: Barranquilla, Atlántico, Colombia
+:Descripción: Taller de programación para mujeres con Django Girls
+:Web: https://argentinaenpython.com/django-girls/2018/07/barranquilla/

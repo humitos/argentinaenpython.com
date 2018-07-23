@@ -1,0 +1,19 @@
+<%doc>
+ href: link for the image
+ src: source of the thumbnail to show
+ alt: alt text for the image
+ title: title for the image
+ description: description for the thumbnail
+</%doc>
+
+<div class="col-md-4 col-sm-6 col-xs-12" style="min-height: 435px;">
+  <div class="thumbnail">
+    <a href="${href}" target="_blank">
+      <img src="${src}" style="width: 340px; height: 255px;">
+    </a>
+    <div class="caption">
+      <h3><strong>${title|h}</strong></h3>
+      <p>${description}</p>
+    </div>
+  </div>
+</div>

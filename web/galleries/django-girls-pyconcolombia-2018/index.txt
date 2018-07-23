@@ -1,0 +1,8 @@
+.. title: Django Girls PyCon Colombia 2018
+.. previewimage: DSCF4438.JPG
+.. description: Workshop Django Girls
+
+:Fecha: 8 de Febrero de 2018
+:Lugar: Medellín, Antioquia, Colombia
+:Descripción: Taller de programación para mujeres con Django Girls
+:Web: https://argentinaenpython.com/django-girls/2018/02/pyconcolombia/

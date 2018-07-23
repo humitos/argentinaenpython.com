@@ -4,7 +4,7 @@
 
 $(document).ready(function() {
     // create the tile layer with correct attribution
-    var osmUrl='http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
+    var osmUrl='https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
     var osmAttrib='Map data © <a href="http://openstreetmap.org">OpenStreetMap</a> contributors';
     // osmLayer = new L.TileLayer(osmUrl, {minZoom: 4, maxZoom: 14, attribution: osmAttrib});
 
@@ -14,7 +14,9 @@ $(document).ready(function() {
 	// http://osrm.at/acH
 	{url: '/assets/data/primera-etapa.gpx', name: 'first', colorLine: 'blue'},
 	// http://osrm.at/acF
-	{url: '/assets/data/segunda-etapa.gpx', name: 'second', colorLine: 'yellow'}
+	{url: '/assets/data/segunda-etapa.gpx', name: 'second', colorLine: 'yellow'},
+	// http://bit.ly/argenpython-gpx-tercera-etapa
+	{url: '/assets/data/tercera-etapa.gpx', name: 'third', colorLine: 'red'}
     ];
 
     maps = [];

@@ -1,4 +1,190 @@
-!function(e){if("object"==typeof exports&&"undefined"!=typeof module)module.exports=e();else if("function"==typeof define&&define.amd)define([],e);else{var f;"undefined"!=typeof window?f=window:"undefined"!=typeof global?f=global:"undefined"!=typeof self&&(f=self),(f.L||(f.L={})).Routing=e()}}(function(){var define,module,exports;return (function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require=="function"&&require;if(!u&&a)return a(o,!0);if(i)return i(o,!0);var f=new Error("Cannot find module '"+o+"'");throw f.code="MODULE_NOT_FOUND",f}var l=n[o]={exports:{}};t[o][0].call(l.exports,function(e){var n=t[o][1][e];return s(n?n:e)},l,l.exports,e,t,n,r)}return n[o].exports}var i=typeof require=="function"&&require;for(var o=0;o<r.length;o++)s(r[o]);return s})({1:[function(require,module,exports){
+(function(f){if(typeof exports==="object"&&typeof module!=="undefined"){module.exports=f()}else if(typeof define==="function"&&define.amd){define([],f)}else{var g;if(typeof window!=="undefined"){g=window}else if(typeof global!=="undefined"){g=global}else if(typeof self!=="undefined"){g=self}else{g=this}(g.L || (g.L = {})).Routing = f()}})(function(){var define,module,exports;return (function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require=="function"&&require;if(!u&&a)return a(o,!0);if(i)return i(o,!0);var f=new Error("Cannot find module '"+o+"'");throw f.code="MODULE_NOT_FOUND",f}var l=n[o]={exports:{}};t[o][0].call(l.exports,function(e){var n=t[o][1][e];return s(n?n:e)},l,l.exports,e,t,n,r)}return n[o].exports}var i=typeof require=="function"&&require;for(var o=0;o<r.length;o++)s(r[o]);return s})({1:[function(require,module,exports){
+function corslite(url, callback, cors) {
+    var sent = false;
+
+    if (typeof window.XMLHttpRequest === 'undefined') {
+        return callback(Error('Browser not supported'));
+    }
+
+    if (typeof cors === 'undefined') {
+        var m = url.match(/^\s*https?:\/\/[^\/]*/);
+        cors = m && (m[0] !== location.protocol + '//' + location.domain +
+                (location.port ? ':' + location.port : ''));
+    }
+
+    var x = new window.XMLHttpRequest();
+
+    function isSuccessful(status) {
+        return status >= 200 && status < 300 || status === 304;
+    }
+
+    if (cors && !('withCredentials' in x)) {
+        // IE8-9
+        x = new window.XDomainRequest();
+
+        // Ensure callback is never called synchronously, i.e., before
+        // x.send() returns (this has been observed in the wild).
+        // See https://github.com/mapbox/mapbox.js/issues/472
+        var original = callback;
+        callback = function() {
+            if (sent) {
+                original.apply(this, arguments);
+            } else {
+                var that = this, args = arguments;
+                setTimeout(function() {
+                    original.apply(that, args);
+                }, 0);
+            }
+        }
+    }
+
+    function loaded() {
+        if (
+            // XDomainRequest
+            x.status === undefined ||
+            // modern browsers
+            isSuccessful(x.status)) callback.call(x, null, x);
+        else callback.call(x, x, null);
+    }
+
+    // Both `onreadystatechange` and `onload` can fire. `onreadystatechange`
+    // has [been supported for longer](http://stackoverflow.com/a/9181508/229001).
+    if ('onload' in x) {
+        x.onload = loaded;
+    } else {
+        x.onreadystatechange = function readystate() {
+            if (x.readyState === 4) {
+                loaded();
+            }
+        };
+    }
+
+    // Call the callback with the XMLHttpRequest object as an error and prevent
+    // it from ever being called again by reassigning it to `noop`
+    x.onerror = function error(evt) {
+        // XDomainRequest provides no evt parameter
+        callback.call(this, evt || true, null);
+        callback = function() { };
+    };
+
+    // IE9 must have onprogress be set to a unique function.
+    x.onprogress = function() { };
+
+    x.ontimeout = function(evt) {
+        callback.call(this, evt, null);
+        callback = function() { };
+    };
+
+    x.onabort = function(evt) {
+        callback.call(this, evt, null);
+        callback = function() { };
+    };
+
+    // GET is the only supported HTTP Verb by XDomainRequest and is the
+    // only one supported here.
+    x.open('GET', url, true);
+
+    // Send the request. Sending data is not supported.
+    x.send(null);
+    sent = true;
+
+    return x;
+}
+
+if (typeof module !== 'undefined') module.exports = corslite;
+
+},{}],2:[function(require,module,exports){
+var polyline = {};
+
+// Based off of [the offical Google document](https://developers.google.com/maps/documentation/utilities/polylinealgorithm)
+//
+// Some parts from [this implementation](http://facstaff.unca.edu/mcmcclur/GoogleMaps/EncodePolyline/PolylineEncoder.js)
+// by [Mark McClure](http://facstaff.unca.edu/mcmcclur/)
+
+function encode(coordinate, factor) {
+    coordinate = Math.round(coordinate * factor);
+    coordinate <<= 1;
+    if (coordinate < 0) {
+        coordinate = ~coordinate;
+    }
+    var output = '';
+    while (coordinate >= 0x20) {
+        output += String.fromCharCode((0x20 | (coordinate & 0x1f)) + 63);
+        coordinate >>= 5;
+    }
+    output += String.fromCharCode(coordinate + 63);
+    return output;
+}
+
+// This is adapted from the implementation in Project-OSRM
+// https://github.com/DennisOSRM/Project-OSRM-Web/blob/master/WebContent/routing/OSRM.RoutingGeometry.js
+polyline.decode = function(str, precision) {
+    var index = 0,
+        lat = 0,
+        lng = 0,
+        coordinates = [],
+        shift = 0,
+        result = 0,
+        byte = null,
+        latitude_change,
+        longitude_change,
+        factor = Math.pow(10, precision || 5);
+
+    // Coordinates have variable length when encoded, so just keep
+    // track of whether we've hit the end of the string. In each
+    // loop iteration, a single coordinate is decoded.
+    while (index < str.length) {
+
+        // Reset shift, result, and byte
+        byte = null;
+        shift = 0;
+        result = 0;
+
+        do {
+            byte = str.charCodeAt(index++) - 63;
+            result |= (byte & 0x1f) << shift;
+            shift += 5;
+        } while (byte >= 0x20);
+
+        latitude_change = ((result & 1) ? ~(result >> 1) : (result >> 1));
+
+        shift = result = 0;
+
+        do {
+            byte = str.charCodeAt(index++) - 63;
+            result |= (byte & 0x1f) << shift;
+            shift += 5;
+        } while (byte >= 0x20);
+
+        longitude_change = ((result & 1) ? ~(result >> 1) : (result >> 1));
+
+        lat += latitude_change;
+        lng += longitude_change;
+
+        coordinates.push([lat / factor, lng / factor]);
+    }
+
+    return coordinates;
+};
+
+polyline.encode = function(coordinates, precision) {
+    if (!coordinates.length) return '';
+
+    var factor = Math.pow(10, precision || 5),
+        output = encode(coordinates[0][0], factor) + encode(coordinates[0][1], factor);
+
+    for (var i = 1; i < coordinates.length; i++) {
+        var a = coordinates[i], b = coordinates[i - 1];
+        output += encode(a[0] - b[0], factor);
+        output += encode(a[1] - b[1], factor);
+    }
+
+    return output;
+};
+
+if (typeof module !== undefined) module.exports = polyline;
+
+},{}],3:[function(require,module,exports){
 (function() {
 	'use strict';
 
@@ -42,8 +228,8 @@
 		_open: function() {
 			var rect = this._elem.getBoundingClientRect();
 			if (!this._container.parentElement) {
-				this._container.style.left = rect.left + 'px';
-				this._container.style.top = rect.bottom + 'px';
+				this._container.style.left = (rect.left + window.scrollX) + 'px';
+				this._container.style.top = (rect.bottom + window.scrollY) + 'px';
 				this._container.style.width = (rect.right - rect.left) + 'px';
 				document.body.appendChild(this._container);
 			}
@@ -204,7 +390,7 @@
 	});
 })();
 
-},{}],2:[function(require,module,exports){
+},{}],4:[function(require,module,exports){
 (function (global){
 (function() {
 	'use strict';
@@ -216,6 +402,7 @@
 	L.extend(L.Routing, require('./L.Routing.Line'));
 	L.extend(L.Routing, require('./L.Routing.Plan'));
 	L.extend(L.Routing, require('./L.Routing.OSRM'));
+	L.extend(L.Routing, require('./L.Routing.ErrorControl'));
 
 	L.Routing.Control = L.Routing.Itinerary.extend({
 		options: {
@@ -225,7 +412,8 @@
 			routeWhileDragging: false,
 			routeDragInterval: 500,
 			waypointMode: 'connect',
-			useZoomParameter: false
+			useZoomParameter: false,
+			showAlternatives: false
 		},
 
 		initialize: function(options) {
@@ -233,6 +421,7 @@
 
 			this._router = this.options.router || new L.Routing.OSRM(options);
 			this._plan = this.options.plan || L.Routing.plan(this.options.waypoints, options);
+			this._requestCount = 0;
 
 			L.Routing.Itinerary.prototype.initialize.call(this, options);
 
@@ -294,14 +483,19 @@
 			return this._plan;
 		},
 
+		getRouter: function() {
+			return this._router;
+		},
+
 		_routeSelected: function(e) {
 			var route = e.route,
+				alternatives = this.options.showAlternatives && e.alternatives,
 				fitMode = this.options.fitSelectedRoutes,
 				fitBounds =
 					(fitMode === 'smart' && !this._waypointsVisible()) ||
 					(fitMode !== 'smart' && fitMode);
 
-			this._updateLine(route);
+			this._updateLines({route: route, alternatives: alternatives});
 
 			if (fitBounds) {
 				this._map.fitBounds(this._line.getBounds());
@@ -338,7 +532,7 @@
 				boundsSize = bounds.getSize();
 				return (boundsSize.x > mapSize.x / 5 ||
 					boundsSize.y > mapSize.y / 5) && this._waypointsInViewport();
-					
+
 			} catch (e) {
 				return false;
 			}
@@ -364,12 +558,27 @@
 			return false;
 		},
 
-		_updateLine: function(route) {
-			this._clearLine();
+		_updateLines: function(routes) {
+			var addWaypoints = this.options.addWaypoints !== undefined ?
+				this.options.addWaypoints : true;
+			this._clearLines();
 
-			this._line = this.options.routeLine(route,
-				L.extend({extendToWaypoints: this.options.waypointMode === 'connect'},
-					this.options.lineOptions));
+			// add alternatives first so they lie below the main route
+			this._alternatives = [];
+			if (routes.alternatives) routes.alternatives.forEach(function(alt, i) {
+				this._alternatives[i] = this.options.routeLine(alt,
+					L.extend({
+						isAlternative: true
+					}, this.options.altLineOptions || this.options.lineOptions));
+				this._alternatives[i].addTo(this._map);
+				this._hookAltEvents(this._alternatives[i]);
+			}, this);
+
+			this._line = this.options.routeLine(routes.route,
+				L.extend({
+					addWaypoints: addWaypoints,
+					extendToWaypoints: this.options.waypointMode === 'connect'
+				}, this.options.lineOptions));
 			this._line.addTo(this._map);
 			this._hookEvents(this._line);
 		},
@@ -380,44 +589,65 @@
 			}, this);
 		},
 
+		_hookAltEvents: function(l) {
+			l.on('linetouched', function(e) {
+				var alts = this._routes.slice();
+				var selected = alts.splice(e.target._route.routesIndex, 1)[0];
+				this.fire('routeselected', {route: selected, alternatives: alts});
+			}, this);
+		},
+
 		_onWaypointsChanged: function(e) {
 			if (this.options.autoRoute) {
 				this.route({});
+			}
+			if (!this._plan.isReady()) {
+				this._clearLines();
+				this._clearAlts();
 			}
 			this.fire('waypointschanged', {waypoints: e.waypoints});
 		},
 
 		_setupRouteDragging: function() {
-			var lastCalled = 0;
+			var timer = 0,
+				waypoints;
 
 			this._plan.on('waypointdrag', L.bind(function(e) {
-				var now = new Date().getTime();
-				if (now - lastCalled >= this.options.routeDragInterval) {
-					this.route({
-						waypoints: e.waypoints,
-						geometryOnly: true,
-						callback: L.bind(this._updateLineCallback, this)
-					});
-					lastCalled = now;
+				waypoints = e.waypoints;
+
+				if (!timer) {
+					timer = setTimeout(L.bind(function() {
+						this.route({
+							waypoints: waypoints,
+							geometryOnly: true,
+							callback: L.bind(this._updateLineCallback, this)
+						});
+						timer = undefined;
+					}, this), this.options.routeDragInterval);
 				}
 			}, this));
 			this._plan.on('waypointdragend', function() {
+				if (timer) {
+					clearTimeout(timer);
+					timer = undefined;
+				}
 				this.route();
 			}, this);
 		},
 
 		_updateLineCallback: function(err, routes) {
 			if (!err) {
-				this._updateLine(routes[0]);
+				this._updateLines({route: routes[0], alternatives: routes.slice(1) });
+			} else {
+				this._clearLines();
 			}
 		},
 
 		route: function(options) {
-			var ts = new Date().getTime(),
+			var ts = ++this._requestCount,
 				wps;
 
 			options = options || {};
-			this._lastRequestTimestamp = ts;
 
 			if (this._plan.isReady()) {
 				if (this.options.useZoomParameter) {
@@ -431,29 +661,38 @@
 					// by checking the current request's timestamp
 					// against the last request's; ignore result if
 					// this isn't the latest request.
-					if (ts === this._lastRequestTimestamp) {
-						this._clearLine();
+					if (ts === this._requestCount) {
+						this._clearLines();
 						this._clearAlts();
 						if (err) {
 							this.fire('routingerror', {error: err});
 							return;
 						}
 
+						routes.forEach(function(route, i) { route.routesIndex = i; });
+
 						if (!options.geometryOnly) {
 							this.fire('routesfound', {waypoints: wps, routes: routes});
 							this.setAlternatives(routes);
 						} else {
-							this._routeSelected({route: routes[0]});
+							var selectedRoute = routes.splice(0,1)[0];
+							this._routeSelected({route: selectedRoute, alternatives: routes});
 						}
 					}
 				}, this, options);
 			}
 		},
 
-		_clearLine: function() {
+		_clearLines: function() {
 			if (this._line) {
 				this._map.removeLayer(this._line);
 				delete this._line;
+			}
+			if (this._alternatives && this._alternatives.length) {
+				for (var i in this._alternatives) {
+					this._map.removeLayer(this._alternatives[i]);
+				}
+				this._alternatives = [];
 			}
 		}
 	});
@@ -466,7 +705,68 @@
 })();
 
 }).call(this,typeof global !== "undefined" ? global : typeof self !== "undefined" ? self : typeof window !== "undefined" ? window : {})
-},{"./L.Routing.Itinerary":4,"./L.Routing.Line":6,"./L.Routing.OSRM":7,"./L.Routing.Plan":8}],3:[function(require,module,exports){
+},{"./L.Routing.ErrorControl":5,"./L.Routing.Itinerary":8,"./L.Routing.Line":10,"./L.Routing.OSRM":12,"./L.Routing.Plan":13}],5:[function(require,module,exports){
+(function() {
+	'use strict';
+
+	L.Routing = L.Routing || {};
+
+	L.Routing.ErrorControl = L.Control.extend({
+		options: {
+			header: 'Routing error',
+			formatMessage: function(error) {
+				if (error.status < 0) {
+					return 'Calculating the route caused an error. Technical description follows: <code><pre>' +
+						error.message + '</pre></code';
+				} else {
+					return 'The route could not be calculated. ' +
+						error.message;
+				}
+			}
+		},
+
+		initialize: function(routingControl, options) {
+			L.Control.prototype.initialize.call(this, options);
+			routingControl
+				.on('routingerror', L.bind(function(e) {
+					if (this._element) {
+						this._element.children[1].innerHTML = this.options.formatMessage(e.error);
+						this._element.style.visibility = 'visible';
+					}
+				}, this))
+				.on('routingstart', L.bind(function() {
+					if (this._element) {
+						this._element.style.visibility = 'hidden';
+					}
+				}, this));
+		},
+
+		onAdd: function() {
+			var header,
+				message;
+
+			this._element = L.DomUtil.create('div', 'leaflet-bar leaflet-routing-error');
+			this._element.style.visibility = 'hidden';
+
+			header = L.DomUtil.create('h3', null, this._element);
+			message = L.DomUtil.create('span', null, this._element);
+
+			header.innerHTML = this.options.header;
+
+			return this._element;
+		},
+
+		onRemove: function() {
+			delete this._element;
+		}
+	});
+
+	L.Routing.errorControl = function(routingControl, options) {
+		return new L.Routing.ErrorControl(routingControl, options);
+	};
+})();
+
+},{}],6:[function(require,module,exports){
 (function (global){
 (function() {
 	'use strict';
@@ -474,6 +774,8 @@
 	var L = (typeof window !== "undefined" ? window.L : typeof global !== "undefined" ? global.L : null);
 
 	L.Routing = L.Routing || {};
+
+	L.extend(L.Routing, require('./L.Routing.Localization'));
 
 	L.Routing.Formatter = L.Class.extend({
 		options: {
@@ -487,58 +789,56 @@
 				minutes: 'mín',
 				seconds: 's'
 			},
+			language: 'en',
 			roundingSensitivity: 1,
 			distanceTemplate: '{value} {unit}'
-		},
-
-		statics: {
-			DIR: {
-				N: 'north',
-				NE: 'northeast',
-				E: 'east',
-				SE: 'southeast',
-				S: 'south',
-				SW: 'southwest',
-				W: 'west',
-				NW: 'northwest'
-			}
 		},
 
 		initialize: function(options) {
 			L.setOptions(this, options);
 		},
 
-		formatDistance: function(d /* Number (meters) */) {
+		formatDistance: function(d /* Number (meters) */, sensitivity) {
 			var un = this.options.unitNames,
+				simpleRounding = sensitivity <= 0,
+				round = simpleRounding ? function(v) { return v; } : L.bind(this._round, this),
 			    v,
-				data;
+			    yards,
+				data,
+				pow10;
 
 			if (this.options.units === 'imperial') {
-				d = d / 1.609344;
-				if (d >= 1000) {
+				yards = d / 0.9144;
+				if (yards >= 1000) {
 					data = {
-						value: (this._round(d) / 1000),
+						value: round(d / 1609.344, sensitivity),
 						unit: un.miles
 					};
 				} else {
 					data = {
-						value: this._round(d / 1.760),
+						value: round(yards, sensitivity),
 						unit: un.yards
 					};
 				}
 			} else {
-				v = this._round(d);
+				v = round(d, sensitivity);
 				data = {
 					value: v >= 1000 ? (v / 1000) : v,
 					unit: v >= 1000 ? un.kilometers : un.meters
 				};
 			}
 
+			if (simpleRounding) {
+				pow10 = Math.pow(10, -sensitivity);
+				data.value = Math.round(data.value * pow10) / pow10;
+			}
+
 			return L.Util.template(this.options.distanceTemplate, data);
 		},
 
-		_round: function(d) {
-			var pow10 = Math.pow(10, (Math.floor(d / this.options.roundingSensitivity) + '').length - 1),
+		_round: function(d, sensitivity) {
+			var s = sensitivity || this.options.roundingSensitivity,
+				pow10 = Math.pow(10, (Math.floor(d / s) + '').length - 1),
 				r = Math.floor(d / pow10),
 				p = (r > 5) ? pow10 : pow10 / 2;
 
@@ -562,10 +862,13 @@
 		},
 
 		formatInstruction: function(instr, i) {
-			if (instr.type !== undefined) {
+			if (instr.text === undefined) {
 				return L.Util.template(this._getInstructionTemplate(instr, i),
-					L.extend({exit: this._formatOrder(instr.exit), dir: L.Routing.Formatter.DIR[instr.direction]},
-						instr));
+					L.extend({
+						exitStr: instr.exit ? L.Routing.Localization[this.options.language].formatOrder(instr.exit) : '',
+						dir: L.Routing.Localization[this.options.language].directions[instr.direction]
+					},
+					instr));
 			} else {
 				return instr.text;
 			}
@@ -588,9 +891,9 @@
 			case 'Left':
 				return 'turn-left';
 			case 'SlightLeft':
-				return 'slight-left';
+				return 'bear-left';
 			case 'WaypointReached':
-				return 'arrive';
+				return 'via';
 			case 'Roundabout':
 				return 'enter-roundabout';
 			case 'DestinationReached':
@@ -599,37 +902,10 @@
 		},
 
 		_getInstructionTemplate: function(instr, i) {
-			switch (instr.type) {
-			case 'Straight':
-				return (i === 0 ? 'Head' : 'Continue') + ' {dir}' + (instr.road ? ' on {road}' : '');
-			case 'SlightRight':
-				return 'Slight right' + (instr.road ? ' onto {road}' : '');
-			case 'Right':
-				return 'Right' + (instr.road ? ' onto {road}' : '');
-			case 'SharpRight':
-				return 'Sharp right' + (instr.road ? ' onto {road}' : '');
-			case 'TurnAround':
-				return 'Turn around';
-			case 'SharpLeft':
-				return 'Sharp left' + (instr.road ? ' onto {road}' : '');
-			case 'Left':
-				return 'Left' + (instr.road ? ' onto {road}' : '');
-			case 'SlightLeft':
-				return 'Slight left' + (instr.road ? ' onto {road}' : '');
-			case 'WaypointReached':
-				return 'Waypoint reached';
-			case 'Roundabout':
-				return  'Take the {exit} exit in the roundabout';
-			case 'DestinationReached':
-				return  'Destination reached';
-			}
-		},
+			var type = instr.type === 'Straight' ? (i === 0 ? 'Head' : 'Continue') : instr.type,
+				strings = L.Routing.Localization[this.options.language].instructions[type];
 
-		_formatOrder: function(n) {
-			var i = n % 10 - 1,
-				suffix = ['st', 'nd', 'rd'];
-
-			return suffix[i] ? n + suffix[i] : n + 'th';
+			return strings[0] + (strings.length > 1 && instr.road ? strings[1] : '');
 		}
 	});
 
@@ -638,7 +914,163 @@
 
 
 }).call(this,typeof global !== "undefined" ? global : typeof self !== "undefined" ? self : typeof window !== "undefined" ? window : {})
-},{}],4:[function(require,module,exports){
+},{"./L.Routing.Localization":11}],7:[function(require,module,exports){
+(function (global){
+(function() {
+	'use strict';
+
+	var L = (typeof window !== "undefined" ? window.L : typeof global !== "undefined" ? global.L : null);
+	L.Routing = L.Routing || {};
+	L.extend(L.Routing, require('./L.Routing.Autocomplete'));
+
+	function selectInputText(input) {
+		if (input.setSelectionRange) {
+			// On iOS, select() doesn't work
+			input.setSelectionRange(0, 9999);
+		} else {
+			// On at least IE8, setSeleectionRange doesn't exist
+			input.select();
+		}
+	}
+
+	L.Routing.GeocoderElement = L.Class.extend({
+		includes: L.Mixin.Events,
+
+		options: {
+			createGeocoder: function(i, nWps, options) {
+				var container = L.DomUtil.create('div', 'leaflet-routing-geocoder'),
+					input = L.DomUtil.create('input', '', container),
+					remove = options.addWaypoints ? L.DomUtil.create('span', 'leaflet-routing-remove-waypoint', container) : undefined;
+
+				input.disabled = !options.addWaypoints;
+
+				return {
+					container: container,
+					input: input,
+					closeButton: remove
+				};
+			},
+			geocoderPlaceholder: function(i, numberWaypoints, plan) {
+				var l = L.Routing.Localization[plan.options.language].ui;
+				return i === 0 ?
+					l.startPlaceholder :
+					(i < numberWaypoints - 1 ?
+						L.Util.template(l.viaPlaceholder, {viaNumber: i}) :
+						l.endPlaceholder);
+			},
+
+			geocoderClass: function() {
+				return '';
+			},
+
+			waypointNameFallback: function(latLng) {
+				var ns = latLng.lat < 0 ? 'S' : 'N',
+					ew = latLng.lng < 0 ? 'W' : 'E',
+					lat = (Math.round(Math.abs(latLng.lat) * 10000) / 10000).toString(),
+					lng = (Math.round(Math.abs(latLng.lng) * 10000) / 10000).toString();
+				return ns + lat + ', ' + ew + lng;
+			},
+			maxGeocoderTolerance: 200,
+			autocompleteOptions: {},
+			language: 'en',
+		},
+
+		initialize: function(wp, i, nWps, options) {
+			L.setOptions(this, options);
+
+			var g = this.options.createGeocoder(i, nWps, this.options),
+				closeButton = g.closeButton,
+				geocoderInput = g.input;
+			geocoderInput.setAttribute('placeholder', this.options.geocoderPlaceholder(i, nWps, this));
+			geocoderInput.className = this.options.geocoderClass(i, nWps);
+
+			this._element = g;
+			this._waypoint = wp;
+
+			this.update();
+			// This has to be here, or geocoder's value will not be properly
+			// initialized.
+			// TODO: look into why and make _updateWaypointName fix this.
+			geocoderInput.value = wp.name;
+
+			L.DomEvent.addListener(geocoderInput, 'click', function() {
+				selectInputText(this);
+			}, geocoderInput);
+
+			if (closeButton) {
+				L.DomEvent.addListener(closeButton, 'click', function() {
+					this.fire('delete', { waypoint: this._waypoint });
+				}, this);
+			}
+
+			new L.Routing.Autocomplete(geocoderInput, function(r) {
+					geocoderInput.value = r.name;
+					wp.name = r.name;
+					wp.latLng = r.center;
+					this.fire('geocoded', { waypoint: wp, value: r });
+				}, this, L.extend({
+					resultFn: this.options.geocoder.geocode,
+					resultContext: this.options.geocoder,
+					autocompleteFn: this.options.geocoder.suggest,
+					autocompleteContext: this.options.geocoder
+				}, this.options.autocompleteOptions));
+		},
+
+		getContainer: function() {
+			return this._element.container;
+		},
+
+		setValue: function(v) {
+			this._element.input.value = v;
+		},
+
+		update: function(force) {
+			var wp = this._waypoint,
+				wpCoords;
+
+			wp.name = wp.name || '';
+
+			if (wp.latLng && (force || !wp.name)) {
+				wpCoords = this.options.waypointNameFallback(wp.latLng);
+				if (this.options.geocoder && this.options.geocoder.reverse) {
+					this.options.geocoder.reverse(wp.latLng, 67108864 /* zoom 18 */, function(rs) {
+						if (rs.length > 0 && rs[0].center.distanceTo(wp.latLng) < this.options.maxGeocoderTolerance) {
+							wp.name = rs[0].name;
+						} else {
+							wp.name = wpCoords;
+						}
+						this._update();
+					}, this);
+				} else {
+					wp.name = wpCoords;
+					this._update();
+				}
+			}
+		},
+
+		focus: function() {
+			var input = this._element.input;
+			input.focus();
+			selectInputText(input);
+		},
+
+		_update: function() {
+			var wp = this._waypoint,
+			    value = wp && wp.name ? wp.name : '';
+			this.setValue(value);
+			this.fire('reversegeocoded', {waypoint: wp, value: value});
+		}
+	});
+
+	L.Routing.geocoderElement = function(wp, i, nWps, plan) {
+		return new L.Routing.GeocoderElement(wp, i, nWps, plan);
+	};
+
+	module.exports = L.Routing;
+})();
+
+}).call(this,typeof global !== "undefined" ? global : typeof self !== "undefined" ? self : typeof window !== "undefined" ? window : {})
+},{"./L.Routing.Autocomplete":3}],8:[function(require,module,exports){
 (function (global){
 (function() {
 	'use strict';
@@ -666,7 +1098,15 @@
 			alternativeClassName: '',
 			minimizedClassName: '',
 			itineraryClassName: '',
-			show: true
+			totalDistanceRoundingSensitivity: -1,
+			show: true,
+			collapsible: undefined,
+			collapseBtn: function(itinerary) {
+				var collapseBtn = L.DomUtil.create('span', itinerary.options.collapseBtnClass);
+				L.DomEvent.on(collapseBtn, 'click', itinerary._toggle, itinerary);
+				itinerary._container.insertBefore(collapseBtn, itinerary._container.firstChild);
+			},
+			collapseBtnClass: 'leaflet-routing-collapse-btn'
 		},
 
 		initialize: function(options) {
@@ -677,9 +1117,14 @@
 			});
 		},
 
-		onAdd: function() {
+		onAdd: function(map) {
+			var collapsible = this.options.collapsible;
+
+			collapsible = collapsible || (collapsible === undefined && map.getSize().x <= 640);
+
 			this._container = L.DomUtil.create('div', 'leaflet-routing-container leaflet-bar ' +
-				(!this.options.show ? 'leaflet-routing-container-hide' : '') +
+				(!this.options.show ? 'leaflet-routing-container-hide ' : '') +
+				(collapsible ? 'leaflet-routing-collapsible ' : '') +
 				this.options.containerClassName);
 			this._altContainer = this.createAlternativesContainer();
 			this._container.appendChild(this._altContainer);
@@ -687,6 +1132,11 @@
 			L.DomEvent.addListener(this._container, 'mousewheel', function(e) {
 				L.DomEvent.stopPropagation(e);
 			});
+
+			if (collapsible) {
+				this.options.collapseBtn(this);
+			}
+
 			return this._container;
 		},
 
@@ -713,7 +1163,7 @@
 				this._altElements.push(altDiv);
 			}
 
-			this.fire('routeselected', {route: this._routes[0]});
+			this._selectRoute({route: this._routes[0], alternatives: this._routes.slice(1)});
 
 			return this;
 		},
@@ -726,16 +1176,24 @@
 			L.DomUtil.addClass(this._container, 'leaflet-routing-container-hide');
 		},
 
+		_toggle: function() {
+			var collapsed = L.DomUtil.hasClass(this._container, 'leaflet-routing-container-hide');
+			this[collapsed ? 'show' : 'hide']();
+		},
+
 		_createAlternative: function(alt, i) {
 			var altDiv = L.DomUtil.create('div', 'leaflet-routing-alt ' +
 				this.options.alternativeClassName +
-				(i > 0 ? ' leaflet-routing-alt-minimized ' + this.options.minimizedClassName : ''));
-			altDiv.innerHTML = L.Util.template(this.options.summaryTemplate, {
-				name: alt.name,
-				distance: this._formatter.formatDistance(alt.summary.totalDistance),
-				time: this._formatter.formatTime(alt.summary.totalTime)
-			});
+				(i > 0 ? ' leaflet-routing-alt-minimized ' + this.options.minimizedClassName : '')),
+				template = this.options.summaryTemplate,
+				data = L.extend({
+					name: alt.name,
+					distance: this._formatter.formatDistance(alt.summary.totalDistance, this.options.totalDistanceRoundingSensitivity),
+					time: this._formatter.formatTime(alt.summary.totalTime)
+				}, alt);
+			altDiv.innerHTML = typeof(template) === 'function' ? template(data) : L.Util.template(template, data);
 			L.DomEvent.addListener(altDiv, 'click', this._onAltClicked, this);
+			this.on('routeselected', this._selectAlt, this);
 
 			altDiv.appendChild(this._createItineraryContainer(alt));
 			return altDiv;
@@ -749,7 +1207,6 @@
 
 			this._altElements = [];
 		},
-
 
 		_createItineraryContainer: function(r) {
 			var container = this._itineraryBuilder.createContainer(),
@@ -777,68 +1234,80 @@
 		},
 
 		_addRowListeners: function(row, coordinate) {
-			var _this = this,
-			    marker;
 			L.DomEvent.addListener(row, 'mouseover', function() {
-				marker = L.circleMarker(coordinate,
-					_this.options.pointMarkerStyle).addTo(_this._map);
-			});
+				this._marker = L.circleMarker(coordinate,
+					this.options.pointMarkerStyle).addTo(this._map);
+			}, this);
 			L.DomEvent.addListener(row, 'mouseout', function() {
-				if (marker) {
-					_this._map.removeLayer(marker);
-					marker = null;
+				if (this._marker) {
+					this._map.removeLayer(this._marker);
+					delete this._marker;
 				}
-			});
+			}, this);
 			L.DomEvent.addListener(row, 'click', function(e) {
-				_this._map.panTo(coordinate);
+				this._map.panTo(coordinate);
 				L.DomEvent.stopPropagation(e);
-			});
+			}, this);
 		},
 
 		_onAltClicked: function(e) {
-			var altElem,
-			    j,
-			    n,
-			    isCurrentSelection,
-			    classFn;
-
-			altElem = e.target || window.event.srcElement;
+			var altElem = e.target || window.event.srcElement;
 			while (!L.DomUtil.hasClass(altElem, 'leaflet-routing-alt')) {
 				altElem = altElem.parentElement;
 			}
 
+			var j = this._altElements.indexOf(altElem);
+			var alts = this._routes.slice();
+			var route = alts.splice(j, 1)[0];
+
+			this.fire('routeselected', {
+				route: route,
+				alternatives: alts
+			});
+		},
+
+		_selectAlt: function(e) {
+			var altElem,
+			    j,
+			    n,
+			    classFn;
+
+			altElem = this._altElements[e.route.routesIndex];
+
 			if (L.DomUtil.hasClass(altElem, 'leaflet-routing-alt-minimized')) {
 				for (j = 0; j < this._altElements.length; j++) {
 					n = this._altElements[j];
-					isCurrentSelection = altElem === n;
-					classFn = isCurrentSelection ? 'removeClass' : 'addClass';
+					classFn = j === e.route.routesIndex ? 'removeClass' : 'addClass';
 					L.DomUtil[classFn](n, 'leaflet-routing-alt-minimized');
 					if (this.options.minimizedClassName) {
 						L.DomUtil[classFn](n, this.options.minimizedClassName);
 					}
 
-					if (isCurrentSelection) {
-						// TODO: don't fire if the currently active is clicked
-						this.fire('routeselected', {route: this._routes[j]});
-					} else {
-						n.scrollTop = 0;
-					}
+					if (j !== e.route.routesIndex) n.scrollTop = 0;
 				}
 			}
 
 			L.DomEvent.stop(e);
 		},
+
+		_selectRoute: function(routes) {
+			if (this._marker) {
+				this._map.removeLayer(this._marker);
+				delete this._marker;
+			}
+			this.fire('routeselected', routes);
+		}
 	});
 
-	L.Routing.itinerary = function(router) {
-		return new L.Routing.Itinerary(router);
+	L.Routing.itinerary = function(options) {
+		return new L.Routing.Itinerary(options);
 	};
 
 	module.exports = L.Routing;
 })();
 
 }).call(this,typeof global !== "undefined" ? global : typeof self !== "undefined" ? self : typeof window !== "undefined" ? window : {})
-},{"./L.Routing.Formatter":3,"./L.Routing.ItineraryBuilder":5}],5:[function(require,module,exports){
+},{"./L.Routing.Formatter":6,"./L.Routing.ItineraryBuilder":9}],9:[function(require,module,exports){
 (function (global){
 (function() {
 	'use strict';
@@ -855,8 +1324,15 @@
 			L.setOptions(this, options);
 		},
 
-		createContainer: function() {
-			return L.DomUtil.create('table', this.options.containerClassName);
+		createContainer: function(className) {
+			var table = L.DomUtil.create('table', className || ''),
+				colgroup = L.DomUtil.create('colgroup', '', table);
+
+			L.DomUtil.create('col', 'leaflet-routing-instruction-icon', colgroup);
+			L.DomUtil.create('col', 'leaflet-routing-instruction-text', colgroup);
+			L.DomUtil.create('col', 'leaflet-routing-instruction-distance', colgroup);
+
+			return table;
 		},
 
 		createStepsContainer: function() {
@@ -882,7 +1358,7 @@
 })();
 
 }).call(this,typeof global !== "undefined" ? global : typeof self !== "undefined" ? self : typeof window !== "undefined" ? window : {})
-},{}],6:[function(require,module,exports){
+},{}],10:[function(require,module,exports){
 (function (global){
 (function() {
 	'use strict';
@@ -1028,36 +1504,426 @@
 })();
 
 }).call(this,typeof global !== "undefined" ? global : typeof self !== "undefined" ? self : typeof window !== "undefined" ? window : {})
-},{}],7:[function(require,module,exports){
+},{}],11:[function(require,module,exports){
+(function() {
+	'use strict';
+	L.Routing = L.Routing || {};
+
+	L.Routing.Localization = {
+		'en': {
+			directions: {
+				N: 'north',
+				NE: 'northeast',
+				E: 'east',
+				SE: 'southeast',
+				S: 'south',
+				SW: 'southwest',
+				W: 'west',
+				NW: 'northwest'
+			},
+			instructions: {
+				// instruction, postfix if the road is named
+				'Head':
+					['Head {dir}', ' on {road}'],
+				'Continue':
+					['Continue {dir}', ' on {road}'],
+				'SlightRight':
+					['Slight right', ' onto {road}'],
+				'Right':
+					['Right', ' onto {road}'],
+				'SharpRight':
+					['Sharp right', ' onto {road}'],
+				'TurnAround':
+					['Turn around'],
+				'SharpLeft':
+					['Sharp left', ' onto {road}'],
+				'Left':
+					['Left', ' onto {road}'],
+				'SlightLeft':
+					['Slight left', ' onto {road}'],
+				'WaypointReached':
+					['Waypoint reached'],
+				'Roundabout':
+					['Take the {exitStr} exit in the roundabout', ' onto {road}'],
+				'DestinationReached':
+					['Destination reached'],
+			},
+			formatOrder: function(n) {
+				var i = n % 10 - 1,
+				suffix = ['st', 'nd', 'rd'];
+
+				return suffix[i] ? n + suffix[i] : n + 'th';
+			},
+			ui: {
+				startPlaceholder: 'Start',
+				viaPlaceholder: 'Via {viaNumber}',
+				endPlaceholder: 'End'
+			}
+		},
+
+		'de': {
+			directions: {
+				N: 'Norden',
+				NE: 'Nordosten',
+				E: 'Osten',
+				SE: 'Südosten',
+				S: 'Süden',
+				SW: 'Südwesten',
+				W: 'Westen',
+				NW: 'Nordwesten'
+			},
+			instructions: {
+				// instruction, postfix if the road is named
+				'Head':
+					['Richtung {dir}', ' auf {road}'],
+				'Continue':
+					['Geradeaus Richtung {dir}', ' auf {road}'],
+				'SlightRight':
+					['Leicht rechts abbiegen', ' auf {road}'],
+				'Right':
+					['Rechts abbiegen', ' auf {road}'],
+				'SharpRight':
+					['Scharf rechts abbiegen', ' auf {road}'],
+				'TurnAround':
+					['Wenden'],
+				'SharpLeft':
+					['Scharf links abbiegen', ' auf {road}'],
+				'Left':
+					['Links abbiegen', ' auf {road}'],
+				'SlightLeft':
+					['Leicht links abbiegen', ' auf {road}'],
+				'WaypointReached':
+					['Zwischenhalt erreicht'],
+				'Roundabout':
+					['Nehmen Sie die {exitStr} Ausfahrt im Kreisverkehr', ' auf {road}'],
+				'DestinationReached':
+					['Sie haben ihr Ziel erreicht'],
+			},
+			formatOrder: function(n) {
+				return n + '.';
+			},
+			ui: {
+				startPlaceholder: 'Start',
+				viaPlaceholder: 'Via {viaNumber}',
+				endPlaceholder: 'Ziel'
+			}
+		},
+
+		'sv': {
+			directions: {
+				N: 'norr',
+				NE: 'nordost',
+				E: 'öst',
+				SE: 'sydost',
+				S: 'syd',
+				SW: 'sydväst',
+				W: 'väst',
+				NW: 'nordväst'
+			},
+			instructions: {
+				// instruction, postfix if the road is named
+				'Head':
+					['Åk åt {dir}', ' på {road}'],
+				'Continue':
+					['Fortsätt {dir}', ' på {road}'],
+				'SlightRight':
+					['Svagt höger', ' på {road}'],
+				'Right':
+					['Sväng höger', ' på {road}'],
+				'SharpRight':
+					['Skarpt höger', ' på {road}'],
+				'TurnAround':
+					['Vänd'],
+				'SharpLeft':
+					['Skarpt vänster', ' på {road}'],
+				'Left':
+					['Sväng vänster', ' på {road}'],
+				'SlightLeft':
+					['Svagt vänster', ' på {road}'],
+				'WaypointReached':
+					['Viapunkt nådd'],
+				'Roundabout':
+					['Tag {exitStr} avfarten i rondellen', ' till {road}'],
+				'DestinationReached':
+					['Framme vid resans mål'],
+			},
+			formatOrder: function(n) {
+				return ['första', 'andra', 'tredje', 'fjärde', 'femte',
+					'sjätte', 'sjunde', 'åttonde', 'nionde', 'tionde'
+					/* Can't possibly be more than ten exits, can there? */][n - 1];
+			},
+			ui: {
+				startPlaceholder: 'Från',
+				viaPlaceholder: 'Via {viaNumber}',
+				endPlaceholder: 'Till'
+			}
+		},
+
+		'sp': {
+			directions: {
+				N: 'norte',
+				NE: 'noreste',
+				E: 'este',
+				SE: 'sureste',
+				S: 'sur',
+				SW: 'suroeste',
+				W: 'oeste',
+				NW: 'noroeste'
+			},
+			instructions: {
+				// instruction, postfix if the road is named
+				'Head':
+					['Derecho {dir}', ' sobre {road}'],
+				'Continue':
+					['Continuar {dir}', ' en {road}'],
+				'SlightRight':
+					['Leve giro a la derecha', ' sobre {road}'],
+				'Right':
+					['Derecha', ' sobre {road}'],
+				'SharpRight':
+					['Giro pronunciado a la derecha', ' sobre {road}'],
+				'TurnAround':
+					['Dar vuelta'],
+				'SharpLeft':
+					['Giro pronunciado a la izquierda', ' sobre {road}'],
+				'Left':
+					['Izquierda', ' en {road}'],
+				'SlightLeft':
+					['Leve giro a la izquierda', ' en {road}'],
+				'WaypointReached':
+					['Llegó a un punto del camino'],
+				'Roundabout':
+					['Tomar {exitStr} salida en la rotonda', ' en {road}'],
+				'DestinationReached':
+					['Llegada a destino'],
+			},
+			formatOrder: function(n) {
+				return n + 'º';
+			},
+			ui: {
+				startPlaceholder: 'Inicio',
+				viaPlaceholder: 'Via {viaNumber}',
+				endPlaceholder: 'Destino'
+			}
+		},
+		'nl': {
+			directions: {
+				N: 'noordelijke',
+				NE: 'noordoostelijke',
+				E: 'oostelijke',
+				SE: 'zuidoostelijke',
+				S: 'zuidelijke',
+				SW: 'zuidewestelijke',
+				W: 'westelijke',
+				NW: 'noordwestelijke'
+			},
+			instructions: {
+				// instruction, postfix if the road is named
+				'Head':
+					['Vertrek in {dir} richting', ' de {road} op'],
+				'Continue':
+					['Ga in {dir} richting', ' de {road} op'],
+				'SlightRight':
+					['Volg de weg naar rechts', ' de {road} op'],
+				'Right':
+					['Ga rechtsaf', ' de {road} op'],
+				'SharpRight':
+					['Ga scherpe bocht naar rechts', ' de {road} op'],
+				'TurnAround':
+					['Keer om'],
+				'SharpLeft':
+					['Ga scherpe bocht naar links', ' de {road} op'],
+				'Left':
+					['Ga linksaf', ' de {road} op'],
+				'SlightLeft':
+					['Volg de weg naar links', ' de {road} op'],
+				'WaypointReached':
+					['Aangekomen bij tussenpunt'],
+				'Roundabout':
+					['Neem de {exitStr} afslag op de rotonde', ' de {road} op'],
+				'DestinationReached':
+					['Aangekomen op eindpunt'],
+			},
+			formatOrder: function(n) {
+				if (n === 1 || n >= 20) {
+					return n + 'ste';
+				} else {
+					return n + 'de';
+				}
+			},
+			ui: {
+				startPlaceholder: 'Vertrekpunt',
+				viaPlaceholder: 'Via {viaNumber}',
+				endPlaceholder: 'Bestemming'
+			}
+		},
+		'fr': {
+			directions: {
+				N: 'nord',
+				NE: 'nord-est',
+				E: 'est',
+				SE: 'sud-est',
+				S: 'sud',
+				SW: 'sud-ouest',
+				W: 'ouest',
+				NW: 'nord-ouest'
+			},
+			instructions: {
+				// instruction, postfix if the road is named
+				'Head':
+					['Tout droit au {dir}', ' sur {road}'],
+				'Continue':
+					['Continuer au {dir}', ' sur {road}'],
+				'SlightRight':
+					['Légèrement à droite', ' sur {road}'],
+				'Right':
+					['A droite', ' sur {road}'],
+				'SharpRight':
+					['Complètement à droite', ' sur {road}'],
+				'TurnAround':
+					['Faire demi-tour'],
+				'SharpLeft':
+					['Complètement à gauche', ' sur {road}'],
+				'Left':
+					['A gauche', ' sur {road}'],
+				'SlightLeft':
+					['Légèrement à gauche', ' sur {road}'],
+				'WaypointReached':
+					['Point d\'étape atteint'],
+				'Roundabout':
+					['Au rond-point, prenez la {exitStr} sortie', ' sur {road}'],
+				'DestinationReached':
+					['Destination atteinte'],
+			},
+			formatOrder: function(n) {
+				return n + 'º';
+			},
+			ui: {
+				startPlaceholder: 'Départ',
+				viaPlaceholder: 'Intermédiaire {viaNumber}',
+				endPlaceholder: 'Arrivée'
+			}
+		},
+		'it': {
+			directions: {
+				N: 'nord',
+				NE: 'nord-est',
+				E: 'est',
+				SE: 'sud-est',
+				S: 'sud',
+				SW: 'sud-ovest',
+				W: 'ovest',
+				NW: 'nord-ovest'
+			},
+			instructions: {
+				// instruction, postfix if the road is named
+				'Head':
+					['Dritto verso {dir}', ' su {road}'],
+				'Continue':
+					['Continuare verso {dir}', ' su {road}'],
+				'SlightRight':
+					['Mantenere la destra', ' su {road}'],
+				'Right':
+					['A destra', ' su {road}'],
+				'SharpRight':
+					['Strettamente a destra', ' su {road}'],
+				'TurnAround':
+					['Fare inversione di marcia'],
+				'SharpLeft':
+					['Strettamente a sinistra', ' su {road}'],
+				'Left':
+					['A sinistra', ' sur {road}'],
+				'SlightLeft':
+					['Mantenere la sinistra', ' su {road}'],
+				'WaypointReached':
+					['Punto di passaggio raggiunto'],
+				'Roundabout':
+					['Alla rotonda, prendere la {exitStr} uscita'],
+				'DestinationReached':
+					['Destinazione raggiunta'],
+			},
+			formatOrder: function(n) {
+				return n + 'º';
+			},
+			ui: {
+				startPlaceholder: 'Partenza',
+				viaPlaceholder: 'Intermedia {viaNumber}',
+				endPlaceholder: 'Destinazione'
+			}
+		},
+		'pt': {
+			directions: {
+				N: 'norte',
+				NE: 'nordeste',
+				E: 'leste',
+				SE: 'sudeste',
+				S: 'sul',
+				SW: 'sudoeste',
+				W: 'oeste',
+				NW: 'noroeste'
+			},
+			instructions: {
+				// instruction, postfix if the road is named
+				'Head':
+					['Siga {dir}', ' na {road}'],
+				'Continue':
+					['Continue {dir}', ' na {road}'],
+				'SlightRight':
+					['Curva ligeira a direita', ' na {road}'],
+				'Right':
+					['Curva a direita', ' na {road}'],
+				'SharpRight':
+					['Curva fechada a direita', ' na {road}'],
+				'TurnAround':
+					['Retorne'],
+				'SharpLeft':
+					['Curva fechada a esquerda', ' na {road}'],
+				'Left':
+					['Curva a esquerda', ' na {road}'],
+				'SlightLeft':
+					['Curva ligueira a esquerda', ' na {road}'],
+				'WaypointReached':
+					['Ponto de interesse atingido'],
+				'Roundabout':
+					['Pegue a {exitStr} saída na rotatória', ' na {road}'],
+				'DestinationReached':
+					['Destino atingido'],
+			},
+			formatOrder: function(n) {
+				return n + 'º';
+			},
+			ui: {
+				startPlaceholder: 'Origem',
+				viaPlaceholder: 'Intermédio {viaNumber}',
+				endPlaceholder: 'Destino'
+			}
+		},
+	};
+
+	module.exports = L.Routing;
+})();
+
+},{}],12:[function(require,module,exports){
 (function (global){
 (function() {
 	'use strict';
 
-	var L = (typeof window !== "undefined" ? window.L : typeof global !== "undefined" ? global.L : null);
+	var L = (typeof window !== "undefined" ? window.L : typeof global !== "undefined" ? global.L : null),
+		corslite = require('corslite'),
+		polyline = require('polyline');
 
 	// Ignore camelcase naming for this file, since OSRM's API uses
 	// underscores.
 	/* jshint camelcase: false */
 
 	L.Routing = L.Routing || {};
-
-	L.Routing._jsonpCallbackId = 0;
-	L.Routing._jsonp = function(url, callback, context, jsonpParam) {
-		var callbackId = '_l_routing_machine_' + (L.Routing._jsonpCallbackId++),
-		    script;
-		url += '&' + jsonpParam + '=' + callbackId;
-		window[callbackId] = L.Util.bind(callback, context);
-		script = document.createElement('script');
-		script.type = 'text/javascript';
-		script.src = url;
-		script.id = callbackId;
-		document.getElementsByTagName('head')[0].appendChild(script);
-	};
+	L.extend(L.Routing, require('./L.Routing.Waypoint'));
 
 	L.Routing.OSRM = L.Class.extend({
 		options: {
-			serviceUrl: 'http://router.project-osrm.org/viaroute',
-			timeout: 30 * 1000
+			serviceUrl: '//router.project-osrm.org/viaroute',
+			timeout: 30 * 1000,
+			routingOptions: {}
 		},
 
 		initialize: function(options) {
@@ -1068,22 +1934,62 @@
 		},
 
 		route: function(waypoints, callback, context, options) {
-			var url = this._buildRouteUrl(waypoints, options),
-				timedOut = false,
-				timer = setTimeout(function() {
-					timedOut = true;
-					callback.call(context || callback, {
-						status: -1,
-						message: 'OSRM request timed out.'
-					});
-				}, this.options.timeout);
+			var timedOut = false,
+				wps = [],
+				url,
+				timer,
+				wp,
+				i;
 
-			L.Routing._jsonp(url, function(data) {
+			url = this.buildRouteUrl(waypoints, L.extend({}, this.options.routingOptions, options));
+
+			timer = setTimeout(function() {
+				timedOut = true;
+				callback.call(context || callback, {
+					status: -1,
+					message: 'OSRM request timed out.'
+				});
+			}, this.options.timeout);
+
+			// Create a copy of the waypoints, since they
+			// might otherwise be asynchronously modified while
+			// the request is being processed.
+			for (i = 0; i < waypoints.length; i++) {
+				wp = waypoints[i];
+				wps.push(new L.Routing.Waypoint(wp.latLng, wp.name, wp.options));
+			}
+
+			corslite(url, L.bind(function(err, resp) {
+				var data,
+					errorMessage,
+					statusCode;
+
 				clearTimeout(timer);
 				if (!timedOut) {
-					this._routeDone(data, waypoints, callback, context);
+					errorMessage = 'HTTP request failed: ' + err;
+					statusCode = -1;
+
+					if (!err) {
+						try {
+							data = JSON.parse(resp.responseText);
+							try {
+								return this._routeDone(data, wps, callback, context);
+							} catch (ex) {
+								statusCode = -3;
+								errorMessage = ex.toString();
+							}
+						} catch (ex) {
+							statusCode = -2;
+							errorMessage = 'Error parsing OSRM response: ' + ex.toString();
+						}
+					}
+
+					callback.call(context || callback, {
+						status: statusCode,
+						message: errorMessage
+					});
 				}
-			}, this, 'jsonp');
+			}, this));
 
 			return this;
 		},
@@ -1095,7 +2001,7 @@
 			    i;
 
 			context = context || callback;
-			if (response.status !== 0) {
+			if (response.status !== 0 && response.status !== 200) {
 				callback.call(context, {
 					status: response.status,
 					message: response.status_message
@@ -1103,10 +2009,10 @@
 				return;
 			}
 
-			coordinates = this._decode(response.route_geometry, 6);
-			actualWaypoints = this._toWaypoints(response.via_points);
+			coordinates = this._decodePolyline(response.route_geometry);
+			actualWaypoints = this._toWaypoints(inputWaypoints, response.via_points);
 			alts = [{
-				name: response.route_name.join(', '),
+				name: this._createName(response.route_name),
 				coordinates: coordinates,
 				instructions: response.route_instructions ? this._convertInstructions(response.route_instructions) : [],
 				summary: response.route_summary ? this._convertSummary(response.route_summary) : [],
@@ -1117,9 +2023,9 @@
 
 			if (response.alternative_geometries) {
 				for (i = 0; i < response.alternative_geometries.length; i++) {
-					coordinates = this._decode(response.alternative_geometries[i], 6);
+					coordinates = this._decodePolyline(response.alternative_geometries[i]);
 					alts.push({
-						name: response.alternative_names[i].join(', '),
+						name: this._createName(response.alternative_names[i]),
 						coordinates: coordinates,
 						instructions: response.alternative_instructions[i] ? this._convertInstructions(response.alternative_instructions[i]) : [],
 						summary: response.alternative_summaries[i] ? this._convertSummary(response.alternative_summaries[i]) : [],
@@ -1135,36 +2041,72 @@
 				}
 			}
 
-			this._saveHintData(response, inputWaypoints);
+			// only versions <4.5.0 will support this flag
+			if (response.hint_data) {
+				this._saveHintData(response.hint_data, inputWaypoints);
+			}
 			callback.call(context, null, alts);
 		},
 
-		_toWaypoints: function(vias) {
+		_decodePolyline: function(routeGeometry) {
+			var cs = polyline.decode(routeGeometry, 6),
+				result = new Array(cs.length),
+				i;
+			for (i = cs.length - 1; i >= 0; i--) {
+				result[i] = L.latLng(cs[i]);
+			}
+
+			return result;
+		},
+
+		_toWaypoints: function(inputWaypoints, vias) {
 			var wps = [],
 			    i;
 			for (i = 0; i < vias.length; i++) {
-				wps.push({
-					latLng: L.latLng(vias[i])
-				});
+				wps.push(L.Routing.waypoint(L.latLng(vias[i]),
+				                            inputWaypoints[i].name,
+				                            inputWaypoints[i].options));
 			}
 
 			return wps;
 		},
 
-		_buildRouteUrl: function(waypoints, options) {
+		_createName: function(nameParts) {
+			var name = '',
+				i;
+
+			for (i = 0; i < nameParts.length; i++) {
+				if (nameParts[i]) {
+					if (name) {
+						name += ', ';
+					}
+					name += nameParts[i].charAt(0).toUpperCase() + nameParts[i].slice(1);
+				}
+			}
+
+			return name;
+		},
+
+		buildRouteUrl: function(waypoints, options) {
 			var locs = [],
+				wp,
 			    computeInstructions,
 			    computeAlternative,
 			    locationKey,
 			    hint;
 
 			for (var i = 0; i < waypoints.length; i++) {
-				locationKey = this._locationKey(waypoints[i].latLng);
+				wp = waypoints[i];
+				locationKey = this._locationKey(wp.latLng);
 				locs.push('loc=' + locationKey);
 
 				hint = this._hints.locations[locationKey];
 				if (hint) {
 					locs.push('hint=' + hint);
+				}
+
+				if (wp.options && wp.options.allowUTurn) {
+					locs.push('u=true');
 				}
 			}
 
@@ -1172,20 +2114,21 @@
 				!(options && options.geometryOnly);
 
 			return this.options.serviceUrl + '?' +
-				'instructions=' + computeInstructions + '&' +
-				'alt=' + computeAlternative + // '&' +
-				// (options.z ? 'z=' + options.z + '&' : '') +
+				'instructions=' + computeInstructions.toString() + '&' +
+				'alt=' + computeAlternative.toString() + '&' +
+				(options.z ? 'z=' + options.z + '&' : '') +
 				locs.join('&') +
-				(this._hints.checksum !== undefined ? '&checksum=' + this._hints.checksum : '');
+				(this._hints.checksum !== undefined ? '&checksum=' + this._hints.checksum : '') +
+				(options.fileformat ? '&output=' + options.fileformat : '') +
+				(options.allowUTurns ? '&uturns=' + options.allowUTurns : '');
 		},
 
 		_locationKey: function(location) {
 			return location.lat + ',' + location.lng;
 		},
 
-		_saveHintData: function(route, waypoints) {
-			var hintData = route.hint_data,
-			    loc;
+		_saveHintData: function(hintData, waypoints) {
+			var loc;
 			this._hints = {
 				checksum: hintData.checksum,
 				locations: {}
@@ -1194,43 +2137,6 @@
 				loc = waypoints[i].latLng;
 				this._hints.locations[this._locationKey(loc)] = hintData.locations[i];
 			}
-		},
-
-		// Adapted from
-		// https://github.com/DennisSchiefer/Project-OSRM-Web/blob/develop/WebContent/routing/OSRM.RoutingGeometry.js
-		_decode: function(encoded, precision) {
-			var len = encoded.length,
-			    index=0,
-			    lat=0,
-			    lng = 0,
-			    array = [];
-
-			precision = Math.pow(10, -precision);
-
-			while (index < len) {
-				var b,
-				    shift = 0,
-				    result = 0;
-				do {
-					b = encoded.charCodeAt(index++) - 63;
-					result |= (b & 0x1f) << shift;
-					shift += 5;
-				} while (b >= 0x20);
-				var dlat = ((result & 1) ? ~(result >> 1) : (result >> 1));
-				lat += dlat;
-				shift = 0;
-				result = 0;
-				do {
-					b = encoded.charCodeAt(index++) - 63;
-					result |= (b & 0x1f) << shift;
-					shift += 5;
-				} while (b >= 0x20);
-				var dlng = ((result & 1) ? ~(result >> 1) : (result >> 1));
-				lng += dlng;
-				//array.push( {lat: lat * precision, lng: lng * precision} );
-				array.push( [lat * precision, lng * precision] );
-			}
-			return array;
 		},
 
 		_convertSummary: function(osrmSummary) {
@@ -1284,7 +2190,7 @@
 			case 7:
 				return 'Left';
 			case 8:
-				return 'SlightRight';
+				return 'SlightLeft';
 			case 9:
 				return 'WaypointReached';
 			case 10:
@@ -1307,6 +2213,7 @@
 			for (i = 0; i < indices.length; i++) {
 				indices[i] = Math.min(maxCoordIndex, Math.max(indices[i], 0));
 			}
+			return indices;
 		}
 	});
 
@@ -1318,21 +2225,15 @@
 })();
 
 }).call(this,typeof global !== "undefined" ? global : typeof self !== "undefined" ? self : typeof window !== "undefined" ? window : {})
-},{}],8:[function(require,module,exports){
+},{"./L.Routing.Waypoint":14,"corslite":1,"polyline":2}],13:[function(require,module,exports){
 (function (global){
 (function() {
 	'use strict';
 
-	var L = (typeof window !== "undefined" ? window.L : typeof global !== "undefined" ? global.L : null),
-		Waypoint = L.Class.extend({
-			initialize: function(latLng, name) {
-				this.latLng = latLng;
-				this.name = name;
-			}
-		});
-
+	var L = (typeof window !== "undefined" ? window.L : typeof global !== "undefined" ? global.L : null);
 	L.Routing = L.Routing || {};
-	L.extend(L.Routing, require('./L.Routing.Autocomplete'));
+	L.extend(L.Routing, require('./L.Routing.GeocoderElement'));
+	L.extend(L.Routing, require('./L.Routing.Waypoint'));
 
 	L.Routing.Plan = L.Class.extend({
 		includes: L.Mixin.Events,
@@ -1344,35 +2245,21 @@
 				{color: 'red', opacity: 1, weight: 2, dashArray: '7,12'}
 			],
 			draggableWaypoints: true,
+			routeWhileDragging: false,
 			addWaypoints: true,
-			maxGeocoderTolerance: 200,
-			autocompleteOptions: {},
-			geocodersClassName: '',
-			geocoderClassName: '',
-			geocoderPlaceholder: function(i, numberWaypoints) {
-				return i === 0 ?
-					'Start' :
-					(i < numberWaypoints - 1 ?
-									'Via ' + i :
-									'End');
+			reverseWaypoints: false,
+			addButtonClassName: '',
+			language: 'en',
+			createGeocoderElement: L.Routing.geocoderElement,
+			createMarker: function(i, wp) {
+				var options = {
+						draggable: this.draggableWaypoints
+					},
+				    marker = L.marker(wp.latLng, options);
+
+				return marker;
 			},
-			geocoderClass: function() {
-				return '';
-			},
-			createGeocoder: function() {
-				var e = L.DomUtil.create('input', '');
-				return {
-					container: e,
-					input: e
-				};
-			},
-			waypointNameFallback: function(latLng) {
-				var ns = latLng.lat < 0 ? 'S' : 'N',
-				    ew = latLng.lng < 0 ? 'W' : 'E',
-				    lat = (Math.round(Math.abs(latLng.lat) * 10000) / 10000).toString(),
-				    lng = (Math.round(Math.abs(latLng.lng) * 10000) / 10000).toString();
-				return ns + lat + ', ' + ew + lng;
-			}
+			geocodersClassName: ''
 		},
 
 		initialize: function(waypoints, options) {
@@ -1411,19 +2298,17 @@
 
 		spliceWaypoints: function() {
 			var args = [arguments[0], arguments[1]],
-			    i,
-			    wp;
+			    i;
 
 			for (i = 2; i < arguments.length; i++) {
-				args.push(arguments[i] && arguments[i].hasOwnProperty('latLng') ? arguments[i] : new Waypoint(arguments[i]));
+				args.push(arguments[i] && arguments[i].hasOwnProperty('latLng') ? arguments[i] : L.Routing.waypoint(arguments[i]));
 			}
 
 			[].splice.apply(this._waypoints, args);
 
+			// Make sure there's always at least two waypoints
 			while (this._waypoints.length < 2) {
-				wp = new Waypoint();
-				this._waypoints.push(wp);
-				args.push(wp);
+				this.spliceWaypoints(this._waypoints.length, 0, null);
 			}
 
 			this._updateMarkers();
@@ -1451,137 +2336,81 @@
 		createGeocoders: function() {
 			var container = L.DomUtil.create('div', 'leaflet-routing-geocoders ' + this.options.geocodersClassName),
 				waypoints = this._waypoints,
-			    i,
-			    geocoderElem,
-			    addWpBtn;
+			    addWpBtn,
+			    reverseBtn;
 
 			this._geocoderContainer = container;
 			this._geocoderElems = [];
 
-			for (i = 0; i < waypoints.length; i++) {
-				geocoderElem = this._createGeocoder(i);
-				container.appendChild(geocoderElem.container);
-				this._geocoderElems.push(geocoderElem);
-			}
 
-			addWpBtn = L.DomUtil.create('button', '', container);
-			addWpBtn.setAttribute('type', 'button');
-			addWpBtn.innerHTML = '+';
 			if (this.options.addWaypoints) {
+				addWpBtn = L.DomUtil.create('button', 'leaflet-routing-add-waypoint ' + this.options.addButtonClassName, container);
+				addWpBtn.setAttribute('type', 'button');
 				L.DomEvent.addListener(addWpBtn, 'click', function() {
 					this.spliceWaypoints(waypoints.length, 0, null);
 				}, this);
-			} else {
-				addWpBtn.style.display = 'none';
 			}
 
+			if (this.options.reverseWaypoints) {
+				reverseBtn = L.DomUtil.create('button', 'leaflet-routing-reverse-waypoints', container);
+				reverseBtn.setAttribute('type', 'button');
+				L.DomEvent.addListener(reverseBtn, 'click', function() {
+					this._waypoints.reverse();
+					this.setWaypoints(this._waypoints);
+				}, this);
+			}
+
+			this._updateGeocoders();
 			this.on('waypointsspliced', this._updateGeocoders);
 
 			return container;
 		},
 
 		_createGeocoder: function(i) {
-			var nWps = this._waypoints.length,
-				g = this.options.createGeocoder(i, nWps),
-				geocoderInput = g.input,
-				wp = this._waypoints[i];
-			geocoderInput.setAttribute('placeholder', this.options.geocoderPlaceholder(i, nWps));
-			geocoderInput.className = this.options.geocoderClass(i, nWps);
+			var geocoder = this.options.createGeocoderElement(this._waypoints[i], i, this._waypoints.length, this.options);
+			geocoder
+			.on('delete', function() {
+				if (i > 0 || this._waypoints.length > 2) {
+					this.spliceWaypoints(i, 1);
+				} else {
+					this.spliceWaypoints(i, 1, new L.Routing.Waypoint());
+				}
+			}, this)
+			.on('geocoded', function(e) {
+				this._updateMarkers();
+				this._fireChanged();
+				this._focusGeocoder(i + 1);
+				this.fire('waypointgeocoded', {
+					waypointIndex: i,
+					waypoint: e.waypoint
+				});
+			}, this)
+			.on('reversegeocoded', function(e) {
+				this.fire('waypointgeocoded', {
+					waypointIndex: i,
+					waypoint: e.waypoint
+				});
+			}, this);
 
-			this._updateWaypointName(i, geocoderInput);
-			// This has to be here, or geocoder's value will not be properly
-			// initialized.
-			// TODO: look into why and make _updateWaypointName fix this.
-			geocoderInput.value = wp.name;
-
-			L.DomEvent.addListener(geocoderInput, 'click', function() {
-				this.select();
-			}, geocoderInput);
-
-			new L.Routing.Autocomplete(geocoderInput, function(r) {
-					geocoderInput.value = r.name;
-					wp.name = r.name;
-					wp.latLng = r.center;
-					this._updateMarkers();
-					this._fireChanged();
-					this._focusGeocoder(i + 1);
-				}, this, L.extend({
-					resultFn: this.options.geocoder.geocode,
-					resultContext: this.options.geocoder,
-					autocompleteFn: this.options.geocoder.suggest,
-					autocompleteContext: this.options.geocoder
-				}, this.options.autocompleteOptions));
-
-			return g;
+			return geocoder;
 		},
 
-		_updateGeocoders: function(e) {
-			var newElems = [],
-			    i,
-			    geocoderElem,
-			    beforeElem;
-
-			// Determine where to insert geocoders for new waypoints
-			if (e.index >= this._geocoderElems.length) {
-				// lastChild is the "add new wp" button
-				beforeElem = this._geocoderContainer.lastChild;
-			} else {
-				beforeElem = this._geocoderElems[e.index].container;
-			}
-
-			// Insert new geocoders for new waypoints
-			for (i = 0; i < e.added.length; i++) {
-				geocoderElem = this._createGeocoder(e.index + i);
-				this._geocoderContainer.insertBefore(geocoderElem.container, beforeElem);
-				newElems.push(geocoderElem);
-			}
-			//newElems.reverse();
-
-			for (i = e.index; i < e.index + e.nRemoved; i++) {
-				this._geocoderContainer.removeChild(this._geocoderElems[i].container);
-			}
-
-			newElems.splice(0, 0, e.index, e.nRemoved);
-			[].splice.apply(this._geocoderElems, newElems);
+		_updateGeocoders: function() {
+			var elems = [],
+				i,
+			    geocoderElem;
 
 			for (i = 0; i < this._geocoderElems.length; i++) {
-				this._geocoderElems[i].input.placeholder = this.options.geocoderPlaceholder(i, this._waypoints.length);
-				this._geocoderElems[i].input.className = this.options.geocoderClass(i, this._waypoints.length);
-			}
-		},
-
-		_updateGeocoder: function(i, geocoderElem) {
-			var wp = this._waypoints[i],
-			    value = wp && wp.name ? wp.name : '';
-			if (geocoderElem) {
-				geocoderElem.value = value;
-			}
-		},
-
-		_updateWaypointName: function(i, geocoderElem, force) {
-			var wp = this._waypoints[i],
-					wpCoords;
-
-			wp.name = wp.name || '';
-
-			if (wp.latLng && (force || !wp.name)) {
-				wpCoords = this.options.waypointNameFallback(wp.latLng);
-				if (this.options.geocoder && this.options.geocoder.reverse) {
-					this.options.geocoder.reverse(wp.latLng, 67108864 /* zoom 18 */, function(rs) {
-						if (rs.length > 0 && rs[0].center.distanceTo(wp.latLng) < this.options.maxGeocoderTolerance) {
-							wp.name = rs[0].name;
-						} else {
-							wp.name = wpCoords;
-						}
-						this._updateGeocoder(i, geocoderElem);
-					}, this);
-				} else {
-					wp.name = wpCoords;
-				}
-
-				this._updateGeocoder(i, geocoderElem);
+				this._geocoderContainer.removeChild(this._geocoderElems[i].getContainer());
 			}
 
+			for (i = this._waypoints.length - 1; i >= 0; i--) {
+				geocoderElem = this._createGeocoder(i);
+				this._geocoderContainer.insertBefore(geocoderElem.getContainer(), this._geocoderContainer.firstChild);
+				elems.push(geocoderElem);
+			}
+
+			this._geocoderElems = elems.reverse();
 		},
 
 		_removeMarkers: function() {
@@ -1598,7 +2427,6 @@
 
 		_updateMarkers: function() {
 			var i,
-			    icon,
 			    m;
 
 			if (!this._map) {
@@ -1609,29 +2437,18 @@
 
 			for (i = 0; i < this._waypoints.length; i++) {
 				if (this._waypoints[i].latLng) {
-					icon = (typeof(this.options.waypointIcon) === 'function') ?
-						this.options.waypointIcon(i, this._waypoints[i].name, this._waypoints.length) :
-						this.options.waypointIcon;
-					m = this._createMarker(icon, i);
-					if (this.options.draggableWaypoints) {
-						this._hookWaypointEvents(m, i);
+					m = this.options.createMarker(i, this._waypoints[i], this._waypoints.length);
+					if (m) {
+						m.addTo(this._map);
+						if (this.options.draggableWaypoints) {
+							this._hookWaypointEvents(m, i);
+						}
 					}
 				} else {
 					m = null;
 				}
 				this._markers.push(m);
 			}
-		},
-
-		_createMarker: function(icon, i) {
-			var options = {
-				draggable: true
-			};
-			if (icon) {
-				options.icon = icon;
-			}
-
-			return L.marker(this._waypoints[i].latLng, options).addTo(this._map);
 		},
 
 		_fireChanged: function() {
@@ -1646,73 +2463,106 @@
 			}
 		},
 
-		_hookWaypointEvents: function(m, i) {
-			m.on('dragstart', function(e) {
-				this.fire('waypointdragstart', this._createWaypointEvent(i, e));
-			}, this);
-			m.on('drag', function(e) {
-				this._waypoints[i].latLng = e.target.getLatLng();
-				this.fire('waypointdrag', this._createWaypointEvent(i, e));
-			}, this);
-			m.on('dragend', function(e) {
-				this.fire('waypointdragend', this._createWaypointEvent(i, e));
-				this._waypoints[i].latLng = e.target.getLatLng();
-				this._waypoints[i].name = '';
-				this._updateWaypointName(i, this._geocoderElems && this._geocoderElems[i].input, true);
-				this._fireChanged();
-			}, this);
-		},
+		_hookWaypointEvents: function(m, i, trackMouseMove) {
+			var eventLatLng = function(e) {
+					return trackMouseMove ? e.latlng : e.target.getLatLng();
+				},
+				dragStart = L.bind(function(e) {
+					this.fire('waypointdragstart', {index: i, latlng: eventLatLng(e)});
+				}, this),
+				drag = L.bind(function(e) {
+					this._waypoints[i].latLng = eventLatLng(e);
+					this.fire('waypointdrag', {index: i, latlng: eventLatLng(e)});
+				}, this),
+				dragEnd = L.bind(function(e) {
+					this._waypoints[i].latLng = eventLatLng(e);
+					this._waypoints[i].name = '';
+					if (this._geocoderElems) {
+						this._geocoderElems[i].update(true);
+					}
+					this.fire('waypointdragend', {index: i, latlng: eventLatLng(e)});
+					this._fireChanged();
+				}, this),
+				mouseMove,
+				mouseUp;
 
-		_createWaypointEvent: function(i, e) {
-			return {index: i, latlng: e.target.getLatLng()};
+			if (trackMouseMove) {
+				mouseMove = L.bind(function(e) {
+					this._markers[i].setLatLng(e.latlng);
+					drag(e);
+				}, this);
+				mouseUp = L.bind(function(e) {
+					this._map.dragging.enable();
+					this._map.off('mouseup', mouseUp);
+					this._map.off('mousemove', mouseMove);
+					dragEnd(e);
+				}, this);
+				this._map.dragging.disable();
+				this._map.on('mousemove', mouseMove);
+				this._map.on('mouseup', mouseUp);
+				dragStart({latlng: this._waypoints[i].latLng});
+			} else {
+				m.on('dragstart', dragStart);
+				m.on('drag', drag);
+				m.on('dragend', dragEnd);
+			}
 		},
 
 		dragNewWaypoint: function(e) {
-			var i;
-			this._newWp = {
-				afterIndex: e.afterIndex,
-				marker: L.marker(e.latlng).addTo(this._map),
-				lines: []
-			};
+			var newWpIndex = e.afterIndex + 1;
+			if (this.options.routeWhileDragging) {
+				this.spliceWaypoints(newWpIndex, 0, e.latlng);
+				this._hookWaypointEvents(this._markers[newWpIndex], newWpIndex, true);
+			} else {
+				this._dragNewWaypoint(newWpIndex, e.latlng);
+			}
+		},
+
+		_dragNewWaypoint: function(newWpIndex, initialLatLng) {
+			var wp = new L.Routing.Waypoint(initialLatLng),
+				prevWp = this._waypoints[newWpIndex - 1],
+				nextWp = this._waypoints[newWpIndex],
+				marker = this.options.createMarker(newWpIndex, wp, this._waypoints.length + 1),
+				lines = [],
+				mouseMove = L.bind(function(e) {
+					var i;
+					if (marker) {
+						marker.setLatLng(e.latlng);
+					}
+					for (i = 0; i < lines.length; i++) {
+						lines[i].spliceLatLngs(1, 1, e.latlng);
+					}
+				}, this),
+				mouseUp = L.bind(function(e) {
+					var i;
+					if (marker) {
+						this._map.removeLayer(marker);
+					}
+					for (i = 0; i < lines.length; i++) {
+						this._map.removeLayer(lines[i]);
+					}
+					this._map.off('mousemove', mouseMove);
+					this._map.off('mouseup', mouseUp);
+					this.spliceWaypoints(newWpIndex, 0, e.latlng);
+				}, this),
+				i;
+
+			if (marker) {
+				marker.addTo(this._map);
+			}
 
 			for (i = 0; i < this.options.dragStyles.length; i++) {
-				this._newWp.lines.push(L.polyline([
-					this._waypoints[e.afterIndex].latLng,
-					e.latlng,
-					this._waypoints[e.afterIndex + 1].latLng
-				], this.options.dragStyles[i]).addTo(this._map));
+				lines.push(L.polyline([prevWp.latLng, initialLatLng, nextWp.latLng],
+					this.options.dragStyles[i]).addTo(this._map));
 			}
 
-			this._markers.splice(e.afterIndex + 1, 0, this._newWp.marker);
-			this._map.on('mousemove', this._onDragNewWp, this);
-			this._map.on('mouseup', this._onWpRelease, this);
-		},
-
-		_onDragNewWp: function(e) {
-			var i;
-			this._newWp.marker.setLatLng(e.latlng);
-			for (i = 0; i < this._newWp.lines.length; i++) {
-				this._newWp.lines[i].spliceLatLngs(1, 1, e.latlng);
-			}
-		},
-
-		_onWpRelease: function(e) {
-			var i;
-			this._map.off('mouseup', this._onWpRelease, this);
-			this._map.off('mousemove', this._onDragNewWp, this);
-			for (i = 0; i < this._newWp.lines.length; i++) {
-				this._map.removeLayer(this._newWp.lines[i]);
-			}
-			this.spliceWaypoints(this._newWp.afterIndex + 1, 0, e.latlng);
-			delete this._newWp;
+			this._map.on('mousemove', mouseMove);
+			this._map.on('mouseup', mouseUp);
 		},
 
 		_focusGeocoder: function(i) {
-			var input;
 			if (this._geocoderElems[i]) {
-				input = this._geocoderElems[i].input;
-				input.focus();
-				input.select();
+				this._geocoderElems[i].focus();
 			} else {
 				document.activeElement.blur();
 			}
@@ -1727,5 +2577,32 @@
 })();
 
 }).call(this,typeof global !== "undefined" ? global : typeof self !== "undefined" ? self : typeof window !== "undefined" ? window : {})
-},{"./L.Routing.Autocomplete":1}]},{},[2])(2)
+},{"./L.Routing.GeocoderElement":7,"./L.Routing.Waypoint":14}],14:[function(require,module,exports){
+(function (global){
+(function() {
+	'use strict';
+
+	var L = (typeof window !== "undefined" ? window.L : typeof global !== "undefined" ? global.L : null);
+	L.Routing = L.Routing || {};
+
+	L.Routing.Waypoint = L.Class.extend({
+			options: {
+				allowUTurn: false,
+			},
+			initialize: function(latLng, name, options) {
+				L.Util.setOptions(this, options);
+				this.latLng = L.latLng(latLng);
+				this.name = name;
+			}
+		});
+
+	L.Routing.waypoint = function(latLng, name, options) {
+		return new L.Routing.Waypoint(latLng, name, options);
+	};
+
+	module.exports = L.Routing;
+})();
+
+}).call(this,typeof global !== "undefined" ? global : typeof self !== "undefined" ? self : typeof window !== "undefined" ? window : {})
+},{}]},{},[4])(4)
 });

@@ -1,5 +1,7 @@
 ## -*- coding: utf-8 -*-
 <%namespace name="base" file="base_helper.tmpl" import="*" />
+<%namespace name="nav" file="nav_helper.tmpl" import="*" />
+<%namespace name="footer" file="base_footer.tmpl" import="*" />
 <%namespace name="notes" file="annotation_helper.tmpl" import="*" />
 ${set_locale(lang)}
 ${base.html_headstart()}
@@ -24,11 +26,11 @@ ${template_hooks['extra_head']()}
             </button>
             <a class="navbar-brand" href="${abs_link(_link("root", None, lang))}">
             %if logo_url:
-                <img src="${logo_url}" alt="${blog_title}" id="logo">
+                <img src="${logo_url}" alt="${blog_title|h}" id="logo">
             %endif
 
             % if show_blog_title:
-                <span id="blog-title">${blog_title}</span>
+                <span id="blog-title">${blog_title|h}</span>
             % endif
             </a>
         </div><!-- /.navbar-header -->
@@ -42,8 +44,17 @@ ${template_hooks['extra_head']()}
             %endif
 
             <ul class="nav navbar-nav navbar-right">
+                <!-- This needs more work -->
                 <%block name="belowtitle">
-                %if len(translations) > 1:
+                %if len(translations) > 2:
+                    <li class="dropdown">
+                      <a class="dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Languages
+                        <b class="caret"></b>
+                      </a>
+                      <ul class="dropdown-menu">${nav.html_translations()}</ul>
+                    </li>
+                %elif len(translations) == 2:
                     <li>${base.html_translations()}</li>
                 %endif
                 </%block>
@@ -70,11 +81,7 @@ ${template_hooks['extra_head']()}
 </div>
 
 
-<footer>
-    ${content_footer}
-    ${template_hooks['page_footer']()}
-</footer>
-
+${footer.html_footer()}
 
 ${base.late_load_js()}
     <script>$('a.image-reference:not(.islink) img:not(.islink)').parent().colorbox({rel:"gal",maxWidth:"100%",maxHeight:"100%",scalePhotos:true});</script>

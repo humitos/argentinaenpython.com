@@ -1,0 +1,35 @@
+<div class="django-girls-guia col-md-3">
+  <p style="text-align: center"><img src="${image}"/></p>
+  <h2 style="text-align: center">${name}</h2>
+  % if place:
+  <h4 style="text-align: center">${place}</h4>
+  % endif
+  % if community:
+  <h3 style="text-align: center">${community}</h3>
+  % endif
+  <div class="social-networks">
+    <ul>
+      % if web:
+      <li><a href="${web}" target="_blank"><i class="fa fa-globe"></i></a></li>
+      % endif
+      % if twitter:
+      <li><a href="${twitter}" target="_blank"><i class="fa fa-twitter"></i></a></li>
+      % endif
+      % if facebook:
+      <li><a href="${facebook}" target="_blank"><i class="fa fa-facebook-official"></i></a></li>
+      % endif
+      % if email:
+      <li><a href="mailto:${email}" target="_blank"><i class="fa fa-envelope"></i></a></li>
+      % endif
+      % if github:
+      <li><a href="${github}" target="_blank"><i class="fa fa-github"></i></a></li>
+      % endif
+      % if bitbucket:
+      <li><a href="${bitbucket}" target="_blank"><i class="fa fa-bitbucket"></i></a></li>
+      % endif
+      % if linkedin:
+      <li><a href="${linkedin}" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+      % endif
+    </ul>
+  </div>
+</div>

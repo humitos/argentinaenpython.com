@@ -1,0 +1,12 @@
+.. title: PyDay Apóstoles
+.. previewimage: IMG_20150507_085843.jpg
+.. description: Evento PyDay
+
+:Fecha: 7 de Mayo de 2015
+:Lugar: Apóstoles, Misiones, Argentina
+:Descripción: PyDay organizado por la comunidad de Python Argentina y Argentina en Python
+:Web: http://pydayapostoles.info/
+:Blog Post: http://elblogdehumitos.com/posts/pydayapostoles-cambiando-el-futuro/
+
+
+.. for x in `ls *.jpg`; do convert "$x" -resize 1024 "$x";done

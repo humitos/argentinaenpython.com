@@ -33,6 +33,8 @@ Bank Transfer from other countries
 :Bank: Banco República Oriental 
        del Uruguay
 
+:Bank Address: 18 de Julio 1047, Paysandú, Uruguay
+
 :Account Name: Manuel Kaufmann
 
 :Account Number: 036-0523426
@@ -57,6 +59,26 @@ PayPal
        <img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
      </form>
    </div>
+
+(click on the image to donate)
+
+Bitcoin
+-------
+
+.. image:: bitcoin.png
+   :target: https://bitex.la/donate/argentina-en-python
+   :class: islink
+
+(click on the image to donate)
+
+
+Payoneer
+--------
+
+.. image:: payoneer.png
+
+(you should realize a transfer to the email humitos@gmail.com)
+
 
 ----
 

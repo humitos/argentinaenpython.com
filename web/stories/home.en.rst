@@ -1,10 +1,11 @@
+
 .. title: Home
 .. slug: index
 .. date: 2015-03-26 18:23:03 UTC-03:00
 .. tags: 
 .. category: 
 .. link: 
-.. description: Argentina en Python is a personal and communitary project that promotes the usage of Python
+.. description: Argentina en Python is a personal and communitary project that promotes the usage of Python in different countries
 .. previewimage: /index/logo.thumbnail.png
 .. type: text
 .. template: notitle.tmpl
@@ -12,17 +13,17 @@
 
 .. raw:: html
 
-   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
    <style>
-     article.storypage img {
-         margin-top: 40px;
+     article.storypage img.logo {
+	 margin-top: 20px;
+	 max-width: 38%;
      }
    </style>
 
 
 .. image:: /index/logo.thumbnail.png
-   :width: 420px
    :align: right
+   :class: logo
 
 
 
@@ -53,12 +54,31 @@ How?
 
 .. _Python: http://docs.python.org.ar/tutorial/3/real-index.html
 
+
+.. raw:: html
+
+   <hr style="border-width: 10px 0 0;">
+
+
+.. epigraph::
+
+   RESOLVED, that the Python Software Foundation grant $750 per month
+   for three months to Manuel Kaufmann for a trial "*Python Ambassador*"
+   outreach and education effort. The guidelines for this trial have
+   been discussed and decided upon by the board.
+
+   -- Python Software Foundation (source_)
+
 .. raw:: html
 
    <style>
      .home-sections {
 	 text-decoration: none;
 	 color: #333;
+     }
+
+     .home-sections > div {
+          min-height: 250px;
      }
 
      .home-sections:hover {
@@ -68,6 +88,7 @@ How?
    </style>
 
    <hr style="border-width: 10px 0 0;">
+
    <div class="row" style="margin-top: 50px;">
      <a class="home-sections" href="/en/where-is-humitos/">
        <div class="col-md-4">
@@ -77,11 +98,11 @@ How?
        </div>
      </a>
 
-     <a class="home-sections" href="/novedades/">
+     <a class="home-sections" href="/galeria/">
        <div class="col-md-4">
-	 <p style="text-align: center"><i class="fa fa-newspaper-o fa-5x"></p>
-	 <h2 style="text-align: center">News!</h2>
-	 <p style="text-align: center">What we are doing and what we have planned for the near future</p>
+	 <p style="text-align: center"><i class="fa fa-picture-o fa-5x"></p>
+	 <h2 style="text-align: center">Photos</h2>
+	 <p style="text-align: center">Photo gallery for those events we participate</p>
        </div>
      </a>
 
@@ -92,14 +113,12 @@ How?
 	 <p style="text-align: center">Some rules we follow to make the trip and events a great success</p>
        </div>
      </a>
-   </div>
 
-   <a class="home-sections" href="/galeria/">
-     <div class="row" style="margin-bottom: 50px;">
+     <a class="home-sections" href="/quiero-aprender-python/">
        <div class="col-md-4">
-	 <p style="text-align: center"><i class="fa fa-photo fa-5x"></p>
-	 <h2 style="text-align: center">Photos</h2>
-	 <p style="text-align: center">Pictures of the whole trip and some events</p>
+	 <p style="text-align: center"><i class="fa fa-mortar-board fa-5x"></p>
+	 <h2 style="text-align: center">I want to learn Python</h2>
+	 <p style="text-align: center">Tutorials and documentation that will help you to learn Python in a autodidact way.</p>
        </div>
      </a>
 
@@ -121,6 +140,14 @@ How?
 
    </div>
 
+   <hr style="border-width: 10px 0 0;">
+
+
+.. include:: stories/home.galleries.rst
+
 .. class:: lead align-center
 
-   Thank you a lot for following and help us to keep working on this proyect!
+   Travels around Latin America and the world by sharing knowledge,
+   Python and its philosophy.
+
+.. _source: https://www.python.org/psf/records/board/minutes/2016-02-25/#new-business

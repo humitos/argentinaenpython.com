@@ -1,0 +1,38 @@
+## -*- coding: utf-8 -*-
+<%namespace name="helper" file="post_helper.tmpl"/>
+<%namespace name="pheader" file="post_header.tmpl"/>
+<%namespace name="comments" file="comments_helper.tmpl"/>
+<%inherit file="post.tmpl"/>
+
+<%block name="extra_head">
+   <link rel="stylesheet" href="/assets/css/leaflet.css" />
+   <link href='//api.tiles.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v0.0.2/leaflet.fullscreen.css' rel='stylesheet' />
+   <link rel="stylesheet" href="/assets/css/leaflet-routing-machine.css" />
+</%block>
+
+<%block name="extra_js">
+   <script src="/assets/js/leaflet.js"></script>
+   <script src="/assets/js/leaflet-routing-machine.js"></script>
+   <script src='//api.tiles.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v0.0.2/Leaflet.fullscreen.min.js'></script>
+   <script src="/assets/js/gpx.js"></script>
+   <script src="/assets/js/geolocation.js"></script>
+</%block>
+
+<%block name="content">
+<article class="storypage" itemscope="itemscope" itemtype="http://schema.org/Article">
+    <header>
+        ${pheader.html_title()}
+        ${pheader.html_translations(post)}
+    </header>
+    <div class="e-content entry-content" itemprop="articleBody text">
+    ${post.text()}
+    </div>
+    %if site_has_comments and enable_comments and not post.meta('nocomments'):
+        <section class="comments">
+        <h2>${messages("Comments")}</h2>
+        ${comments.comment_form(post.permalink(absolute=True), post.title(), post.base_path)}
+        </section>
+    %endif
+    ${helper.mathjax_script(post)}
+</article>
+</%block>

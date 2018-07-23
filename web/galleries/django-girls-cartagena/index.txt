@@ -1,0 +1,8 @@
+.. title: Django Girls Cartagena
+.. previewimage: IMG_3848.jpg
+.. description: Workshop Django Girls
+
+:Fecha: 14 de Octubre de 2017
+:Lugar: Cartagena de Indias, Bolivar, Colombia
+:Descripción: Taller de programación para mujeres con Django Girls
+:Web: https://argentinaenpython.com/django-girls/2017/10/cartagena

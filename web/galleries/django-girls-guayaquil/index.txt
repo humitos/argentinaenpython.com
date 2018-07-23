@@ -1,0 +1,9 @@
+.. title: Django Girls Guayaquil
+.. previewimage: IMG_20160709_141619.jpg
+.. description: Workshop Django Girls
+
+:Fecha: 9 de Julio de 2016
+:Lugar: Guayaquil, Guayas, Ecuador
+:Descripción: Taller de programación para mujeres con Django Girls
+:Web: http://argentinaenpython.com/django-girls-guayaquil/
+

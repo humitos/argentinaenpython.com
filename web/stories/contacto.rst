@@ -4,8 +4,9 @@
 .. tags: 
 .. category: 
 .. link: 
-.. description: 
+.. description: Estos son los medios de contacto que usamos para organizar eventos y mantener actualizados a nuestros seguidores
 .. type: text
+
 
 .. image:: mini-zen.thumbnail.jpg
    :target: zen.jpg
@@ -21,6 +22,8 @@ mantener actualizados a nuestros seguidores:
 
 :Twitter: https://twitter.com/argenpython
 
+:IRC: *humitos* en irc.freenode.net
+
 ----
 
 En caso de requerir una comunicación más directa, también podés
@@ -29,7 +32,11 @@ de ellos:
 
 :WhatsApp: +54 9 343 4053434
 
-:Telegram: @humitos / +54 9 343 4053434
+:Telegram: @humitos
+
+:Móv. Ecuador: +593 0990632940
+
+:Móv. Perú: +51 999077870
 
 :Móv. Bolivia: +591 68381678
 
@@ -42,4 +49,10 @@ de ellos:
 ----
 
 Si querés saber más sobre mí, también podés visitar `mi blog personal
-<http://elblogdehumitos.com.ar/>`_.
+<http://elblogdehumitos.com/>`_.
+
+
+.. admonition:: Código QR
+
+   También podés escanear el código QR con tu celular y agregar el
+   contacto a la agenda de tu teléfono en un segundo.

@@ -1,0 +1,10 @@
+.. title: #1 Meetup Python Paraguay
+.. previewimage: IMG_20150620_122325.jpg
+.. description: #1 Meetup de Python Paraguay
+
+:Fecha: 20 de Junio de 2015
+:Lugar: Asunción, Central, Paraguay
+:Descripción: #1 Meetup de Python Paraguay en las oficinas de Roshka
+
+
+.. for x in `ls *.jpg`; do convert "$x" -resize 1024 "$x";done

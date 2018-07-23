@@ -39,10 +39,11 @@ para el mismo.
 
 El dinero será destinado a, por ejemplo:
 
-* Cursos
+* Eventos
 
   * Logística y organización
   * Alquiler de aulas
+  * Coffee Breaks
 
 * Material de difusión
 
@@ -56,6 +57,7 @@ El dinero será destinado a, por ejemplo:
 
   * Reparaciones al auto
   * Combustible
+  * Hospedaje
 
 ----
 

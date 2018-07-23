@@ -1,0 +1,12 @@
+.. title: Python for Ladies
+.. previewimage: IMG_20150606_154349.jpg
+.. description: Curso/Taller para mujeres
+
+:Fecha: 6 de Junio de 2015
+:Lugar: Posadas, Misiones, Argentina
+:Descripción: Curso/Taller de programación básica para mujeres/chicas
+:Web: http://argentinaenpython.com/python-for-ladies/
+:Blog Post: http://elblogdehumitos.com/posts/python-for-ladies/
+
+
+.. for x in `ls *.jpg`; do convert "$x" -resize 1024 "$x";done

@@ -1,0 +1,9 @@
+.. title: Sprint Resistencia
+.. previewimage: DSCF2715.JPG
+.. description: Evento Sprint
+
+:Fecha: 17 de Enero de 2015
+:Lugar: Resistencia, Chaco, Argentina
+:Descripción: Primer Sprint organizado por el proyecto Argentina en Python y la comunidad Python NEA
+:Web: http://elblogdehumitos.com/posts/sprint-de-python-en-resistencia-chaco/
+:Blog Post: http://elblogdehumitos.com/posts/primer-sprint-de-python-en-resistencia-chaco/

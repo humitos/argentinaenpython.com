@@ -1,1456 +1,2700 @@
 {
     "next": [
         {
-            "accuracy": 1.0641528440845, 
-            "address": "Santa Cruz de la Sierra, Provincia Andres Ibanez, SCZ, Bolivia", 
+            "accuracy": 0.8755299073009,
+            "address": "Barcelona, BCN, CAT, Espa\u00f1a",
             "bbox": {
                 "northeast": [
-                    -17.6236904, 
-                    -63.0221038
-                ], 
+                    41.468252,
+                    2.2283555
+                ],
                 "southwest": [
-                    -17.9436904, 
-                    -63.3421038
+                    41.3170353,
+                    2.0524977
                 ]
-            }, 
-            "city": "Santa Cruz de la Sierra", 
-            "confidence": 1, 
-            "country": "Bolivia", 
-            "county": "Provincia Andres Ibanez", 
-            "encoding": "utf-8", 
-            "geometry": {
-                "coordinates": [
-                    -63.1821038, 
-                    -17.7836904
-                ], 
-                "type": "Point"
-            }, 
-            "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png", 
-            "importance": 1.0641528440845, 
-            "lat": -17.7836904, 
-            "lng": -63.1821038, 
-            "location": "santa cruz de la sierra, bolivia", 
-            "method": "geocode", 
-            "ok": true, 
-            "osm_id": "415163462", 
-            "osm_type": "node", 
-            "place_id": "3832613", 
-            "place_rank": "16", 
-            "provider": "osm", 
-            "quality": "city", 
-            "region": "SCZ", 
-            "state": "SCZ", 
-            "status": "OK", 
-            "type": "city"
-        }, 
-        {
-            "address": "La Paz, Provincia Murillo, LPZ, Bolivia", 
-            "city": "La Paz", 
-            "country": "BO", 
-            "lat": -16.5065951, 
-            "lng": -68.1295102, 
-            "location": "la paz, bolivia", 
-            "osm_id": "1975648720", 
-            "osm_type": "node", 
-            "provider": "osm", 
-            "quality": "city", 
-            "state": "LPZ", 
-            "status": "OK"
-        }, 
-        {
-            "accuracy": 0.64761685113657, 
-            "address": "Copacabana, Provincia Manco Kapac, LPZ, Bolivia", 
-            "bbox": {
-                "northeast": [
-                    -16.1261162, 
-                    -69.0466975
-                ], 
-                "southwest": [
-                    -16.2061162, 
-                    -69.1266975
-                ]
-            }, 
-            "confidence": 4, 
-            "country": "Bolivia", 
-            "county": "Provincia Manco Kapac", 
-            "encoding": "utf-8", 
-            "geometry": {
-                "coordinates": [
-                    -69.0866975, 
-                    -16.1661162
-                ], 
-                "type": "Point"
-            }, 
-            "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_town.p.20.png", 
-            "importance": 0.64761685113657, 
-            "lat": -16.1661162, 
-            "lng": -69.0866975, 
-            "location": "copacabana, Manco Kapac, bolivia", 
-            "method": "geocode", 
-            "ok": true, 
-            "osm_id": "795662927", 
-            "osm_type": "node", 
-            "place_id": "7145283", 
-            "place_rank": "18", 
-            "provider": "osm", 
-            "quality": "town", 
-            "region": "LPZ", 
-            "state": "LPZ", 
-            "status": "OK", 
-            "town": "Copacabana", 
-            "type": "town"
-        }
-    ], 
-    "previous": [
-        {
-            "address": "Rafaela, Municipio de Rafaela, Departamento Castellanos, Santa Fe, Argentina", 
-            "city": "Rafaela", 
-            "country": "AR", 
-            "lat": -31.2519021, 
-            "lng": -61.4916101, 
-            "location": "rafaela, santa fe, argentina", 
-            "osm_id": "2277385", 
-            "osm_type": "relation", 
-            "provider": "osm", 
-            "quality": "administrative", 
-            "state": "Santa Fe", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Ceres, Municipio de Ceres, Departamento San Crist\u00f3bal, Santa Fe, Argentina", 
-            "country": "AR", 
-            "lat": -29.8819399, 
-            "lng": -61.9451954, 
-            "location": "ceres, santa fe, argentina", 
-            "osm_id": "198442985", 
-            "osm_type": "node", 
-            "provider": "osm", 
-            "quality": "town", 
-            "state": "Santa Fe", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Catamarca, Departamento Capital, Catamarca, 4700, Argentina", 
-            "city": "Catamarca", 
-            "country": "AR", 
-            "lat": -28.4688963, 
-            "lng": -65.7790753, 
-            "location": "san fernando del valle de catamarca, catamarca, argentina", 
-            "osm_id": "1846690", 
-            "osm_type": "relation", 
-            "postal": "4700", 
-            "provider": "osm", 
-            "quality": "city", 
-            "state": "Catamarca", 
-            "status": "OK"
-        }, 
-        {
-            "address": "San Miguel de Tucum\u00e1n, Departamento Capital, Tucum\u00e1n, Argentina", 
-            "country": "AR", 
-            "lat": -26.8474393, 
-            "lng": -65.2259153938646, 
-            "location": "san miguel de tucuman, tucuman, argentina", 
-            "osm_id": "3486117", 
-            "osm_type": "relation", 
-            "provider": "osm", 
-            "quality": "administrative", 
-            "state": "Tucum\u00e1n", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Tafi del Valle, Departamento Taf\u00ed del Valle, Tucum\u00e1n, Argentina", 
-            "country": "AR", 
-            "lat": -26.8511691, 
-            "lng": -65.6958151493311, 
-            "location": "taf\u00ed del valle, tucuman, argentina", 
-            "osm_id": "129179462", 
-            "osm_type": "way", 
-            "provider": "osm", 
-            "quality": "administrative", 
-            "state": "Tucum\u00e1n", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Amaicha del Valle, Departamento Taf\u00ed del Valle, Tucum\u00e1n, Argentina", 
-            "country": "AR", 
-            "lat": -26.5937944, 
-            "lng": -65.920251, 
-            "location": "amaicha del valle, tucuman, argentina", 
-            "osm_id": "198438827", 
-            "osm_type": "node", 
-            "provider": "osm", 
-            "quality": "village", 
-            "state": "Tucum\u00e1n", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Salta, Capital, Salta, Argentina", 
-            "city": "Salta", 
-            "country": "AR", 
-            "lat": -24.7893823, 
-            "lng": -65.4101933, 
-            "location": "salta, salta, argentina", 
-            "osm_id": "2722832", 
-            "osm_type": "relation", 
-            "provider": "osm", 
-            "quality": "city", 
-            "state": "Salta", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Cafayate, Salta, Argentina", 
-            "country": "AR", 
-            "lat": -26.1121205, 
-            "lng": -65.8990728210428, 
-            "location": "cafayate, salta, argentina", 
-            "osm_id": "3059841", 
-            "osm_type": "relation", 
-            "provider": "osm", 
-            "quality": "administrative", 
-            "state": "Salta", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Capilla del Monte, Departamento Punilla, C\u00f3rdoba, Argentina", 
-            "city": "Capilla del Monte", 
-            "country": "AR", 
-            "lat": -30.8568613, 
-            "lng": -64.5262607, 
-            "location": "capilla del monte, cordoba, argentina", 
-            "osm_id": "2284097", 
-            "osm_type": "relation", 
-            "provider": "osm", 
-            "quality": "administrative", 
-            "state": "C\u00f3rdoba", 
-            "status": "OK"
-        }, 
-        {
-            "address": "C\u00f3rdoba, Departamento Capital, C\u00f3rdoba, Argentina", 
-            "city": "C\u00f3rdoba", 
-            "country": "AR", 
-            "lat": -31.4167477, 
-            "lng": -64.1836023, 
-            "location": "cordoba, cordoba, argentina", 
-            "osm_id": "2466067279", 
-            "osm_type": "node", 
-            "provider": "osm", 
-            "quality": "city", 
-            "state": "C\u00f3rdoba", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Villa Tulumba, Tulumba, C\u00f3rdoba, Argentina", 
-            "country": "AR", 
-            "lat": -30.3942959, 
-            "lng": -64.1205121435444, 
-            "location": "villa tulumba, cordoba, argentina", 
-            "osm_id": "239381966", 
-            "osm_type": "way", 
-            "provider": "osm", 
-            "quality": "residential", 
-            "state": "C\u00f3rdoba", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Cruz del Eje, C\u00f3rdoba, Argentina", 
-            "country": "AR", 
-            "lat": -30.7282247, 
-            "lng": -64.7978746, 
-            "location": "cruz del eje, cordoba, argentina", 
-            "osm_id": "198446642", 
-            "osm_type": "node", 
-            "provider": "osm", 
-            "quality": "town", 
-            "state": "C\u00f3rdoba", 
-            "status": "OK"
-        }, 
-        {
-            "address": "CABA, Buenos Aires, Argentina", 
-            "city": "CABA", 
-            "country": "AR", 
-            "lat": -34.612869, 
-            "lng": -58.4459789, 
-            "location": "buenos aires, buenos aires, argentina", 
-            "osm_id": "1224652", 
-            "osm_type": "relation", 
-            "provider": "osm", 
-            "quality": "city", 
-            "state": "Buenos Aires", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Mart\u00ednez, Partido de San Isidro, Buenos Aires, Argentina", 
-            "city": "Mart\u00ednez", 
-            "country": "AR", 
-            "lat": -34.4939666, 
-            "lng": -58.510352, 
-            "location": "martinez, buenos aires, argentina", 
-            "osm_id": "1770849", 
-            "osm_type": "relation", 
-            "provider": "osm", 
-            "quality": "administrative", 
-            "state": "Buenos Aires", 
-            "status": "OK"
-        }, 
-        {
-            "address": "San Clemente del Tuy\u00fa, Partido de La Costa, Buenos Aires, Argentina", 
-            "city": "San Clemente del Tuy\u00fa", 
-            "country": "AR", 
-            "lat": -36.3559613, 
-            "lng": -56.7188989, 
-            "location": "san clemente del tuyu, buenos aires, argentina", 
-            "osm_id": "3399940", 
-            "osm_type": "relation", 
-            "provider": "osm", 
-            "quality": "administrative", 
-            "state": "Buenos Aires", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Quilmes, Partido de Quilmes, Buenos Aires, Argentina", 
-            "city": "Quilmes", 
-            "country": "AR", 
-            "lat": -34.7303025, 
-            "lng": -58.268868, 
-            "location": "quilmes, buenos aires, argentina", 
-            "osm_id": "2067960", 
-            "osm_type": "relation", 
-            "provider": "osm", 
-            "quality": "city", 
-            "state": "Buenos Aires", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Tigre, Partido de Tigre, Buenos Aires, Argentina", 
-            "city": "Tigre", 
-            "country": "AR", 
-            "lat": -34.4233349, 
-            "lng": -58.5786786, 
-            "location": "tigre, buenos aires, argentina", 
-            "osm_id": "2409645", 
-            "osm_type": "relation", 
-            "provider": "osm", 
-            "quality": "administrative", 
-            "state": "Buenos Aires", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Olivos, Vicente L\u00f3pez, Partido de Vicente L\u00f3pez, Buenos Aires, Argentina", 
-            "city": "Vicente L\u00f3pez", 
-            "country": "AR", 
-            "lat": -34.5132317, 
-            "lng": -58.4987369635549, 
-            "location": "olivos, buenos aires, argentina", 
-            "osm_id": "1270158", 
-            "osm_type": "relation", 
-            "provider": "osm", 
-            "quality": "administrative", 
-            "state": "Buenos Aires", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Gonz\u00e1lez Cat\u00e1n, Partido de La Matanza, Buenos Aires, Argentina", 
-            "city": "Gonz\u00e1lez Cat\u00e1n", 
-            "country": "AR", 
-            "lat": -34.7752996, 
-            "lng": -58.6412046, 
-            "location": "gonz\u00e1lez cat\u00e1n, buenos aires, argentina", 
-            "osm_id": "1751004", 
-            "osm_type": "relation", 
-            "provider": "osm", 
-            "quality": "city", 
-            "state": "Buenos Aires", 
-            "status": "OK"
-        }, 
-        {
-            "address": "San Marcos Sierra, Cruz del Eje, C\u00f3rdoba, Argentina", 
-            "city": "San Marcos Sierra", 
-            "country": "AR", 
-            "lat": -30.7830714, 
-            "lng": -64.6361009, 
-            "location": "san marcos sierra, c\u00f3rdoba, argentina", 
-            "osm_id": "2284136", 
-            "osm_type": "relation", 
-            "provider": "osm", 
-            "quality": "administrative", 
-            "state": "C\u00f3rdoba", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Mina Clavero, San Alberto, C\u00f3rdoba, Argentina", 
-            "country": "AR", 
-            "lat": -31.7224884, 
-            "lng": -65.0047267, 
-            "location": "mina clavero, c\u00f3rdoba, argentina", 
-            "osm_id": "198403848", 
-            "osm_type": "node", 
-            "provider": "osm", 
-            "quality": "town", 
-            "state": "C\u00f3rdoba", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Merlo, Jun\u00edn, San Luis, Argentina", 
-            "city": "Merlo", 
-            "country": "AR", 
-            "lat": -32.3434026, 
-            "lng": -65.0137972, 
-            "location": "merlo, san luis, argentina", 
-            "osm_id": "113230994", 
-            "osm_type": "way", 
-            "provider": "osm", 
-            "quality": "administrative", 
-            "state": "San Luis", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Ciudad de Mendoza, Secci\u00f3n 10\u00aa Residencial Los Cerros, Departamento Capital, Mendoza, Argentina", 
-            "city": "Ciudad de Mendoza", 
-            "country": "AR", 
-            "lat": -32.8808922, 
-            "lng": -68.8991190236928, 
-            "location": "mendoza, mendoza, argentina", 
-            "osm_id": "4206710", 
-            "osm_type": "relation", 
-            "provider": "osm", 
-            "quality": "administrative", 
-            "state": "Mendoza", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Trapiche, Coronel Pringles, San Luis, Argentina", 
-            "country": "AR", 
-            "lat": -33.1087793, 
-            "lng": -66.0627291, 
-            "location": "el trapiche, san luis, argentina", 
-            "osm_id": "198430578", 
-            "osm_type": "node", 
-            "provider": "osm", 
-            "quality": "village", 
-            "state": "San Luis", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Uspallata, Distrito Uspallata, Departamento Las Heras, Mendoza, Argentina", 
-            "country": "AR", 
-            "lat": -32.5908062, 
-            "lng": -69.3465546, 
-            "location": "uspallata , mendoza, argentina", 
-            "osm_id": "198432129", 
-            "osm_type": "node", 
-            "provider": "osm", 
-            "quality": "village", 
-            "state": "Mendoza", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Los Andes, Provincia de Los Andes, V Regi\u00f3n de Valpara\u00edso, Chile", 
-            "city": "Los Andes", 
-            "country": "CL", 
-            "lat": -32.8336683, 
-            "lng": -70.5981352, 
-            "location": "los andes, los andes, chile", 
-            "osm_id": "166557", 
-            "osm_type": "relation", 
-            "provider": "osm", 
-            "quality": "city", 
-            "state": "V Regi\u00f3n de Valpara\u00edso", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Vi\u00f1a del Mar, Provincia de Valpara\u00edso, V Regi\u00f3n de Valpara\u00edso, Chile", 
-            "city": "Vi\u00f1a del Mar", 
-            "country": "CL", 
-            "lat": -33.024503, 
-            "lng": -71.5518119, 
-            "location": "vi\u00f1a del mar, chile", 
-            "osm_id": "110804", 
-            "osm_type": "relation", 
-            "provider": "osm", 
-            "quality": "city", 
-            "state": "V Regi\u00f3n de Valpara\u00edso", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Paran\u00e1, Municipio de Paran\u00e1, Distrito Sauce, Departamento Paran\u00e1, Entre R\u00edos, Argentina", 
-            "city": "Paran\u00e1", 
-            "country": "AR", 
-            "lat": -31.7432607, 
-            "lng": -60.5171971, 
-            "location": "paran\u00e1, entre r\u00edos, argentina", 
-            "osm_id": "198409278", 
-            "osm_type": "node", 
-            "provider": "osm", 
-            "quality": "city", 
-            "state": "Entre R\u00edos", 
-            "status": "OK"
-        }, 
-        {
-            "address": "San Lorenzo, Capital, Salta, Argentina", 
-            "city": "San Lorenzo", 
-            "country": "AR", 
-            "lat": -24.7302907, 
-            "lng": -65.4878597, 
-            "location": "san lorenzo, salta, argentina", 
-            "osm_id": "2292088", 
-            "osm_type": "relation", 
-            "provider": "osm", 
-            "quality": "administrative", 
-            "state": "Salta", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Purmamarca, Departamento Tumbaya, Jujuy, Argentina", 
-            "country": "AR", 
-            "lat": -23.7461326, 
-            "lng": -65.4991577, 
-            "location": "purmamarca, jujuy, argentina", 
-            "osm_id": "198414983", 
-            "osm_type": "node", 
-            "provider": "osm", 
-            "quality": "village", 
-            "state": "Jujuy", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Tilcara, Departamento Tilcara, Jujuy, Argentina", 
-            "country": "AR", 
-            "lat": -23.5787673, 
-            "lng": -65.3943695, 
-            "location": "tilcara, jujuy, argentina", 
-            "osm_id": "198429516", 
-            "osm_type": "node", 
-            "provider": "osm", 
-            "quality": "town", 
-            "state": "Jujuy", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Santa Fe, Santa Fe Capital, Departamento La Capital, Santa Fe, S3000, Argentina", 
-            "city": "Santa Fe", 
-            "country": "AR", 
-            "lat": -31.6184553, 
-            "lng": -60.7029753, 
-            "location": "Santa Fe, Capital, Santa Fe, Argentina", 
-            "osm_id": "198423933", 
-            "osm_type": "node", 
-            "postal": "S3000", 
-            "provider": "osm", 
-            "quality": "city", 
-            "state": "Santa Fe", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Santiago del Estero, Capital, Santiago del Estero, Argentina", 
-            "city": "Santiago del Estero", 
-            "country": "AR", 
-            "lat": -27.7877148, 
-            "lng": -64.2595062, 
-            "location": "Santiago del Estero, Capital, Santiago del Estero, Argentina", 
-            "osm_id": "3759837", 
-            "osm_type": "relation", 
-            "provider": "osm", 
-            "quality": "city", 
-            "state": "Santiago del Estero", 
-            "status": "OK"
-        }, 
-        {
-            "address": "San Juan, Capital, San Juan, Argentina", 
-            "city": "San Juan", 
-            "country": "AR", 
-            "lat": -31.5370404, 
-            "lng": -68.5250194, 
-            "location": "San Juan, Capital, San Juan, Argentina", 
-            "osm_id": "198421467", 
-            "osm_type": "node", 
-            "provider": "osm", 
-            "quality": "city", 
-            "state": "San Juan", 
-            "status": "OK"
-        }, 
-        {
-            "address": "San Luis, Juan Mart\u00edn de Pueyrred\u00f3n, San Luis, Argentina", 
-            "city": "San Luis", 
-            "country": "AR", 
-            "lat": -33.3019696, 
-            "lng": -66.3369903, 
-            "location": "San Luis, Juan Mart\u00edn de Pueyrred\u00f3n, San Luis, Argentina", 
-            "osm_id": "3450259", 
-            "osm_type": "relation", 
-            "provider": "osm", 
-            "quality": "city", 
-            "state": "San Luis", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Villa Cura Brochero, San Alberto, C\u00f3rdoba, Argentina", 
-            "country": "AR", 
-            "lat": -31.7063631, 
-            "lng": -65.0185958, 
-            "location": "villa cura brochero, c\u00f3rdoba, argentina", 
-            "osm_id": "198433819", 
-            "osm_type": "node", 
-            "provider": "osm", 
-            "quality": "village", 
-            "state": "C\u00f3rdoba", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Humahuaca, Departamento Humahuaca, Jujuy, Argentina", 
-            "city": "Humahuaca", 
-            "country": "AR", 
-            "lat": -23.2052548, 
-            "lng": -65.3481454, 
-            "location": "humahuaca, jujuy, argentina", 
-            "osm_id": "2294331", 
-            "osm_type": "relation", 
-            "provider": "osm", 
-            "quality": "administrative", 
-            "state": "Jujuy", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Valpara\u00edso, Provincia de Valpara\u00edso, V Regi\u00f3n de Valpara\u00edso, Chile", 
-            "city": "Valpara\u00edso", 
-            "country": "CL", 
-            "lat": -33.0475721, 
-            "lng": -71.6153581, 
-            "location": "valparaiso, provincia del valparaiso, chile", 
-            "osm_id": "110808", 
-            "osm_type": "relation", 
-            "provider": "osm", 
-            "quality": "city", 
-            "state": "V Regi\u00f3n de Valpara\u00edso", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Concordia, Municipio de Concordia, Distrito Suburbios, Departamento Concordia, Entre R\u00edos, Argentina", 
-            "city": "Concordia", 
-            "country": "AR", 
-            "lat": -31.3972539, 
-            "lng": -58.0173305, 
-            "location": "concordia, entre r\u00edos, argentina", 
-            "osm_id": "198445828", 
-            "osm_type": "node", 
-            "provider": "osm", 
-            "quality": "city", 
-            "state": "Entre R\u00edos", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Salto, 50000, Uruguay", 
-            "city": "Salto", 
-            "country": "UY", 
-            "lat": -31.38889, 
-            "lng": -57.9608876, 
-            "location": "salto, salto, uruguay", 
-            "osm_id": "3414038", 
-            "osm_type": "relation", 
-            "postal": "50000", 
-            "provider": "osm", 
-            "quality": "city", 
-            "state": "Salto", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Mercedes, Municipio de Mercedes, Departamento Mercedes, Corrientes, Argentina", 
-            "city": "Mercedes", 
-            "country": "AR", 
-            "lat": -29.1835645, 
-            "lng": -58.0799951, 
-            "location": "mercedes, corrientes, argentina", 
-            "osm_id": "198403599", 
-            "osm_type": "node", 
-            "provider": "osm", 
-            "quality": "town", 
-            "state": "Corrientes", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Bella Vista, Municipio de Bella Vista, Departamento Bella Vista, Corrientes, Argentina", 
-            "country": "AR", 
-            "lat": -28.5073653, 
-            "lng": -59.0452284, 
-            "location": "bella vista, corrientes, argentina", 
-            "osm_id": "198440694", 
-            "osm_type": "node", 
-            "provider": "osm", 
-            "quality": "town", 
-            "state": "Corrientes", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Chajar\u00ed, Municipio de Chajar\u00ed, Distrito Mandisov\u00ed, Departamento Federaci\u00f3n, Entre R\u00edos, Argentina", 
-            "country": "AR", 
-            "lat": -30.7565741, 
-            "lng": -57.9848989, 
-            "location": "chajar\u00ed, entre r\u00edos, argentina", 
-            "osm_id": "198443272", 
-            "osm_type": "node", 
-            "provider": "osm", 
-            "quality": "town", 
-            "state": "Entre R\u00edos", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Corrientes, Municipio de Corrientes, Departamento Capital, Corrientes, Argentina", 
-            "city": "Corrientes", 
-            "country": "AR", 
-            "lat": -27.4720342, 
-            "lng": -58.8328658, 
-            "location": "corrientes, corrientes, argentina", 
-            "osm_id": "198446469", 
-            "osm_type": "node", 
-            "provider": "osm", 
-            "quality": "city", 
-            "state": "Corrientes", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Las Bre\u00f1as, Departamento Nueve de Julio, Chaco, Argentina", 
-            "country": "AR", 
-            "lat": -27.0863246, 
-            "lng": -61.0859456, 
-            "location": "Las Bre\u00f1as, Departamento Nueve de Julio, Chaco, Argentina", 
-            "osm_id": "1665510", 
-            "osm_type": "relation", 
-            "provider": "osm", 
-            "quality": "administrative", 
-            "state": "Chaco", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Resistencia, Departamento San Fernando, Chaco, Argentina", 
-            "city": "Resistencia", 
-            "country": "AR", 
-            "lat": -27.4511043, 
-            "lng": -58.9865646, 
-            "location": "resistencia, chaco, argentina", 
-            "osm_id": "1572779", 
-            "osm_type": "relation", 
-            "provider": "osm", 
-            "quality": "city", 
-            "state": "Chaco", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Formosa, Departamento Formosa, Formosa, Argentina", 
-            "city": "Formosa", 
-            "country": "AR", 
-            "lat": -26.1852983, 
-            "lng": -58.1744976, 
-            "location": "formosa, formosa, argentina", 
-            "osm_id": "2294368", 
-            "osm_type": "relation", 
-            "provider": "osm", 
-            "quality": "city", 
-            "state": "Formosa", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Nuestra Se\u00f1ora del Rosario de Caa Cat\u00ed, Municipio de Nuestra Se\u00f1ora del Rosario de Ca\u00e1 Cat\u00ed, Departamento General Paz, Corrientes, Argentina", 
-            "country": "AR", 
-            "lat": -27.75, 
-            "lng": -57.616667, 
-            "location": "nuestra se\u00f1ora del rosario de ca\u00e1 cat\u00ed, corrientes, argentina", 
-            "osm_id": "198406750", 
-            "osm_type": "node", 
-            "provider": "osm", 
-            "quality": "hamlet", 
-            "state": "Corrientes", 
-            "status": "OK"
-        }, 
-        {
-            "address": "San Miguel, Municipio de San Miguel, Departamento San Miguel, Corrientes, Argentina", 
-            "country": "AR", 
-            "lat": -27.9983245, 
-            "lng": -57.5872963, 
-            "location": "san miguel, corrientes, argentina", 
-            "osm_id": "198422106", 
-            "osm_type": "node", 
-            "provider": "osm", 
-            "quality": "village", 
-            "state": "Corrientes", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Santa Ana, Municipio de Santa Ana, Departamento San Cosme, Corrientes, Argentina", 
-            "country": "AR", 
-            "lat": -27.4553563, 
-            "lng": -58.6547774, 
-            "location": "santa ana, corrientes, argentina", 
-            "osm_id": "198423396", 
-            "osm_type": "node", 
-            "provider": "osm", 
-            "quality": "village", 
-            "state": "Corrientes", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Mburucuy\u00e1, Municipio de Mburucuy\u00e1, Departamento Mburucuy\u00e1, Corrientes, Argentina", 
-            "country": "AR", 
-            "lat": -28.0430389, 
-            "lng": -58.228588, 
-            "location": "mburucuy\u00e1, corrientes, argentina", 
-            "osm_id": "198403144", 
-            "osm_type": "node", 
-            "provider": "osm", 
-            "quality": "village", 
-            "state": "Corrientes", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Laguna Naineck, Departamento Pilcomayo, Formosa, Argentina", 
-            "country": "AR", 
-            "lat": -25.2189965, 
-            "lng": -58.1219241, 
-            "location": "laguna naineck, formosa, argentina", 
-            "osm_id": "198456057", 
-            "osm_type": "node", 
-            "provider": "osm", 
-            "quality": "village", 
-            "state": "Formosa", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Herradura, Departamento Laishi, Formosa, Argentina", 
-            "country": "AR", 
-            "lat": -26.4892536, 
-            "lng": -58.311546, 
-            "location": "herradura, formosa, argentina", 
-            "osm_id": "198452211", 
-            "osm_type": "node", 
-            "provider": "osm", 
-            "quality": "village", 
-            "state": "Formosa", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Asunci\u00f3n, Distrito Capital de Paraguay, Regi\u00f3n Oriental, Paraguay", 
-            "city": "Asunci\u00f3n", 
-            "country": "PY", 
-            "lat": -25.2960638, 
-            "lng": -57.6311446, 
-            "location": "asunci\u00f3n, distrito capital de paraguay, paraguay", 
-            "osm_id": "249854726", 
-            "osm_type": "node", 
-            "provider": "osm", 
-            "quality": "city", 
-            "state": "Distrito Capital de Paraguay", 
-            "status": "OK"
-        }, 
-        {
-            "address": "San Bernardino, Cordillera, Regi\u00f3n Oriental, Paraguay", 
-            "country": "PY", 
-            "lat": -25.3087796, 
-            "lng": -57.2958319, 
-            "location": "san bernardino, paraguay", 
-            "osm_id": "1317869054", 
-            "osm_type": "node", 
-            "provider": "osm", 
-            "quality": "town", 
-            "state": "Cordillera", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Caacup\u00e9, Cordillera, Regi\u00f3n Oriental, Paraguay", 
-            "country": "PY", 
-            "lat": -25.3855654, 
-            "lng": -57.1401431, 
-            "location": "caacupe, paraguay", 
-            "osm_id": "313910428", 
-            "osm_type": "node", 
-            "provider": "osm", 
-            "quality": "town", 
-            "state": "Cordillera", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Minga Guaz\u00fa, Alto Paran\u00e1, Regi\u00f3n Oriental, Paraguay", 
-            "country": "PY", 
-            "lat": -25.4868943, 
-            "lng": -54.7645406, 
-            "location": "minga guaz\u00fa, paraguay", 
-            "osm_id": "2003302090", 
-            "osm_type": "node", 
-            "provider": "osm", 
-            "quality": "town", 
-            "state": "Alto Paran\u00e1", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Ciudad del Este, Alto Paran\u00e1, Regi\u00f3n Oriental, Paraguay", 
-            "city": "Ciudad del Este", 
-            "country": "PY", 
-            "lat": -25.5169015, 
-            "lng": -54.6168645, 
-            "location": "ciudad del este, paraguay", 
-            "osm_id": "319466986", 
-            "osm_type": "node", 
-            "provider": "osm", 
-            "quality": "city", 
-            "state": "Alto Paran\u00e1", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Villarrica, Guair\u00e1, Regi\u00f3n Oriental, 5000, Paraguay", 
-            "city": "Villarrica", 
-            "country": "PY", 
-            "lat": -25.7809839, 
-            "lng": -56.4478765, 
-            "location": "villarrica, paraguay", 
-            "osm_id": "313912581", 
-            "osm_type": "node", 
-            "postal": "5000", 
-            "provider": "osm", 
-            "quality": "city", 
-            "state": "Guair\u00e1", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Puerto Iguaz\u00fa, Municipio de Puerto Iguaz\u00fa, Departamento Iguaz\u00fa, Misiones, Argentina", 
-            "city": "Puerto Iguaz\u00fa", 
-            "country": "AR", 
-            "lat": -25.5971395, 
-            "lng": -54.5770904, 
-            "location": "puerto iguaz\u00fa, misiones, argentina", 
-            "osm_id": "2294418", 
-            "osm_type": "relation", 
-            "provider": "osm", 
-            "quality": "administrative", 
-            "state": "Misiones", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Foz do Igua\u00e7u, PR, Regi\u00e3o Sul, Brasil", 
-            "city": "Foz do Igua\u00e7u", 
-            "country": "BR", 
-            "lat": -25.5166657, 
-            "lng": -54.5852351, 
-            "location": "foz do iguacu, brasil", 
-            "osm_id": "297473", 
-            "osm_type": "relation", 
-            "provider": "osm", 
-            "quality": "city", 
-            "state": "PR", 
-            "status": "OK"
-        }, 
-        {
-            "address": "San Ignacio, Municipio de San Ignacio, Departamento San Ignacio, Misiones, Argentina", 
-            "city": "San Ignacio", 
-            "country": "AR", 
-            "lat": -27.256382, 
-            "lng": -55.5366467, 
-            "location": "san ignacio, misiones, argentina", 
-            "osm_id": "3489868", 
-            "osm_type": "relation", 
-            "provider": "osm", 
-            "quality": "administrative", 
-            "state": "Misiones", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Posadas, Municipio de Posadas, Departamento Capital, Misiones, Argentina", 
-            "city": "Posadas", 
-            "country": "AR", 
-            "lat": -27.3665072, 
-            "lng": -55.8941895, 
-            "location": "posadas, misiones, argentina", 
-            "osm_id": "2294383", 
-            "osm_type": "relation", 
-            "provider": "osm", 
-            "quality": "city", 
-            "state": "Misiones", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Ap\u00f3stoles, Municipio de Ap\u00f3stoles, Departamento Ap\u00f3stoles, Misiones, Argentina", 
-            "city": "Ap\u00f3stoles", 
-            "country": "AR", 
-            "lat": -27.9141743, 
-            "lng": -55.7549335, 
-            "location": "apostoles, misiones, argentina", 
-            "osm_id": "3966895", 
-            "osm_type": "relation", 
-            "provider": "osm", 
-            "quality": "administrative", 
-            "state": "Misiones", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Eldorado, Municipio de Eldorado, Departamento Eldorado, Misiones, Argentina", 
-            "city": "Eldorado", 
-            "country": "AR", 
-            "lat": -26.404486, 
-            "lng": -54.6258412, 
-            "location": "eldorado, misiones, argentina", 
-            "osm_id": "4002038", 
-            "osm_type": "relation", 
-            "provider": "osm", 
-            "quality": "administrative", 
-            "state": "Misiones", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Encarnaci\u00f3n, Itap\u00faa, Regi\u00f3n Oriental, 6000, Paraguay", 
-            "country": "PY", 
-            "lat": -27.3385816, 
-            "lng": -55.8668456, 
-            "location": "encarnaci\u00f3n, paraguay", 
-            "osm_id": "243191014", 
-            "osm_type": "node", 
-            "postal": "6000", 
-            "provider": "osm", 
-            "quality": "town", 
-            "state": "Itap\u00faa", 
-            "status": "OK"
-        }, 
-        {
-            "address": "La Colmena, Paraguar\u00ed, Regi\u00f3n Oriental, Paraguay", 
-            "country": "PY", 
-            "lat": -25.8856298, 
-            "lng": -56.8404292, 
-            "location": "La Colmena, Paraguay", 
-            "osm_id": "164060308", 
-            "osm_type": "way", 
-            "provider": "osm", 
-            "quality": "town", 
-            "state": "Paraguar\u00ed", 
-            "status": "OK"
-        }, 
-        {
-            "accuracy": 0.775, 
-            "address": "San Cosme y Dami\u00e1n, Itap\u00faa, Regi\u00f3n Oriental, Paraguay", 
-            "bbox": {
-                "northeast": [
-                    -27.3061213, 
-                    -56.3238366
-                ], 
-                "southwest": [
-                    -27.3249375, 
-                    -56.3387926
-                ]
-            }, 
-            "confidence": 7, 
-            "country": "Paraguay", 
-            "encoding": "utf-8", 
-            "geometry": {
-                "coordinates": [
-                    -56.3317449, 
-                    -27.3130757
-                ], 
-                "type": "Point"
-            }, 
-            "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_village.p.20.png", 
-            "importance": 0.775, 
-            "lat": -27.3130757, 
-            "lng": -56.3317449, 
-            "location": "san cosme y dami\u00e1n, paraguay", 
-            "method": "geocode", 
-            "ok": true, 
-            "osm_id": "161211630", 
-            "osm_type": "way", 
-            "place_id": "92534872", 
-            "place_rank": "19", 
-            "provider": "osm", 
-            "quality": "village", 
-            "region": "Itap\u00faa", 
-            "state": "Itap\u00faa", 
-            "status": "OK", 
-            "type": "village", 
-            "village": "San Cosme y Dami\u00e1n"
-        }, 
-        {
-            "accuracy": 0.64761685113657, 
-            "address": "San Ignacio Guaz\u00fa, Misiones, Regi\u00f3n Oriental, Paraguay", 
-            "bbox": {
-                "northeast": [
-                    -26.8732244, 
-                    -57.0027283
-                ], 
-                "southwest": [
-                    -26.9018622, 
-                    -57.0444846
-                ]
-            }, 
-            "confidence": 6, 
-            "country": "Paraguay", 
-            "encoding": "utf-8", 
-            "geometry": {
-                "coordinates": [
-                    -57.0245787, 
-                    -26.8904131
-                ], 
-                "type": "Point"
-            }, 
-            "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_town.p.20.png", 
-            "importance": 0.64761685113657, 
-            "lat": -26.8904131, 
-            "lng": -57.0245787, 
-            "location": "san ignacio guaz\u00fa, paraguay", 
-            "method": "geocode", 
-            "ok": true, 
-            "osm_id": "130657689", 
-            "osm_type": "way", 
-            "place_id": "84498198", 
-            "place_rank": "18", 
-            "provider": "osm", 
-            "quality": "town", 
-            "region": "Misiones", 
-            "state": "Misiones", 
-            "status": "OK", 
-            "town": "San Ignacio Guaz\u00fa", 
-            "type": "town"
-        }, 
-        {
-            "accuracy": 0.301, 
-            "address": "Parque nacional Ybycu\u00ed, Ramal Carapegu\u00e1 a la Rosada, Paraguar\u00ed, Regi\u00f3n Oriental, Paraguay", 
-            "bbox": {
-                "northeast": [
-                    -26.0461055, 
-                    -56.7841862
-                ], 
-                "southwest": [
-                    -26.1073584, 
-                    -56.8666438
-                ]
-            }, 
-            "confidence": 4, 
-            "country": "Paraguay", 
-            "encoding": "utf-8", 
-            "geometry": {
-                "coordinates": [
-                    -56.8199438866846, 
-                    -26.0771897
-                ], 
-                "type": "Point"
-            }, 
-            "importance": 0.301, 
-            "lat": -26.0771897, 
-            "lng": -56.8199438866846, 
-            "location": "parque nacional ybycui, paraguay", 
-            "method": "geocode", 
-            "ok": true, 
-            "osm_id": "343108721", 
-            "osm_type": "way", 
-            "place_id": "2584448581", 
-            "place_rank": "30", 
-            "provider": "osm", 
-            "quality": "nature_reserve", 
-            "region": "Paraguar\u00ed", 
-            "state": "Paraguar\u00ed", 
-            "status": "OK", 
-            "street": "Ramal Carapegu\u00e1 a la Rosada", 
-            "type": "nature_reserve"
-        }, 
-        {
-            "accuracy": 0.46123930027934, 
-            "address": "Sapuca\u00ed, Paraguar\u00ed, Regi\u00f3n Oriental, Paraguay", 
-            "bbox": {
-                "northeast": [
-                    -25.6577272, 
-                    -56.9399572
-                ], 
-                "southwest": [
-                    -25.6771459, 
-                    -56.970831
-                ]
-            }, 
-            "confidence": 7, 
-            "country": "Paraguay", 
-            "encoding": "utf-8", 
-            "geometry": {
-                "coordinates": [
-                    -56.9524852, 
-                    -25.6647857
-                ], 
-                "type": "Point"
-            }, 
-            "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_town.p.20.png", 
-            "importance": 0.46123930027934, 
-            "lat": -25.6647857, 
-            "lng": -56.9524852, 
-            "location": "sapuca\u00ed, paraguay", 
-            "method": "geocode", 
-            "ok": true, 
-            "osm_id": "133153159", 
-            "osm_type": "way", 
-            "place_id": "85092165", 
-            "place_rank": "18", 
-            "provider": "osm", 
-            "quality": "town", 
-            "region": "Paraguar\u00ed", 
-            "state": "Paraguar\u00ed", 
-            "status": "OK", 
-            "town": "Sapuca\u00ed", 
-            "type": "town"
-        }, 
-        {
-            "accuracy": 0.63940162059147, 
-            "address": "Paraguar\u00ed, Regi\u00f3n Oriental, Paraguay", 
-            "bbox": {
-                "northeast": [
-                    -25.5807309, 
-                    -57.1075978
-                ], 
-                "southwest": [
-                    -25.6607309, 
-                    -57.1875978
-                ]
-            }, 
-            "confidence": 4, 
-            "country": "Paraguay", 
-            "encoding": "utf-8", 
-            "geometry": {
-                "coordinates": [
-                    -57.1475978, 
-                    -25.6207309
-                ], 
-                "type": "Point"
-            }, 
-            "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_town.p.20.png", 
-            "importance": 0.63940162059147, 
-            "lat": -25.6207309, 
-            "lng": -57.1475978, 
-            "location": "paraguar\u00ed, paraguar\u00ed, paraguay", 
-            "method": "geocode", 
-            "ok": true, 
-            "osm_id": "313921866", 
-            "osm_type": "node", 
-            "place_id": "1351097", 
-            "place_rank": "18", 
-            "provider": "osm", 
-            "quality": "town", 
-            "region": "Paraguar\u00ed", 
-            "state": "Paraguar\u00ed", 
-            "status": "OK", 
-            "town": "Paraguar\u00ed", 
-            "type": "town"
-        }, 
-        {
-            "accuracy": 0.76748918685134, 
-            "address": "San Miguel, Misiones, Regi\u00f3n Oriental, Paraguay", 
-            "bbox": {
-                "northeast": [
-                    -26.5276959, 
-                    -57.0342896
-                ], 
-                "southwest": [
-                    -26.5392629, 
-                    -57.04428
-                ]
-            }, 
-            "confidence": 7, 
-            "country": "Paraguay", 
-            "encoding": "utf-8", 
-            "geometry": {
-                "coordinates": [
-                    -57.0406464, 
-                    -26.5342748
-                ], 
-                "type": "Point"
-            }, 
-            "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_town.p.20.png", 
-            "importance": 0.76748918685134, 
-            "lat": -26.5342748, 
-            "lng": -57.0406464, 
-            "location": "San Miguel, San Miguel, Misiones, Paraguay", 
-            "method": "geocode", 
-            "ok": true, 
-            "osm_id": "130659801", 
-            "osm_type": "way", 
-            "place_id": "85439929", 
-            "place_rank": "18", 
-            "provider": "osm", 
-            "quality": "town", 
-            "region": "Misiones", 
-            "state": "Misiones", 
-            "status": "OK", 
-            "town": "San Miguel", 
-            "type": "town"
-        },
-        {
-            "accuracy": 0.96112680251344, 
-            "address": "San Salvador de Jujuy, Municipio de San Salvador de Jujuy, Departamento Doctor Manuel Belgrano, Jujuy, Argentina", 
-            "bbox": {
-                "northeast": [
-                    -24.1537114, 
-                    -65.2281767
-                ], 
-                "southwest": [
-                    -24.2763383, 
-                    -65.3787561
-                ]
-            }, 
-            "city": "San Salvador de Jujuy", 
-            "confidence": 2, 
-            "country": "Argentina", 
-            "county": "Municipio de San Salvador de Jujuy", 
-            "encoding": "utf-8", 
-            "geometry": {
-                "coordinates": [
-                    -65.2992907, 
-                    -24.1854687
-                ], 
-                "type": "Point"
-            }, 
-            "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png", 
-            "importance": 0.96112680251344, 
-            "lat": -24.1854687, 
-            "lng": -65.2992907, 
-            "location": "san salvador de jujuy, jujuy, argentina", 
-            "method": "geocode", 
-            "ok": true, 
-            "osm_id": "2294307", 
-            "osm_type": "relation", 
-            "place_id": "127992045", 
-            "place_rank": 16, 
-            "provider": "osm", 
-            "quality": "city", 
-            "region": "Jujuy", 
-            "state": "Jujuy", 
-            "status": "OK", 
+            },
+            "city": "Barcelona",
+            "confidence": 2,
+            "country": "Espa\u00f1a",
+            "country_code": "es",
+            "county": "BCN",
+            "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+            "importance": 0.8755299073009,
+            "lat": 41.3828939,
+            "lng": 2.1774322,
+            "ok": true,
+            "osm_id": "347950",
+            "osm_type": "relation",
+            "place_id": "179523246",
+            "place_rank": 16,
+            "quality": "city",
+            "raw": {
+                "address": {
+                    "city": "Barcelona",
+                    "country": "Espa\u00f1a",
+                    "country_code": "es",
+                    "county": "BCN",
+                    "state": "CAT"
+                },
+                "boundingbox": [
+                    "41.3170353",
+                    "41.468252",
+                    "2.0524977",
+                    "2.2283555"
+                ],
+                "category": "place",
+                "display_name": "Barcelona, BCN, CAT, Espa\u00f1a",
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+                "importance": 0.8755299073009,
+                "lat": "41.3828939",
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "lon": "2.1774322",
+                "osm_id": "347950",
+                "osm_type": "relation",
+                "place_id": "179523246",
+                "place_rank": 16,
+                "type": "city"
+            },
+            "region": "CAT",
+            "state": "CAT",
+            "status": "OK",
             "type": "city"
         },
         {
-            "accuracy": 0.63050715237377, 
-            "address": "La Quiaca, Departamento Yavi, Jujuy, Argentina", 
+            "accuracy": 0.85204361110498,
+            "address": "\u6771\u4eac, \u5343\u4ee3\u7530\u533a, \u6771\u4eac\u90fd, \u95a2\u6771\u5730\u65b9, 100-0002, \u65e5\u672c",
             "bbox": {
                 "northeast": [
-                    -22.0964459, 
-                    -65.5791196
-                ], 
+                    35.8428387,
+                    139.9194549
+                ],
                 "southwest": [
-                    -22.1228275, 
-                    -65.6102195
+                    35.5228387,
+                    139.5994549
                 ]
-            }, 
-            "city": "La Quiaca", 
-            "confidence": 7, 
-            "country": "Argentina", 
-            "encoding": "utf-8", 
-            "geometry": {
-                "coordinates": [
-                    -65.596754, 
-                    -22.1046124
-                ], 
-                "type": "Point"
-            }, 
-            "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png", 
-            "importance": 0.63050715237377, 
-            "lat": -22.1046124, 
-            "lng": -65.596754, 
-            "location": "la quiaca, jujuy, argentina", 
-            "method": "geocode", 
-            "ok": true, 
-            "osm_id": "2294361", 
-            "osm_type": "relation", 
-            "place_id": "127943274", 
-            "place_rank": "16", 
-            "provider": "osm", 
-            "quality": "administrative", 
-            "region": "Jujuy", 
-            "state": "Jujuy", 
-            "status": "OK", 
+            },
+            "city": "\u6771\u4eac",
+            "confidence": 1,
+            "country": "\u65e5\u672c",
+            "country_code": "jp",
+            "county": "\u5343\u4ee3\u7530\u533a",
+            "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+            "importance": 0.85204361110498,
+            "lat": 35.6828387,
+            "lng": 139.7594549,
+            "ok": true,
+            "osm_id": "265018692",
+            "osm_type": "node",
+            "place_id": "782266",
+            "place_rank": "15",
+            "postal": "100-0002",
+            "quality": "city",
+            "raw": {
+                "address": {
+                    "city": "\u6771\u4eac",
+                    "country": "\u65e5\u672c",
+                    "country_code": "jp",
+                    "county": "\u5343\u4ee3\u7530\u533a",
+                    "postcode": "100-0002",
+                    "region": "\u95a2\u6771\u5730\u65b9",
+                    "state": "\u6771\u4eac\u90fd"
+                },
+                "boundingbox": [
+                    "35.5228387",
+                    "35.8428387",
+                    "139.5994549",
+                    "139.9194549"
+                ],
+                "category": "place",
+                "display_name": "\u6771\u4eac, \u5343\u4ee3\u7530\u533a, \u6771\u4eac\u90fd, \u95a2\u6771\u5730\u65b9, 100-0002, \u65e5\u672c",
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+                "importance": 0.85204361110498,
+                "lat": "35.6828387",
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "lon": "139.7594549",
+                "osm_id": "265018692",
+                "osm_type": "node",
+                "place_id": "782266",
+                "place_rank": "15",
+                "type": "city"
+            },
+            "region": "\u6771\u4eac\u90fd",
+            "state": "\u6771\u4eac\u90fd",
+            "status": "OK",
+            "type": "city"
+        },
+        {
+            "accuracy": 0.62359836669253,
+            "address": "M\u00e1laga, Andaluc\u00eda, Espa\u00f1a",
+            "bbox": {
+                "northeast": [
+                    36.8940412,
+                    -4.2604897
+                ],
+                "southwest": [
+                    36.6345688,
+                    -4.5878887
+                ]
+            },
+            "city": "M\u00e1laga",
+            "confidence": 1,
+            "country": "Espa\u00f1a",
+            "country_code": "es",
+            "county": "M\u00e1laga",
+            "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png",
+            "importance": 0.62359836669253,
+            "lat": 36.7213028,
+            "lng": -4.4216366,
+            "ok": true,
+            "osm_id": "340746",
+            "osm_type": "relation",
+            "place_id": "177752900",
+            "place_rank": "16",
+            "quality": "administrative",
+            "raw": {
+                "address": {
+                    "city": "M\u00e1laga",
+                    "country": "Espa\u00f1a",
+                    "country_code": "es",
+                    "county": "M\u00e1laga",
+                    "state": "Andaluc\u00eda"
+                },
+                "boundingbox": [
+                    "36.6345688",
+                    "36.8940412",
+                    "-4.5878887",
+                    "-4.2604897"
+                ],
+                "category": "boundary",
+                "display_name": "M\u00e1laga, Andaluc\u00eda, Espa\u00f1a",
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png",
+                "importance": 0.62359836669253,
+                "lat": "36.7213028",
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "lon": "-4.4216366",
+                "osm_id": "340746",
+                "osm_type": "relation",
+                "place_id": "177752900",
+                "place_rank": "16",
+                "type": "administrative"
+            },
+            "region": "Andaluc\u00eda",
+            "state": "Andaluc\u00eda",
+            "status": "OK",
             "type": "administrative"
         },
         {
-            "address": "Potos\u00ed, Provincia Tomas Frias, PSI, Bolivia", 
-            "city": "Potos\u00ed", 
-            "country": "BO", 
-            "lat": -19.5892815, 
-            "lng": -65.7535106, 
-            "location": "potosi, bolivia", 
-            "osm_id": "277381654", 
-            "osm_type": "node", 
-            "provider": "osm", 
-            "quality": "city", 
-            "state": "PSI", 
-            "status": "OK"
-        },
-        {
-            "address": "Uyuni, Provincia Antonio Quijarro, Potos\u00ed, Bolivia", 
-            "country": "BO", 
-            "lat": -20.4599417, 
-            "lng": -66.8225116, 
-            "location": "uyuni, bolivia", 
-            "osm_id": "795493613", 
-            "osm_type": "node", 
-            "provider": "osm", 
-            "quality": "town", 
-            "state": "Potos\u00ed", 
-            "status": "OK"
-        }, 
-        {
-            "address": "Sucre, Provincia Oropeza, CHQ, Bolivia", 
-            "city": "Sucre", 
-            "country": "BO", 
-            "lat": -19.047862, 
-            "lng": -65.2596023, 
-            "location": "sucre, bolivia", 
-            "osm_id": "313764484", 
-            "osm_type": "node", 
-            "provider": "osm", 
-            "quality": "city", 
-            "state": "CHQ", 
-            "status": "OK"
-        },
-        {
-            "accuracy": 0.68201488613777, 
-            "address": "Oruro, Provincia Cercado, ORU, Bolivia", 
+            "accuracy": 1.0598211827753,
+            "address": "Santiago, Provincia de Santiago, Regi\u00f3n Metropolitana de Santiago, Chile",
             "bbox": {
                 "northeast": [
-                    -17.8003802, 
-                    -66.9501439
-                ], 
+                    -33.4265436,
+                    -70.6249963
+                ],
                 "southwest": [
-                    -18.1203802, 
-                    -67.2701439
+                    -33.4784736,
+                    -70.6920166
                 ]
-            }, 
-            "city": "Oruro", 
-            "confidence": 1, 
-            "country": "Bolivia", 
-            "county": "Provincia Cercado", 
-            "encoding": "utf-8", 
-            "geometry": {
-                "coordinates": [
-                    -67.1101439, 
-                    -17.9603802
-                ], 
-                "type": "Point"
-            }, 
-            "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png", 
-            "importance": 0.68201488613777, 
-            "lat": -17.9603802, 
-            "lng": -67.1101439, 
-            "location": "oruro, bolivia", 
-            "method": "geocode", 
-            "ok": true, 
-            "osm_id": "319780564", 
-            "osm_type": "node", 
-            "place_id": "1399364", 
-            "place_rank": "16", 
-            "provider": "osm", 
-            "quality": "city", 
-            "region": "ORU", 
-            "state": "ORU", 
-            "status": "OK", 
+            },
+            "city": "Santiago",
+            "confidence": 5,
+            "country": "Chile",
+            "country_code": "cl",
+            "county": "Provincia de Santiago",
+            "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+            "importance": 1.0598211827753,
+            "lat": -33.4377968,
+            "lng": -70.6504451,
+            "ok": true,
+            "osm_id": "164609",
+            "osm_type": "relation",
+            "place_id": "177689596",
+            "place_rank": 16,
+            "quality": "city",
+            "raw": {
+                "address": {
+                    "city": "Santiago",
+                    "country": "Chile",
+                    "country_code": "cl",
+                    "county": "Provincia de Santiago",
+                    "state": "Regi\u00f3n Metropolitana de Santiago"
+                },
+                "boundingbox": [
+                    "-33.4784736",
+                    "-33.4265436",
+                    "-70.6920166",
+                    "-70.6249963"
+                ],
+                "category": "place",
+                "display_name": "Santiago, Provincia de Santiago, Regi\u00f3n Metropolitana de Santiago, Chile",
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+                "importance": 1.0598211827753,
+                "lat": "-33.4377968",
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "lon": "-70.6504451",
+                "osm_id": "164609",
+                "osm_type": "relation",
+                "place_id": "177689596",
+                "place_rank": 16,
+                "type": "city"
+            },
+            "region": "Regi\u00f3n Metropolitana de Santiago",
+            "state": "Regi\u00f3n Metropolitana de Santiago",
+            "status": "OK",
             "type": "city"
         },
         {
-            "address": "Cochabamba, Provincia Cercado, CBA, Bolivia", 
-            "city": "Cochabamba", 
-            "country": "BO", 
-            "lat": -17.3935419, 
-            "lng": -66.1570139, 
-            "location": "cochabamba, bolivia", 
-            "osm_id": "313811401", 
-            "osm_type": "node", 
-            "provider": "osm", 
-            "quality": "city", 
-            "state": "CBA", 
+            "accuracy": 0.87464977753628,
+            "address": "Bogot\u00e1, Distrito Capital de Bogot\u00e1, 111711, Colombia",
+            "bbox": {
+                "northeast": [
+                    4.7580772,
+                    -73.9161028
+                ],
+                "southwest": [
+                    4.4380772,
+                    -74.2361028
+                ]
+            },
+            "city": "Bogot\u00e1",
+            "confidence": 1,
+            "country": "Colombia",
+            "country_code": "co",
+            "county": "Bogot\u00e1",
+            "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+            "importance": 0.87464977753628,
+            "lat": 4.5980772,
+            "lng": -74.0761028,
+            "ok": true,
+            "osm_id": "671806634",
+            "osm_type": "node",
+            "place_id": "6535935",
+            "place_rank": "15",
+            "postal": "111711",
+            "quality": "city",
+            "raw": {
+                "address": {
+                    "city": "Bogot\u00e1",
+                    "country": "Colombia",
+                    "country_code": "co",
+                    "county": "Bogot\u00e1",
+                    "postcode": "111711",
+                    "state": "Distrito Capital de Bogot\u00e1"
+                },
+                "boundingbox": [
+                    "4.4380772",
+                    "4.7580772",
+                    "-74.2361028",
+                    "-73.9161028"
+                ],
+                "category": "place",
+                "display_name": "Bogot\u00e1, Distrito Capital de Bogot\u00e1, 111711, Colombia",
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+                "importance": 0.87464977753628,
+                "lat": "4.5980772",
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "lon": "-74.0761028",
+                "osm_id": "671806634",
+                "osm_type": "node",
+                "place_id": "6535935",
+                "place_rank": "15",
+                "type": "city"
+            },
+            "region": "Distrito Capital de Bogot\u00e1",
+            "state": "Distrito Capital de Bogot\u00e1",
+            "status": "OK",
+            "type": "city"
+        },
+        {
+            "accuracy": 0.76410162999415,
+            "address": "Armenia, Quind\u00edo, 630004100, Colombia",
+            "bbox": {
+                "northeast": [
+                    4.696307,
+                    -75.5123751
+                ],
+                "southwest": [
+                    4.376307,
+                    -75.8323751
+                ]
+            },
+            "city": "Armenia",
+            "confidence": 1,
+            "country": "Colombia",
+            "country_code": "co",
+            "county": "Armenia",
+            "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+            "importance": 0.76410162999415,
+            "lat": 4.536307,
+            "lng": -75.6723751,
+            "ok": true,
+            "osm_id": "293168610",
+            "osm_type": "node",
+            "place_id": "991322",
+            "place_rank": "16",
+            "postal": "630004100",
+            "quality": "city",
+            "raw": {
+                "address": {
+                    "city": "Armenia",
+                    "country": "Colombia",
+                    "country_code": "co",
+                    "county": "Armenia",
+                    "postcode": "630004100",
+                    "state": "Quind\u00edo"
+                },
+                "boundingbox": [
+                    "4.376307",
+                    "4.696307",
+                    "-75.8323751",
+                    "-75.5123751"
+                ],
+                "category": "place",
+                "display_name": "Armenia, Quind\u00edo, 630004100, Colombia",
+                "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+                "importance": 0.76410162999415,
+                "lat": "4.536307",
+                "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+                "lon": "-75.6723751",
+                "osm_id": "293168610",
+                "osm_type": "node",
+                "place_id": "991322",
+                "place_rank": "16",
+                "type": "city"
+            },
+            "region": "Quind\u00edo",
+            "state": "Quind\u00edo",
+            "status": "OK",
+            "type": "city"
+        }
+    ],
+    "previous": [
+        {
+            "accuracy": 0.95,
+            "address": "Cuenca, Provincia del Azuay, Ecuador",
+            "bbox": {
+                "northeast": [
+                    -2.5578081,
+                    -78.8482146
+                ],
+                "southwest": [
+                    -3.1757924,
+                    -79.598348
+                ]
+            },
+            "confidence": 1,
+            "country": "Ecuador",
+            "county": "Cuenca",
+            "encoding": "utf-8",
+            "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png",
+            "importance": 0.95,
+            "lat": -2.8971,
+            "lng": -79.0037,
+            "location": "cuenca, Provincia del Azuay, ecuador",
+            "ok": true,
+            "osm_id": "107724",
+            "osm_type": "relation",
+            "place_id": "143356897",
+            "place_rank": "12",
+            "provider": "osm",
+            "quality": "administrative",
+            "region": "Provincia del Azuay",
+            "state": "Provincia del Azuay",
+            "status": "OK",
+            "status_code": 200,
+            "type": "administrative"
+        },
+        {
+            "accuracy": 0.60671998773647,
+            "address": "Machala, Provincia El Oro, Ecuador",
+            "bbox": {
+                "northeast": [
+                    -3.0871998,
+                    -79.8421827
+                ],
+                "southwest": [
+                    -3.3551508,
+                    -80.1069005
+                ]
+            },
+            "city": "Machala",
+            "confidence": 1,
+            "country": "Ecuador",
+            "county": "Machala",
+            "encoding": "utf-8",
+            "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png",
+            "importance": 0.60671998773647,
+            "lat": -3.2587493,
+            "lng": -79.9595132,
+            "location": "machala, ecuador",
+            "ok": true,
+            "osm_id": "2670341",
+            "osm_type": "relation",
+            "place_id": "145119886",
+            "place_rank": "16",
+            "provider": "osm",
+            "quality": "administrative",
+            "region": "Provincia El Oro",
+            "state": "Provincia El Oro",
+            "status": "OK",
+            "status_code": 200,
+            "type": "administrative"
+        },
+        {
+            "address": "Rafaela, Municipio de Rafaela, Departamento Castellanos, Santa Fe, Argentina",
+            "city": "Rafaela",
+            "country": "AR",
+            "lat": -31.2519021,
+            "lng": -61.4916101,
+            "location": "rafaela, santa fe, argentina",
+            "osm_id": "2277385",
+            "osm_type": "relation",
+            "provider": "osm",
+            "quality": "administrative",
+            "state": "Santa Fe",
             "status": "OK"
-        }, 
+        },
+        {
+            "address": "Ceres, Municipio de Ceres, Departamento San Crist\u00f3bal, Santa Fe, Argentina",
+            "country": "AR",
+            "lat": -29.8819399,
+            "lng": -61.9451954,
+            "location": "ceres, santa fe, argentina",
+            "osm_id": "198442985",
+            "osm_type": "node",
+            "provider": "osm",
+            "quality": "town",
+            "state": "Santa Fe",
+            "status": "OK"
+        },
+        {
+            "address": "Catamarca, Departamento Capital, Catamarca, 4700, Argentina",
+            "city": "Catamarca",
+            "country": "AR",
+            "lat": -28.4688963,
+            "lng": -65.7790753,
+            "location": "san fernando del valle de catamarca, catamarca, argentina",
+            "osm_id": "1846690",
+            "osm_type": "relation",
+            "postal": "4700",
+            "provider": "osm",
+            "quality": "city",
+            "state": "Catamarca",
+            "status": "OK"
+        },
+        {
+            "address": "San Miguel de Tucum\u00e1n, Departamento Capital, Tucum\u00e1n, Argentina",
+            "country": "AR",
+            "lat": -26.8474393,
+            "lng": -65.2259153938646,
+            "location": "san miguel de tucuman, tucuman, argentina",
+            "osm_id": "3486117",
+            "osm_type": "relation",
+            "provider": "osm",
+            "quality": "administrative",
+            "state": "Tucum\u00e1n",
+            "status": "OK"
+        },
+        {
+            "address": "Tafi del Valle, Departamento Taf\u00ed del Valle, Tucum\u00e1n, Argentina",
+            "country": "AR",
+            "lat": -26.8511691,
+            "lng": -65.6958151493311,
+            "location": "taf\u00ed del valle, tucuman, argentina",
+            "osm_id": "129179462",
+            "osm_type": "way",
+            "provider": "osm",
+            "quality": "administrative",
+            "state": "Tucum\u00e1n",
+            "status": "OK"
+        },
+        {
+            "address": "Amaicha del Valle, Departamento Taf\u00ed del Valle, Tucum\u00e1n, Argentina",
+            "country": "AR",
+            "lat": -26.5937944,
+            "lng": -65.920251,
+            "location": "amaicha del valle, tucuman, argentina",
+            "osm_id": "198438827",
+            "osm_type": "node",
+            "provider": "osm",
+            "quality": "village",
+            "state": "Tucum\u00e1n",
+            "status": "OK"
+        },
+        {
+            "address": "Salta, Capital, Salta, Argentina",
+            "city": "Salta",
+            "country": "AR",
+            "lat": -24.7893823,
+            "lng": -65.4101933,
+            "location": "salta, salta, argentina",
+            "osm_id": "2722832",
+            "osm_type": "relation",
+            "provider": "osm",
+            "quality": "city",
+            "state": "Salta",
+            "status": "OK"
+        },
+        {
+            "address": "Cafayate, Salta, Argentina",
+            "country": "AR",
+            "lat": -26.1121205,
+            "lng": -65.8990728210428,
+            "location": "cafayate, salta, argentina",
+            "osm_id": "3059841",
+            "osm_type": "relation",
+            "provider": "osm",
+            "quality": "administrative",
+            "state": "Salta",
+            "status": "OK"
+        },
+        {
+            "address": "Capilla del Monte, Departamento Punilla, C\u00f3rdoba, Argentina",
+            "city": "Capilla del Monte",
+            "country": "AR",
+            "lat": -30.8568613,
+            "lng": -64.5262607,
+            "location": "capilla del monte, cordoba, argentina",
+            "osm_id": "2284097",
+            "osm_type": "relation",
+            "provider": "osm",
+            "quality": "administrative",
+            "state": "C\u00f3rdoba",
+            "status": "OK"
+        },
+        {
+            "address": "C\u00f3rdoba, Departamento Capital, C\u00f3rdoba, Argentina",
+            "city": "C\u00f3rdoba",
+            "country": "AR",
+            "lat": -31.4167477,
+            "lng": -64.1836023,
+            "location": "cordoba, cordoba, argentina",
+            "osm_id": "2466067279",
+            "osm_type": "node",
+            "provider": "osm",
+            "quality": "city",
+            "state": "C\u00f3rdoba",
+            "status": "OK"
+        },
+        {
+            "address": "Villa Tulumba, Tulumba, C\u00f3rdoba, Argentina",
+            "country": "AR",
+            "lat": -30.3942959,
+            "lng": -64.1205121435444,
+            "location": "villa tulumba, cordoba, argentina",
+            "osm_id": "239381966",
+            "osm_type": "way",
+            "provider": "osm",
+            "quality": "residential",
+            "state": "C\u00f3rdoba",
+            "status": "OK"
+        },
+        {
+            "address": "Cruz del Eje, C\u00f3rdoba, Argentina",
+            "country": "AR",
+            "lat": -30.7282247,
+            "lng": -64.7978746,
+            "location": "cruz del eje, cordoba, argentina",
+            "osm_id": "198446642",
+            "osm_type": "node",
+            "provider": "osm",
+            "quality": "town",
+            "state": "C\u00f3rdoba",
+            "status": "OK"
+        },
+        {
+            "address": "CABA, Buenos Aires, Argentina",
+            "city": "CABA",
+            "country": "AR",
+            "lat": -34.612869,
+            "lng": -58.4459789,
+            "location": "buenos aires, buenos aires, argentina",
+            "osm_id": "1224652",
+            "osm_type": "relation",
+            "provider": "osm",
+            "quality": "city",
+            "state": "Buenos Aires",
+            "status": "OK"
+        },
+        {
+            "address": "Mart\u00ednez, Partido de San Isidro, Buenos Aires, Argentina",
+            "city": "Mart\u00ednez",
+            "country": "AR",
+            "lat": -34.4939666,
+            "lng": -58.510352,
+            "location": "martinez, buenos aires, argentina",
+            "osm_id": "1770849",
+            "osm_type": "relation",
+            "provider": "osm",
+            "quality": "administrative",
+            "state": "Buenos Aires",
+            "status": "OK"
+        },
+        {
+            "address": "San Clemente del Tuy\u00fa, Partido de La Costa, Buenos Aires, Argentina",
+            "city": "San Clemente del Tuy\u00fa",
+            "country": "AR",
+            "lat": -36.3559613,
+            "lng": -56.7188989,
+            "location": "san clemente del tuyu, buenos aires, argentina",
+            "osm_id": "3399940",
+            "osm_type": "relation",
+            "provider": "osm",
+            "quality": "administrative",
+            "state": "Buenos Aires",
+            "status": "OK"
+        },
+        {
+            "address": "Quilmes, Partido de Quilmes, Buenos Aires, Argentina",
+            "city": "Quilmes",
+            "country": "AR",
+            "lat": -34.7303025,
+            "lng": -58.268868,
+            "location": "quilmes, buenos aires, argentina",
+            "osm_id": "2067960",
+            "osm_type": "relation",
+            "provider": "osm",
+            "quality": "city",
+            "state": "Buenos Aires",
+            "status": "OK"
+        },
+        {
+            "address": "Tigre, Partido de Tigre, Buenos Aires, Argentina",
+            "city": "Tigre",
+            "country": "AR",
+            "lat": -34.4233349,
+            "lng": -58.5786786,
+            "location": "tigre, buenos aires, argentina",
+            "osm_id": "2409645",
+            "osm_type": "relation",
+            "provider": "osm",
+            "quality": "administrative",
+            "state": "Buenos Aires",
+            "status": "OK"
+        },
+        {
+            "address": "Olivos, Vicente L\u00f3pez, Partido de Vicente L\u00f3pez, Buenos Aires, Argentina",
+            "city": "Vicente L\u00f3pez",
+            "country": "AR",
+            "lat": -34.5132317,
+            "lng": -58.4987369635549,
+            "location": "olivos, buenos aires, argentina",
+            "osm_id": "1270158",
+            "osm_type": "relation",
+            "provider": "osm",
+            "quality": "administrative",
+            "state": "Buenos Aires",
+            "status": "OK"
+        },
+        {
+            "address": "Gonz\u00e1lez Cat\u00e1n, Partido de La Matanza, Buenos Aires, Argentina",
+            "city": "Gonz\u00e1lez Cat\u00e1n",
+            "country": "AR",
+            "lat": -34.7752996,
+            "lng": -58.6412046,
+            "location": "gonz\u00e1lez cat\u00e1n, buenos aires, argentina",
+            "osm_id": "1751004",
+            "osm_type": "relation",
+            "provider": "osm",
+            "quality": "city",
+            "state": "Buenos Aires",
+            "status": "OK"
+        },
+        {
+            "address": "San Marcos Sierra, Cruz del Eje, C\u00f3rdoba, Argentina",
+            "city": "San Marcos Sierra",
+            "country": "AR",
+            "lat": -30.7830714,
+            "lng": -64.6361009,
+            "location": "san marcos sierra, c\u00f3rdoba, argentina",
+            "osm_id": "2284136",
+            "osm_type": "relation",
+            "provider": "osm",
+            "quality": "administrative",
+            "state": "C\u00f3rdoba",
+            "status": "OK"
+        },
+        {
+            "address": "Mina Clavero, San Alberto, C\u00f3rdoba, Argentina",
+            "country": "AR",
+            "lat": -31.7224884,
+            "lng": -65.0047267,
+            "location": "mina clavero, c\u00f3rdoba, argentina",
+            "osm_id": "198403848",
+            "osm_type": "node",
+            "provider": "osm",
+            "quality": "town",
+            "state": "C\u00f3rdoba",
+            "status": "OK"
+        },
+        {
+            "address": "Merlo, Jun\u00edn, San Luis, Argentina",
+            "city": "Merlo",
+            "country": "AR",
+            "lat": -32.3434026,
+            "lng": -65.0137972,
+            "location": "merlo, san luis, argentina",
+            "osm_id": "113230994",
+            "osm_type": "way",
+            "provider": "osm",
+            "quality": "administrative",
+            "state": "San Luis",
+            "status": "OK"
+        },
+        {
+            "address": "Ciudad de Mendoza, Secci\u00f3n 10\u00aa Residencial Los Cerros, Departamento Capital, Mendoza, Argentina",
+            "city": "Ciudad de Mendoza",
+            "country": "AR",
+            "lat": -32.8808922,
+            "lng": -68.8991190236928,
+            "location": "mendoza, mendoza, argentina",
+            "osm_id": "4206710",
+            "osm_type": "relation",
+            "provider": "osm",
+            "quality": "administrative",
+            "state": "Mendoza",
+            "status": "OK"
+        },
+        {
+            "address": "Trapiche, Coronel Pringles, San Luis, Argentina",
+            "country": "AR",
+            "lat": -33.1087793,
+            "lng": -66.0627291,
+            "location": "el trapiche, san luis, argentina",
+            "osm_id": "198430578",
+            "osm_type": "node",
+            "provider": "osm",
+            "quality": "village",
+            "state": "San Luis",
+            "status": "OK"
+        },
+        {
+            "address": "Uspallata, Distrito Uspallata, Departamento Las Heras, Mendoza, Argentina",
+            "country": "AR",
+            "lat": -32.5908062,
+            "lng": -69.3465546,
+            "location": "uspallata , mendoza, argentina",
+            "osm_id": "198432129",
+            "osm_type": "node",
+            "provider": "osm",
+            "quality": "village",
+            "state": "Mendoza",
+            "status": "OK"
+        },
+        {
+            "address": "Los Andes, Provincia de Los Andes, V Regi\u00f3n de Valpara\u00edso, Chile",
+            "city": "Los Andes",
+            "country": "CL",
+            "lat": -32.8336683,
+            "lng": -70.5981352,
+            "location": "los andes, los andes, chile",
+            "osm_id": "166557",
+            "osm_type": "relation",
+            "provider": "osm",
+            "quality": "city",
+            "state": "V Regi\u00f3n de Valpara\u00edso",
+            "status": "OK"
+        },
+        {
+            "address": "Vi\u00f1a del Mar, Provincia de Valpara\u00edso, V Regi\u00f3n de Valpara\u00edso, Chile",
+            "city": "Vi\u00f1a del Mar",
+            "country": "CL",
+            "lat": -33.024503,
+            "lng": -71.5518119,
+            "location": "vi\u00f1a del mar, chile",
+            "osm_id": "110804",
+            "osm_type": "relation",
+            "provider": "osm",
+            "quality": "city",
+            "state": "V Regi\u00f3n de Valpara\u00edso",
+            "status": "OK"
+        },
+        {
+            "address": "Paran\u00e1, Municipio de Paran\u00e1, Distrito Sauce, Departamento Paran\u00e1, Entre R\u00edos, Argentina",
+            "city": "Paran\u00e1",
+            "country": "AR",
+            "lat": -31.7432607,
+            "lng": -60.5171971,
+            "location": "paran\u00e1, entre r\u00edos, argentina",
+            "osm_id": "198409278",
+            "osm_type": "node",
+            "provider": "osm",
+            "quality": "city",
+            "state": "Entre R\u00edos",
+            "status": "OK"
+        },
+        {
+            "address": "San Lorenzo, Capital, Salta, Argentina",
+            "city": "San Lorenzo",
+            "country": "AR",
+            "lat": -24.7302907,
+            "lng": -65.4878597,
+            "location": "san lorenzo, salta, argentina",
+            "osm_id": "2292088",
+            "osm_type": "relation",
+            "provider": "osm",
+            "quality": "administrative",
+            "state": "Salta",
+            "status": "OK"
+        },
+        {
+            "address": "Purmamarca, Departamento Tumbaya, Jujuy, Argentina",
+            "country": "AR",
+            "lat": -23.7461326,
+            "lng": -65.4991577,
+            "location": "purmamarca, jujuy, argentina",
+            "osm_id": "198414983",
+            "osm_type": "node",
+            "provider": "osm",
+            "quality": "village",
+            "state": "Jujuy",
+            "status": "OK"
+        },
+        {
+            "address": "Tilcara, Departamento Tilcara, Jujuy, Argentina",
+            "country": "AR",
+            "lat": -23.5787673,
+            "lng": -65.3943695,
+            "location": "tilcara, jujuy, argentina",
+            "osm_id": "198429516",
+            "osm_type": "node",
+            "provider": "osm",
+            "quality": "town",
+            "state": "Jujuy",
+            "status": "OK"
+        },
+        {
+            "address": "Santa Fe, Santa Fe Capital, Departamento La Capital, Santa Fe, S3000, Argentina",
+            "city": "Santa Fe",
+            "country": "AR",
+            "lat": -31.6184553,
+            "lng": -60.7029753,
+            "location": "Santa Fe, Capital, Santa Fe, Argentina",
+            "osm_id": "198423933",
+            "osm_type": "node",
+            "postal": "S3000",
+            "provider": "osm",
+            "quality": "city",
+            "state": "Santa Fe",
+            "status": "OK"
+        },
+        {
+            "address": "Santiago del Estero, Capital, Santiago del Estero, Argentina",
+            "city": "Santiago del Estero",
+            "country": "AR",
+            "lat": -27.7877148,
+            "lng": -64.2595062,
+            "location": "Santiago del Estero, Capital, Santiago del Estero, Argentina",
+            "osm_id": "3759837",
+            "osm_type": "relation",
+            "provider": "osm",
+            "quality": "city",
+            "state": "Santiago del Estero",
+            "status": "OK"
+        },
+        {
+            "address": "San Juan, Capital, San Juan, Argentina",
+            "city": "San Juan",
+            "country": "AR",
+            "lat": -31.5370404,
+            "lng": -68.5250194,
+            "location": "San Juan, Capital, San Juan, Argentina",
+            "osm_id": "198421467",
+            "osm_type": "node",
+            "provider": "osm",
+            "quality": "city",
+            "state": "San Juan",
+            "status": "OK"
+        },
+        {
+            "address": "San Luis, Juan Mart\u00edn de Pueyrred\u00f3n, San Luis, Argentina",
+            "city": "San Luis",
+            "country": "AR",
+            "lat": -33.3019696,
+            "lng": -66.3369903,
+            "location": "San Luis, Juan Mart\u00edn de Pueyrred\u00f3n, San Luis, Argentina",
+            "osm_id": "3450259",
+            "osm_type": "relation",
+            "provider": "osm",
+            "quality": "city",
+            "state": "San Luis",
+            "status": "OK"
+        },
+        {
+            "address": "Villa Cura Brochero, San Alberto, C\u00f3rdoba, Argentina",
+            "country": "AR",
+            "lat": -31.7063631,
+            "lng": -65.0185958,
+            "location": "villa cura brochero, c\u00f3rdoba, argentina",
+            "osm_id": "198433819",
+            "osm_type": "node",
+            "provider": "osm",
+            "quality": "village",
+            "state": "C\u00f3rdoba",
+            "status": "OK"
+        },
+        {
+            "address": "Humahuaca, Departamento Humahuaca, Jujuy, Argentina",
+            "city": "Humahuaca",
+            "country": "AR",
+            "lat": -23.2052548,
+            "lng": -65.3481454,
+            "location": "humahuaca, jujuy, argentina",
+            "osm_id": "2294331",
+            "osm_type": "relation",
+            "provider": "osm",
+            "quality": "administrative",
+            "state": "Jujuy",
+            "status": "OK"
+        },
+        {
+            "address": "Valpara\u00edso, Provincia de Valpara\u00edso, V Regi\u00f3n de Valpara\u00edso, Chile",
+            "city": "Valpara\u00edso",
+            "country": "CL",
+            "lat": -33.0475721,
+            "lng": -71.6153581,
+            "location": "valparaiso, provincia del valparaiso, chile",
+            "osm_id": "110808",
+            "osm_type": "relation",
+            "provider": "osm",
+            "quality": "city",
+            "state": "V Regi\u00f3n de Valpara\u00edso",
+            "status": "OK"
+        },
+        {
+            "address": "Concordia, Municipio de Concordia, Distrito Suburbios, Departamento Concordia, Entre R\u00edos, Argentina",
+            "city": "Concordia",
+            "country": "AR",
+            "lat": -31.3972539,
+            "lng": -58.0173305,
+            "location": "concordia, entre r\u00edos, argentina",
+            "osm_id": "198445828",
+            "osm_type": "node",
+            "provider": "osm",
+            "quality": "city",
+            "state": "Entre R\u00edos",
+            "status": "OK"
+        },
+        {
+            "address": "Salto, 50000, Uruguay",
+            "city": "Salto",
+            "country": "UY",
+            "lat": -31.38889,
+            "lng": -57.9608876,
+            "location": "salto, salto, uruguay",
+            "osm_id": "3414038",
+            "osm_type": "relation",
+            "postal": "50000",
+            "provider": "osm",
+            "quality": "city",
+            "state": "Salto",
+            "status": "OK"
+        },
+        {
+            "address": "Mercedes, Municipio de Mercedes, Departamento Mercedes, Corrientes, Argentina",
+            "city": "Mercedes",
+            "country": "AR",
+            "lat": -29.1835645,
+            "lng": -58.0799951,
+            "location": "mercedes, corrientes, argentina",
+            "osm_id": "198403599",
+            "osm_type": "node",
+            "provider": "osm",
+            "quality": "town",
+            "state": "Corrientes",
+            "status": "OK"
+        },
+        {
+            "address": "Bella Vista, Municipio de Bella Vista, Departamento Bella Vista, Corrientes, Argentina",
+            "country": "AR",
+            "lat": -28.5073653,
+            "lng": -59.0452284,
+            "location": "bella vista, corrientes, argentina",
+            "osm_id": "198440694",
+            "osm_type": "node",
+            "provider": "osm",
+            "quality": "town",
+            "state": "Corrientes",
+            "status": "OK"
+        },
+        {
+            "address": "Chajar\u00ed, Municipio de Chajar\u00ed, Distrito Mandisov\u00ed, Departamento Federaci\u00f3n, Entre R\u00edos, Argentina",
+            "country": "AR",
+            "lat": -30.7565741,
+            "lng": -57.9848989,
+            "location": "chajar\u00ed, entre r\u00edos, argentina",
+            "osm_id": "198443272",
+            "osm_type": "node",
+            "provider": "osm",
+            "quality": "town",
+            "state": "Entre R\u00edos",
+            "status": "OK"
+        },
+        {
+            "address": "Corrientes, Municipio de Corrientes, Departamento Capital, Corrientes, Argentina",
+            "city": "Corrientes",
+            "country": "AR",
+            "lat": -27.4720342,
+            "lng": -58.8328658,
+            "location": "corrientes, corrientes, argentina",
+            "osm_id": "198446469",
+            "osm_type": "node",
+            "provider": "osm",
+            "quality": "city",
+            "state": "Corrientes",
+            "status": "OK"
+        },
+        {
+            "address": "Las Bre\u00f1as, Departamento Nueve de Julio, Chaco, Argentina",
+            "country": "AR",
+            "lat": -27.0863246,
+            "lng": -61.0859456,
+            "location": "Las Bre\u00f1as, Departamento Nueve de Julio, Chaco, Argentina",
+            "osm_id": "1665510",
+            "osm_type": "relation",
+            "provider": "osm",
+            "quality": "administrative",
+            "state": "Chaco",
+            "status": "OK"
+        },
+        {
+            "address": "Resistencia, Departamento San Fernando, Chaco, Argentina",
+            "city": "Resistencia",
+            "country": "AR",
+            "lat": -27.4511043,
+            "lng": -58.9865646,
+            "location": "resistencia, chaco, argentina",
+            "osm_id": "1572779",
+            "osm_type": "relation",
+            "provider": "osm",
+            "quality": "city",
+            "state": "Chaco",
+            "status": "OK"
+        },
+        {
+            "address": "Formosa, Departamento Formosa, Formosa, Argentina",
+            "city": "Formosa",
+            "country": "AR",
+            "lat": -26.1852983,
+            "lng": -58.1744976,
+            "location": "formosa, formosa, argentina",
+            "osm_id": "2294368",
+            "osm_type": "relation",
+            "provider": "osm",
+            "quality": "city",
+            "state": "Formosa",
+            "status": "OK"
+        },
+        {
+            "address": "Nuestra Se\u00f1ora del Rosario de Caa Cat\u00ed, Municipio de Nuestra Se\u00f1ora del Rosario de Ca\u00e1 Cat\u00ed, Departamento General Paz, Corrientes, Argentina",
+            "country": "AR",
+            "lat": -27.75,
+            "lng": -57.616667,
+            "location": "nuestra se\u00f1ora del rosario de ca\u00e1 cat\u00ed, corrientes, argentina",
+            "osm_id": "198406750",
+            "osm_type": "node",
+            "provider": "osm",
+            "quality": "hamlet",
+            "state": "Corrientes",
+            "status": "OK"
+        },
+        {
+            "address": "San Miguel, Municipio de San Miguel, Departamento San Miguel, Corrientes, Argentina",
+            "country": "AR",
+            "lat": -27.9983245,
+            "lng": -57.5872963,
+            "location": "san miguel, corrientes, argentina",
+            "osm_id": "198422106",
+            "osm_type": "node",
+            "provider": "osm",
+            "quality": "village",
+            "state": "Corrientes",
+            "status": "OK"
+        },
+        {
+            "address": "Santa Ana, Municipio de Santa Ana, Departamento San Cosme, Corrientes, Argentina",
+            "country": "AR",
+            "lat": -27.4553563,
+            "lng": -58.6547774,
+            "location": "santa ana, corrientes, argentina",
+            "osm_id": "198423396",
+            "osm_type": "node",
+            "provider": "osm",
+            "quality": "village",
+            "state": "Corrientes",
+            "status": "OK"
+        },
+        {
+            "address": "Mburucuy\u00e1, Municipio de Mburucuy\u00e1, Departamento Mburucuy\u00e1, Corrientes, Argentina",
+            "country": "AR",
+            "lat": -28.0430389,
+            "lng": -58.228588,
+            "location": "mburucuy\u00e1, corrientes, argentina",
+            "osm_id": "198403144",
+            "osm_type": "node",
+            "provider": "osm",
+            "quality": "village",
+            "state": "Corrientes",
+            "status": "OK"
+        },
+        {
+            "address": "Laguna Naineck, Departamento Pilcomayo, Formosa, Argentina",
+            "country": "AR",
+            "lat": -25.2189965,
+            "lng": -58.1219241,
+            "location": "laguna naineck, formosa, argentina",
+            "osm_id": "198456057",
+            "osm_type": "node",
+            "provider": "osm",
+            "quality": "village",
+            "state": "Formosa",
+            "status": "OK"
+        },
+        {
+            "address": "Herradura, Departamento Laishi, Formosa, Argentina",
+            "country": "AR",
+            "lat": -26.4892536,
+            "lng": -58.311546,
+            "location": "herradura, formosa, argentina",
+            "osm_id": "198452211",
+            "osm_type": "node",
+            "provider": "osm",
+            "quality": "village",
+            "state": "Formosa",
+            "status": "OK"
+        },
+        {
+            "address": "Asunci\u00f3n, Distrito Capital de Paraguay, Regi\u00f3n Oriental, Paraguay",
+            "city": "Asunci\u00f3n",
+            "country": "PY",
+            "lat": -25.2960638,
+            "lng": -57.6311446,
+            "location": "asunci\u00f3n, distrito capital de paraguay, paraguay",
+            "osm_id": "249854726",
+            "osm_type": "node",
+            "provider": "osm",
+            "quality": "city",
+            "state": "Distrito Capital de Paraguay",
+            "status": "OK"
+        },
+        {
+            "address": "San Bernardino, Cordillera, Regi\u00f3n Oriental, Paraguay",
+            "country": "PY",
+            "lat": -25.3087796,
+            "lng": -57.2958319,
+            "location": "san bernardino, paraguay",
+            "osm_id": "1317869054",
+            "osm_type": "node",
+            "provider": "osm",
+            "quality": "town",
+            "state": "Cordillera",
+            "status": "OK"
+        },
+        {
+            "address": "Caacup\u00e9, Cordillera, Regi\u00f3n Oriental, Paraguay",
+            "country": "PY",
+            "lat": -25.3855654,
+            "lng": -57.1401431,
+            "location": "caacupe, paraguay",
+            "osm_id": "313910428",
+            "osm_type": "node",
+            "provider": "osm",
+            "quality": "town",
+            "state": "Cordillera",
+            "status": "OK"
+        },
+        {
+            "address": "Minga Guaz\u00fa, Alto Paran\u00e1, Regi\u00f3n Oriental, Paraguay",
+            "country": "PY",
+            "lat": -25.4868943,
+            "lng": -54.7645406,
+            "location": "minga guaz\u00fa, paraguay",
+            "osm_id": "2003302090",
+            "osm_type": "node",
+            "provider": "osm",
+            "quality": "town",
+            "state": "Alto Paran\u00e1",
+            "status": "OK"
+        },
+        {
+            "address": "Ciudad del Este, Alto Paran\u00e1, Regi\u00f3n Oriental, Paraguay",
+            "city": "Ciudad del Este",
+            "country": "PY",
+            "lat": -25.5169015,
+            "lng": -54.6168645,
+            "location": "ciudad del este, paraguay",
+            "osm_id": "319466986",
+            "osm_type": "node",
+            "provider": "osm",
+            "quality": "city",
+            "state": "Alto Paran\u00e1",
+            "status": "OK"
+        },
+        {
+            "address": "Villarrica, Guair\u00e1, Regi\u00f3n Oriental, 5000, Paraguay",
+            "city": "Villarrica",
+            "country": "PY",
+            "lat": -25.7809839,
+            "lng": -56.4478765,
+            "location": "villarrica, paraguay",
+            "osm_id": "313912581",
+            "osm_type": "node",
+            "postal": "5000",
+            "provider": "osm",
+            "quality": "city",
+            "state": "Guair\u00e1",
+            "status": "OK"
+        },
+        {
+            "address": "Puerto Iguaz\u00fa, Municipio de Puerto Iguaz\u00fa, Departamento Iguaz\u00fa, Misiones, Argentina",
+            "city": "Puerto Iguaz\u00fa",
+            "country": "AR",
+            "lat": -25.5971395,
+            "lng": -54.5770904,
+            "location": "puerto iguaz\u00fa, misiones, argentina",
+            "osm_id": "2294418",
+            "osm_type": "relation",
+            "provider": "osm",
+            "quality": "administrative",
+            "state": "Misiones",
+            "status": "OK"
+        },
+        {
+            "address": "Foz do Igua\u00e7u, PR, Regi\u00e3o Sul, Brasil",
+            "city": "Foz do Igua\u00e7u",
+            "country": "BR",
+            "lat": -25.5166657,
+            "lng": -54.5852351,
+            "location": "foz do iguacu, brasil",
+            "osm_id": "297473",
+            "osm_type": "relation",
+            "provider": "osm",
+            "quality": "city",
+            "state": "PR",
+            "status": "OK"
+        },
+        {
+            "address": "San Ignacio, Municipio de San Ignacio, Departamento San Ignacio, Misiones, Argentina",
+            "city": "San Ignacio",
+            "country": "AR",
+            "lat": -27.256382,
+            "lng": -55.5366467,
+            "location": "san ignacio, misiones, argentina",
+            "osm_id": "3489868",
+            "osm_type": "relation",
+            "provider": "osm",
+            "quality": "administrative",
+            "state": "Misiones",
+            "status": "OK"
+        },
+        {
+            "address": "Posadas, Municipio de Posadas, Departamento Capital, Misiones, Argentina",
+            "city": "Posadas",
+            "country": "AR",
+            "lat": -27.3665072,
+            "lng": -55.8941895,
+            "location": "posadas, misiones, argentina",
+            "osm_id": "2294383",
+            "osm_type": "relation",
+            "provider": "osm",
+            "quality": "city",
+            "state": "Misiones",
+            "status": "OK"
+        },
+        {
+            "address": "Ap\u00f3stoles, Municipio de Ap\u00f3stoles, Departamento Ap\u00f3stoles, Misiones, Argentina",
+            "city": "Ap\u00f3stoles",
+            "country": "AR",
+            "lat": -27.9141743,
+            "lng": -55.7549335,
+            "location": "apostoles, misiones, argentina",
+            "osm_id": "3966895",
+            "osm_type": "relation",
+            "provider": "osm",
+            "quality": "administrative",
+            "state": "Misiones",
+            "status": "OK"
+        },
+        {
+            "address": "Eldorado, Municipio de Eldorado, Departamento Eldorado, Misiones, Argentina",
+            "city": "Eldorado",
+            "country": "AR",
+            "lat": -26.404486,
+            "lng": -54.6258412,
+            "location": "eldorado, misiones, argentina",
+            "osm_id": "4002038",
+            "osm_type": "relation",
+            "provider": "osm",
+            "quality": "administrative",
+            "state": "Misiones",
+            "status": "OK"
+        },
+        {
+            "address": "Encarnaci\u00f3n, Itap\u00faa, Regi\u00f3n Oriental, 6000, Paraguay",
+            "country": "PY",
+            "lat": -27.3385816,
+            "lng": -55.8668456,
+            "location": "encarnaci\u00f3n, paraguay",
+            "osm_id": "243191014",
+            "osm_type": "node",
+            "postal": "6000",
+            "provider": "osm",
+            "quality": "town",
+            "state": "Itap\u00faa",
+            "status": "OK"
+        },
+        {
+            "address": "La Colmena, Paraguar\u00ed, Regi\u00f3n Oriental, Paraguay",
+            "country": "PY",
+            "lat": -25.8856298,
+            "lng": -56.8404292,
+            "location": "La Colmena, Paraguay",
+            "osm_id": "164060308",
+            "osm_type": "way",
+            "provider": "osm",
+            "quality": "town",
+            "state": "Paraguar\u00ed",
+            "status": "OK"
+        },
+        {
+            "accuracy": 0.775,
+            "address": "San Cosme y Dami\u00e1n, Itap\u00faa, Regi\u00f3n Oriental, Paraguay",
+            "bbox": {
+                "northeast": [
+                    -27.3061213,
+                    -56.3238366
+                ],
+                "southwest": [
+                    -27.3249375,
+                    -56.3387926
+                ]
+            },
+            "confidence": 7,
+            "country": "Paraguay",
+            "encoding": "utf-8",
+            "geometry": {
+                "coordinates": [
+                    -56.3317449,
+                    -27.3130757
+                ],
+                "type": "Point"
+            },
+            "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_village.p.20.png",
+            "importance": 0.775,
+            "lat": -27.3130757,
+            "lng": -56.3317449,
+            "location": "san cosme y dami\u00e1n, paraguay",
+            "method": "geocode",
+            "ok": true,
+            "osm_id": "161211630",
+            "osm_type": "way",
+            "place_id": "92534872",
+            "place_rank": "19",
+            "provider": "osm",
+            "quality": "village",
+            "region": "Itap\u00faa",
+            "state": "Itap\u00faa",
+            "status": "OK",
+            "type": "village",
+            "village": "San Cosme y Dami\u00e1n"
+        },
+        {
+            "accuracy": 0.64761685113657,
+            "address": "San Ignacio Guaz\u00fa, Misiones, Regi\u00f3n Oriental, Paraguay",
+            "bbox": {
+                "northeast": [
+                    -26.8732244,
+                    -57.0027283
+                ],
+                "southwest": [
+                    -26.9018622,
+                    -57.0444846
+                ]
+            },
+            "confidence": 6,
+            "country": "Paraguay",
+            "encoding": "utf-8",
+            "geometry": {
+                "coordinates": [
+                    -57.0245787,
+                    -26.8904131
+                ],
+                "type": "Point"
+            },
+            "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_town.p.20.png",
+            "importance": 0.64761685113657,
+            "lat": -26.8904131,
+            "lng": -57.0245787,
+            "location": "san ignacio guaz\u00fa, paraguay",
+            "method": "geocode",
+            "ok": true,
+            "osm_id": "130657689",
+            "osm_type": "way",
+            "place_id": "84498198",
+            "place_rank": "18",
+            "provider": "osm",
+            "quality": "town",
+            "region": "Misiones",
+            "state": "Misiones",
+            "status": "OK",
+            "town": "San Ignacio Guaz\u00fa",
+            "type": "town"
+        },
+        {
+            "accuracy": 0.301,
+            "address": "Parque nacional Ybycu\u00ed, Ramal Carapegu\u00e1 a la Rosada, Paraguar\u00ed, Regi\u00f3n Oriental, Paraguay",
+            "bbox": {
+                "northeast": [
+                    -26.0461055,
+                    -56.7841862
+                ],
+                "southwest": [
+                    -26.1073584,
+                    -56.8666438
+                ]
+            },
+            "confidence": 4,
+            "country": "Paraguay",
+            "encoding": "utf-8",
+            "geometry": {
+                "coordinates": [
+                    -56.8199438866846,
+                    -26.0771897
+                ],
+                "type": "Point"
+            },
+            "importance": 0.301,
+            "lat": -26.0771897,
+            "lng": -56.8199438866846,
+            "location": "parque nacional ybycui, paraguay",
+            "method": "geocode",
+            "ok": true,
+            "osm_id": "343108721",
+            "osm_type": "way",
+            "place_id": "2584448581",
+            "place_rank": "30",
+            "provider": "osm",
+            "quality": "nature_reserve",
+            "region": "Paraguar\u00ed",
+            "state": "Paraguar\u00ed",
+            "status": "OK",
+            "street": "Ramal Carapegu\u00e1 a la Rosada",
+            "type": "nature_reserve"
+        },
+        {
+            "accuracy": 0.46123930027934,
+            "address": "Sapuca\u00ed, Paraguar\u00ed, Regi\u00f3n Oriental, Paraguay",
+            "bbox": {
+                "northeast": [
+                    -25.6577272,
+                    -56.9399572
+                ],
+                "southwest": [
+                    -25.6771459,
+                    -56.970831
+                ]
+            },
+            "confidence": 7,
+            "country": "Paraguay",
+            "encoding": "utf-8",
+            "geometry": {
+                "coordinates": [
+                    -56.9524852,
+                    -25.6647857
+                ],
+                "type": "Point"
+            },
+            "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_town.p.20.png",
+            "importance": 0.46123930027934,
+            "lat": -25.6647857,
+            "lng": -56.9524852,
+            "location": "sapuca\u00ed, paraguay",
+            "method": "geocode",
+            "ok": true,
+            "osm_id": "133153159",
+            "osm_type": "way",
+            "place_id": "85092165",
+            "place_rank": "18",
+            "provider": "osm",
+            "quality": "town",
+            "region": "Paraguar\u00ed",
+            "state": "Paraguar\u00ed",
+            "status": "OK",
+            "town": "Sapuca\u00ed",
+            "type": "town"
+        },
+        {
+            "accuracy": 0.63940162059147,
+            "address": "Paraguar\u00ed, Regi\u00f3n Oriental, Paraguay",
+            "bbox": {
+                "northeast": [
+                    -25.5807309,
+                    -57.1075978
+                ],
+                "southwest": [
+                    -25.6607309,
+                    -57.1875978
+                ]
+            },
+            "confidence": 4,
+            "country": "Paraguay",
+            "encoding": "utf-8",
+            "geometry": {
+                "coordinates": [
+                    -57.1475978,
+                    -25.6207309
+                ],
+                "type": "Point"
+            },
+            "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_town.p.20.png",
+            "importance": 0.63940162059147,
+            "lat": -25.6207309,
+            "lng": -57.1475978,
+            "location": "paraguar\u00ed, paraguar\u00ed, paraguay",
+            "method": "geocode",
+            "ok": true,
+            "osm_id": "313921866",
+            "osm_type": "node",
+            "place_id": "1351097",
+            "place_rank": "18",
+            "provider": "osm",
+            "quality": "town",
+            "region": "Paraguar\u00ed",
+            "state": "Paraguar\u00ed",
+            "status": "OK",
+            "town": "Paraguar\u00ed",
+            "type": "town"
+        },
+        {
+            "accuracy": 0.76748918685134,
+            "address": "San Miguel, Misiones, Regi\u00f3n Oriental, Paraguay",
+            "bbox": {
+                "northeast": [
+                    -26.5276959,
+                    -57.0342896
+                ],
+                "southwest": [
+                    -26.5392629,
+                    -57.04428
+                ]
+            },
+            "confidence": 7,
+            "country": "Paraguay",
+            "encoding": "utf-8",
+            "geometry": {
+                "coordinates": [
+                    -57.0406464,
+                    -26.5342748
+                ],
+                "type": "Point"
+            },
+            "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_town.p.20.png",
+            "importance": 0.76748918685134,
+            "lat": -26.5342748,
+            "lng": -57.0406464,
+            "location": "San Miguel, San Miguel, Misiones, Paraguay",
+            "method": "geocode",
+            "ok": true,
+            "osm_id": "130659801",
+            "osm_type": "way",
+            "place_id": "85439929",
+            "place_rank": "18",
+            "provider": "osm",
+            "quality": "town",
+            "region": "Misiones",
+            "state": "Misiones",
+            "status": "OK",
+            "town": "San Miguel",
+            "type": "town"
+        },
+        {
+            "accuracy": 0.96112680251344,
+            "address": "San Salvador de Jujuy, Municipio de San Salvador de Jujuy, Departamento Doctor Manuel Belgrano, Jujuy, Argentina",
+            "bbox": {
+                "northeast": [
+                    -24.1537114,
+                    -65.2281767
+                ],
+                "southwest": [
+                    -24.2763383,
+                    -65.3787561
+                ]
+            },
+            "city": "San Salvador de Jujuy",
+            "confidence": 2,
+            "country": "Argentina",
+            "county": "Municipio de San Salvador de Jujuy",
+            "encoding": "utf-8",
+            "geometry": {
+                "coordinates": [
+                    -65.2992907,
+                    -24.1854687
+                ],
+                "type": "Point"
+            },
+            "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+            "importance": 0.96112680251344,
+            "lat": -24.1854687,
+            "lng": -65.2992907,
+            "location": "san salvador de jujuy, jujuy, argentina",
+            "method": "geocode",
+            "ok": true,
+            "osm_id": "2294307",
+            "osm_type": "relation",
+            "place_id": "127992045",
+            "place_rank": 16,
+            "provider": "osm",
+            "quality": "city",
+            "region": "Jujuy",
+            "state": "Jujuy",
+            "status": "OK",
+            "type": "city"
+        },
+        {
+            "accuracy": 0.63050715237377,
+            "address": "La Quiaca, Departamento Yavi, Jujuy, Argentina",
+            "bbox": {
+                "northeast": [
+                    -22.0964459,
+                    -65.5791196
+                ],
+                "southwest": [
+                    -22.1228275,
+                    -65.6102195
+                ]
+            },
+            "city": "La Quiaca",
+            "confidence": 7,
+            "country": "Argentina",
+            "encoding": "utf-8",
+            "geometry": {
+                "coordinates": [
+                    -65.596754,
+                    -22.1046124
+                ],
+                "type": "Point"
+            },
+            "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png",
+            "importance": 0.63050715237377,
+            "lat": -22.1046124,
+            "lng": -65.596754,
+            "location": "la quiaca, jujuy, argentina",
+            "method": "geocode",
+            "ok": true,
+            "osm_id": "2294361",
+            "osm_type": "relation",
+            "place_id": "127943274",
+            "place_rank": "16",
+            "provider": "osm",
+            "quality": "administrative",
+            "region": "Jujuy",
+            "state": "Jujuy",
+            "status": "OK",
+            "type": "administrative"
+        },
+        {
+            "address": "Potos\u00ed, Provincia Tomas Frias, PSI, Bolivia",
+            "city": "Potos\u00ed",
+            "country": "BO",
+            "lat": -19.5892815,
+            "lng": -65.7535106,
+            "location": "potosi, bolivia",
+            "osm_id": "277381654",
+            "osm_type": "node",
+            "provider": "osm",
+            "quality": "city",
+            "state": "PSI",
+            "status": "OK"
+        },
+        {
+            "address": "Uyuni, Provincia Antonio Quijarro, Potos\u00ed, Bolivia",
+            "country": "BO",
+            "lat": -20.4599417,
+            "lng": -66.8225116,
+            "location": "uyuni, bolivia",
+            "osm_id": "795493613",
+            "osm_type": "node",
+            "provider": "osm",
+            "quality": "town",
+            "state": "Potos\u00ed",
+            "status": "OK"
+        },
+        {
+            "address": "Sucre, Provincia Oropeza, CHQ, Bolivia",
+            "city": "Sucre",
+            "country": "BO",
+            "lat": -19.047862,
+            "lng": -65.2596023,
+            "location": "sucre, bolivia",
+            "osm_id": "313764484",
+            "osm_type": "node",
+            "provider": "osm",
+            "quality": "city",
+            "state": "CHQ",
+            "status": "OK"
+        },
+        {
+            "accuracy": 0.68201488613777,
+            "address": "Oruro, Provincia Cercado, ORU, Bolivia",
+            "bbox": {
+                "northeast": [
+                    -17.8003802,
+                    -66.9501439
+                ],
+                "southwest": [
+                    -18.1203802,
+                    -67.2701439
+                ]
+            },
+            "city": "Oruro",
+            "confidence": 1,
+            "country": "Bolivia",
+            "county": "Provincia Cercado",
+            "encoding": "utf-8",
+            "geometry": {
+                "coordinates": [
+                    -67.1101439,
+                    -17.9603802
+                ],
+                "type": "Point"
+            },
+            "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+            "importance": 0.68201488613777,
+            "lat": -17.9603802,
+            "lng": -67.1101439,
+            "location": "oruro, bolivia",
+            "method": "geocode",
+            "ok": true,
+            "osm_id": "319780564",
+            "osm_type": "node",
+            "place_id": "1399364",
+            "place_rank": "16",
+            "provider": "osm",
+            "quality": "city",
+            "region": "ORU",
+            "state": "ORU",
+            "status": "OK",
+            "type": "city"
+        },
+        {
+            "address": "Cochabamba, Provincia Cercado, CBA, Bolivia",
+            "city": "Cochabamba",
+            "country": "BO",
+            "lat": -17.3935419,
+            "lng": -66.1570139,
+            "location": "cochabamba, bolivia",
+            "osm_id": "313811401",
+            "osm_type": "node",
+            "provider": "osm",
+            "quality": "city",
+            "state": "CBA",
+            "status": "OK"
+        },
+        {
+            "accuracy": 0.5423836653823,
+            "address": "Las Lomitas, Departamento Pati\u00f1o, FSA, Argentina",
+            "bbox": {
+                "northeast": [
+                    -24.688868,
+                    -60.5778612
+                ],
+                "southwest": [
+                    -24.7239565,
+                    -60.612004
+                ]
+            },
+            "city": "Las Lomitas",
+            "confidence": 6,
+            "country": "Argentina",
+            "encoding": "utf-8",
+            "geometry": {
+                "coordinates": [
+                    -60.5943161,
+                    -24.7060258
+                ],
+                "type": "Point"
+            },
+            "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png",
+            "importance": 0.5423836653823,
+            "lat": -24.7060258,
+            "lng": -60.5943161,
+            "location": "las lomitas, formosa, argentina",
+            "method": "geocode",
+            "ok": true,
+            "osm_id": "3498864",
+            "osm_type": "relation",
+            "place_id": "128103129",
+            "place_rank": "16",
+            "provider": "osm",
+            "quality": "administrative",
+            "region": "FSA",
+            "state": "FSA",
+            "status": "OK",
+            "type": "administrative"
+        },
+        {
+            "accuracy": 1.0641528440845,
+            "address": "Santa Cruz de la Sierra, Provincia Andres Ibanez, SCZ, Bolivia",
+            "bbox": {
+                "northeast": [
+                    -17.6236904,
+                    -63.0221038
+                ],
+                "southwest": [
+                    -17.9436904,
+                    -63.3421038
+                ]
+            },
+            "city": "Santa Cruz de la Sierra",
+            "confidence": 1,
+            "country": "Bolivia",
+            "county": "Provincia Andres Ibanez",
+            "encoding": "utf-8",
+            "geometry": {
+                "coordinates": [
+                    -63.1821038,
+                    -17.7836904
+                ],
+                "type": "Point"
+            },
+            "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+            "importance": 1.0641528440845,
+            "lat": -17.7836904,
+            "lng": -63.1821038,
+            "location": "santa cruz de la sierra, bolivia",
+            "method": "geocode",
+            "ok": true,
+            "osm_id": "415163462",
+            "osm_type": "node",
+            "place_id": "3832613",
+            "place_rank": "16",
+            "provider": "osm",
+            "quality": "city",
+            "region": "SCZ",
+            "state": "SCZ",
+            "status": "OK",
+            "type": "city"
+        },
+        {
+            "address": "La Paz, Provincia Murillo, LPZ, Bolivia",
+            "city": "La Paz",
+            "country": "BO",
+            "lat": -16.5065951,
+            "lng": -68.1295102,
+            "location": "la paz, bolivia",
+            "osm_id": "1975648720",
+            "osm_type": "node",
+            "provider": "osm",
+            "quality": "city",
+            "state": "LPZ",
+            "status": "OK"
+        },
+        {
+            "accuracy": 0.64761685113657,
+            "address": "Copacabana, Provincia Manco Kapac, LPZ, Bolivia",
+            "bbox": {
+                "northeast": [
+                    -16.1261162,
+                    -69.0466975
+                ],
+                "southwest": [
+                    -16.2061162,
+                    -69.1266975
+                ]
+            },
+            "confidence": 4,
+            "country": "Bolivia",
+            "county": "Provincia Manco Kapac",
+            "encoding": "utf-8",
+            "geometry": {
+                "coordinates": [
+                    -69.0866975,
+                    -16.1661162
+                ],
+                "type": "Point"
+            },
+            "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_town.p.20.png",
+            "importance": 0.64761685113657,
+            "lat": -16.1661162,
+            "lng": -69.0866975,
+            "location": "copacabana, Manco Kapac, bolivia",
+            "method": "geocode",
+            "ok": true,
+            "osm_id": "795662927",
+            "osm_type": "node",
+            "place_id": "7145283",
+            "place_rank": "18",
+            "provider": "osm",
+            "quality": "town",
+            "region": "LPZ",
+            "state": "LPZ",
+            "status": "OK",
+            "town": "Copacabana",
+            "type": "town"
+        },
+        {
+            "accuracy": 0.66592892122287,
+            "address": "Puno, Per\u00fa",
+            "bbox": {
+                "northeast": [
+                    -15.8197634,
+                    -70.0001265
+                ],
+                "southwest": [
+                    -15.8712609,
+                    -70.0391562
+                ]
+            },
+            "city": "Puno",
+            "confidence": 6,
+            "country": "Per\u00fa",
+            "county": "Puno",
+            "encoding": "utf-8",
+            "geometry": {
+                "coordinates": [
+                    -70.0278865,
+                    -15.8405697
+                ],
+                "type": "Point"
+            },
+            "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+            "importance": 0.66592892122287,
+            "lat": -15.8405697,
+            "lng": -70.0278865,
+            "location": "ciudad, puno, per\u00fa",
+            "method": "geocode",
+            "ok": true,
+            "osm_id": "91649030",
+            "osm_type": "way",
+            "place_id": "74622567",
+            "place_rank": 16,
+            "provider": "osm",
+            "quality": "city",
+            "region": "Puno",
+            "state": "Puno",
+            "status": "OK",
+            "type": "city"
+        },
+        {
+            "accuracy": 0.64752681001962,
+            "address": "Arequipa, Per\u00fa",
+            "bbox": {
+                "northeast": [
+                    -16.313333,
+                    -71.48
+                ],
+                "southwest": [
+                    -16.353333,
+                    -71.52
+                ]
+            },
+            "city": "Arequipa",
+            "confidence": 6,
+            "country": "Per\u00fa",
+            "county": "Arequipa",
+            "encoding": "utf-8",
+            "geometry": {
+                "coordinates": [
+                    -71.5,
+                    -16.333333
+                ],
+                "type": "Point"
+            },
+            "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png",
+            "importance": 0.64752681001962,
+            "lat": -16.333333,
+            "lng": -71.5,
+            "location": "arequipa, peru",
+            "method": "geocode",
+            "ok": true,
+            "osm_id": "1237030150",
+            "osm_type": "node",
+            "place_id": "12842538",
+            "place_rank": "18",
+            "provider": "osm",
+            "quality": "region",
+            "region": "Arequipa",
+            "state": "Arequipa",
+            "status": "OK",
+            "type": "region"
+        },
+        {
+            "accuracy": 0.22027225158296,
+            "address": "Mollendo, Islay, Arequipa, Per\u00fa",
+            "bbox": {
+                "northeast": [
+                    -16.6750449,
+                    -71.6664123
+                ],
+                "southwest": [
+                    -17.0676269,
+                    -72.0564955
+                ]
+            },
+            "city": "Mollendo",
+            "confidence": 1,
+            "country": "Per\u00fa",
+            "county": "Islay",
+            "encoding": "utf-8",
+            "geometry": {
+                "coordinates": [
+                    -72.0155447,
+                    -17.0292533
+                ],
+                "type": "Point"
+            },
+            "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+            "importance": 0.22027225158296,
+            "lat": -17.0292533,
+            "lng": -72.0155447,
+            "location": "mollendo, peru",
+            "method": "geocode",
+            "ok": true,
+            "osm_id": "1879160",
+            "osm_type": "relation",
+            "place_id": "127848437",
+            "place_rank": 16,
+            "provider": "osm",
+            "quality": "city",
+            "region": "Arequipa",
+            "state": "Arequipa",
+            "status": "OK",
+            "type": "city"
+        },
+        {
+            "accuracy": 0.66433214892448,
+            "address": "Cusco, Per\u00fa",
+            "bbox": {
+                "northeast": [
+                    -13.3612349,
+                    -71.8111244
+                ],
+                "southwest": [
+                    -13.6812349,
+                    -72.1311244
+                ]
+            },
+            "city": "Cusco",
+            "confidence": 1,
+            "country": "Per\u00fa",
+            "county": "Cusco",
+            "encoding": "utf-8",
+            "geometry": {
+                "coordinates": [
+                    -71.9711244,
+                    -13.5212349
+                ],
+                "type": "Point"
+            },
+            "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+            "importance": 0.66433214892448,
+            "lat": -13.5212349,
+            "lng": -71.9711244,
+            "location": "cusco, peru",
+            "method": "geocode",
+            "ok": true,
+            "osm_id": "59115290",
+            "osm_type": "node",
+            "place_id": "250283",
+            "place_rank": "16",
+            "provider": "osm",
+            "quality": "city",
+            "region": "Cusco",
+            "state": "Cusco",
+            "status": "OK",
+            "type": "city"
+        },
+        {
+            "accuracy": 0.57871426287808,
+            "address": "Arica, Provincia de Arica, XV Regi\u00f3n de Arica y Parinacota, Chile",
+            "bbox": {
+                "northeast": [
+                    -18.0869651,
+                    -69.4889922
+                ],
+                "southwest": [
+                    -18.9117624,
+                    -70.378825
+                ]
+            },
+            "city": "Arica",
+            "confidence": 1,
+            "country": "Chile",
+            "county": "Provincia de Arica",
+            "encoding": "utf-8",
+            "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+            "importance": 0.57871426287808,
+            "lat": -18.4784237,
+            "lng": -70.3211626,
+            "location": "arica, chile",
+            "ok": true,
+            "osm_id": "269826",
+            "osm_type": "relation",
+            "place_id": "127733917",
+            "place_rank": 16,
+            "provider": "osm",
+            "quality": "city",
+            "region": "XV Regi\u00f3n de Arica y Parinacota",
+            "state": "XV Regi\u00f3n de Arica y Parinacota",
+            "status": "OK",
+            "status_code": 200,
+            "type": "city"
+        },
+        {
+            "accuracy": 0.42027225158296,
+            "address": "Mollendo, Islay, Arequipa, Per\u00fa",
+            "bbox": {
+                "northeast": [
+                    -16.6750449,
+                    -71.6664123
+                ],
+                "southwest": [
+                    -17.0676269,
+                    -72.0564955
+                ]
+            },
+            "city": "Mollendo",
+            "confidence": 1,
+            "country": "Per\u00fa",
+            "county": "Islay",
+            "encoding": "utf-8",
+            "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+            "importance": 0.42027225158296,
+            "lat": -17.0292533,
+            "lng": -72.0155447,
+            "location": "mollendo, arequipa, per\u00fa",
+            "ok": true,
+            "osm_id": "1879160",
+            "osm_type": "relation",
+            "place_id": "127848437",
+            "place_rank": 16,
+            "provider": "osm",
+            "quality": "city",
+            "region": "Arequipa",
+            "state": "Arequipa",
+            "status": "OK",
+            "status_code": 200,
+            "type": "city"
+        },
+        {
+            "accuracy": 0.84752681001962,
+            "address": "Arequipa, Per\u00fa",
+            "bbox": {
+                "northeast": [
+                    -16.313333,
+                    -71.48
+                ],
+                "southwest": [
+                    -16.353333,
+                    -71.52
+                ]
+            },
+            "city": "Arequipa",
+            "confidence": 6,
+            "country": "Per\u00fa",
+            "county": "Arequipa",
+            "encoding": "utf-8",
+            "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png",
+            "importance": 0.84752681001962,
+            "lat": -16.333333,
+            "lng": -71.5,
+            "location": "arequipa, arequipa, per\u00fa",
+            "ok": true,
+            "osm_id": "1237030150",
+            "osm_type": "node",
+            "place_id": "12842538",
+            "place_rank": "18",
+            "provider": "osm",
+            "quality": "region",
+            "region": "Arequipa",
+            "state": "Arequipa",
+            "status": "OK",
+            "status_code": 200,
+            "type": "region"
+        },
+        {
+            "accuracy": 0.301,
+            "address": "Compa\u00f1\u00eda de Bomberos Nasca N\u00ba 82, Avenida de la Cultura, Nazca, Santa Fe, Nazca, Ica, Per\u00fa",
+            "bbox": {
+                "northeast": [
+                    -14.8252018,
+                    -74.9306514
+                ],
+                "southwest": [
+                    -14.8256957,
+                    -74.9309756
+                ]
+            },
+            "city": "Nazca",
+            "confidence": 10,
+            "country": "Per\u00fa",
+            "county": "Nazca",
+            "encoding": "utf-8",
+            "icon": "https://nominatim.openstreetmap.org/images/mapicons/amenity_firestation3.p.20.png",
+            "importance": 0.301,
+            "lat": -14.8255246,
+            "lng": -74.9307802178959,
+            "location": "nasca, ica, per\u00fa",
+            "ok": true,
+            "osm_id": "317827082",
+            "osm_type": "way",
+            "place_id": "126223138",
+            "place_rank": "30",
+            "provider": "osm",
+            "quality": "fire_station",
+            "region": "Ica",
+            "state": "Ica",
+            "status": "OK",
+            "status_code": 200,
+            "street": "Avenida de la Cultura",
+            "suburb": "Santa Fe",
+            "type": "fire_station"
+        },
+        {
+            "accuracy": 0.86433214892448,
+            "address": "Cusco, Per\u00fa",
+            "bbox": {
+                "northeast": [
+                    -13.3612349,
+                    -71.8111244
+                ],
+                "southwest": [
+                    -13.6812349,
+                    -72.1311244
+                ]
+            },
+            "city": "Cusco",
+            "confidence": 1,
+            "country": "Per\u00fa",
+            "county": "Cusco",
+            "encoding": "utf-8",
+            "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+            "importance": 0.86433214892448,
+            "lat": -13.5212349,
+            "lng": -71.9711244,
+            "location": "cusco, cusco, per\u00fa",
+            "ok": true,
+            "osm_id": "59115290",
+            "osm_type": "node",
+            "place_id": "250283",
+            "place_rank": "16",
+            "provider": "osm",
+            "quality": "city",
+            "region": "Cusco",
+            "state": "Cusco",
+            "status": "OK",
+            "status_code": 200,
+            "type": "city"
+        },
+        {
+            "accuracy": 0.575,
+            "address": "Santa Maria, La Convenci\u00f3n, Cusco, Per\u00fa",
+            "bbox": {
+                "northeast": [
+                    -12.9868445,
+                    -72.6141973
+                ],
+                "southwest": [
+                    -13.0268445,
+                    -72.6541973
+                ]
+            },
+            "confidence": 6,
+            "country": "Per\u00fa",
+            "county": "La Convenci\u00f3n",
+            "encoding": "utf-8",
+            "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_village.p.20.png",
+            "importance": 0.575,
+            "lat": -13.0068445,
+            "lng": -72.6341973,
+            "location": "santa mar\u00eda, cusco, per\u00fa",
+            "ok": true,
+            "osm_id": "415166331",
+            "osm_type": "node",
+            "place_id": "3836307",
+            "place_rank": "19",
+            "provider": "osm",
+            "quality": "village",
+            "region": "Cusco",
+            "state": "Cusco",
+            "status": "OK",
+            "status_code": 200,
+            "type": "village",
+            "village": "Santa Maria"
+        },
+        {
+            "accuracy": 0.90291579016499,
+            "address": "Machu Picchu, Carretera Hiram Bingham, Machupicchu, Urubamba, Cusco, Per\u00fa",
+            "bbox": {
+                "northeast": [
+                    -13.1616606,
+                    -72.5428898
+                ],
+                "southwest": [
+                    -13.1672464,
+                    -72.5472932
+                ]
+            },
+            "city": "Machupicchu",
+            "confidence": 8,
+            "country": "Per\u00fa",
+            "county": "Urubamba",
+            "encoding": "utf-8",
+            "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_point_of_interest.p.20.png",
+            "importance": 0.90291579016499,
+            "lat": -13.16441855,
+            "lng": -72.5447638104217,
+            "location": "machu picchu, cusco, per\u00fa",
+            "ok": true,
+            "osm_id": "157376572",
+            "osm_type": "way",
+            "place_id": "91668588",
+            "place_rank": "30",
+            "provider": "osm",
+            "quality": "attraction",
+            "region": "Cusco",
+            "state": "Cusco",
+            "status": "OK",
+            "status_code": 200,
+            "street": "Carretera Hiram Bingham",
+            "type": "attraction"
+        },
+        {
+            "accuracy": 0.575,
+            "address": "Paracas, Pisco, Ica, Per\u00fa",
+            "bbox": {
+                "northeast": [
+                    -13.8150425,
+                    -76.2296219
+                ],
+                "southwest": [
+                    -13.8550425,
+                    -76.2696219
+                ]
+            },
+            "confidence": 6,
+            "country": "Per\u00fa",
+            "county": "Pisco",
+            "encoding": "utf-8",
+            "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_village.p.20.png",
+            "importance": 0.575,
+            "lat": -13.8350425,
+            "lng": -76.2496219,
+            "location": "paracas, ica, per\u00fa",
+            "ok": true,
+            "osm_id": "258308774",
+            "osm_type": "node",
+            "place_id": "2592298050",
+            "place_rank": "19",
+            "provider": "osm",
+            "quality": "village",
+            "region": "Ica",
+            "state": "Ica",
+            "status": "OK",
+            "status_code": 200,
+            "type": "village",
+            "village": "Paracas"
+        },
+        {
+            "accuracy": 0.33958297447186,
+            "address": "Chancay, Huaral, Lima, Per\u00fa",
+            "bbox": {
+                "northeast": [
+                    -11.3854799,
+                    -77.2040299
+                ],
+                "southwest": [
+                    -11.6143129,
+                    -77.3826933
+                ]
+            },
+            "city": "Chancay",
+            "confidence": 1,
+            "country": "Per\u00fa",
+            "encoding": "utf-8",
+            "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png",
+            "importance": 0.33958297447186,
+            "lat": -11.5631124,
+            "lng": -77.2696868,
+            "location": "chancay, per\u00fa",
+            "ok": true,
+            "osm_id": "1944709",
+            "osm_type": "relation",
+            "place_id": "127900904",
+            "place_rank": "16",
+            "provider": "osm",
+            "quality": "administrative",
+            "region": "Lima",
+            "state": "Lima",
+            "status": "OK",
+            "status_code": 200,
+            "type": "administrative"
+        },
+        {
+            "accuracy": 0.57105165553968,
+            "address": "Chiclayo, Lambayeque, Per\u00fa",
+            "bbox": {
+                "northeast": [
+                    -6.746667,
+                    -79.83
+                ],
+                "southwest": [
+                    -6.786667,
+                    -79.87
+                ]
+            },
+            "city": "Chiclayo",
+            "confidence": 6,
+            "country": "Per\u00fa",
+            "county": "Chiclayo",
+            "encoding": "utf-8",
+            "geometry": {
+                "coordinates": [
+                    -79.85,
+                    -6.766667
+                ],
+                "type": "Point"
+            },
+            "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png",
+            "importance": 0.57105165553968,
+            "lat": -6.766667,
+            "lng": -79.85,
+            "location": "chiclayo, peru",
+            "method": "geocode",
+            "ok": true,
+            "osm_id": "1237030063",
+            "osm_type": "node",
+            "place_id": "12542007",
+            "place_rank": "18",
+            "provider": "osm",
+            "quality": "region",
+            "region": "Lambayeque",
+            "state": "Lambayeque",
+            "status": "OK",
+            "type": "region"
+        },
+        {
+            "accuracy": 0.354561534822,
+            "address": "Huacho, Huaural, Lima, Per\u00fa",
+            "bbox": {
+                "northeast": [
+                    -11.0999043,
+                    -77.3198999
+                ],
+                "southwest": [
+                    -11.4471796,
+                    -77.6542265
+                ]
+            },
+            "city": "Huacho",
+            "confidence": 1,
+            "country": "Per\u00fa",
+            "county": "Huaural",
+            "encoding": "utf-8",
+            "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png",
+            "importance": 0.354561534822,
+            "lat": -11.108524,
+            "lng": -77.6103295,
+            "location": "huacho, per\u00fa",
+            "ok": true,
+            "osm_id": "1944726",
+            "osm_type": "relation",
+            "place_id": "127925705",
+            "place_rank": "16",
+            "provider": "osm",
+            "quality": "administrative",
+            "region": "Lima",
+            "state": "Lima",
+            "status": "OK",
+            "status_code": 200,
+            "type": "administrative"
+        },
+        {
+            "accuracy": 0.7,
+            "address": "Barranca, Pativilca, Barranca, Lima, Per\u00fa",
+            "bbox": {
+                "northeast": [
+                    -10.6542472,
+                    -77.7007774
+                ],
+                "southwest": [
+                    -10.6942472,
+                    -77.7407774
+                ]
+            },
+            "confidence": 6,
+            "country": "Per\u00fa",
+            "county": "Barranca",
+            "encoding": "utf-8",
+            "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png",
+            "importance": 0.7,
+            "lat": -10.6742472,
+            "lng": -77.7207774,
+            "location": "barranca, barranca, lima, per\u00fa",
+            "ok": true,
+            "osm_id": "1237320360",
+            "osm_type": "node",
+            "place_id": "12880871",
+            "place_rank": "18",
+            "provider": "osm",
+            "quality": "region",
+            "region": "Lima",
+            "state": "Lima",
+            "status": "OK",
+            "status_code": 200,
+            "town": "Pativilca",
+            "type": "region"
+        },
+        {
+            "accuracy": 0.5,
+            "address": "Casma, Buena Vista Alta, Casma, Ancash, Per\u00fa",
+            "bbox": {
+                "northeast": [
+                    -9.452866,
+                    -78.1936837
+                ],
+                "southwest": [
+                    -9.492866,
+                    -78.2336837
+                ]
+            },
+            "city": "Buena Vista Alta",
+            "confidence": 6,
+            "country": "Per\u00fa",
+            "county": "Casma",
+            "encoding": "utf-8",
+            "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png",
+            "importance": 0.5,
+            "lat": -9.472866,
+            "lng": -78.2136837,
+            "location": "casma, per\u00fa",
+            "ok": true,
+            "osm_id": "1237030162",
+            "osm_type": "node",
+            "place_id": "12748995",
+            "place_rank": "18",
+            "provider": "osm",
+            "quality": "region",
+            "region": "Ancash",
+            "state": "Ancash",
+            "status": "OK",
+            "status_code": 200,
+            "type": "region"
+        },
+        {
+            "accuracy": 0.5,
+            "address": "Trujillo, La Libertad, Per\u00fa",
+            "bbox": {
+                "northeast": [
+                    -8.1049934,
+                    -78.9926084
+                ],
+                "southwest": [
+                    -8.1449934,
+                    -79.0326084
+                ]
+            },
+            "city": "Trujillo",
+            "confidence": 6,
+            "country": "Per\u00fa",
+            "county": "Trujillo",
+            "encoding": "utf-8",
+            "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png",
+            "importance": 0.5,
+            "lat": -8.1249934,
+            "lng": -79.0126084,
+            "location": "trujillo, per\u00fa",
+            "ok": true,
+            "osm_id": "3495036610",
+            "osm_type": "node",
+            "place_id": "2584149695",
+            "place_rank": "18",
+            "provider": "osm",
+            "quality": "region",
+            "region": "La Libertad",
+            "state": "La Libertad",
+            "status": "OK",
+            "status_code": 200,
+            "type": "region"
+        },
+        {
+            "accuracy": 0.6695308559712,
+            "address": "Piura, Per\u00fa",
+            "bbox": {
+                "northeast": [
+                    -5.0349017,
+                    -80.4722999
+                ],
+                "southwest": [
+                    -5.3549017,
+                    -80.7922999
+                ]
+            },
+            "city": "Piura",
+            "confidence": 1,
+            "country": "Per\u00fa",
+            "county": "Piura",
+            "encoding": "utf-8",
+            "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png",
+            "importance": 0.6695308559712,
+            "lat": -5.1949017,
+            "lng": -80.6322999,
+            "location": "piura, per\u00fa",
+            "ok": true,
+            "osm_id": "272379571",
+            "osm_type": "node",
+            "place_id": "805463",
+            "place_rank": "16",
+            "provider": "osm",
+            "quality": "city",
+            "region": "Piura",
+            "state": "Piura",
+            "status": "OK",
+            "status_code": 200,
+            "type": "city"
+        },
+        {
+            "accuracy": 0.56385461349205,
+            "address": "Loja, Ecuador",
+            "bbox": {
+                "northeast": [
+                    -3.8501061,
+                    -79.1373785
+                ],
+                "southwest": [
+                    -4.1328624,
+                    -79.2699454
+                ]
+            },
+            "city": "Loja",
+            "confidence": 1,
+            "country": "Ecuador",
+            "county": "Loja",
+            "encoding": "utf-8",
+            "geometry": {
+                "coordinates": [
+                    -79.2015997,
+                    -3.9967311
+                ],
+                "type": "Point"
+            },
+            "icon": "http://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png",
+            "importance": 0.56385461349205,
+            "lat": -3.9967311,
+            "lng": -79.2015997,
+            "location": "loja, ecuador",
+            "method": "geocode",
+            "ok": true,
+            "osm_id": "3651090",
+            "osm_type": "relation",
+            "place_id": "128163956",
+            "place_rank": "16",
+            "provider": "osm",
+            "quality": "administrative",
+            "region": "Loja",
+            "state": "Loja",
+            "status": "OK",
+            "type": "administrative"
+        }
     ]
 }

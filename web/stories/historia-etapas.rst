@@ -6,13 +6,29 @@
 .. link: 
 .. description: 
 .. type: text
+.. template: storymap.tmpl
+
+
+.. los archivos .gpx fueron generados con http://map.project-osrm.org/
+   y simplificados con gpsbabel (geodata/simplify_gpx.sh)
+
+.. los .gpx se encuentran en geodata/{primera,segunda,tercera}-etapa.gpx
 
 .. raw:: html
 
    <script defer src="/assets/js/argentina-en-python.js"></script>
 
 .. contents::  Contenido
-   :class: topic pull-right navbar alert alert-warning
+
+.. raw:: html
+
+   <script type="text/javascript">
+       contenido = document.getElementById('contenido');
+       contenido.classList.add('sidebar');
+       contenido.children[0].classList.add('sidebar-title');
+       contenido.children[0].classList.remove('topic-title');
+   </script>
+
 
 .. class:: alert alert-success
 
@@ -87,7 +103,7 @@ Los lugares en los que he estado son:
 * Paraná, Entre Ríos, Argentina
 
 Por diferentes cuestiones e inconveninentes, `decidí volver
-<http://elblogdehumitos.com.ar/posts/decidi-volver/>`_ y re-organizar
+<http://elblogdehumitos.com/posts/decidi-volver/>`_ y re-organizar
 nuevamente el proyecto para continuar viaje más adelante.
 
 Este es el mapa del recorrido realizado.
@@ -136,7 +152,7 @@ Tercera Etapa
 
 La etapa anterior fue muy intensa, y el cierre en la `Python
 Conference Argentina 2014
-<http://elblogdehumitos.com.ar/posts/python-conference-argentina-2014/>`_
+<http://elblogdehumitos.com/posts/python-conference-argentina-2014/>`_
 también. Durante estos casi tres meses de viaje que duró la `Segunda
 Etapa`_ pasaron muchas cosas, cambiaron otras y se crearon varios
 proyectos.
@@ -184,3 +200,95 @@ hemos visitado estos lugares:
 * El Dorado, Misiones, Argentina
 * Posadas, Misiones, Argentina
 * Apóstoles, Misiones, Argentina
+* Posadas, Misiones, Argentina
+* Encarnación, Itapúa, Paraguay
+* San Cosme y Damián, Itapúa, Paraguay
+* San Ignacio Guazú, Misiones, Paraguay
+* San Miguel, Misiones, Paraguay
+* La Colmena, Paraguarí, Paraguay
+* Sapucaí, Paraguarí, Paraguay
+* Paraguarí, Paraguarí, Paraguay
+* Asunción, Distrito Capital de Paraguay, Paraguay
+* Las Lomitas, Formosa, Argentina
+* San Salvador de Jujuy, Jujuy, Argentina
+* La Quiaca, Jujuy, Argentina
+* Potosí, Potosí, Bolivia
+* Uyuni, Potosí, Bolivia
+* Sucre, Chuquisaca, Bolivia
+* Oruro, Oruro, Bolivia
+* Cochabamba, Cochabamba, Bolivia
+* Santa Cruz, Santa Cruz, Bolivia
+* La Paz, La Paz, Bolivia
+* El Alto, La Paz, Bolivia
+* Copacabana, La Paz, Bolivia
+* Puno, Puno, Perú
+* Arequipa, Arequipa, Perú
+* Mollendo, Arequipa, Perú
+* Tacna, Tacna, Perú
+* Arica, Arica, Chile
+* Nasca, Ica, Perú
+* Ica, Ica, Perú
+* Cusco, Cusco, Perú
+* Paracas, Ica, Perú
+* Chancay, Lima, Perú
+* Huacho, Lima, Perú
+* Chiclayo, Lambayeque, Perú
+* Piura, Piura, Perú
+* Las Lomas, Piura, Perú
+* Santo Domingo, Distrito Nacional, Republica Dominicana
+* Las Lomas, Piura, Perú
+* Macará, Loja, Ecuador
+* Machala, El Oro, Ecuador
+* Cuenca, Azuay, Ecuador
+* Guayaquil, Guayas, Ecuador
+* Madrid, Madrid, España
+* Almería, Almería, España
+* Bahía Blanca, Argentina
+* Santiago del Estero, Santiago del Estero, Argentina
+* Girón, Azuay, Ecuador
+* San Fernando, Azuay, Ecuador
+* Salinas, Santa Elena, Ecuador
+* Punta Blanca, Santa Elena, Ecuador
+* Montañita, Santa Elena, Ecuador
+* Bogotá, Santafe, Colombia
+* Bucaramanga, Santander, Colombia
+* Cuenca, Azuay, Ecuador
+* Portland, Oregón, Estados Unidos
+* Medellín, Antioquía, Colombia
+* Barranquilla, Atlántico, Colombia
+* Cuenca, Azuay, Ecuador
+* Belo Horizonte, Minas Gerais, Brasil
+* Río de Janeiro, Río de Janeiro, Brasil
+* Ilha Grande, Río de Janeiro, Brasil
+* Cuenca, Azuay, Ecuador
+* Medellín, Antioquía, Colombia
+* Bogotá, Cundinamarca, Colombia
+* Cuenca, Azuay, Ecuador
+* Guayaquil, Guayas, Ecuador
+* Puerto Lopez, Ecuador
+* Cuenca, Azuay, Ecuador
+* Macará, Loja, Ecuador
+* Machala, El Oro, Ecuador
+* Piura, Piura, Perú
+* Chiclayo, Lambayeque, Perú
+* Lima, Lima, Perú
+* Ica, Ica, Perú
+* Illo, Moquegua, Perú
+* Arica, Región de Arica, Chile
+* Calama, San Pedro de Atacama, Chile
+* Salta, Salta, Argentina
+* San Salvador de Jujuy, Jujuy, Argentina
+* Tucumán, Tucumán, Argentina
+* Santiago del Estero, Santiago del Estero, Argentina
+* Rafaela, Santa Fe, Argentina 
+* Paraná, Entre Ríos, Argentina
+* Santa Fe, Santa Fe, Argentina
+* Buenos Aires, Buenos Aires, Argentina
+* Paraná, Entre Ríos, Argentina
+
+
+
+.. raw:: html
+
+   <div id="map-third"></div>
+

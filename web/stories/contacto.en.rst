@@ -4,7 +4,7 @@
 .. tags: 
 .. category: 
 .. link: 
-.. description: 
+.. description: These are our ways to be in touch, organize events and update our followers with the latest news
 .. type: text
 
 .. image:: mini-zen.thumbnail.jpg
@@ -21,6 +21,8 @@ an event or to keep updated about the project:
 
 :Twitter: https://twitter.com/argenpython
 
+:IRC: *humitos* en irc.freenode.net
+
 ----
 
 In case you need more instant communication, you can also use these
@@ -29,7 +31,11 @@ ways, but I'm not really pending on them:
 
 :WhatsApp: +54 9 343 4053434
 
-:Telegram: @humitos / +54 9 343 4053434
+:Telegram: @humitos
+
+:Cell Ecuador: +593 0990632940
+
+:Cell Perú: +51 999077870
 
 :Cell Bolivia: +591 68381678
 
@@ -42,4 +48,10 @@ ways, but I'm not really pending on them:
 ----
 
 If you want to know more about me, you can also `visit my personal
-blog <http://elblogdehumitos.com.ar/>`_.
+blog <http://elblogdehumitos.com/>`_.
+
+
+.. admonition:: QR Code
+
+   Also, you can scan the QR code with your smartphone and add my
+   contact to your contacts in seconds.

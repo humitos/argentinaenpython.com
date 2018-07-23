@@ -1,0 +1,8 @@
+.. title: Django Girls Pereira
+.. previewimage: _DSC0177.jpg
+.. description: Workshop Django Girls
+
+:Fecha: 9 de Diciembre de 2017
+:Lugar: Pereira, Risaralda, Colombia
+:Descripción: Taller de programación para mujeres con Django Girls
+:Web: https://argentinaenpython.com/django-girls/2017/12/pereira/

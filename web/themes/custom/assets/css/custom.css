@@ -22,12 +22,43 @@ div.flowr-row {
 }
 
 footer {
+    padding-top: 7px !important;
     margin-top: 25px;
     background-color: #ebebeb;
-    padding: 15px;
+    /* padding: 15px; */
     bottom: 0;
-    position: relative;
+    /* position: relative; */
     width: 100%;
+}
+
+footer .social-list {
+    list-style: none;
+    padding-top: 5px;
+}
+
+footer .social-list > li {
+    display: inline-block;
+    overflow: hidden;
+    margin-left: 5px;
+}
+
+footer .social-list > li > a {
+    color: #777;
+    text-decoration: none;
+    display: block;
+}
+
+.nikola-content-footer {
+    background-color: #D0D0D0;
+    padding-top: 15px;
+}
+
+.social-twitter:hover {
+    color: rgb(0, 172, 237);
+}
+
+.social-facebook:hover {
+    color: rgb(59, 89, 152);
 }
 
 iframe {
@@ -41,4 +72,47 @@ iframe {
     width: 70%;
     margin-left: auto;
     margin-right: auto;
+}
+
+.fotorama__wrap {
+    margin: 0 auto;
+}
+
+iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1em;
+    border-radius: 10px;
+    border: 2px solid #DDDDDD;
+    padding: 4px;
+    -moz-border-radius: 30px;
+    -khtml-border-radius: 30px;
+    -webkit-border-radius: 30px;
+}
+
+/* El Equipo */
+div.el-equipo-extra {
+    min-height: 375px;
+    margin-top: 35px;
+}
+
+div.el-equipo-extra h5 {
+    font-size: 16px
+}
+
+div.social-networks > ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-align: center;
+}
+
+div.social-networks > ul li {
+    display: inline;
+    margin: 5px;
+}
+
+div.social-networks > ul li i.fa {
+    font-size: 25px;
 }

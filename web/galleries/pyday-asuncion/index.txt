@@ -1,0 +1,8 @@
+.. title: PyDay Asunción
+.. previewimage: IMG_20150328_114419.jpg
+.. description: Evento PyDay
+
+:Fecha: 28 de Marzo de 2015
+:Lugar: Asunción, Central, Paraguay
+:Descripción: PyDay organizado por la comunidad de Python Paraguay y SENATICs
+:Blog Post: http://elblogdehumitos.com/posts/pydayasuncion-un-exito-arrollador/

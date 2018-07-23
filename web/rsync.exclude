@@ -1,0 +1,5 @@
+mapas-de-openstreetmap-para-garmin/*/*.img
+mapas-de-openstreetmap-para-garmin/*.json
+
+# temporal excluded
+# django-girls/django-girls-recursos.zip

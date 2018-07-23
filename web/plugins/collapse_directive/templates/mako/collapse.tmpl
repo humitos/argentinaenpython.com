@@ -1,0 +1,18 @@
+## -*- coding: utf-8 -*-
+
+## <div class="panel-group" id="accordion">
+##  % for item in items:
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapse-${uuid}"><span style="margin-right: 5px;" id="showRefsSign" class="glyphicon glyphicon-chevron-down" aira-hidden="true"></span>${title}</a>
+      </h4>
+    </div>
+    <div id="collapse-${uuid}" class="panel-collapse collapse">
+      <div class="panel-body">
+      ${content}
+      </div>
+    </div>
+  </div>
+##  % endfor
+## </div

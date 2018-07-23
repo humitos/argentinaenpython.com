@@ -1,0 +1,8 @@
+.. title: Django Girls Bogotá
+.. previewimage: IMG_20170212_122818.jpg
+.. description: Workshop Django Girls
+
+:Fecha: 12 de Febrero de 2017
+:Lugar: Bogotá, Cundinamarca, Colombia
+:Descripción: Workshop Django Girls en el que Argentina en Python participó como Co-Organizador
+:Web: https://djangogirls.org/bogota

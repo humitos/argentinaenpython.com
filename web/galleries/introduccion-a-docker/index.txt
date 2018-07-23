@@ -1,0 +1,8 @@
+.. title: Introducción a Docker
+.. previewimage: IMG_20171201_205832.jpg
+.. description: Mini Taller de Docker en la 10ma Meetup de Python Ecuador, Cuenca
+
+:Fecha: 1 y 8 de Diciembre de 2017
+:Lugar: Cuenca, Azuay, Ecuador
+:Descripción: Mini Taller de Docker en la 10ma Meetup de Python Ecuador
+:Web: https://github.com/humitos/docker-workshop

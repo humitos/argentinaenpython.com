@@ -18,6 +18,7 @@ Argentina en Python
 :Slides: 
    * `PyConAr 2014, Rafaela, Santa Fe, Argentina <argentina-en-python_pyconar2014_humitos.pdf>`_
    * `PyDay Formosa, Formosa, Argentina 2014 <argentina-en-python_pyday_formosa_2015_humitos.pdf>`_
+   * `PyDay Litoral, Santa Fe, Argentina 2015 <argentina-en-python_pyday_litoral_2015.pdf>`_
 :Videos: `PyConAr 2014, Rafaela, Santa Fe, Argentina
          <https://www.youtube.com/watch?v=eNQ9O_3ySs8>`__
 :Descripción: En Enero de 2014 empecé a viajar con un proyecto
@@ -40,7 +41,7 @@ Introducción a Python
 
 :Título: Introducción a Python
 :Duración: 45~90 minutos
-:Slides: `UNAE, Encarnación, Itapúa, Paraguay <introduccion-a-python_unae_encarnacion_paraguay.pdf>`_ | Notebook 1 (`descargar <introduccion-a-python.ipynb>`_ | `ver <http://nbviewer.ipython.org/url/argentinaenpython.com.ar/eventos/charlas/introduccion-a-python.ipynb>`_) - Notebook 2 (`descargar <algunas-perlitas.ipynb>`__ | `ver <http://nbviewer.ipython.org/url/argentinaenpython.com.ar/eventos/charlas/algunas-perlitas.ipynb>`__)
+:Slides: `UNAE, Encarnación, Itapúa, Paraguay <introduccion-a-python_unae_encarnacion_paraguay.pdf>`_ | Notebook 1 (`descargar <introduccion-a-python.ipynb>`_ | `ver <http://nbviewer.ipython.org/url/argentinaenpython.com/eventos/charlas/introduccion-a-python.ipynb>`_) - Notebook 2 (`descargar <algunas-perlitas.ipynb>`__ | `ver <http://nbviewer.ipython.org/url/argentinaenpython.com/eventos/charlas/algunas-perlitas.ipynb>`__)
 :Descripción: Trata temas básicos de Python: sus características y
    propiedades y su poderosa sintaxis. Mostramos varios ejemplos
    interactivos en vivo utilizando `Jupyter Notebook
@@ -119,3 +120,9 @@ pilas-engine: aprende a programar, ¡jugando!
    principales del framework con la idea de estimular la investigación
    y la curiosidad en los asistentes; mostrando algunas de sus
    características más novedosas y sorprendentes.
+
+
+.. ----
+
+.. PyFi Spot al rescate
+

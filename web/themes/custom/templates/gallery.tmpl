@@ -5,11 +5,7 @@
 
 <%block name="content">
     %if title:
-      %if title == 'galleries':
-        <h1>Galerías</h1>
-      %else:
-        <h1>${title|h}</h1>
-      %endif     
+    <h1>${title|h}</h1>
     %endif
     %if post:
     <p>
@@ -17,32 +13,37 @@
     </p>
     %endif
     %if folders:
+    % if galleries_use_thumbnail:
+    <div class="row">
     % for folder, ftitle, fpost in folders:
-        <!-- <li><a href="${folder}"><i class="glyphicon glyphicon-folder-open"></i> &nbsp;${ftitle}</a></li> -->
-	% if loop.index % 3 == 0:
-	<div class="row">
-	% endif
-	  <div class="col-sm-6 col-md-4">
+	  <div class="col-md-4 col-sm-6 col-xs-12" style="min-height: 425px;">
 	    <div class="thumbnail">
 	      <a href="${folder}">
 		% if fpost and getattr(fpost, 'previewimage', None):
-		<img src="${folder}${fpost.previewimage}" alt="${ftitle}">
+		<img src="${folder}${fpost.previewimage}" style="width: 340px; height: 255px;" alt="${ftitle|h}">
+		% elif galleries_default_thumbnail:
+		<img src="${galleries_default_thumbnail}" alt="${ftitle|h}">
 		% else:
-		<img src="/index/logo.png" alt="${ftitle}">
+		<div style="height: 250px; background-color: #eee;"></div>
 		% endif
 	      </a>
 	      <div class="caption">
-		<h3>${ftitle}</h3>
+		<h3>${ftitle|h}</h3>
 		% if fpost and fpost.description():
 		<p>${fpost.description()}</p>
 		% endif
 	      </div>
 	    </div>
 	  </div>
-	% if loop.index % 3 == 2:
-	</div>
-	% endif
     % endfor
+    </div>
+    % else:
+        <ul>
+            % for folder, ftitle in folders:
+                <li><a href="${folder}"><i class="glyphicon glyphicon-folder-open"></i>&nbsp;${ftitle|h}</a></li>
+            % endfor
+        </ul>
+    % endif
     %endif
 
 <div id="gallery_container"></div>
@@ -50,8 +51,8 @@
 <noscript>
 <ul class="thumbnails">
     %for image in photo_array:
-        <li><a href="${image['url']}" class="thumbnail image-reference">
-            <img src="${image['url_thumb']}" /></a></li>
+        <li><a href="${image['url']}" class="thumbnail image-reference" title="${image['title']|h}">
+            <img src="${image['url_thumb']}" alt="${image['title']|h}" /></a>
     %endfor
 </ul>
 </noscript>
@@ -113,5 +114,6 @@ $("#gallery_container").flowr({
         }
     });
 $("a.image-reference").colorbox({rel:"gal", maxWidth:"100%",maxHeight:"100%",scalePhotos:true});
+$('a.image-reference[href="'+window.location.hash.substring(1,1000)+'"]').click();
 </script>
 </%block>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300px"
+   height="300px"
+   viewBox="0 0 300 300"
+   version="1.1"
+   style="background: #FFFFFF;"
+   id="svg4607"
+   inkscape:version="0.91 r"
+   sodipodi:docname="ap_logo.svg"
+   inkscape:export-filename="/home/humitos/Dropbox/argenpython/grafica/ap_logo.png"
+   inkscape:export-xdpi="150"
+   inkscape:export-ydpi="150">
+  <metadata
+     id="metadata4627">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>AP1</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="719"
+     id="namedview4625"
+     showgrid="false"
+     inkscape:zoom="1.86"
+     inkscape:cx="150"
+     inkscape:cy="150"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4607" />
+  <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title4609">AP1</title>
+  <desc
+     id="desc4611">Created with Sketch.</desc>
+  <defs
+     id="defs4613">
+    <linearGradient
+       x1="0%"
+       y1="100%"
+       x2="100%"
+       y2="0%"
+       id="linearGradient-1">
+      <stop
+         stop-color="#434648"
+         offset="0%"
+         id="stop4616" />
+      <stop
+         stop-color="#3579AE"
+         offset="50.4026958%"
+         id="stop4618" />
+      <stop
+         stop-color="#FFBE23"
+         offset="100%"
+         id="stop4620" />
+    </linearGradient>
+  </defs>
+  <g
+     id="Page-1"
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     fill-rule="evenodd"
+     inkscape:export-filename="/home/humitos/Source/argentinaenpython.com.ar/web/images/django-girls-guayaquil/organizadores.png"
+     inkscape:export-xdpi="132"
+     inkscape:export-ydpi="132">
+    <g
+       id="AP1"
+       fill="url(#linearGradient-1)">
+      <path
+         d="M219.051978,186.618055 L283.494692,75 L111.238095,75.52168 L196.914606,224.961109 L217.443435,224.980707 L209.308468,209.853728 L209.305144,209.859485 L197.190264,188.629724 L142.509219,93.5760718 L252.168619,93.4044196 L208.773269,168.567366 L219.051978,186.618055 Z M60.2747453,225 L189.160173,225 L102.580087,76.0822511 L16,225 L37.1308768,225 L47.6017316,207.073034 L102.580087,112.191035 L157.558442,207.073034 L70.7677457,207.073032 L60.2747453,225 Z M103.659303,149.607248 L126.38961,188.835358 L80.9289962,188.835358 L103.659303,149.607248 Z M175.452218,111.349549 L220.789912,111.278581 L198.059605,150.648628 L175.452218,111.349549 Z"
+         id="Combined-Shape" />
+    </g>
+  </g>
+</svg>

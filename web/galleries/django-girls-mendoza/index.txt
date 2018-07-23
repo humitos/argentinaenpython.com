@@ -1,0 +1,14 @@
+.. title: Django Girls Mendoza
+.. previewimage: IMG_20151112_162414.jpg
+.. description: Workshop Django Girls
+
+:Fecha: 12 de Noviembre de 2015
+:Lugar: Mendoza, Mendoza, Argentina
+:Descripción: Taller de programación para mujeres/chicas con Django Girls organizado por `Argentina en Python <http://argentinaenpython.com/>`_ y `LinuxChix Argentina <http://www.linuxchixar.org/>`_ en el marco de `PyCon Argentina <http://ar.pycon.org/>`_ Mendoza 2015
+:Web: http://argentinaenpython.com/django-girls-en-pyconar-mdz/
+:Fotos PyCon Argentina Mendoza 2015: https://goo.gl/photos/9TxXuis5KVms8ML47
+
+.. Escalar todas las imágenes a máximo 1024 en cualquiera de sus dimensiones (se conserva el aspecto)
+..   http://www.imagemagick.org/script/command-line-processing.php#geometry
+..
+.. mkdir -p resized; for IMG in `ls DSCF*.JPG IMG_*.jpg`; do convert -resize 1024x1024 ${IMG} resized/${IMG}; done

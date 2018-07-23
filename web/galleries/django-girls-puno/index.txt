@@ -1,0 +1,8 @@
+.. title: Django Girls Puno
+.. previewimage: DSC_0740_01.jpg
+.. description: Workshop Django Girls
+
+:Fecha: 3 de Octubre de 2015
+:Lugar: Puno, Puno, Perú
+:Descripción: Taller de programación para mujeres/chicas
+:Web: http://argentinaenpython.com/django-girls-puno

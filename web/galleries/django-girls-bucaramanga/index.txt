@@ -1,0 +1,8 @@
+.. title: Django Girls Bucaramanga
+.. previewimage: IMG_1593.JPG
+.. description: Workshop Django Girls
+
+:Fecha: 8 de Abril de 2017
+:Lugar: Bucaramanga, Santander, Colombia
+:Descripción: Taller de programación para mujeres con Django Girls
+:Web: https://argentinaenpython.com/django-girls/2017/04/bucaramanga/

@@ -10,7 +10,7 @@
 .. class:: alert alert-success
 
    `Leé nuestra visión
-   <http://elblogdehumitos.com.ar/posts/scipyla-2015/>`_ de lo que fue
+   <http://elblogdehumitos.com/posts/scipyla-2015/>`_ de lo que fue
    el Track Teen y la SciPyLA en "El blog de Humitos" y `mirá todas
    las fotos </galeria/track-teen-scipy-la-2015>`_.
 
@@ -63,7 +63,7 @@ Atronomía
 
 :Disertante: Bruno Sánchez
 :Invitado: Juan Luis Cano
-:Diapositivas: `Descargar <astrononia-track-teen.pdf>`__
+:Diapositivas: `Descargar <astronomia-track-teen.pdf>`__
 :Web: `Facebook Observatorio Astronómico de Córdoba <https://www.facebook.com/#/pages/Observatorio-Astron%C3%B3mico-de-C%C3%B3rdoba-OAC/108460115866648>`_
 
 .. epigraph::

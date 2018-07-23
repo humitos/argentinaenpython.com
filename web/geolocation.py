@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 
-"""Calculate a position from an IP or Address and save it into a file
+"""
+Calculate a position from an IP or Address and save it into a file.
 
 Usage:
   geolocation.py [(-v | --verbose)] [--no-wait] (-m | --me)
@@ -21,18 +22,17 @@ Options:
   --version            Show version.
 """
 
-import os
-import json
-import time
-import user
-import geocoder
-import logging
-import configobj
 import collections
+import json
+import logging
+import os
+import time
 import webbrowser
-from docopt import docopt
 from logging.handlers import RotatingFileHandler
 
+import configobj  # fades
+import geocoder  # fades
+from docopt import docopt  # fades
 
 logger = logging.getLogger('geolocation')
 
@@ -42,6 +42,7 @@ GPX_FILES = [
     os.path.join(DIRNAME, 'geodata/0-etapa.gpx'),
     os.path.join(DIRNAME, 'geodata/primera-etapa.gpx'),
     os.path.join(DIRNAME, 'geodata/segunda-etapa.gpx'),
+    os.path.join(DIRNAME, 'geodata/tercera-etapa.gpx'),
 ]
 CITIES_FILENAME = os.path.join(DIRNAME, 'geodata/cities.json')
 MY_POSITION_FILENAME = os.path.join(DIRNAME, 'geodata/my-position.json')
@@ -51,18 +52,18 @@ SYMLINK_FILES = [
 ] + GPX_FILES
 WAIT_BEFORE_QUERY = 5
 MAP_ZOOM = 14
-CONF_FILE = os.path.join(user.home, '.geolocation.ini')
+CONF_FILE = os.path.join('~', '.geolocation.ini')
+
 
 config = configobj.ConfigObj(
     infile=CONF_FILE,
     encoding='utf-8',
-    create_empty=True
 )
 
 
 def setup_logging(verbose):
     logfile = os.path.join(DIRNAME, 'geodata/geolocation.log')
-    handler = RotatingFileHandler(logfile, maxBytes=1e6, backupCount=10)
+    handler = RotatingFileHandler(logfile, maxBytes=1e6, backupCount=10, encoding='utf-8')
     logger.addHandler(handler)
     formatter = logging.Formatter("%(asctime)s  %(name)-10s  "
                                   "%(levelname)-8s %(message)s")
@@ -87,7 +88,7 @@ def save_json(data, output):
 
 
 def load_json(output):
-    data = open(output, 'r').read().decode('utf8')
+    data = open(output, 'r').read()
     cities = json.loads(
         data,
         object_pairs_hook=collections.OrderedDict
@@ -134,7 +135,7 @@ def is_osmurl_valid(response):
     answer = None
     webbrowser.open_new_tab(url)
     while answer not in ('y', 'yes', 'n', 'no'):
-        answer = raw_input('Is this URL correct?\n    {}\n[y/n]: '.format(url))
+        answer = input('Is this URL correct?\n    {}\n[y/n]: '.format(url))
     if answer in ('y', 'yes'):
         return True
     return False
@@ -164,11 +165,6 @@ def create_symlinks(dirname=SYMLINKS_DIR):
 
 def calc_my_position_ip(output=MY_POSITION_FILENAME):
     setup_output(output)
-
-    if not config.get('activated', False):
-        logger.info('Exiting: not activated')
-        return
-
     logger.info('Waiting %s seconds...', WAIT_BEFORE_QUERY)
     time.sleep(WAIT_BEFORE_QUERY)
     logger.info('Querying the server about my ip...')
@@ -185,18 +181,23 @@ def calc_my_position_address(address, output, upload=True):
     logger.info('LatLng: %s', response.latlng)
     logger.info('Place: %s', response.address)
 
-    save_json(response.latlng, output)
-
     if upload:
+        save_json(response.latlng, output)
         upload_my_position()
+
+    return response
 
 
 def upload_my_position():
-    command = 'scp {} ' \
-              'mkaufmann.com.ar:~/apps/argentinaenpython.com.ar/' \
-              'assets/data/'.format(
-                  MY_POSITION_FILENAME,
-              )
+    command = ' '.join([
+        'runuser',
+        '-l',
+        'humitos',
+        '-c',
+        '"scp',
+        MY_POSITION_FILENAME,
+        'elblogdehumitos.com:~/apps/argentinaenpython.com.ar/assets/data/"',
+    ])
 
     logger.debug(command)
     logger.info('Uploading new "my-position.json" file...')
@@ -281,7 +282,7 @@ if __name__ == '__main__':
         deactivate()
 
     if arguments['-a'] or arguments['--address']:
-        q = arguments['<address>'].decode('utf8')
+        q = arguments['<address>']  # .decode('utf8')
 
         if arguments['--remove']:
             response = remove_address(q)

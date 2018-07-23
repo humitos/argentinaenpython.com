@@ -16,7 +16,7 @@
    edades, cursos y escuelas.
 
    `Leé nuestra visión
-   <http://elblogdehumitos.com.ar/posts/scipyla-2015/>`_ de lo que fue
+   <http://elblogdehumitos.com/posts/scipyla-2015/>`_ de lo que fue
    el Track Teen y la SciPyLA en "El blog de Humitos".
 
    * `Ver Fotos </galeria/track-teen-scipy-la-2015/>`_
@@ -119,7 +119,7 @@ Contactos
 
 * Manuel
 
-  - Web: http://argentinaenpython.com.ar
+  - Web: https://argentinaenpython.com
   - Email: argentinaenpython@gmail.com
   - Twitter: `@argenpython <https://twitter.com/argenpython>`_
 

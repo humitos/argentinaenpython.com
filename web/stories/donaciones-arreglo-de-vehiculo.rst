@@ -89,7 +89,7 @@ parece apropiado también pondremos el logo en esta página y el monto
 donado. Además de un Tweet en la cuenta de `@argenpython
 <http://twitter.com/argenpython/>`_ el día de la donación y
 agradecimientos en un `post
-<http://elblogdehumitos.com.ar/posts/el-destino-de-tu-donacion/>`_ que
+<http://elblogdehumitos.com/posts/el-destino-de-tu-donacion/>`_ que
 se escribirá luego de concluídos los arreglos.
 
 Al día de la fecha hemos recibido un total de *$ 11620.15 (193.67%)* en
@@ -125,12 +125,12 @@ medios disponibles a la fecha para realizar las donaciones:
 ----
 
 .. [#] `#PyDayAsunción: un éxito arrollador
-       <http://elblogdehumitos.com.ar/posts/pydayasuncion-un-exito-arrollador/>`_
-.. [#] `PyDay Formosa <http://elblogdehumitos.com.ar/posts/pyday-formosa/>`_
+       <http://elblogdehumitos.com/posts/pydayasuncion-un-exito-arrollador/>`_
+.. [#] `PyDay Formosa <http://elblogdehumitos.com/posts/pyday-formosa/>`_
 .. [#] `Primer Sprint de Python en Resistencia, Chaco
-       <http://elblogdehumitos.com.ar/posts/primer-sprint-de-python-en-resistencia-chaco/>`_
+       <http://elblogdehumitos.com/posts/primer-sprint-de-python-en-resistencia-chaco/>`_
 .. [#] `Charla abierta de OpenStreetMap en Las Breñas
-       <http://elblogdehumitos.com.ar/posts/charla-abierta-de-openstreetmap-en-las-brenas/>`_
+       <http://elblogdehumitos.com/posts/charla-abierta-de-openstreetmap-en-las-brenas/>`_
 .. [#] `Curso de Python en Paraná
-       <http://elblogdehumitos.com.ar/posts/curso-de-python-en-parana/>`_
+       <http://elblogdehumitos.com/posts/curso-de-python-en-parana/>`_
 .. [#] los precios están basados en los listados de Mercado Libre Argentina

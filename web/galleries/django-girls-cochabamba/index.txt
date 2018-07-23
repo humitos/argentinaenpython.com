@@ -1,0 +1,9 @@
+.. title: Django Girls Cochabamba
+.. previewimage: DSC_9433_01.jpg
+.. description: Workshop Django Girls
+
+:Fecha: 22 de Agosto de 2015
+:Lugar: Cochabamba, Cochabamba, Bolivia
+:Descripción: Taller de programación para mujeres/chicas
+:Web: http://argentinaenpython.com/django-girls-cochabamba/
+:Blog Post: http://elblogdehumitos.com/posts/django-girls-tecnologia-python-mujeres/

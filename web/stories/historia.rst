@@ -39,8 +39,8 @@ Hoy en día se está empujando una versión muy similar a `la última
 propuesta`_ en la que se trabajó a los inicios del proyecto. En
 resumen, consistía en dar charlas, cursos y talleres gratuitamente de
 forma itinerante a lo largo de todo el país. Además, ¡ya hemos
-visitado otros países, como ser Paraguay y queremos llegar a Bolivia
-próximamente!
+visitado otros países, como ser Paraguay, Bolivia, Perú y queremos
+llegar a Ecuador próximamente!
 
 .. _la última propuesta: argentina-en-python__proyecto_original.pdf
 
@@ -52,11 +52,13 @@ próximamente!
 
 Para la Tercer Etapa (ver :doc:`historia/etapas`) se sumó `Johanna
 <https://twitter.com/EllaQuimica/>`_ (a quién conocí en Santiago del
-Estero durante la Segunda Etapa) al proyecto y me está acompañando
-desde el 8 de Diciembre de 2014 en mis viajes.
+Estero durante el viaje) al proyecto y me está acompañando desde el 8
+de Diciembre de 2014 en mis viajes.
 
 En Enero de 2015 la Python Software Foundation `nos otorga un subsidio
-<http://elblogdehumitos.com.ar/posts/la-psf-nos-da-una-mano/>`_ para
+<http://elblogdehumitos.com/posts/la-psf-nos-da-una-mano/>`_ para
 que sigamos realizando estas actividades en la zona del NEA
-(Norte-Este Argentino), Paraguay y Bolivia. Actualmente nos
-encontramos cumpliendo con este objetivo puntualmente...
+(Norte-Este Argentino), Paraguay y Bolivia.
+
+Actualmente nos encontramos cumpliendo con el objetivo de llevar
+Python a la mayor cantidad de países de Latino América...

@@ -38,8 +38,12 @@
 Agosto
 ------
 
+#. Nos estamos poniendo en contacto con las comunidades de Perú para
+   ir alistando nuestra llegada y organizarnos mejor. :doc:`Ayudanos a
+   ponernos en contacto <como-colaborar>` con tus conocidos.
+
 #. Llegamos a Cochabamba, Bolivia y estamos organizando `la primera
-   reunión <http://elblogdehumitos.com.ar/posts/cochabamba-latente/>`_
+   reunión <http://elblogdehumitos.com/posts/cochabamba-latente/>`_
    para coordinar los próximos eventos de las siguientes semanas.
 
 #. Nos encontramos en Oruro, Bolivia hablando con los contactos
@@ -51,7 +55,7 @@ Julio
 -----
 
 #. `Comentamos el destino de las donaciones
-   <http://elblogdehumitos.com.ar/posts/el-destino-de-tu-donacion/>`_
+   <http://elblogdehumitos.com/posts/el-destino-de-tu-donacion/>`_
    que recibimos para arreglar a Errante.
 
 #. Estamos varados en Sucre, Bolivia hasta que se resuelva la
@@ -90,7 +94,7 @@ Junio
 
 #. Pensamos que estaría buenísimo hacer un Sprint/Meetup en Asunción y
    así aprovechar a los más de 100 asistentes del `PyDay Asunción
-   <http://elblogdehumitos.com.ar/posts/pydayasuncion-un-exito-arrollador/>`_. ¿Querés
+   <http://elblogdehumitos.com/posts/pydayasuncion-un-exito-arrollador/>`_. ¿Querés
    `ayudarnos a organizar
    <https://groups.google.com/forum/#!topic/python-paraguay/E06VeJ6hqfc>`_
    eso?
@@ -98,7 +102,7 @@ Junio
 #. Nos gustaría organizar una Meetup en Formosa cerca de fines de
    Junio, para empujar un poco la comunidad de Python ahí luego del
    `PyDay que realizamos en Febrero
-   <http://elblogdehumitos.com.ar/posts/pyday-formosa/>`_.
+   <http://elblogdehumitos.com/posts/pyday-formosa/>`_.
 
 #. Estamos buscando contactos en Salta (Argentina) y Bolivia. Si
    conocés a alguien que nos pueda dar una mano, ponete en

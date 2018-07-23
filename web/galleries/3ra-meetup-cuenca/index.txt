@@ -1,0 +1,9 @@
+.. title: Meetup de Python
+.. previewimage: IMG_20160507_102440.jpg
+.. description: 3ra Meetup de Python Ecuador en Cuenca
+
+:Fecha: 7 de Mayo de 2016
+:Lugar: Cuenca, Azuay, Ecuador
+:Descripción: 3ra Meetup de Python Ecuador en Cuenca
+:Web: http://www.meetup.com/es-ES/python-ecuador/events/230623073/
+

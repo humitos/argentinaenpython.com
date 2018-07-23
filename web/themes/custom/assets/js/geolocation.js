@@ -58,7 +58,7 @@ $(document).ready(function (){
         );
 
         // create the tile layer with correct attribution
-        var osmUrl='http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
+        var osmUrl='https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
         var osmAttrib='Map data © <a href="http://openstreetmap.org">OpenStreetMap</a> contributors';
         osmLayer = new L.TileLayer(osmUrl, {minZoom: 4, maxZoom: 14, attribution: osmAttrib});
         map.addLayer(osmLayer);

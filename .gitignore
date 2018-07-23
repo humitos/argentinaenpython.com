@@ -60,3 +60,22 @@ web/.doit.db
 *~
 *#
 *.#*
+
+.venv
+web/files/django-girls/djangogirls-recursos.zip
+web/files/django-girls/djangogirls-material-impreso.zip
+web/state_data.json
+web/tmp
+
+*_flymake.py
+*.bak
+web/.doit.db.db
+web/.doit.db.dat
+web/.doit.db.dir
+web/django-girls-recursos.zip
+web/files/django-girls/django-girls-recursos.zip
+web/galleries
+web/@djangogirls
+
+# OSX specific
+.DS_Store

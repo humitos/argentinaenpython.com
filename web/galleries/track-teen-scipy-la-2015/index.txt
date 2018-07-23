@@ -1,0 +1,14 @@
+.. title: Track Teen SciPyLA 2015
+.. previewimage: IMG_20150522_094407.jpg
+.. description: Ciencia y programación para alumnos de secundario
+
+:Fecha: 21 de Mayo de 2015
+:Lugar: Universidad Gastón Dachary, Posadas, Misiones, Argentina
+:Descripción: Día dedicado a los alumnos de secundaria dentro de SciPyLA 2015
+:Web: http://argentinaenpython.com/track-teen-scipy-la-2015/
+:Post: http://elblogdehumitos.com/posts/scipyla-2015/
+
+
+.. Comando para darle los permisos correspondientes a las imagenes
+
+   chmod u=rw,g=rw,o=r galleries/*/*

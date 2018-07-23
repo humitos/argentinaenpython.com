@@ -1,9 +1,9 @@
 .. title: Quiero aprender Python
 .. slug: quiero-aprender-python
 .. date: 2015-07-05 23:27:26 UTC-03:00
-.. tags: 
-.. category: 
-.. link: 
+.. tags:
+.. category:
+.. link:
 .. description: Material para aprender Python desde lo básico
 .. type: text
 .. nocomments: False
@@ -85,7 +85,7 @@ del aprendizaje y te resulte más sencillo:
 .. image:: IMG_20150411_163307.jpg
    :class: align-center
    :alt: Traducción de Sugar al Guaranía en Caacupé, Paraguay
-      
+
 
 ----
 
@@ -208,11 +208,11 @@ una de ellas:
    tus proyectos y también *te ayuda* coloreando la sintaxis, dándote
    sugerencias de autocompletado con las funciones disponibles y un
    sin fin de herramientas más.
-  
+
    * `Spyder <https://github.com/spyder-ide/spyder>`_
    * `Ninja-IDE <http://ninja-ide.org/>`_
    * `PyCharm <https://www.jetbrains.com/pycharm/>`_
-  
+
 .. collapse:: Entornos virtuales
 
    Los entornos virtuales (*virtualenv*) son muy útiles para aislar
@@ -220,11 +220,11 @@ una de ellas:
    común que necesitemos instalar dos versiones diferentes de un mismo
    módulo en una computadora, es ahí donde *virtualenv* juega un buen
    papel.
- 
+
    * `virtualenv <https://virtualenv.pypa.io/en/latest/>`_
    * `virtualenvwrapper <http://virtualenvwrapper.readthedocs.org/en/latest/>`_
    * `fades <https://github.com/PyAr/fades>`_
- 
+
 .. collapse:: Interfaces gráficas
 
   Las `interfaces gráficas de usuario
@@ -244,13 +244,13 @@ una de ellas:
    sus precios y queremos crear una base de datos local con todos esos
    productos: nombre, precio, imágen, etc. para luego hacer análisis
    posteriores.
- 
+
    * `requests <http://docs.python-requests.org/en/latest/>`_
    * `BeautifulSoup <http://www.crummy.com/software/BeautifulSoup/>`_
    * `pyquery <http://pyquery.readthedocs.org/en/latest/>`_
    * `Scrappy <http://scrapy.org/>`_
    * `mechanize <https://pypi.python.org/pypi/mechanize/>`_
- 
+
 .. collapse:: Desarrollo web
 
    La `web <https://es.wikipedia.org/wiki/Desarrollo_web>`_ es *el
@@ -279,11 +279,11 @@ una de ellas:
 * Python para el ambito científico
 
   * `Curso online: Introducción a Python para científicos e ingenieros <http://cacheme.org/curso-online-python-cientifico-ingenieros/>`_
-  
+
   * `Curso de python cientifico (elaborado por @mgaitan) <https://github.com/mgaitan/curso-python-cientifico>`_
-  
+
   * `CFD con python: 12 pasos para Navier Stokes *(en inglés)* <http://lorenabarba.com/blog/cfd-python-12-steps-to-navier-stokes/>`_
-  
+
   * `Métodos numéricos con python *(en inglés)* <http://openedx.seas.gwu.edu/courses/GW/MAE6286/2014_fall/about>`_
 
 ----
@@ -325,7 +325,7 @@ tienen: email, chat, foro, etc.
 .. raw:: html
 
     <div style="margin: 10px 50px;">
-    
+
       <!-- Nav tabs -->
       <ul class="nav nav-tabs" role="tablist">
         <li role="presentation" class="active"><a href="#python-argentina" aria-controls="python-argentina" role="tab" data-toggle="tab">Python Argentina</a></li>
@@ -336,7 +336,7 @@ tienen: email, chat, foro, etc.
 
         <li role="presentation"><a href="#scipy-la" aria-controls="scipy-la" role="tab" data-toggle="tab">SciPy LA</a></li>
       </ul>
-    
+
       <!-- Tab panes -->
       <div class="tab-content" style="height: 350px; padding-top: 15px; border-width: 1px; border-style: solid; border-color: #DDD; border-top: none">
         <div role="tabpanel" class="tab-pane active" id="python-argentina">
@@ -348,7 +348,7 @@ tienen: email, chat, foro, etc.
 * `Lista de correos <http://python.org.ar/lista/>`__
 * `Web Chat <http://python.org.ar/irc/>`_
 * `Twitter <https://twitter.com/PythonArgentina>`__
-* `PyCon (Conferencia anual) <https://twitter.com/pyconar>`_ 
+* `PyCon (Conferencia anual) <https://twitter.com/pyconar>`_
 * Grupos Meetup:
 
   * `Buenos Aires <http://www.meetup.com/Buenos-Aires-Python-Meetup/>`_
@@ -423,7 +423,7 @@ tienen: email, chat, foro, etc.
 .. raw:: html
 
 	</div>
-      </div>    
+      </div>
     </div>
 
 
@@ -492,14 +492,14 @@ sugerido los lectos.
 
    Diferentes blogs que hablan de Python en muchas direcciones y son
    muy útiles para mantenerse actualizado.
-  
+
    * `Pybonacci <http://pybonacci.org/>`_ (España)
    * `Pythonízame <http://pythoniza.me/>`_ (México)
 
 .. collapse:: Python para niños
 
    Libros dedicados a los niños para aprender a programar (todos en Español)
-  
+
    * `Inventa tus propios juegos de computadora con Python
      <inventa-tus-propios-juegos-de-computadora-con-python.zip>`_
    * `Code Combat (Interactivo) <https://codecombat.com/>`_

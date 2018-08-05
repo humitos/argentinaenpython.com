@@ -29,19 +29,11 @@ In case you need more instant communication, you can also use these
 ways, but I'm not really pending on them:
 
 
-:WhatsApp: +54 9 343 4053434
+:WhatsApp: +54 9 5093971
 
 :Telegram: @humitos
 
-:Cell Ecuador: +593 0990632940
-
-:Cell Perú: +51 999077870
-
-:Cell Bolivia: +591 68381678
-
-:Cell Argentina: +54 9 343 4053434
-
-:Cell Paraguay: +595 9 82877917
+:Cell Argentina: +54 9 5093971
 
 :Skype: manuel.kaufmann.humitos
 
@@ -49,9 +41,3 @@ ways, but I'm not really pending on them:
 
 If you want to know more about me, you can also `visit my personal
 blog <http://elblogdehumitos.com/>`_.
-
-
-.. admonition:: QR Code
-
-   Also, you can scan the QR code with your smartphone and add my
-   contact to your contacts in seconds.

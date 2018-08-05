@@ -30,19 +30,11 @@ En caso de requerir una comunicación más directa, también podés
 utilizar estos medios, aunque por lo general, no estoy tan pendiente
 de ellos:
 
-:WhatsApp: +54 9 343 4053434
+:WhatsApp: +54 9 343 5093971
 
 :Telegram: @humitos
 
-:Móv. Ecuador: +593 0990632940
-
-:Móv. Perú: +51 999077870
-
-:Móv. Bolivia: +591 68381678
-
-:Móv. Argentina: +54 9 343 4053434
-
-:Móv. Paraguay: +595 9 82877917
+:Móv. Argentina: +54 9 343 5093971
 
 :Skype: manuel.kaufmann.humitos
 
@@ -50,9 +42,3 @@ de ellos:
 
 Si querés saber más sobre mí, también podés visitar `mi blog personal
 <http://elblogdehumitos.com/>`_.
-
-
-.. admonition:: Código QR
-
-   También podés escanear el código QR con tu celular y agregar el
-   contacto a la agenda de tu teléfono en un segundo.

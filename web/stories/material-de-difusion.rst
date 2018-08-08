@@ -134,7 +134,7 @@ Infografía
 .. figure:: infografia-argentina-en-python-2018.png
    :width: 512px
 
-   Infografía Oficial del Proyecto
+   Infografía del Proyecto
 
 .. raw:: html
 
@@ -182,7 +182,7 @@ Microtutorial Argentina en Python
 .. figure:: microtutorial-argentina-en-python-2018.png
    :width: 512px
 
-   Microtutorial Oficial del Proyecto
+   Microtutorial del Proyecto
 
 .. raw:: html
 
@@ -242,7 +242,7 @@ Tarjeta Personal
 .. figure:: tarjeta-argentina-en-python-2018-b.png
    :width: 500px
 
-   Tarjeta Oficial del Proyecto
+   Tarjeta del Proyecto
 
 .. raw:: html
 
@@ -290,7 +290,7 @@ Remera/Camiseta
 .. figure:: camiseta-argentina-en-python-blanco-negro.png
    :width: 512px
 
-   Remera/Camiseta Oficial del Proyecto
+   Remera/Camiseta del Proyecto
 
 .. raw:: html
 

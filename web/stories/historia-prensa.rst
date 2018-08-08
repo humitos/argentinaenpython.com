@@ -21,7 +21,7 @@ Año 2018
 .. template:: prensa-image
    :title: PyCon Japón
    :description: PyCon JP 2018: Manuel Kaufmann- keynote speaker on the first day
-   :src: 2018_agosto_1.png
+   :src: 2018_agosto_0.png
    :href: https://pyconjp.blogspot.com/2018/08/day1-about-keynote-speaker.html
 
 

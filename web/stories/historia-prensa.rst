@@ -19,6 +19,13 @@ Año 2018
    <div class="row">
 
 .. template:: prensa-image
+   :title: PyCon Japón
+   :description: PyCon JP 2018: Manuel Kaufmann- keynote speaker on the first day
+   :src: 2018_agosto_1.png
+   :href: https://pyconjp.blogspot.com/2018/08/day1-about-keynote-speaker.html
+
+
+.. template:: prensa-image
    :title: Ahora TV
    :description: Argentina en Python, el proyecto de un paranaense para difundir el conocimiento
    :src: 2018_mayo_3.png

@@ -47,7 +47,7 @@ Logo Argentina en Python
     
          <!-- Tab panes -->
          <div class="tab-content" style="height: 350px; padding-top: 15px; border-width: 1px; border-style: solid; border-color: #DDD; border-top: none">
-           <div role="tabpanel" class="tab-pane active" id="logo-oficial-horizontal">
+           <div role="tabpanel" class="tab-pane active" id="logo-horizontal">
 
    .. image:: logo-argentina-en-python-horizontal-color-1024.png
       :width: 400px
@@ -61,7 +61,7 @@ Logo Argentina en Python
    .. raw:: html
 
 	   </div>
-           <div role="tabpanel" class="tab-pane" id="logo-oficial-vertical">
+           <div role="tabpanel" class="tab-pane" id="logo-vertical">
 
    .. image:: logo-argentina-en-python-vertical-color-1024.png
       :width: 200px
@@ -75,7 +75,7 @@ Logo Argentina en Python
    .. raw:: html
 
 	   </div>
-           <div role="tabpanel" class="tab-pane" id="logo-oficial-editable">
+           <div role="tabpanel" class="tab-pane" id="logo-escalable">
 
    .. image:: logo-argentina-en-python-vertical-color-1024.png
       :width: 200px

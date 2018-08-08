@@ -17,7 +17,7 @@ folletería.
 Logo Argentina en Python
 ------------------------
 
-.. figure:: logo-argentinaenpython-vertical-color.png
+.. figure:: logo-argentina-en-python-vertical-color.png
    :width: 300px
 
    Logo Oficial del Proyecto
@@ -49,40 +49,40 @@ Logo Argentina en Python
          <div class="tab-content" style="height: 350px; padding-top: 15px; border-width: 1px; border-style: solid; border-color: #DDD; border-top: none">
            <div role="tabpanel" class="tab-pane active" id="logo-oficial-horizontal">
 
-   .. image:: logo-argentinaenpython-horizontal-color-1024.png
+   .. image:: logo-argentina-en-python-horizontal-color-1024.png
       :width: 400px
       :align: center
 
-   * `Logo 128x32 <logo-argentinaenpython-horizontal-color-128.png>`_
-   * `Logo 256x65 <logo-argentinaenpython-horizontal-color-256.png>`_
-   * `Logo 512x130 <logo-argentinaenpython-horizontal-color-512.png>`_
-   * `Logo 1024x260 <logo-argentinaenpython-horizontal-color-1024.png>`_
+   * `Logo 128x32 <logo-argentina-en-python-horizontal-color-128.png>`_
+   * `Logo 256x65 <logo-argentina-en-python-horizontal-color-256.png>`_
+   * `Logo 512x130 <logo-argentina-en-python-horizontal-color-512.png>`_
+   * `Logo 1024x260 <logo-argentina-en-python-horizontal-color-1024.png>`_
 
    .. raw:: html
 
 	   </div>
            <div role="tabpanel" class="tab-pane" id="logo-oficial-vertical">
 
-   .. image:: logo-argentinaenpython-vertical-color-1024.png
+   .. image:: logo-argentina-en-python-vertical-color-1024.png
       :width: 200px
       :align: center
 
-   * `Logo 128x133 <logo-argentinaenpython-vertical-color-128.png>`__
-   * `Logo 256x266 <logo-argentinaenpython-vertical-color-256.png>`__
-   * `Logo 512x532 <logo-argentinaenpython-vertical-color-512.png>`__
-   * `Logo 1024x1064 <logo-argentinaenpython-vertical-color-1024.png>`__
+   * `Logo 128x133 <logo-argentina-en-python-vertical-color-128.png>`__
+   * `Logo 256x266 <logo-argentina-en-python-vertical-color-256.png>`__
+   * `Logo 512x532 <logo-argentina-en-python-vertical-color-512.png>`__
+   * `Logo 1024x1064 <logo-argentina-en-python-vertical-color-1024.png>`__
 
    .. raw:: html
 
 	   </div>
            <div role="tabpanel" class="tab-pane" id="logo-oficial-editable">
 
-   .. image:: logo-argentinaenpython-vertical-color-1024.png
+   .. image:: logo-argentina-en-python-vertical-color-1024.png
       :width: 200px
       :align: center
 
-   * `Logo horizontal <logo-argentinaenpython-horizontal-editable.svg>`_
-   * `Logo vertical <logo-argentinaenpython-vertical-editable.svg>`_
+   * `Logo horizontal <logo-argentina-en-python-horizontal-editable.svg>`_
+   * `Logo vertical <logo-argentina-en-python-vertical-editable.svg>`_
    
    .. raw:: html
 
@@ -131,7 +131,7 @@ Logo Argentina en Python
 Infografía
 ----------
 
-.. figure:: infografia-argentinaenpython-2018.png
+.. figure:: infografia-argentina-en-python-2018.png
    :width: 512px
 
    Infografía Oficial del Proyecto
@@ -143,12 +143,12 @@ Infografía
 
 .. collapse:: Infografía Oficial del proyecto
 
-   .. figure:: infografia-argentinaenpython-2018.png
+   .. figure:: infografia-argentina-en-python-2018.png
       :width: 512px
 
 
-   * `Infografía Imprimible <infografia-argentinaenpython-2018.pdf>`_ 
-   * `Infografía Editable <infografia-argentinaenpython-2018.svg>`_ 
+   * `Infografía Imprimible <infografia-argentina-en-python-2018.pdf>`_ 
+   * `Infografía Editable <infografia-argentina-en-python-2018.svg>`_ 
 
 
 
@@ -179,7 +179,7 @@ Infografía
 Microtutorial Argentina en Python
 ---------------------------------
 
-.. figure:: microtutorial-argentinaenpython-2018.png
+.. figure:: microtutorial-argentina-en-python-2018.png
    :width: 512px
 
    Microtutorial Oficial del Proyecto
@@ -191,11 +191,11 @@ Microtutorial Argentina en Python
 
 .. collapse:: Microtutorial Oficial del proyecto
 
-   .. figure:: microtutorial-argentinaenpython-2018.png
+   .. figure:: microtutorial-argentina-en-python-2018.png
       :width: 512px
 
-   * `Microtutorial Argentina en Python Imprimible <microtutorial-argentinaenpython-2018.pdf>`_ (pdf)
-   * `Microtutorial Argentina en Python Escalable <microtutorial-argentinaenpython-2018.svg>`_ (svg)
+   * `Microtutorial Argentina en Python Imprimible <microtutorial-argentina-en-python-2018.pdf>`_ (pdf)
+   * `Microtutorial Argentina en Python Escalable <microtutorial-argentina-en-python-2018.svg>`_ (svg)
    
 
 
@@ -239,7 +239,7 @@ Folleto Argentina en Python
 Tarjeta Personal
 ----------------
 
-.. figure:: tarjeta-argentinaenpython-2018-b.png
+.. figure:: tarjeta-argentina-en-python-2018-b.png
    :width: 500px
 
    Tarjeta Oficial del Proyecto
@@ -251,19 +251,19 @@ Tarjeta Personal
 
 .. collapse:: Tarjeta Personal Oficial del proyecto
 
-   .. figure:: tarjeta-argentinaenpython-2018-b.png
+   .. figure:: tarjeta-argentina-en-python-2018-b.png
       :width: 500px
 
-   * `Tarjeta Personal 256x462 <tarjeta-argentinaenpython-2018.png>`_ (png)
-   * `Tarjeta Personal Escalable <tarjeta-argentinaenpython-2018.svg>`_ (svg)
+   * `Tarjeta Personal 256x462 <tarjeta-argentina-en-python-2018.png>`_ (png)
+   * `Tarjeta Personal Escalable <tarjeta-argentina-en-python-2018.svg>`_ (svg)
 
 .. collapse:: Tarjeta Personal usada desde el 2016 al 2017
 
-   .. figure:: tarjeta-argentinaenpython-2017.png
+   .. figure:: tarjeta-argentina-en-python-2017.png
       :width: 450px
 
-   * `Tarjeta Personal 256x462 <tarjeta-argentinaenpython-2017.png>`_ (png)
-   * `Tarjeta Personal Escalable <tarjeta-argentinaenpython-2017.svg>`_ (svg)
+   * `Tarjeta Personal 256x462 <tarjeta-argentina-en-python-2017.png>`_ (png)
+   * `Tarjeta Personal Escalable <tarjeta-argentina-en-python-2017.svg>`_ (svg)
   
 
 .. collapse:: Tarjeta Personal usada desde el 2014 al 2015 
@@ -287,7 +287,7 @@ Tarjeta Personal
 Remera/Camiseta
 ---------------
 
-.. figure:: camiseta-argentinaenpython-blanco-negro.png
+.. figure:: camiseta-argentina-en-python-blanco-negro.png
    :width: 512px
 
    Remera/Camiseta Oficial del Proyecto
@@ -299,7 +299,7 @@ Remera/Camiseta
 
 .. collapse:: Remera/Camiseta Oficial del proyecto
 
-   .. figure:: camiseta-argentinaenpython-blanco-negro.png
+   .. figure:: camiseta-argentina-en-python-blanco-negro.png
       :width: 512px
   
 

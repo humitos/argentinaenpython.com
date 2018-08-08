@@ -194,8 +194,8 @@ Microtutorial Argentina en Python
    .. figure:: microtutorial-argentina-en-python-2018.png
       :width: 512px
 
-   * `Microtutorial Argentina en Python Imprimible <microtutorial-argentina-en-python-2018.pdf>`_ (pdf)
-   * `Microtutorial Argentina en Python Escalable <microtutorial-argentina-en-python-2018.svg>`_ (svg)
+   * `Microtutorial Imprimible <microtutorial-argentina-en-python-2018.pdf>`_ (pdf)
+   * `Microtutorial Escalable <microtutorial-argentina-en-python-2018.svg>`_ (svg)
    
 
 
@@ -210,9 +210,9 @@ Microtutorial Argentina en Python
       :width: 256px
 
 
-   * `Microtutorial Argentina en Python 1024x1448 <microtutorial_argentina-en-python_1024.png>`_ (png fondo blanco)
-   * `Microtutorial Argentina en Python Imprimible <microtutorial_argentina-en-python.pdf>`_ (pdf)
-   * `Microtutorial Argentina en Python Escalable <microtutorial_argentina-en-python.svg>`_ (svg)
+   * `Microtutorial 1024x1448 <microtutorial_argentina-en-python_1024.png>`_ (png fondo blanco)
+   * `Microtutorial Imprimible <microtutorial_argentina-en-python.pdf>`_ (pdf)
+   * `Microtutorial Escalable <microtutorial_argentina-en-python.svg>`_ (svg)
 
 .. raw:: html
 

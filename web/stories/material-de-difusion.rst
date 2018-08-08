@@ -299,7 +299,7 @@ Remera/Camiseta
 
 .. collapse:: Remera/Camiseta Oficial del proyecto
 
-   .. figure:: camiseta-argentina-en-python-blanco-negro.png
+   .. figure:: remera-argentina-en-python-2018.png
       :width: 512px
 
    * `Remera 1024x498 <remera-argentina-en-python-2018.png>`_ (png)

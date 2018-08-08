@@ -104,7 +104,7 @@ Logo Argentina en Python
    * `Logo Escalable <logo_temporal_oficial.svg>`__ (svg)
 
 
-.. collapse:: Logo Original usado desde el 2014 al 2016
+.. collapse:: Logo original (usado desde el 2014 al 2016)
 
    .. figure:: logo_256.png
       :width: 200px

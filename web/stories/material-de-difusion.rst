@@ -39,9 +39,9 @@ Logo Argentina en Python
     
          <!-- Nav tabs -->
          <ul class="nav nav-tabs" role="tablist">
-           <li role="presentation" class="active"><a href="#logo-oficial-horizontal" aria-controls="logo-oficial-horizontal" role="tab" data-toggle="tab">Logo Oficial Horizontal - png</a></li>
-           <li role="presentation"><a href="#logo-oficial-vertical" aria-controls="logo-oficial-vertical" role="tab" data-toggle="tab">Logo Oficial Vertical - png</a></li>
-           <li role="presentation"><a href="#logo-oficial-editable" aria-controls="logo-oficial-editable" role="tab" data-toggle="tab">Logo Oficial Editable - svg</a></li>
+           <li role="presentation" class="active"><a href="#logo-horizontal" aria-controls="logo-horizontal" role="tab" data-toggle="tab">Logo Horizontal - png</a></li>
+           <li role="presentation"><a href="#logo-vertical" aria-controls="logo-vertical" role="tab" data-toggle="tab">Logo Vertical - png</a></li>
+           <li role="presentation"><a href="#logo-escalable" aria-controls="logo-escalable" role="tab" data-toggle="tab">Logo Escalable - svg</a></li>
 
          </ul>
     

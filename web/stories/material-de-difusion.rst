@@ -92,7 +92,7 @@ Logo Argentina en Python
 
 
 
-.. collapse:: Logo Temporal usado desde el 2016 al 2017 
+.. collapse:: Logo temporal (usado desde el 2016 al 2017) 
 
    .. figure:: logo_temporal_256.png
       :width: 200px

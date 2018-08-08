@@ -109,11 +109,11 @@ Logo Argentina en Python
    .. figure:: logo_256.png
       :width: 200px
 
-   * `Logo 128x122 <logo_128.png>`_ (png transparente)
-   * `Logo 256x244 <logo_256.png>`_ (png transparente)
-   * `Logo 512x489 <logo_512.png>`_ (png transparente)
-   * `Logo 1024x978 <logo_1024.png>`_ (png fondo blanco)
-   * `Logo Escalable <logo_oficial.svg>`_ (svg)
+   * `Logo 128x122 <logo-argentina-en-python-2016-128.png>`_ (png transparente)
+   * `Logo 256x244 <logo-argentina-en-python-2016-256.png>`_ (png transparente)
+   * `Logo 512x489 <logo-argentina-en-python-2016-512.png>`_ (png transparente)
+   * `Logo 1024x978 <logo-argentina-en-python-2016-1024.png>`_ (png fondo blanco)
+   * `Logo Escalable <logo-argentina-en-python-2016-oficial.svg>`_ (svg)
 
    .. admonition:: Nota
 

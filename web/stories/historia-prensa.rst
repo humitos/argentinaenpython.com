@@ -21,20 +21,20 @@ Año 2018
 .. template:: prensa-image
    :title: PyCon Japón
    :description: PyCon JP 2018: Manuel Kaufmann- keynote speaker on the first day
-   :src: 2018_agosto_0.png
+   :src: 2018_agosto_0-340x255.png
    :href: https://pyconjp.blogspot.com/2018/08/day1-about-keynote-speaker.html
 
 
 .. template:: prensa-image
    :title: Ahora TV
    :description: Argentina en Python, el proyecto de un paranaense para difundir el conocimiento
-   :src: 2018_mayo_3.png
+   :src: 2018_mayo_3-340x255.png
    :href: https://ahora.com.ar/argentina-python-el-proyecto-un-paranaense-difundir-el-conocimiento-n4153851
 
 .. template:: prensa-image
-   :title: Blog Santos Gallegos  
+   :title: Blog Santos Gallegos
    :description: De guía en Django Girls a pasante en Read the Docs
-   :src: 2018_mayo_2.png
+   :src: 2018_mayo_2-340x255.png
    :href: https://stsewd.github.io/es/posts/historia-django-girls-rtd/
 
 .. template:: prensa-image

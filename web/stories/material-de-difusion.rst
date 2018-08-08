@@ -17,7 +17,7 @@ folletería.
 Logo Argentina en Python
 ------------------------
 
-.. figure:: logo-argentina-en-python-vertical-color.png
+.. figure:: logo-argentina-en-python-vertical-color-1024.png
    :width: 300px
 
    Logo del Proyecto
@@ -97,10 +97,10 @@ Logo Argentina en Python
    .. figure:: logo_temporal_256.png
       :width: 200px
 
-   * `Logo 128x122 <logo_temporal_128.png>`__ (png transparente)
-   * `Logo 256x244 <logo_temporal_256.png>`__ (png transparente)
-   * `Logo 512x489 <logo_temporal_512.png>`__ (png transparente)
-   * `Logo 1024x978 <logo_temporal_1024.png>`__ (png fondo blanco)
+   * `Logo 128x122 <logo-argentina-en-python-2016_128.png>`__ (png transparente)
+   * `Logo 256x244 <logo-argentina-en-python-2016_256.png>`__ (png transparente)
+   * `Logo 512x489 <logo-argentina-en-python-2016_512.png>`__ (png transparente)
+   * `Logo 1024x978 <logo-argentina-en-python-2016_1024.png>`__ (png fondo blanco)
    * `Logo Escalable <logo_temporal_oficial.svg>`__ (svg)
 
 
@@ -109,11 +109,11 @@ Logo Argentina en Python
    .. figure:: logo_256.png
       :width: 200px
 
-   * `Logo 128x122 <logo-argentina-en-python-2016-128.png>`_ (png transparente)
-   * `Logo 256x244 <logo-argentina-en-python-2016-256.png>`_ (png transparente)
-   * `Logo 512x489 <logo-argentina-en-python-2016-512.png>`_ (png transparente)
-   * `Logo 1024x978 <logo-argentina-en-python-2016-1024.png>`_ (png fondo blanco)
-   * `Logo Escalable <logo-argentina-en-python-2016-oficial.svg>`_ (svg)
+   * `Logo 128x122 <logo-argentina-en-python-2014-128.png>`_ (png transparente)
+   * `Logo 256x244 <logo-argentina-en-python-2014-256.png>`_ (png transparente)
+   * `Logo 512x489 <logo-argentina-en-python-2014-512.png>`_ (png transparente)
+   * `Logo 1024x978 <logo-argentina-en-python-2014-1024.png>`_ (png fondo blanco)
+   * `Logo Escalable <logo-argentina-en-python-2014-oficial.svg>`_ (svg)
 
    .. admonition:: Nota
 
@@ -287,7 +287,7 @@ Tarjeta Personal
 Remera/Camiseta
 ---------------
 
-.. figure:: camiseta-argentina-en-python-blanco-negro.png
+.. figure:: remera-argentina-en-python-2018.png
    :width: 512px
 
    Remera/Camiseta del Proyecto
@@ -301,6 +301,9 @@ Remera/Camiseta
 
    .. figure:: camiseta-argentina-en-python-blanco-negro.png
       :width: 512px
+
+   * `Remera 1024x498 <remera-argentina-en-python-2018.png>`_ (png)
+   * `Remera Escalable <remera-argentina-en-python-2018.svg>`_ (svg)
   
 
 .. collapse:: Remera/Camiseta (usado desde el 2014 al 2015) 

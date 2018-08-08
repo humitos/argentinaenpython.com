@@ -20,7 +20,7 @@ Logo Argentina en Python
 .. figure:: logo-argentina-en-python-vertical-color.png
    :width: 300px
 
-   Logo Oficial del Proyecto
+   Logo del Proyecto
 
 .. raw:: html
 
@@ -152,7 +152,7 @@ Infografía
 
 
 
-.. collapse:: Infografía usada desde el 2015 al 2017 
+.. collapse:: Infografía (usado desde el 2015 al 2017) 
 
    .. class:: small
 
@@ -200,7 +200,7 @@ Microtutorial Argentina en Python
 
 
 
-.. collapse:: Microtutorial usada desde el 2015 al 2017 
+.. collapse:: Microtutorial (usado desde el 2015 al 2017) 
 
    .. class:: small
 
@@ -249,7 +249,7 @@ Tarjeta Personal
    <div class="panel-group" id="accordion">
 
 
-.. collapse:: Tarjeta Personal Oficial del proyecto
+.. collapse:: Tarjetas personales
 
    .. figure:: tarjeta-argentina-en-python-2018-b.png
       :width: 500px
@@ -257,7 +257,7 @@ Tarjeta Personal
    * `Tarjeta Personal 256x462 <tarjeta-argentina-en-python-2018.png>`_ (png)
    * `Tarjeta Personal Escalable <tarjeta-argentina-en-python-2018.svg>`_ (svg)
 
-.. collapse:: Tarjeta Personal usada desde el 2016 al 2017
+.. collapse:: Tarjeta Personal (usado desde el 2016 al 2017)
 
    .. figure:: tarjeta-argentina-en-python-2017.png
       :width: 450px
@@ -266,7 +266,7 @@ Tarjeta Personal
    * `Tarjeta Personal Escalable <tarjeta-argentina-en-python-2017.svg>`_ (svg)
   
 
-.. collapse:: Tarjeta Personal usada desde el 2014 al 2015 
+.. collapse:: Tarjeta Personal (usado desde el 2014 al 2015) 
 
    .. figure:: tarjeta_personal_256.png
       :width: 150px
@@ -303,7 +303,7 @@ Remera/Camiseta
       :width: 512px
   
 
-.. collapse:: Remera/Camiseta usada desde el 2014 al 2015 
+.. collapse:: Remera/Camiseta (usado desde el 2014 al 2015) 
 
    .. figure:: remera_1024.png
       :width: 512px

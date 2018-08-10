@@ -1,10 +1,10 @@
 .. title: Material de difusión
 .. slug: material-de-difusion
 .. date: 2015-05-04 20:45:21 UTC-03:00
-.. tags: 
-.. category: 
-.. link: 
-.. description: 
+.. tags:
+.. category:
+.. link:
+.. description:
 .. type: text
 
 
@@ -14,29 +14,27 @@ posters, microtutoriales, etc. Aquí podrás encontrar los formatos de
 archivo necesarios para realizar realizar cualquier tipo de
 folletería.
 
-Logo Argentina en Python
-------------------------
+Logo oficial
+------------
 
 .. figure:: logo-argentina-en-python-vertical-color-1024.png
    :width: 300px
 
-   Logo del Proyecto
+   Logo oficial
 
 .. raw:: html
 
    <div class="panel-group" id="accordion">
 
 
-.. collapse:: Logo Oficial del Proyecto 
-
+.. collapse:: Logo oficial
 
    Ingresa en cada pestaña para la versión del logo que desees descargar
 
-   
    .. raw:: html
 
        <div style="margin: 10px 50px;">
-    
+
          <!-- Nav tabs -->
          <ul class="nav nav-tabs" role="tablist">
            <li role="presentation" class="active"><a href="#logo-horizontal" aria-controls="logo-horizontal" role="tab" data-toggle="tab">Logo Horizontal - png</a></li>
@@ -44,7 +42,7 @@ Logo Argentina en Python
            <li role="presentation"><a href="#logo-escalable" aria-controls="logo-escalable" role="tab" data-toggle="tab">Logo Escalable - svg</a></li>
 
          </ul>
-    
+
          <!-- Tab panes -->
          <div class="tab-content" style="height: 350px; padding-top: 15px; border-width: 1px; border-style: solid; border-color: #DDD; border-top: none">
            <div role="tabpanel" class="tab-pane active" id="logo-horizontal">
@@ -60,7 +58,7 @@ Logo Argentina en Python
 
    .. raw:: html
 
-	   </div>
+           </div>
            <div role="tabpanel" class="tab-pane" id="logo-vertical">
 
    .. image:: logo-argentina-en-python-vertical-color-1024.png
@@ -74,7 +72,7 @@ Logo Argentina en Python
 
    .. raw:: html
 
-	   </div>
+           </div>
            <div role="tabpanel" class="tab-pane" id="logo-escalable">
 
    .. image:: logo-argentina-en-python-vertical-color-1024.png
@@ -83,16 +81,15 @@ Logo Argentina en Python
 
    * `Logo horizontal <logo-argentina-en-python-horizontal-editable.svg>`_
    * `Logo vertical <logo-argentina-en-python-vertical-editable.svg>`_
-   
+
    .. raw:: html
 
-	  </div>
-         </div>    
+          </div>
+         </div>
        </div>
 
 
-
-.. collapse:: Logo temporal (usado desde el 2016 al 2017) 
+.. collapse:: Logo temporal (usado desde el 2016 al 2017)
 
    .. figure:: logo_temporal_256.png
       :width: 200px
@@ -134,25 +131,25 @@ Infografía
 .. figure:: infografia-argentina-en-python-2018.png
    :width: 512px
 
-   Infografía del Proyecto
+   Infografía
 
 .. raw:: html
 
    <div class="panel-group" id="accordion">
 
 
-.. collapse:: Infografía Oficial del proyecto
+.. collapse:: Infografía
 
    .. figure:: infografia-argentina-en-python-2018.png
       :width: 512px
 
 
-   * `Infografía Imprimible <infografia-argentina-en-python-2018.pdf>`_ 
-   * `Infografía Editable <infografia-argentina-en-python-2018.svg>`_ 
+   * `Infografía Imprimible <infografia-argentina-en-python-2018.pdf>`_
+   * `Infografía Editable <infografia-argentina-en-python-2018.svg>`_
 
 
 
-.. collapse:: Infografía (usado desde el 2015 al 2017) 
+.. collapse:: Infografía (usado desde el 2015 al 2017)
 
    .. class:: small
 
@@ -160,7 +157,7 @@ Infografía
 
    .. figure:: infografia-2016_512.png
       :width: 512px
-      
+
 
    * `Infografía 1280x904 <infografia-2016.png>`_ (png fondo blanco)
    * `Infografía Imprimible <infografia-2016.pdf>`_ (pdf)
@@ -176,31 +173,29 @@ Infografía
 
 ----
 
-Microtutorial Argentina en Python
----------------------------------
+Microtutorial
+-------------
 
 .. figure:: microtutorial-argentina-en-python-2018.png
    :width: 512px
 
-   Microtutorial del Proyecto
+   Microtutorial
 
 .. raw:: html
 
    <div class="panel-group" id="accordion">
 
 
-.. collapse:: Microtutorial Oficial del proyecto
+.. collapse:: Microtutorial
 
    .. figure:: microtutorial-argentina-en-python-2018.png
       :width: 512px
 
    * `Microtutorial Imprimible <microtutorial-argentina-en-python-2018.pdf>`_ (pdf)
    * `Microtutorial Escalable <microtutorial-argentina-en-python-2018.svg>`_ (svg)
-   
 
 
-
-.. collapse:: Microtutorial (usado desde el 2015 al 2017) 
+.. collapse:: Microtutorial (usado desde el 2015 al 2017)
 
    .. class:: small
 
@@ -222,11 +217,13 @@ Microtutorial Argentina en Python
 ----
 
 
-Folleto Argentina en Python
----------------------------
+Folleto
+-------
 
 .. figure:: folleto_256.png
    :width: 200px
+
+   Folleto
 
 * `Folleto 512x768 <folleto_512.png>`_ (png fondo blanco)
 * `Folleto Escalable <folleto.svg>`_ (svg)
@@ -242,7 +239,7 @@ Tarjeta Personal
 .. figure:: tarjeta-argentina-en-python-2018-b.png
    :width: 500px
 
-   Tarjeta del Proyecto
+   Tarjeta Personal
 
 .. raw:: html
 
@@ -264,9 +261,9 @@ Tarjeta Personal
 
    * `Tarjeta Personal 256x462 <tarjeta-argentina-en-python-2017.png>`_ (png)
    * `Tarjeta Personal Escalable <tarjeta-argentina-en-python-2017.svg>`_ (svg)
-  
 
-.. collapse:: Tarjeta Personal (usado desde el 2014 al 2015) 
+
+.. collapse:: Tarjeta Personal (usado desde el 2014 al 2015)
 
    .. figure:: tarjeta_personal_256.png
       :width: 150px
@@ -290,23 +287,23 @@ Remera/Camiseta
 .. figure:: remera-argentina-en-python-2018.png
    :width: 512px
 
-   Remera/Camiseta del Proyecto
+   Remera/Camiseta
 
 .. raw:: html
 
    <div class="panel-group" id="accordion">
 
 
-.. collapse:: Remera/Camiseta Oficial del proyecto
+.. collapse:: Remera/Camiseta
 
    .. figure:: remera-argentina-en-python-2018.png
       :width: 512px
 
    * `Remera 1024x498 <remera-argentina-en-python-2018.png>`_ (png)
    * `Remera Escalable <remera-argentina-en-python-2018.svg>`_ (svg)
-  
 
-.. collapse:: Remera/Camiseta (usado desde el 2014 al 2015) 
+
+.. collapse:: Remera/Camiseta (usado desde el 2014 al 2015)
 
    .. figure:: remera_1024.png
       :width: 512px
@@ -319,7 +316,3 @@ Remera/Camiseta
 .. raw:: html
 
    </div>
-
-
-
-

@@ -99,14 +99,14 @@ Año 2017
 
 
 .. template:: prensa-image
-   :title: ¿Cómo fue mi experiencia organizando el Django Girls 2017?
-   :description: Django Girls Colombia
+   :title: Blog Django Girls Colombia 
+   :description: ¿Cómo fue mi experiencia organizando el Django Girls 2017?
    :src: 2017_diciembre_2-340x255.jpg
    :href: https://medium.com/@djangogirlscolombia/django-girls-medell%C3%ADn-c%C3%B3mo-fue-mi-experiencia-organizando-el-django-girls-2017-1e5629dc02a4
 
 .. template:: prensa-image
-   :title: Python Software Foundation Fellow Members for Q4 2017
-   :description: Blog post sobre los miembros de honor
+   :title: Blog Python Software Foundation
+   :description: Python Software Foundation Fellow Members for Q4 2017
    :src: 2017_diciembre_1-340x255.png
    :href: https://pyfound.blogspot.com/2017/12/python-software-foundation-fellow.html
 
@@ -117,8 +117,8 @@ Año 2017
    :href: https://www.python.org/psf/members/
 
 .. template:: prensa-image
-   :title: ¿Cómo fue organizar Django Girls Cartagena?
-   :description: Blog post por Ana Elles Manzur
+   :title: Blog Django Girls Colombia 
+   :description: ¿Cómo fue organizar Django Girls Cartagena? post por Ana Elles Manzur
    :src: 2017_noviembre_0-340x255.png
    :href: https://medium.com/django-girls-colombia/django-girls-cartagena-c%C3%B3mo-fue-organizar-django-girls-cartagena-ca9457d514f4
 
@@ -136,14 +136,14 @@ Año 2017
 
 
 .. template:: prensa-image
-   :title: Django Girls en Mendoza: Mi primer taller
-   :description: Memorias de un Sysadmin
+   :title: Memorias de un Sysadmin
+   :description: Django Girls en Mendoza: Mi primer taller 
    :src: 2017_agosto_1-340x255.png
    :href: http://memoriasdeunsysadmin.info/mi-primer-django-girls/
 
 .. template:: prensa-image
-   :title: ¿Cómo fue organizar el primer Django Girls Barranquilla?
-   :description: Python Barranquilla
+   :title: Blog Python Barranquilla 
+   :description: ¿Cómo fue organizar el primer Django Girls Barranquilla? post por Javier Daza
    :src: 2017_agosto_0-340x255.png
    :href: http://pybaq.co/blog/como-fue-organizar-primer-django-girls-barranquilla/
 
@@ -156,8 +156,8 @@ Año 2017
 
 
 .. template:: prensa-image
-   :title: Pasando del sueño a la Realidad
-   :description: Blog post por los organizadores de PyCon Colombia 2017
+   :title: Blog PyCon Colombia 
+   :description: Pasando del sueño a la Realidad - PyCon Colombia 2017
    :src: 2017_mayo_2-340x255.png
    :href: https://medium.com/pycon-colombia-2017/pycon-colombia-2017-pasando-del-sue%C3%B1o-a-la-realidad-cf1f7808447e
 

@@ -74,7 +74,7 @@ Año 2017
    :href: https://medium.com/@djangogirlscolombia/django-girls-medell%C3%ADn-c%C3%B3mo-fue-mi-experiencia-organizando-el-django-girls-2017-1e5629dc02a4
 
 .. template:: prensa-image
-   :title: Blog post sobre los miembros de honor 
+   :title: Blog Python Software Foundation
    :description: Python Software Foundation Fellow Members for Q4 2017
    :src: 2017_diciembre_1-340x255.png
    :href: https://pyfound.blogspot.com/2017/12/python-software-foundation-fellow.html

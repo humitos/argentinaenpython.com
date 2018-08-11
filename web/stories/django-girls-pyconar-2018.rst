@@ -1,6 +1,6 @@
-.. title: Taller Django Girls PyCon Colombia
-.. slug: django-girls/2018/02/pyconcolombia
-.. date: 2017-12-14 00:16:45 UTC-05:00
+.. title: Taller Django Girls PyCon Argentina
+.. slug: django-girls-pyconar2018
+.. date: 2018-11-22 09:00:00 UTC-03:00
 .. tags: eventos, django girls, django, taller, python, medellín, pycon, programación, colombia
 .. category: 
 .. link: 
@@ -11,24 +11,17 @@
 .. template: notitle.tmpl
 
 ..    
-    .. class:: alert alert-success
-
-   El Miercoles 29 de Marzo se abrieron algunos cupos y *CONFIRMAMOS* por
-   email a algunas personas que se encontraban en *Lista de
-   espera*. Por favor, revisa tu correo electrónico (incluso en la
-   carpeta SPAM / Correo no deseado) para verificar tu situación.
-
 .. image:: membrete-djangogirls-pyconcolombia2018.png
    :align: center
 
 ----
 
 ¡Queremos animar a más mujeres a dominar la web! Es por eso que desde
-`Django Girls Colombia <https://www.facebook.com/djangogirlscolombia>`_  y `PyCon Colombia 
-<https://www.pycon.co>`_ con el apoyo de Python Colombia y  `Argentina en Python <https://www.argentinaenpython.com>`_ estamos organizando un taller en el cual podrás construir tu propio sitio web
-*desde cero* en un día. Además, vamos a utilizar todas las
-herramientas que programadores profesionales utilizan diariamente. ¡Y
-de una manera muy sencilla!
+`PyCon Argentina [ACTUALIZAR LINK] <https://www.pycon.co>`_ con el apoyo de Python Argentina 
+[AGREGAR LINK] y `Argentina en Python <https://www.argentinaenpython.com>`_ estamos organizando 
+un taller en el cual podrás construir tu propio sitio web *desde cero* en un día. Además, vamos a 
+utilizar todas las herramientas que programadores profesionales utilizan diariamente. ¡Y de una 
+manera muy sencilla!
 
 .. class:: lead
 
@@ -86,19 +79,26 @@ mujer con vos que también realice el taller [#]_.
 ¿Dónde y cuándo?
 ----------------
 
-Este taller de Django Girls se realiza en el marco de la Conferencia de `PyCon Colombia 2018 <https://www.pycon.co/>`_ organizado por la comunidad de `Python Colombia <https://www.facebook.com/colombiapython/>`_. Es el evento de programación en Python más grande del país. ¡Aprovechalos al máximo!
+Este taller de Django Girls se realiza en el marco de la Conferencia de 
+`PyCon Argentina 2018 [ACTUALIZAR LINK] <https://www.pycon.co/>`_ organizado por la comunidad de 
+`Python Colombia [ACTUALIZAR LINK] <https://www.facebook.com/colombiapython/>`_. Es el evento de 
+programación en Python más grande del país. ¡Aprovechalos al máximo!
 
-* Lugar: `Aula del 4to piso en el Bloque 19 - Universidad EAFIT sede Medellín <http://www.eafit.edu.co/>`_, ubicado en la Carrera 49 Medellín, Colombia.
+* Lugar: [ACTUALIZAR LUGAR]
 
-* Fecha: Jueves 08 de Febrero de 2018 de 8:30hs (¡puntual!) a 19:00hs.
+* Fecha: Jueves 22 de Noviembre de 2018 de 8:30hs (¡puntual!) a 19:00hs [ACTUALIZAR HORA].
 
+  [ACTUALIZAR MAPA]
 .. template:: iframe
    :src: https://www.openstreetmap.org/export/embed.html?bbox=-75.5825847387314%2C6.196443049947637%2C-75.57661950588228%2C6.199296238595173&amp;layer=mapnik&amp;marker=6.197866979668658%2C-75.57960212230682
 
 .. sidebar:: Contacto
-
+    
+    [ACTUALIZAR CONTACTO]
    Cualquier duda que tengas sobre el taller, nos puedes escribir a
-   `djangogirlscolombia@gmail.com <mailto:djangogirlscolombia@gmail.com>`_, para ponerte en contacto con nosotros.
+   `djangogirlscolombia@gmail.com <mailto:djangogirlscolombia@gmail.com>`_, para ponerte en 
+   contacto con nosotros.
+
 
    .. image:: organizadores.png
       :align: center
@@ -107,7 +107,8 @@ Este taller de Django Girls se realiza en el marco de la Conferencia de `PyCon C
 Tené en cuenta que...
 ---------------------
 
-* ... para participar del evento NO es necesario contar con una entrada a `PyCon Colombia <https://www.pycon.co>`_.
+* ... [ACTUALIZAR]para participar del evento NO es necesario contar con una entrada a `PyCon Colombia 
+  <https://www.pycon.co>`_.
 
 * ... tenés que **inscribirte** utilizando el botón "*¡Quiero
   inscribirme!*"
@@ -116,7 +117,11 @@ Tené en cuenta que...
   esperar** una confirmación por parte de los organizadores para poder
   asistir.
 
-* ... te recomendamos seguirnos en Facebook `Django Girls Colombia <https://www.facebook.com/djangogirlscolombia/>`__ , `PyCon Colombia <https://www.facebook.com/pyconcolombia>`__ , `Python Colombia <https://www.facebook.com/colombiapython/>`__ y `Argentina en Python <https://facebook.com/argentinaenpython/>`__,  donde publicaremos novedades sobre el evento.
+* ... te recomendamos seguirnos en Facebook [ACTUALIZR]`Django Girls Colombia 
+  <https://www.facebook.com/djangogirlscolombia/>`__ , `PyCon Colombia 
+  <https://www.facebook.com/pyconcolombia>`__ , `Python Colombia 
+  <https://www.facebook.com/colombiapython/>`__ y `Argentina en Python 
+  <https://facebook.com/argentinaenpython/>`__,  donde publicaremos novedades sobre el evento.
 
 * ... no es necesario saber programar o tener algún conocimiento
   previo de programación.
@@ -130,7 +135,7 @@ Tené en cuenta que...
 
 * ... en lo posible, debes llevar un extensor de corriente.
 
-* ... agrega la dirección djangogirlscolombia@gmail.com a tu libreta
+* ... agrega la dirección [ACTUALIZAR] djangogirlscolombia@gmail.com a tu libreta
   de direcciones así evitamos que el email llegue a *SPAM*
 
 * ... vamos a respetar las fechas publicadas en el *timeline* (línea
@@ -160,13 +165,13 @@ Timeline (*línea de tiempo*)
 
 .. class:: col-md-4
 
-   Tienes tiempo hasta el **20 de Enero** para inscribirte. Te
+   Tienes tiempo hasta el **20 de Enero** [ACTUALIZAR] para inscribirte. Te
    recomendamos leer la página de forma completa y prestar mucha
    atención en el formulario.
 
 .. class:: col-md-4
 
-   El **21 de Enero** anunciaremos los participantes que fueron
+   El **21 de Enero** [ACTUALIZAR] anunciaremos los participantes que fueron
    **CONFIRMADOS** para participar en el taller, como así también los
    que están en **LISTA DE ESPERA**. Ese día debes revisar tu correo
    electrónico buscando un email nuestro en *Bandeja de Entrada*, *Promociones* y
@@ -174,7 +179,7 @@ Timeline (*línea de tiempo*)
 
 .. class:: col-md-4
 
-   El **28 de Enero** anunciaremos los participantes que estaban en
+   El **28 de Enero** [ACTUALIZAR] anunciaremos los participantes que estaban en
    LISTA DE ESPERA y que han pasado a estar **CONFIRMADOS**. Si
    estabas en LISTA DE ESPERA es un buen momento para revisar tu correo
    electrónico.
@@ -191,23 +196,15 @@ Timeline (*línea de tiempo*)
    te fue asignado para participar del taller y ese puesto será
    re-asignado a una de las personas en LISTA DE ESPERA.
 
-.. class:: alert alert-danger
-
-   ¡**Atención**!: hemos alcanzado el cupo máximo de inscriptos para
-   el taller. Sin embargo, si estás interesada en participar,
-   inscribite y pasarás automáticamente a una lista de espera que, en
-   caso de que alguien no pueda asistir, nos estaremos comunicando con
-   vos para informarte.!
-
-   
 .. template:: bootstrap3/button
-   :href: https://goo.gl/forms/P5kqLJAJAtVyCLaR2
+   :href: [ACTUALIZAR] https://goo.gl/forms/P5kqLJAJAtVyCLaR2
 
    ¡Quiero inscribirme!
 
 .. class:: lead align-center
 
-   ¡Sólo necesitás tener buena onda, el jueves completamente libre y muchas ganas de aprender! ¡Sumate!
+   ¡Sólo necesitás tener buena onda, el jueves completamente libre y muchas ganas de aprender! 
+   ¡Sumate!
 
 
 
@@ -234,7 +231,7 @@ contigo para coordinar los detalles.
 
 
 .. template:: bootstrap3/button
-   :href: https://goo.gl/forms/wZtJ3DIrELU811He2
+   :href:  [ACTUALIZAR] https://goo.gl/forms/wZtJ3DIrELU811He2
 
    ¡Quiero participar como guía!
 

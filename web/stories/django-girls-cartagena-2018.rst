@@ -18,18 +18,10 @@
    espera*. Por favor, revisa tu correo electrónico (incluso en la
    carpeta SPAM / Correo no deseado) para verificar tu situación.
 
-.. raw:: html
-
-    <!--
-
 .. image:: membrete-djangogirls-cartagena.png
    :align: center
 
 ----
-
-.. raw:: html
-
-    -->
 
 ¡Queremos animar a más mujeres a dominar la web! Es por eso que desde
 `Django Girls Colombia <https://www.facebook.com/djangogirlscolombia>`_ y 

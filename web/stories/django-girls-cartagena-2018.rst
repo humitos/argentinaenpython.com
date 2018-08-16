@@ -169,13 +169,13 @@ Timeline (*línea de tiempo*)
 
 .. class:: col-md-4
 
-   Tienes tiempo hasta el **21 de Junio** para inscribirte. Te
+   Tienes tiempo hasta el **27 de Septiembre** para inscribirte. Te
    recomendamos leer la paǵina de forma completa y prestar mucha
    atención en el formulario.
 
 .. class:: col-md-4
 
-   El **24 de Junio** anunciaremos los participantes que fueron
+   El **30 de Septiembre** anunciaremos los participantes que fueron
    **CONFIRMADOS** para participar en el taller, como así también los
    que están en **LISTA DE ESPERA**. Ese día debes revisar tu correo
    electrónico buscando un email nuestro en *Bandeja de Entrada* y
@@ -183,7 +183,7 @@ Timeline (*línea de tiempo*)
 
 .. class:: col-md-4
 
-   El **4 de Julio** anunciaremos los participantes que estaban en
+   El **10 de Octubre** anunciaremos los participantes que estaban en
    LISTA DE ESPERA y que han pasado a estar **CONFIRMADOS**. Si
    estabas en LISTA DE ESPERA es un buen momento para revisar tu correo
    electrónico.

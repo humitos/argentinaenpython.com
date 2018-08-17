@@ -17,8 +17,8 @@
 ----
 
 ¡Queremos animar a más mujeres a dominar la web! Es por eso que desde
-`PyCon Argentina [ACTUALIZAR LINK] <https://www.pycon.co>`_ con el apoyo de Python Argentina 
-[AGREGAR LINK] y `Argentina en Python <https://www.argentinaenpython.com>`_ estamos organizando 
+`PyCon Argentina <http://pycon.python.org.ar/>`_ con el apoyo de `Python Argentina 
+https://www.python.org.ar/>` y `Argentina en Python <https://www.argentinaenpython.com>`_ estamos organizando 
 un taller en el cual podrás construir tu propio sitio web *desde cero* en un día. Además, vamos a 
 utilizar todas las herramientas que programadores profesionales utilizan diariamente. ¡Y de una 
 manera muy sencilla!
@@ -80,23 +80,24 @@ mujer con vos que también realice el taller [#]_.
 ----------------
 
 Este taller de Django Girls se realiza en el marco de la Conferencia de 
-`PyCon Argentina 2018 [ACTUALIZAR LINK] <https://www.pycon.co/>`_ organizado por la comunidad de 
-`Python Colombia [ACTUALIZAR LINK] <https://www.facebook.com/colombiapython/>`_. Es el evento de 
+`PyCon Argentina 2018 <http://pycon.python.org.ar/>`_ organizado por la comunidad de 
+`Python Argentina <https://www.python.org.ar/>`_. Es el evento de 
 programación en Python más grande del país. ¡Aprovechalos al máximo!
 
-* Lugar: [ACTUALIZAR LUGAR]
+* Lugar: Centro Cultural San Martín, Buenos Aires
 
-* Fecha: Jueves 22 de Noviembre de 2018 de 8:30hs (¡puntual!) a 19:00hs [ACTUALIZAR HORA].
+* Fecha: Jueves 22 de Noviembre de 2018 de 8:30hs (¡puntual!) a 18:00hs.
 
-  [ACTUALIZAR MAPA]
-.. template:: iframe
-   :src: https://www.openstreetmap.org/export/embed.html?bbox=-75.5825847387314%2C6.196443049947637%2C-75.57661950588228%2C6.199296238595173&amp;layer=mapnik&amp;marker=6.197866979668658%2C-75.57960212230682
+.. raw:: html
+
+    <embed>
+	<iframe width="100%" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-58.39028745889664%2C-34.60640911785367%2C-58.386746942996986%2C-34.604351559390615&amp;layer=mapnik&amp;marker=-34.605380344995034%2C-58.38851720094681" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=-34.60538&amp;mlon=-58.38852#map=19/-34.60538/-58.38852">View Larger Map</a></small>
+    </embed>
 
 .. sidebar:: Contacto
     
-    [ACTUALIZAR CONTACTO]
    Cualquier duda que tengas sobre el taller, nos puedes escribir a
-   `djangogirlscolombia@gmail.com <mailto:djangogirlscolombia@gmail.com>`_, para ponerte en 
+   `djangogirlsargentina@gmail.com <mailto:djangogirlsargentina@gmail.com>`_, para ponerte en 
    contacto con nosotros.
 
 
@@ -107,9 +108,6 @@ programación en Python más grande del país. ¡Aprovechalos al máximo!
 Tené en cuenta que...
 ---------------------
 
-* ... [ACTUALIZAR]para participar del evento NO es necesario contar con una entrada a `PyCon Colombia 
-  <https://www.pycon.co>`_.
-
 * ... tenés que **inscribirte** utilizando el botón "*¡Quiero
   inscribirme!*"
 
@@ -117,11 +115,9 @@ Tené en cuenta que...
   esperar** una confirmación por parte de los organizadores para poder
   asistir.
 
-* ... te recomendamos seguirnos en Facebook [ACTUALIZR]`Django Girls Colombia 
-  <https://www.facebook.com/djangogirlscolombia/>`__ , `PyCon Colombia 
-  <https://www.facebook.com/pyconcolombia>`__ , `Python Colombia 
-  <https://www.facebook.com/colombiapython/>`__ y `Argentina en Python 
-  <https://facebook.com/argentinaenpython/>`__,  donde publicaremos novedades sobre el evento.
+* ... te recomendamos seguirnos en Facebook `Python Argentina 
+  <https://www.facebook.com/python.argentina/>` y `Argentina en Python 
+  <https://facebook.com/argentinaenpython/>`,  donde publicaremos novedades sobre el evento.
 
 * ... no es necesario saber programar o tener algún conocimiento
   previo de programación.
@@ -135,7 +131,7 @@ Tené en cuenta que...
 
 * ... en lo posible, debes llevar un extensor de corriente.
 
-* ... agrega la dirección [ACTUALIZAR] djangogirlscolombia@gmail.com a tu libreta
+* ... agrega la dirección djangogirlsargentina@gmail.com a tu libreta
   de direcciones así evitamos que el email llegue a *SPAM*
 
 * ... vamos a respetar las fechas publicadas en el *timeline* (línea
@@ -199,7 +195,7 @@ Timeline (*línea de tiempo*)
 .. template:: bootstrap3/button
    :href: [ACTUALIZAR] https://goo.gl/forms/P5kqLJAJAtVyCLaR2
 
-   ¡Quiero inscribirme!
+   ¡Quiero inscribirme![ACTUALIZAR]
 
 .. class:: lead align-center
 
@@ -233,7 +229,7 @@ contigo para coordinar los detalles.
 .. template:: bootstrap3/button
    :href:  [ACTUALIZAR] https://goo.gl/forms/wZtJ3DIrELU811He2
 
-   ¡Quiero participar como guía!
+   ¡Quiero participar como guía![ACTUALIZAR]
 
 ¡Conocé a nuestros guías!
 *************************
@@ -675,8 +671,8 @@ escribinos un email y nos pondremos en contacto con vos.
 
    Este evento forma parte de `Django Girls
    <http://djangogirls.org/>`__ y tiene su propio sitio web bajo esta
-   marca: `Django Girls Medellín
-   <https://djangogirls.org/medellin/>`__
+   marca: `Django Girls Argentina [ACTUALIZAR]
+   <https://djangogirls.org/medellin/>`
 
 .. [#] Registrate en el formulario y comentá con quién vas. Además,
        decile a ella que también se registre e indique que va con vos.

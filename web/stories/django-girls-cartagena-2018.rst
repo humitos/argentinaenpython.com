@@ -92,8 +92,7 @@ mujer contigo que también realice el taller [#]_.
 * Fecha: Sábado 20 de Octubre de 2018.
 
 .. template:: iframe
-   :src: https://www.openstreetmap.org/export/embed.html?bbox=-75.784%2C10.2504%2C-75.245%2C10.5489&amp;layer=mapnik&amp;
-
+   :src: https://www.openstreetmap.org/export/embed.html?bbox=-75.55045%2C10.42049%2C-75.54203%2C10.42515&amp;layer=mapnik&amp;marker=10.42314%2C-75.5483
 
 .. raw:: html
 

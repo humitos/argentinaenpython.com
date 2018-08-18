@@ -88,11 +88,10 @@ programación en Python más grande del país. ¡Aprovechalos al máximo!
 
 * Fecha: Jueves 22 de Noviembre de 2018 de 8:30hs (¡puntual!) a 18:00hs.
 
-.. raw:: html
 
-    <embed>
-	<iframe width="100%" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-58.39028745889664%2C-34.60640911785367%2C-58.386746942996986%2C-34.604351559390615&amp;layer=mapnik&amp;marker=-34.605380344995034%2C-58.38851720094681" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=-34.60538&amp;mlon=-58.38852#map=19/-34.60538/-58.38852">View Larger Map</a></small>
-    </embed>
+.. template:: iframe
+    :src: https://www.openstreetmap.org/export/embed.html?bbox=-58.39028745889664%2C-34.60640911785367%2C-58.386746942996986%2C-34.604351559390615&amp;layer=mapnik&amp;marker=-34.605380344995034%2C-58.38851720094681
+
 
 .. sidebar:: Contacto
     

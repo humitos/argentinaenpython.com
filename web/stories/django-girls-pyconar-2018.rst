@@ -18,10 +18,10 @@
 
 ¡Queremos animar a más mujeres a dominar la web! Es por eso que desde
 `PyCon Argentina <http://pycon.python.org.ar/>`_ con el apoyo de `Python Argentina 
-https://www.python.org.ar/>` y `Argentina en Python <https://www.argentinaenpython.com>`_ estamos organizando 
-un taller en el cual podrás construir tu propio sitio web *desde cero* en un día. Además, vamos a 
-utilizar todas las herramientas que programadores profesionales utilizan diariamente. ¡Y de una 
-manera muy sencilla!
+<https://www.python.org.ar/>`_ y `Argentina en Python <https://www.argentinaenpython.com>`_ 
+estamos organizando un taller en el cual podrás construir tu propio sitio web *desde cero* en un
+día. Además, vamos a utilizar todas las herramientas que programadores profesionales utilizan
+diariamente. ¡Y de una manera muy sencilla!
 
 .. class:: lead
 

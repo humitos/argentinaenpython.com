@@ -670,8 +670,7 @@ escribinos un email y nos pondremos en contacto con vos.
 
    Este evento forma parte de `Django Girls
    <http://djangogirls.org/>`__ y tiene su propio sitio web bajo esta
-   marca: `Django Girls Argentina [ACTUALIZAR]
-   <https://djangogirls.org/medellin/>`
+   marca: `Django Girls Argentina. <https://djangogirls.org/buenosaires/>`__
 
 .. [#] Registrate en el formulario y comentá con quién vas. Además,
        decile a ella que también se registre e indique que va con vos.

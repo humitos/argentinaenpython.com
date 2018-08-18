@@ -18,7 +18,7 @@
    espera*. Por favor, revisa tu correo electrónico (incluso en la
    carpeta SPAM / Correo no deseado) para verificar tu situación.
 
-.. image:: membrete-djangogirls-cartagena.png
+.. image:: menbrete-djangogirls-cartagena-temporal.png
    :align: center
 
 ----
@@ -38,8 +38,8 @@ de una manera muy sencilla!
    ¡Es hora de aprender a programar!
 
 
-.. image:: flyer.thumbnail.png
-   :target: flyer.png
+.. image:: flyer-2.thumbnail.png
+   :target: flyer-2.png
    :align: right
 
 El taller comienza por la mañana temprano en donde presentamos la
@@ -87,16 +87,9 @@ mujer contigo que también realice el taller [#]_.
 ¿Dónde y cuándo?
 ----------------
 
-* Lugar: Por definir.
+* Lugar: Edificio Banco Popular, Oficina 13-08, Cl. 32 #8-21, La Matuna, Cartagena, Colombia.
 
-.. raw:: html
-
-    <!--
-    `Koombea <https://www.koombea.com/>`__, Carrera 53 # 85 - 154, Barranquilla, Colombia.
-    Sábado 20 de Octubre de 2018 de 8:30hs (¡puntual!) a 19:00hs.
-    -->
-
-* Fecha: Sábado de Octubre de 2018 (fecha exacta por confirmar)
+* Fecha: Sábado 20 de Octubre de 2018.
 
 .. template:: iframe
    :src: https://www.openstreetmap.org/export/embed.html?bbox=-75.784%2C10.2504%2C-75.245%2C10.5489&amp;layer=mapnik&amp;
@@ -201,16 +194,22 @@ Timeline (*línea de tiempo*)
    re-asignado a una de las personas en LISTA DE ESPERA.
 
   
-.. class:: alert alert-danger
+.. raw:: html
 
-   ¡**Atención**!: hemos alcanzado el cupo máximo de inscriptos para
-   el taller. Sin embargo, si estás interesada en participar,
-   inscribite y pasarás automáticamente a una lista de espera que, en
-   caso de que alguien no pueda asistir, nos estaremos comunicando contigo 
-   para informarte.!
+    <!--
+
+    .. class:: alert alert-danger
+
+       ¡**Atención**!: hemos alcanzado el cupo máximo de inscriptos para
+       el taller. Sin embargo, si estás interesada en participar,
+       inscribite y pasarás automáticamente a una lista de espera que, en
+       caso de que alguien no pueda asistir, nos estaremos comunicando contigo 
+       para informarte.!
+
+   -->
 
 .. template:: bootstrap3/button
-   :href: https://goo.gl/forms/y3dHJEavz8BuYUnh1
+   :href: https://goo.gl/forms/SmzlkfqjIrJK2JS93
 
    ¡Quiero inscribirme!
 
@@ -241,7 +240,7 @@ contigo para coordinar los detalles.
 
 
 .. template:: bootstrap3/button
-   :href: https://goo.gl/forms/uTxNTxBgFDOzr11b2
+   :href: https://goo.gl/forms/rForRi0zW3Fmn3z22
 
    ¡Quiero participar como guía!
 
@@ -346,7 +345,7 @@ contigo para coordinar los detalles.
 
 .. template:: bootstrap3/django-girls-guia
    :name: Ana Elles Manzur
-   :image: guia-ana.png
+   :image: Ana.png
    :place: Cartagena, Colombia
    :email: alelles16@gmail.com
    :community: Python Cartagena
@@ -354,7 +353,7 @@ contigo para coordinar los detalles.
 
 .. template:: bootstrap3/django-girls-guia
    :name: Carlos Mario Herrera Rodriguez
-   :image: guia-carlos-mario.png
+   :image: Carlos-Mario.png
    :place: Cartagena, Colombia
    :email: cmarioherrera@gmail.com
    :community: Python Cartagena
@@ -362,7 +361,7 @@ contigo para coordinar los detalles.
 
 .. template:: bootstrap3/django-girls-guia
    :name: Jesus Steer
-   :image: guia-jesus.png
+   :image: Jesus-Steer.png
    :place: Cartagena, Colombia
    :email: jsteerv@gmail.com
    :community: Python Cartagena
@@ -370,7 +369,7 @@ contigo para coordinar los detalles.
 
 .. template:: bootstrap3/django-girls-guia
    :name: Johanna Sanchez
-   :image: guia-johanna.png
+   :image: Johanna.png
    :place: Armenia, Colombia
    :email: ellaquimica@gmail.com
    :community: Argentina en Python y Django Girls Colombia
@@ -403,7 +402,7 @@ contigo para coordinar los detalles.
 
 .. template:: bootstrap3/django-girls-guia
    :name: Alonso Montenegro Morelos
-   :image: guia-alonso.png
+   :image: Alonso.png
    :place: Cartagena, Colombia
    :email: alons45@gmail.com
    :community: Python Cartagena
@@ -411,7 +410,7 @@ contigo para coordinar los detalles.
 
 .. template:: bootstrap3/django-girls-guia
    :name: Belsy Castillo Salgado
-   :image: guia-belsy.png
+   :image: Belsy.png
    :place: Cartagena, Colombia
    :email: belcislilianac@gmail.com
    :community: Python Cartagena
@@ -419,7 +418,7 @@ contigo para coordinar los detalles.
 
 .. template:: bootstrap3/django-girls-guia
    :name: Katiusca Herrera Franco
-   :image: guia-katty.png
+   :image: Katty.png
    :place: Cartagena, Colombia
    :email: katiusca.herrera@gmail.com
    :community: Python Cartagena
@@ -438,7 +437,7 @@ contigo para coordinar los detalles.
 
 .. template:: bootstrap3/django-girls-guia
    :name: María José Almario Escorcia
-   :image: guia-maria-jose.png
+   :image: Maria-Jose.png
    :place: Cartagena, Colombia
    :email: mariajosealmario@gmail.com
    :community: Python Cartagena
@@ -446,7 +445,7 @@ contigo para coordinar los detalles.
 
 .. template:: bootstrap3/django-girls-guia
    :name: Omar Guerrero Jiménez
-   :image: guia-omar.png
+   :image: Omar.png
    :place: Cartagena, Colombia
    :email: guerrero9725@gmail.com
    :community: Python Cartagena
@@ -454,7 +453,7 @@ contigo para coordinar los detalles.
 
 .. template:: bootstrap3/django-girls-guia
    :name: Sara Galván Ortega
-   :image: guia-sara.png
+   :image: Sara.png
    :place: Cartagena, Colombia
    :email: sara.galvan.o91@gmail.com
    :community: Python Cartagena
@@ -462,7 +461,7 @@ contigo para coordinar los detalles.
 
 .. template:: bootstrap3/django-girls-guia
    :name: Wilmer Llamas Renza
-   :image: guia-wilmer.png
+   :image: Wilmer.png
    :place: Cartagena, Colombia
    :email: wllamasr@gmail.com
    :community: Python Cartagena
@@ -473,15 +472,11 @@ contigo para coordinar los detalles.
   </div>
 
 
-.. raw:: html
+Con el Apoyo de 
+---------------
 
-    <!--
-    Con el Apoyo de 
-    ---------------
-
-    .. image:: apoyan.png
-       :align: center
-    -->
+.. image:: apoyan.png
+   :align: center
 
 ----
 

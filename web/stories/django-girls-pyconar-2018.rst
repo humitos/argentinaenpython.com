@@ -1,5 +1,5 @@
 .. title: Taller Django Girls PyCon Argentina
-.. slug: django-girls-pyconar2018
+.. slug: django-girls/2018/11/pyconar
 .. date: 2018-11-22 09:00:00 UTC-03:00
 .. tags: eventos, django girls, django, taller, python, medellín, pycon, programación, colombia
 .. category: 

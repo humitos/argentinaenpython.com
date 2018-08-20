@@ -310,6 +310,7 @@ contigo para coordinar los detalles.
    :place: Córdoba, Argentina
    :community: Python Argentina
    :github: https://github.com/MissFilly/
+   :web: https://stackoverflow.com/story/filly
 
 .. template:: bootstrap3/django-girls-guia
    :name: Sofía Denner

@@ -11,7 +11,7 @@
 .. template: notitle.tmpl
 
 ..    
-.. image:: membrete-djangogirls-pyconcolombia2018.png
+.. image:: header.png
    :align: center
 
 ----
@@ -305,22 +305,20 @@ contigo para coordinar los detalles.
    :facebook: https://www.facebook.com/argentinaenpython
 
 .. template:: bootstrap3/django-girls-guia
+   :name: Aylen Bombelli
+   :image: organizadores/aylen-bombelli.png
+   :place: Córdoba, Argentina
+   :community: Python Argentina
+   :github: https://github.com/MissFilly/
+
+.. template:: bootstrap3/django-girls-guia
    :name: Sofía Denner
    :image: organizadores/sofi-denner.png
    :place: Rafaela, Argentina
-   :email: sofidenner@gmail.com
    :community: Python Argentina
    :github: https://github.com/sofide/
    :twitter: https://twitter.com/sofidefi
    :facebook: https://www.facebook.com/sofide
-
-.. template:: bootstrap3/django-girls-guia
-   :name: Aylén Bombelli
-   :image: nn-mujer.png
-   :place: Córdoba, Argentina
-   :community: Python Argentina
-   :github: https://github.com/MissFilly/
-   :twitter: https://twitter.com/MissFillys
 
 
 .. raw:: html

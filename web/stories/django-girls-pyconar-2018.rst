@@ -321,6 +321,24 @@ contigo para coordinar los detalles.
    :twitter: https://twitter.com/sofidefi
    :facebook: https://www.facebook.com/sofide
 
+.. template:: bootstrap3/django-girls-guia
+   :name: Cami
+   :image: nn-mujer.png
+   :place: Rafaela, Argentina
+   :community: Python Argentina
+   :github: 
+   :twitter: 
+   :facebook: 
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Lau
+   :image: nn-mujer.png
+   :place: Rafaela, Argentina
+   :community: Python Argentina
+   :github: 
+   :twitter: 
+   :facebook: 
+
 
 .. raw:: html
 

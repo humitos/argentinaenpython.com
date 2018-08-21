@@ -191,7 +191,7 @@ Timeline (*línea de tiempo*)
    te fue asignado para participar del taller y ese puesto será
    re-asignado a una de las personas en LISTA DE ESPERA.
 
-.. template:: bootstrap3/button
+.. template:: bootstrap3/button-green
    :href: https://goo.gl/forms/7w6ahddIgIM7oDI42
 
    ¡Quiero inscribirme!
@@ -225,7 +225,7 @@ registrate en el siguiente formulario y nos pondremos en contacto
 contigo para coordinar los detalles.
 
 
-.. template:: bootstrap3/button
+.. template:: bootstrap3/button-green
    :href: https://goo.gl/forms/ni7X6bCLrVcDShvk1
 
    ¡Quiero participar como guía!

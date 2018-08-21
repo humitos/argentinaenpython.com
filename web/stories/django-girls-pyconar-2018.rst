@@ -8,7 +8,7 @@
 .. type: text
 .. previewimage: flyer.png
 .. .. template: django-girls-snake.tmpl
-.. template: notitle.tmpl
+.. template: django-girls-pyconar2018.tmpl
 
 ..    
 .. image:: header.png

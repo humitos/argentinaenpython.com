@@ -115,8 +115,8 @@ Tené en cuenta que...
   asistir.
 
 * ... te recomendamos seguirnos en Facebook `Python Argentina 
-  <https://www.facebook.com/python.argentina/>` y `Argentina en Python 
-  <https://facebook.com/argentinaenpython/>`,  donde publicaremos novedades sobre el evento.
+  <https://www.facebook.com/python.argentina/>`__ y `Argentina en Python
+  <https://facebook.com/argentinaenpython/>`__,  donde publicaremos novedades sobre el evento.
 
 * ... no es necesario saber programar o tener algún conocimiento
   previo de programación.

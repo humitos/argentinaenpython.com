@@ -621,7 +621,7 @@ escribenos un email y nos pondremos en contacto contigo.
    amigos!
 
    Este evento forma parte de `Django Girls
-   <http://djangogirls.org/>`
+   <http://djangogirls.org/>`__
 
    .. raw:: html
 

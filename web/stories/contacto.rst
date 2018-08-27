@@ -30,11 +30,11 @@ En caso de requerir una comunicación más directa, también podés
 utilizar estos medios, aunque por lo general, no estoy tan pendiente
 de ellos:
 
-:WhatsApp: +54 9 343 5093971
+:WhatsApp: +34 645093915
 
 :Telegram: @humitos
 
-:Móv. Argentina: +54 9 343 5093971
+:Móv. España: +34 645093915
 
 :Skype: manuel.kaufmann.humitos
 

@@ -29,11 +29,11 @@ In case you need more instant communication, you can also use these
 ways, but I'm not really pending on them:
 
 
-:WhatsApp: +54 9 5093971
+:WhatsApp: +34 645093915
 
 :Telegram: @humitos
 
-:Cell Argentina: +54 9 5093971
+:Móv. España: +34 645093915
 
 :Skype: manuel.kaufmann.humitos
 

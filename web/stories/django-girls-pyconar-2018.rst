@@ -149,7 +149,7 @@ Tené en cuenta que...
 Timeline (*línea de tiempo*)
 ----------------------------
 
-.. image:: timeline.png
+.. image:: timeline-dg-pyconar.png
    :align: center
 
 ----
@@ -160,13 +160,13 @@ Timeline (*línea de tiempo*)
 
 .. class:: col-md-4
 
-   Tienes tiempo hasta el **20 de Enero** [ACTUALIZAR] para inscribirte. Te
+   Tienes tiempo hasta el **31 de octubre** para inscribirte. Te
    recomendamos leer la página de forma completa y prestar mucha
    atención en el formulario.
 
 .. class:: col-md-4
 
-   El **21 de Enero** [ACTUALIZAR] anunciaremos los participantes que fueron
+   El **2 de noviembre** anunciaremos los participantes que fueron
    **CONFIRMADOS** para participar en el taller, como así también los
    que están en **LISTA DE ESPERA**. Ese día debes revisar tu correo
    electrónico buscando un email nuestro en *Bandeja de Entrada*, *Promociones* y
@@ -174,7 +174,7 @@ Timeline (*línea de tiempo*)
 
 .. class:: col-md-4
 
-   El **28 de Enero** [ACTUALIZAR] anunciaremos los participantes que estaban en
+   El **7 de noviembre** anunciaremos los participantes que estaban en
    LISTA DE ESPERA y que han pasado a estar **CONFIRMADOS**. Si
    estabas en LISTA DE ESPERA es un buen momento para revisar tu correo
    electrónico.
@@ -322,18 +322,9 @@ contigo para coordinar los detalles.
    :facebook: https://www.facebook.com/sofide
 
 .. template:: bootstrap3/django-girls-guia
-   :name: Cami
+   :name: Camila Bignone
    :image: nn-mujer.png
-   :place: Rafaela, Argentina
-   :community: Python Argentina
-   :github: 
-   :twitter: 
-   :facebook: 
-
-.. template:: bootstrap3/django-girls-guia
-   :name: Lau
-   :image: nn-mujer.png
-   :place: Rafaela, Argentina
+   :place: 
    :community: Python Argentina
    :github: 
    :twitter: 
@@ -378,10 +369,10 @@ Son personas comprometidas que hacen posible llevar adelante esta propuesta de i
    :facebook: https://www.facebook.com/argentinaenpython
 
 .. template:: bootstrap3/django-girls-guia
-   :name: ¡Quiero colaborar!
-   :image: nn-hombre.png
+   :name: Laura Perez Cerrato
+   :image: colaboradores/laura-perez-cerrato.png
    :place: 
-   :community: 
+   :community: Python Argentina
    :web: 
    :github: 
    :twitter: 
@@ -393,10 +384,10 @@ Son personas comprometidas que hacen posible llevar adelante esta propuesta de i
 
 ----
 
-Sponsors
----------------
+Sponsors de la PyconAr 2018
+---------------------------
 
-.. image:: sponsor.png
+.. image:: sponsor-dg-pyconar.png
    :align: center
 
 Con el apoyo de

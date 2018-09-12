@@ -449,8 +449,6 @@ contigo para coordinar los detalles.
 Sponsors
 ---------------
 
-..image:: sponsor.png
-   :align: center
 
 Con el apoyo de
 ---------------

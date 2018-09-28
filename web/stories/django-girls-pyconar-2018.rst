@@ -8,7 +8,16 @@
 .. type: text
 .. previewimage: flyer.png
 .. .. template: django-girls-snake.tmpl
-.. template: django-girls-pyconar2018.tmpl
+.. template: notitle.tmpl
+
+
+.. raw:: html
+
+   <style>
+   a {
+     color: green;
+   }
+   </style>
 
 ..    
 .. image:: header.png

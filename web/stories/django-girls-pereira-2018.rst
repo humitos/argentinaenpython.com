@@ -1,6 +1,6 @@
 .. title: Taller de programación para mujeres Pereira
-.. slug: django-girls-pereira-2018
-.. date: 2018-11-10 00:16:45 UTC-05:00
+.. slug: django-girls/2018/11/pereira
+.. date: 2018-09-08 00:16:45 UTC-05:00
 .. tags: eventos, django girls, django, taller, python, pereira, programación, colombia
 .. category: 
 .. link: 
@@ -20,8 +20,8 @@
    :target: flyer.png
    :align: right
 
-¡Queremos animar a más mujeres a dominar la web! Es por eso que desde `Python Pereira 
-<https://www.facebook.com/pythonpereira/>`_ con el apoyo de Argentina en Python y Python 
+¡Queremos animar a más mujeres a dominar la web! Es por eso que desde `Python Pereira <https://www.facebook.com/pythonpereira/>`_ 
+y `Django Girls Colombia <https://www.facebook.com/djangogirlscolombia>`_ con el apoyo de Argentina en Python y Python 
 Colombia estamos organizando un taller en el cual podrás construir tu propio sitio web
 *desde cero* en un día. Además, vamos a utilizar todas las herramientas que programadores profesionales 
 utilizan diariamente. ¡Y de una manera muy sencilla!
@@ -76,13 +76,13 @@ mujer con vos que también realice el taller [#]_.
 ¿Dónde y cuándo?
 ================
 
-   * Lugar: Por definir
+   * Lugar: Carrera 21 No. 49-95 Av. de las Américas - Universidad Católica de Pereira,Bloque Dabar,Salón Oval 3 
 
    * Fecha: Sábado 10 de Noviembre de 2018 desde las 08:30 (¡puntual!) hasta las 19:30.
 
 
 .. template:: iframe
-   :src:
+   :src: https://www.openstreetmap.org/export/embed.html?bbox=-75.72735965251924%2C4.802777832083963%2C-75.72325050830842%2C4.805782042825273&amp;layer=mapnik&amp;marker=4.804279939109524%2C-75.72530508041382
 
 
 .. sidebar:: Contacto
@@ -104,8 +104,10 @@ Tené en cuenta que...
   esperar** una confirmación por parte de los organizadores para poder
   asistir.
 
-* ... te recomendamos seguirnos en Twitter `@argenpython
-  <https://twitter.com/argenpython>`_ y/o Facebook `Argentina en Python <https://facebook.com/argentinaenpython/>`__, donde publicaremos novedades sobre el evento.
+* ... te recomendamos seguirnos en Twitter `@pythonpereira
+  <https://twitter.com/pythonpereira>`_ , `@DjangoGirlsCo <https://twitter.com/pythonpereira>`_  
+  y/o Facebook `Python Pereira <https://www.facebook.com/pythonpereira/>`__, `Django Girls Colombia <https://www.facebook.com/djangogirlscolombia/>`__, 
+  donde publicaremos novedades sobre el evento.
 
 * ... no es necesario saber programar o tener algún conocimiento
   previo de programación.
@@ -119,7 +121,7 @@ Tené en cuenta que...
 
 * ... en lo posible, debes llevar un extensor de corriente.
 
-* ... agrega la dirección argentinaenpython@gmail.com a tu libreta
+* ... agrega la dirección djangogirlscolombia@gmail.com a tu libreta
   de direcciones así evitamos que el email llegue a *SPAM*
 
 * ... vamos a respetar las fechas publicadas en el *timeline* (línea
@@ -307,6 +309,28 @@ contigo para coordinar los detalles.
    <div class="section-organizadores">
 
 .. template:: bootstrap3/django-girls-guia
+   :name: Alejandro E. Rendón
+   :image: colaborador-alejandro.png
+   :place: Pereira, Colombia
+   :email: alejorendon@utp.edu.co
+   :community: Python Pereira     
+   :web: https://aerendon.github.io
+   :github: https://github.com/aerendon
+   :twitter: https://twitter.com/alejoerendon
+   :facebook: https://www.facebook.com/AlejoERendon
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Angelica Aguirre Castro
+   :image: organizador-angelica.png
+   :place: Pereira, Colombia
+   :email: angelicaaguicas@gmail.com
+   :web: https://www.linkedin.com/in/angelica-aguirre-castro-50abb5110/
+   :community: Python Pereira, Django Girls Pereira 
+   :github: https://github.com/anaguicas
+   :twitter: https://twitter.com/angelicaaguicas
+   :facebook: https://www.facebook.com/angelica.aguirrecastro
+
+.. template:: bootstrap3/django-girls-guia
    :name: Carolina Gómez
    :image: organizador-carolina.png
    :place: Medellin, Colombia
@@ -326,27 +350,6 @@ contigo para coordinar los detalles.
    :community: jointDeveloper   
    :github: https://github.com/Nany262
    :facebook: https://www.facebook.com/daniela.zuluaga.95
-
-.. template:: bootstrap3/django-girls-guia
-   :name: Oriana Cadavid
-   :image: organizador-oriana.png
-   :place: Pereira, Colombia
-   :community: jointDeveloper
-   :email: ocadavid@utp.edu.co
-   :web: https://co.linkedin.com/in/orianacadavid
-   :github: https://github.com/OrianaCadavid
-   :twitter: https://twitter.com/OrianaCadavid
-   :facebook: https://www.facebook.com/OrianaCadavid
-
-.. template:: bootstrap3/django-girls-guia
-   :name: Vanessa Penagos 
-   :image: organizador-vanessa.png
-   :place: Pereira, Colombia
-   :community: jointDeveloper
-   :email: vanessapenagos19@gmail.com
-   :web: https://co.linkedin.com/in/vanessa-penagos-rios-364312140
-   :github: https://github.com/VanessaPenagos
-
 
 .. raw:: html
 
@@ -379,27 +382,26 @@ contigo para coordinar los detalles.
    :facebook: https://www.facebook.com/argentinaenpython
 
 .. template:: bootstrap3/django-girls-guia
-   :name: Alejandro E. Rendón
-   :image: colaborador-alejandro.png
-   :place: Pereira, Colombia
-   :email: alejorendon@utp.edu.co
-   :community: Python Pereira     
-   :web: https://aerendon.github.io
-   :github: https://github.com/aerendon
-   :twitter: https://twitter.com/alejoerendon
-   :facebook: https://www.facebook.com/AlejoERendon
-
+   :name: Manuel Kaufmann
+   :image: colaborador-manuel.png
+   :place: Parana, Argentina
+   :email: argentinaenpython@gmail.com
+   :web: https://elblogdehumitos.com/
+   :community: Argentina en Python y Embajador de Python
+   :github: https://github.com/humitos
+   :twitter: https://twitter.com/reydelhumo
+   :facebook: https://www.facebook.com/argentinaenpython
 
 .. template:: bootstrap3/django-girls-guia
-   :name: Angelica Aguirre Castro
-   :image: organizador-angelica.png
+   :name: Oriana Cadavid
+   :image: organizador-oriana.png
    :place: Pereira, Colombia
-   :email: angelicaaguicas@gmail.com
-   :web: https://www.linkedin.com/in/angelica-aguirre-castro-50abb5110/
-   :community: Python Pereira, Django Girls Pereira 
-   :github: https://github.com/anaguicas
-   :twitter: https://twitter.com/angelicaaguicas
-   :facebook: https://www.facebook.com/angelica.aguirrecastro
+   :community: jointDeveloper
+   :email: ocadavid@utp.edu.co
+   :web: https://co.linkedin.com/in/orianacadavid
+   :github: https://github.com/OrianaCadavid
+   :twitter: https://twitter.com/OrianaCadavid
+   :facebook: https://www.facebook.com/OrianaCadavid
 
 .. template:: bootstrap3/django-girls-guia
    :name: Sergio Alexander Florez Galeano
@@ -430,16 +432,13 @@ contigo para coordinar los detalles.
    <div class="section-organizadores">
 
 .. template:: bootstrap3/django-girls-guia
-   :name: Manuel Kaufmann
-   :image: colaborador-manuel.png
-   :place: Parana, Argentina
-   :email: argentinaenpython@gmail.com
-   :web: https://elblogdehumitos.com/
-   :community: Argentina en Python y Embajador de Python
-   :github: https://github.com/humitos
-   :twitter: https://twitter.com/reydelhumo
-   :facebook: https://www.facebook.com/argentinaenpython
-
+   :name: Vanessa Penagos 
+   :image: organizador-vanessa.png
+   :place: Pereira, Colombia
+   :community: jointDeveloper
+   :email: vanessapenagos19@gmail.com
+   :web: https://co.linkedin.com/in/vanessa-penagos-rios-364312140
+   :github: https://github.com/VanessaPenagos
 
 .. raw:: html
 

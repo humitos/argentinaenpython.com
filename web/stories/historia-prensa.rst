@@ -19,6 +19,13 @@ Año 2018
    <div class="row">
 
 .. template:: prensa-image
+   :title: NotiCartagena
+   :description: Taller gratuito de programación para mujeres en Cartagena
+   :src: 2018_septiembre_0-340x255.jpg
+   :href: http://noticartagena.com.co/taller-gratuito-de-programacion-para-mujeres-en-cartagena/
+
+
+.. template:: prensa-image
    :title: PyCon Japón
    :description: PyCon JP 2018: About the keynote speaker on the first day
    :src: 2018_agosto_0-340x255.png

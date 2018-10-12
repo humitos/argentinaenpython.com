@@ -300,13 +300,6 @@ contigo para coordinar los detalles.
    :email: jsarmientorosso@gmail.com
    :github: https://github.com/jsteerv
 
-.. template:: bootstrap3/django-girls-guia
-   :name: Maria Camila Gómez Restrepo
-   :image: maria-camila-guia.png
-   :place: Medellin, Colombia
-   :email: camigomez35@gmail.com
-   :github: https://github.com/camigomez35
-
 .. raw:: html
 
    </div>

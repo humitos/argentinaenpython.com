@@ -38,8 +38,8 @@ de una manera muy sencilla!
    ¡Es hora de aprender a programar!
 
 
-.. image:: flyer-2.thumbnail.png
-   :target: flyer-2.png
+.. image:: flyer-opt.thumbnail.png
+   :target: flyer-opt.png
    :align: right
 
 El taller comienza por la mañana temprano en donde presentamos la
@@ -243,87 +243,66 @@ contigo para coordinar los detalles.
 
    ¡Quiero participar como guía!
 
+¡Conoce a nuestros guías!
+*************************
+
 .. raw:: html
 
-    <!--
-    ¡Conoce a nuestros guías!
-    *************************
 
-    .. raw:: html
+   <style>
+     div.django-girls-guia {
+       min-height: 350px;
+     }
 
+     div.section-guia {
+       display: inline-block;
+     }
+   </style>
 
-       <style>
-         div.django-girls-guia {
-           min-height: 350px;
-         }
+   <div class="section-guia">
 
-         div.section-guia {
-           display: inline-block;
-         }
-       </style>
+.. template:: bootstrap3/django-girls-guia
+   :name: Alonso Montenegro Morelos
+   :image: Alonso.png
+   :place: Cartagena, Colombia
+   :email: alons45@gmail.com
+   :community: Python Cartagena
+   :github: https://github.com/AlonsoEnrique
 
-       <div class="section-guia">
+.. template:: bootstrap3/django-girls-guia
+   :name: Ana Elles Manzur
+   :image: Ana-guia.png
+   :place: Cartagena, Colombia
+   :email: alelles16@gmail.com
+   :community: Python Cartagena
+   :github: https://github.com/alelles16
 
-    .. template:: bootstrap3/django-girls-guia
-       :name: Wilmer Llamas Renza
-       :image: guia-wilmer.png
-       :place: Cartagena, Colombia
-       :email: wllamasr@gmail.com
-       :community: Python Cartagena
-       :github: https://github.com/sorenllamas
+.. template:: bootstrap3/django-girls-guia
+   :name: Carlos Mario Herrera Rodriguez
+   :image: Carlos-Mario-guia.png
+   :place: Cartagena, Colombia
+   :email: cmarioherrera@gmail.com
+   :community: Python Cartagena
+   :github: https://github.com/cmarioherrera
 
-    .. template:: bootstrap3/django-girls-guia
-       :name: Omar Guerrero Jiménez
-       :image: guia-omar.png
-       :place: Cartagena, Colombia
-       :email: guerrero9725@gmail.com
-       :community: Python Cartagena
-       :github: https://github.com/guerrero25
+.. template:: bootstrap3/django-girls-guia
+   :name: Jesus Steer
+   :image: Jesus-Steer-guia.png
+   :place: Cartagena, Colombia
+   :email: jsteerv@gmail.com
+   :community: Python Cartagena
+   :github: https://github.com/jsteerv
 
-    .. template:: bootstrap3/django-girls-guia
-       :name: Katiusca Herrera Franco
-       :image: guia-katty.png
-       :place: Cartagena, Colombia
-       :email: katiusca.herrera@gmail.com
-       :community: Python Cartagena
-       :github: https://github.com/KatiuscaH
+.. template:: bootstrap3/django-girls-guia
+   :name: Juan Carlos Sarmiento Rosso
+   :image: Juan-Sarmiento-guia.png
+   :place: Cartagena, Colombia
+   :email: jsarmientorosso@gmail.com
+   :github: https://github.com/jsteerv
 
-    .. template:: bootstrap3/django-girls-guia
-       :name: María José Almario Escorcia
-       :image: guia-maria-jose.png
-       :place: Cartagena, Colombia
-       :email: mariajosealmario@gmail.com
-       :community: Python Cartagena
-       :github: https://github.com/mjalmario
+.. raw:: html
 
-    .. template:: bootstrap3/django-girls-guia
-       :name: Alonso Montenegro Morelos
-       :image: guia-alonso.png
-       :place: Cartagena, Colombia
-       :email: alons45@gmail.com
-       :community: Python Cartagena
-       :github: https://github.com/AlonsoEnrique
-
-    .. template:: bootstrap3/django-girls-guia
-       :name: Belsy Castillo Salgado
-       :image: guia-belsy.png
-       :place: Cartagena, Colombia
-       :email: belcislilianac@gmail.com
-       :community: Python Cartagena
-       :github: https://github.com/bcastillo
-
-    .. template:: bootstrap3/django-girls-guia
-       :name: Sara Galván Ortega
-       :image: guia-sara.png
-       :place: Cartagena, Colombia
-       :email: sara.galvan.o91@gmail.com
-       :community: Python Cartagena
-       :github: https://github.com/Xaraxx
-
-    .. raw:: html
-
-       </div>
-   -->
+   </div>
 
 ¡Los organizadores!
 -------------------
@@ -470,6 +449,20 @@ contigo para coordinar los detalles.
 
   </div>
 
+
+Sponsors
+---------------
+
+Estamos en la búsqueda de sponsor para este evento de inclusión social,
+por favor dejanos saber que estás interesado en apoyarnos como sponsor enviando
+un email a `djangogirlscolombia@gmail.com <mailto:djangogirlscolombia@gmail.com>`_.
+
+---------------
+
+.. image:: patrocinadores-opt.png
+   :align: center
+
+----
 
 Con el Apoyo de 
 ---------------

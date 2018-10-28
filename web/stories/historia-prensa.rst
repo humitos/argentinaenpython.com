@@ -21,7 +21,7 @@ Año 2018
 .. template:: prensa-image
    :title: PyCon Japón
    :description: Opening Keynote "Argentina in Python: community, dreams,..."
-   :src: 2018_septiembre_1-340x255.png
+   :src: 2018_septiembre_1-340x255.jpg
    :href: https://www.youtube.com/watch?v=KwmF5wyY2C4&t=32m30s
 
 

@@ -21,10 +21,7 @@
 
 .. class:: alert alert-success
 
-  ¡El equipo `Argentina en Python </>`_  estará participando de tres eventos en diferentes paises!
-    * Japón: Manuel será el Opening Keynote de la `PyCon Japón <https://pycon.jp/2018/>`_ , el 17 de Septiembre en Tokio
-    * España: Manuel estará participando de la `PyCon España <https://2018.es.pycon.org/>`_, del 5 al 7 de Octubre en Malaga
-    * Argentina: Johanna estará en la organización del Django Girls `PyCon Argentina <https://pycon.python.org.ar>`_, el 22 de Noviembre en Buenos Aires
+    Johanna estará en la organización del Django Girls `PyCon Argentina <https://pycon.python.org.ar>`_, el 22 de Noviembre en Buenos Aires
 
 
 .. image:: /index/logo.thumbnail.png

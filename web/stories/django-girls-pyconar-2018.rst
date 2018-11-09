@@ -259,8 +259,8 @@ contigo para coordinar los detalles.
 
 
 .. template:: bootstrap3/django-girls-guia
-   :name: ¡Quiero sumarme como guía!
-   :image: nn-mujer.png
+   :name: Agustín Scaramuzza
+   :image: guias/Agustín Scaramuzza.png
    :place: 
    :community: 
    :web: 
@@ -269,8 +269,148 @@ contigo para coordinar los detalles.
    :facebook: 
 
 .. template:: bootstrap3/django-girls-guia
-   :name: ¡Quiero sumarme como guía!
-   :image: nn-hombre.png
+   :name: Alba Florencia Cordoba
+   :image: guias/Alba Florencia Cordoba.png
+   :place: 
+   :community:
+   :web: 
+   :github: 
+   :twitter: 
+   :facebook: 
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Andres Pardini
+   :image: guias/Andres Pardini.png
+   :place: 
+   :community:
+   :web: 
+   :github: 
+   :twitter: 
+   :facebook: 
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Ariel Silvio Norberto Ramos
+   :image: guias/Ariel Silvio Norberto Ramos.png
+   :place: 
+   :community:
+   :web: 
+   :github: 
+   :twitter: 
+   :facebook: 
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Damiana Mesías
+   :image: guias/Damiana Mesías.png
+   :place: 
+   :community:
+   :web: 
+   :github: 
+   :twitter: 
+   :facebook: 
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Eduardo Enriquez
+   :image: guias/Eduardo Enriquez.png
+   :place: 
+   :community:
+   :web: 
+   :github: 
+   :twitter: 
+   :facebook: 
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Gabriel Balaudo
+   :image: guias/Gabriel Balaudo.png
+   :place: 
+   :community:
+   :web: 
+   :github: 
+   :twitter: 
+   :facebook: 
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Ignacio Feijoo
+   :image: guias/Ignacio Feijoo.png
+   :place: 
+   :community:
+   :web: 
+   :github: 
+   :twitter: 
+   :facebook: 
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Jose Luis Zanotti
+   :image: guias/Jose Luis Zanotti.png
+   :place: 
+   :community:
+   :web: 
+   :github: 
+   :twitter: 
+   :facebook: 
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Juan Pedro Fisanotti
+   :image: guias/Juan Pedro Fisanotti.png
+   :place: 
+   :community:
+   :web: 
+   :github: 
+   :twitter: 
+   :facebook: 
+
+.. template:: bootstrap3/django-girls-guia
+   :name: María Andrea Vignau
+   :image: guias/María Andrea Vignau.png
+   :place: 
+   :community:
+   :web: 
+   :github: 
+   :twitter: 
+   :facebook: 
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Mariano Venier
+   :image: guias/Mariano Venier.png
+   :place: 
+   :community:
+   :web: 
+   :github: 
+   :twitter: 
+   :facebook: 
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Martin Alderete
+   :image: guias/Martin Alderete.png
+   :place: 
+   :community:
+   :web: 
+   :github: 
+   :twitter: 
+   :facebook: 
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Martin Volpe
+   :image: guias/Martin Volpe.png
+   :place: 
+   :community:
+   :web: 
+   :github: 
+   :twitter: 
+   :facebook: 
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Ricardo Daniel Quiroga
+   :image: guias/Ricardo Daniel Quiroga.png
+   :place: 
+   :community:
+   :web: 
+   :github: 
+   :twitter: 
+   :facebook: 
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Yonatan Romero
+   :image: guias/Yonatan Romero.png
    :place: 
    :community:
    :web: 
@@ -330,16 +470,6 @@ contigo para coordinar los detalles.
    :twitter: https://twitter.com/sofidefi
    :facebook: https://www.facebook.com/sofide
 
-.. template:: bootstrap3/django-girls-guia
-   :name: Camila Bignone
-   :image: nn-mujer.png
-   :place: 
-   :community: Python Argentina
-   :github: 
-   :twitter: 
-   :facebook: 
-
-
 .. raw:: html
 
    </div>
@@ -386,6 +516,16 @@ Son personas comprometidas que hacen posible llevar adelante esta propuesta de i
    :github: 
    :twitter: 
    :facebook: 
+
+.. template:: bootstrap3/django-girls-guia
+   :name: Camila Bignone
+   :image: nn-mujer.png
+   :place: 
+   :community: Python Argentina
+   :github: 
+   :twitter: 
+   :facebook: 
+
 
 .. raw:: html
 

@@ -82,6 +82,9 @@ Eventos pasados
 
 Eventos en que colaboramos
 **************************
+* 24-11-2018: `Taller de programación para mujeres en Bogotá <https://www.python.org.co/eventos/2018/11/taller-programacion-mujeres-bogota/>`_
+* 10-11-2018: `Taller de programación para mujeres en Pereira <https://www.python.org.co/eventos/2018/11/taller-programacion-mujeres-pereira/>`_
+* 20-10-2018: `Taller de programación para mujeres en Cartagena <https://argentinaenpython.com/django-girls/2018/10/cartagena/>`_
 * 14-07-2018: `Taller Django Girls en Barranquilla, Colombia
   <https://argentinaenpython.com/django-girls/2018/07/barranquilla/>`_
 * 09-06-2018: `Taller Django Girls en Cali, Colombia

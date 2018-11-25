@@ -106,6 +106,7 @@ Eventos en que colaboramos
 
 Eventos en los que hemos participado
 ************************************
+* 28-07-2018: Johanna Sanchez participó como `disertante en la Universidad Nacional del Litoral <https://archive.org/details/argentinaenPython>`_ por invitación de la Tecnicatura Universitaria de Software Libre.
 * 12-07-2018: Johanna Sanchez participó como `disertante en el Meetup de Python Buenos Aires <https://www.meetup.com/es-ES/Buenos-Aires-Python-Meetup/events/252280608/>`_ realizado en Buenos Aires, Argentina.
 * 10-02-2018: Manuel Kaufmann y Johanna Sanchez participaron como `disertantes cada uno en PyCon Colombia 2018 <https://www.pycon.co/>`_ realizado en Medellín, Colombia.
 * 17-05-2017: Manuel Kaufmann participó en `PyCon 2017 <https://us.pycon.org/2017/about/>`_ realizado en Portland, Estados Unidos
@@ -117,6 +118,6 @@ Eventos en los que hemos participado
 
 Invitaciones Especiales
 -----------------------
-
-* 06-10-2017: Manuel Kaufmann es invitado como `Keynote de la Python Brasil 2017 en Belo Horizonte, Brasil <http://2017.pythonbrasil.org.br/>`_
-* 09-10-2016: Manuel Kaufmann es invitado como `Keynote de la PyConEs 2016 en Almería, España <http://2016.es.pycon.org/en/>`_
+* 17-09-2018: Manuel Kaufmann es invitado como `Keynote de la PyConJP 2018 en Tokio, Japón <https://pycon.jp/2018/>`_ - `Vídeo <https://youtu.be/KwmF5wyY2C4>`_
+* 06-10-2017: Manuel Kaufmann es invitado como `Keynote de la Python Brasil 2017 en Belo Horizonte, Brasil <http://2017.pythonbrasil.org.br/>`_- `Vídeo <https://youtu.be/frhp4N7uwQA>`_
+* 09-10-2016: Manuel Kaufmann es invitado como `Keynote de la PyConEs 2016 en Almería, España <http://2016.es.pycon.org/en/>`_ - `Vídeo <https://youtu.be/e0500NDu2tA>`_

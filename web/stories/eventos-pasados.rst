@@ -118,6 +118,6 @@ Eventos en los que hemos participado
 
 Invitaciones Especiales
 -----------------------
-* 17-09-2018: Manuel Kaufmann es invitado como `Keynote de la PyConJP 2018 en Tokio, Japón <https://pycon.jp/2018/>`_ - `Vídeo <https://youtu.be/KwmF5wyY2C4>`_
-* 06-10-2017: Manuel Kaufmann es invitado como `Keynote de la Python Brasil 2017 en Belo Horizonte, Brasil <http://2017.pythonbrasil.org.br/>`_- `Vídeo <https://youtu.be/frhp4N7uwQA>`_
-* 09-10-2016: Manuel Kaufmann es invitado como `Keynote de la PyConEs 2016 en Almería, España <http://2016.es.pycon.org/en/>`_ - `Vídeo <https://youtu.be/e0500NDu2tA>`_
+* 17-09-2018: Manuel Kaufmann es invitado como `Keynote de la PyConJP 2018 en Tokio, Japón <https://pycon.jp/2018/>`_ - `Vídeo <https://youtu.be/KwmF5wyY2C4>`__
+* 06-10-2017: Manuel Kaufmann es invitado como `Keynote de la Python Brasil 2017 en Belo Horizonte, Brasil <http://2017.pythonbrasil.org.br/>`__ - `Vídeo <https://youtu.be/frhp4N7uwQA>`_
+* 09-10-2016: Manuel Kaufmann es invitado como `Keynote de la PyConEs 2016 en Almería, España <http://2016.es.pycon.org/en/>`_ - `Vídeo <https://youtu.be/e0500NDu2tA>`__

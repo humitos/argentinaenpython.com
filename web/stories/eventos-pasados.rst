@@ -8,11 +8,12 @@
 
 Eventos pasados
 ---------------
+* 22-11-2018: `Taller Django Girls en PyCon Argentina 2018 <https://argentinaenpython.com/django-girls/2018/11/pyconar/>`_
 * 30-05-2018: `Meetup Python en Salta
   <https://www.elintra.com.ar/sociedad/2018/5/30/se-realizo-una-capacitacion-de-python-para-programadores-en-salta-122959.html>`_
 * 25-05-2018: `Meetup Pysquadpython en Arica
   <https://www.facebook.com/events/212578079550909/>`_
-* 08-02-2018: `Taller Django Girls en PyConColombia 2018
+* 08-02-2018: `Taller Django Girls en PyCon Colombia 2018
   <https://argentinaenpython.com/galeria/django-girls-pyconcolombia-2018/>`_
 *  12-01-2018: `Taller de Tecnologías de Virtualización: Introducción a Docker en Cuenca <https://www.meetup.com/es-ES/python-ecuador/events/246196158/>`__
 *  14-12-2017: `Taller de Programación en Python y Open ERP (Orientado a GIS) en Cuenca <https://www.meetup.com/es-ES/python-ecuador/events/245671803/>`_
@@ -82,6 +83,9 @@ Eventos pasados
 
 Eventos en que colaboramos
 **************************
+* 24-11-2018: `Taller de programación para mujeres en Bogotá <https://www.python.org.co/eventos/2018/11/taller-programacion-mujeres-bogota/>`_
+* 10-11-2018: `Taller de programación para mujeres en Pereira <https://www.python.org.co/eventos/2018/11/taller-programacion-mujeres-pereira/>`_
+* 20-10-2018: `Taller de programación para mujeres en Cartagena <https://argentinaenpython.com/django-girls/2018/10/cartagena/>`_
 * 14-07-2018: `Taller Django Girls en Barranquilla, Colombia
   <https://argentinaenpython.com/django-girls/2018/07/barranquilla/>`_
 * 09-06-2018: `Taller Django Girls en Cali, Colombia
@@ -102,6 +106,7 @@ Eventos en que colaboramos
 
 Eventos en los que hemos participado
 ************************************
+* 28-07-2018: Johanna Sanchez participó como `disertante en la Universidad Nacional del Litoral <https://archive.org/details/argentinaenPython>`_ por invitación de la Tecnicatura Universitaria de Software Libre.
 * 12-07-2018: Johanna Sanchez participó como `disertante en el Meetup de Python Buenos Aires <https://www.meetup.com/es-ES/Buenos-Aires-Python-Meetup/events/252280608/>`_ realizado en Buenos Aires, Argentina.
 * 10-02-2018: Manuel Kaufmann y Johanna Sanchez participaron como `disertantes cada uno en PyCon Colombia 2018 <https://www.pycon.co/>`_ realizado en Medellín, Colombia.
 * 17-05-2017: Manuel Kaufmann participó en `PyCon 2017 <https://us.pycon.org/2017/about/>`_ realizado en Portland, Estados Unidos
@@ -113,6 +118,6 @@ Eventos en los que hemos participado
 
 Invitaciones Especiales
 -----------------------
-
-* 06-10-2017: Manuel Kaufmann es invitado como `Keynote de la Python Brasil 2017 en Belo Horizonte, Brasil <http://2017.pythonbrasil.org.br/>`_
-* 09-10-2016: Manuel Kaufmann es invitado como `Keynote de la PyConEs 2016 en Almería, España <http://2016.es.pycon.org/en/>`_
+* 17-09-2018: Manuel Kaufmann es invitado como `Keynote de la PyConJP 2018 en Tokio, Japón <https://pycon.jp/2018/>`_ - `Vídeo <https://youtu.be/KwmF5wyY2C4>`__
+* 06-10-2017: Manuel Kaufmann es invitado como `Keynote de la Python Brasil 2017 en Belo Horizonte, Brasil <http://2017.pythonbrasil.org.br/>`__ - `Vídeo <https://youtu.be/frhp4N7uwQA>`_
+* 09-10-2016: Manuel Kaufmann es invitado como `Keynote de la PyConEs 2016 en Almería, España <http://2016.es.pycon.org/en/>`_ - `Vídeo <https://youtu.be/e0500NDu2tA>`__ - `Diapositivas <http://2016.es.pycon.org/media/keynotes/aep-keynote.pdf>`__

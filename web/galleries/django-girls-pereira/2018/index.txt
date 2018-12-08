@@ -1,0 +1,8 @@
+.. title: 2018
+.. previewimage: IMG-20181110-WA0178.jpg
+.. description: Workshop Django Girls
+
+:Fecha: 10 de Noviembre de 2018
+:Lugar: Pereira, Risaralda, Colombia
+:Descripción: Taller de programación para mujeres con Django Girls
+:Web: https://www.python.org.co/eventos/2018/11/taller-programacion-mujeres-pereira/

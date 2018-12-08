@@ -1,0 +1,7 @@
+.. title: Meetup Python Buenos Aires
+.. previewimage: photo5084854736158566385.jpg
+.. description: Meetup en las oficinas de Onapsis
+
+:Fecha: 7 de Agosto de 2018
+:Lugar: Ciudad de Buenos Aires, Buenos Aires, Argentina
+:Descripción: Meetup en las oficinas de Onapsis

@@ -1,0 +1,8 @@
+.. title: 2018
+.. previewimage: IMG_5333.JPG
+.. description: Workshop Django Girls
+
+:Fecha: 23 de Noviembre de 2018
+:Lugar: Bogotá, Cundinamarca, Colombia
+:Descripción: Taller de programación para mujeres con Django Girls
+:Web: https://www.python.org.co/eventos/2018/11/taller-programacion-mujeres-bogota/

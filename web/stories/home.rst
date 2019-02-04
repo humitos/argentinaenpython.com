@@ -21,7 +21,10 @@
 
 .. class:: alert alert-success
 
-    Johanna estará en la organización del Django Girls `PyCon Argentina <https://pycon.python.org.ar>`_, el 22 de Noviembre en Buenos Aires
+	Johanna será disertante en el meetup de `Python Barcelona <https://www.meetup.com/es-ES/python-185/>`_, el 21 de Febrero en Barcelona, España.
+     
+	Asistiremos a `t3chfest <https://t3chfest.uc3m.es/2019/>`_, el 14 y 15 de Marzo en Madrid, España.
+     
 
 
 .. image:: /index/logo.thumbnail.png

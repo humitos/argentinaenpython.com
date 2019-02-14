@@ -106,9 +106,6 @@ más básico:
 * `Aprenda a pensar como un programador con Python
   <aprenda-a-pensar-como-un-programador-con-python.pdf>`_
 
-* `Python (curso interactivo en Code Academy)
-  <https://www.codecademy.com/es/tracks/python-traduccion-al-espanol-america-latina-clone-1>`_
-
 
 .. sidebar:: ¡No te desepciones!
 
@@ -119,7 +116,7 @@ más básico:
    empezar a leer. Incluso, ¡hay algunos que *son interactivos* y
    están buenísimos!
 
-* `Curso interactivo en Codecademy <https://www.codecademy.com/es/tracks/python-traduccion-al-espanol-america-latina-clone-1>`_
+
 
 ¿Por dónde seguir?
 ------------------
@@ -154,6 +151,9 @@ Tengo un dominio básico de lectura en inglés.
 
 * `Automate the Boring Stuff with Python
   <https://automatetheboringstuff.com/>`_
+
+* `Learn Python 3 (curso interactivo en Code Academy)
+  <https://www.codecademy.com/learn/learn-python-3>`_
 
 
 Soy científico y quiero analizar mis datos

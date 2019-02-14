@@ -142,8 +142,7 @@ Tengo un dominio básico de lectura en inglés.
 * `Learn Python: The hard way
   <http://learnpythonthehardway.org/book/>`_
 
-* `Dive into Python 3 <http://www.diveintopython3.net/>`_ (`PDF
-  <dive-into-python3.pdf>`__)
+* `Dive into Python 3 (PDF) <dive-into-python3.pdf>`_
 
 * `The Hitchhiker’s Guide to Python
   <http://python-guide.readthedocs.org/en/latest/>`_ (`PDF

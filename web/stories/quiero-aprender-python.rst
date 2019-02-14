@@ -417,6 +417,7 @@ tienen: email, chat, foro, etc.
 * `Sitio web <http://scipyla.org/es/>`__
 * `Lista de correos <https://groups.google.com/forum/#!forum/scipyla>`__
 * `Twitter <https://twitter.com/scipyla>`__
+* `SciPy Latam (Conferencia anual) <http://scipyla.org/es/scipycon.html>`_
 
 .. raw:: html
 
@@ -485,6 +486,11 @@ sugerido los lectos.
 
    * `Pybonacci <http://pybonacci.org/>`_ (España)
    * `Pythonízame <http://pythoniza.me/>`_ (México)
+
+   Y si te manejas con el inglés:
+
+   * `Planet python <https://planetpython.org/>`_
+   * `Inside the head of PyDanny <https://www.pydanny.com/tag/python.html>`_
 
 .. collapse:: Python para niños
 

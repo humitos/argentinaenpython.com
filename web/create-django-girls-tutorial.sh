@@ -2,7 +2,7 @@
 
 set -e
 
-PATH=./node_modules/.bin:$PATH
+PATH=/usr/bin:./node_modules/.bin:$PATH
 
 # HTML
 

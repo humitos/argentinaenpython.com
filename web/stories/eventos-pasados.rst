@@ -83,6 +83,7 @@ Eventos pasados
 
 Eventos en que colaboramos
 **************************
+* 07-02-2019: `Taller de programación para mujeres en PyCon Colombia 2019 <https://www.python.org.co/eventos/2019/02/django-girls-pycon/>`_
 * 24-11-2018: `Taller de programación para mujeres en Bogotá <https://www.python.org.co/eventos/2018/11/taller-programacion-mujeres-bogota/>`_
 * 10-11-2018: `Taller de programación para mujeres en Pereira <https://www.python.org.co/eventos/2018/11/taller-programacion-mujeres-pereira/>`_
 * 20-10-2018: `Taller de programación para mujeres en Cartagena <https://argentinaenpython.com/django-girls/2018/10/cartagena/>`_
@@ -106,6 +107,7 @@ Eventos en que colaboramos
 
 Eventos en los que hemos participado
 ************************************
+* 02-02-2019: Manuel Kaufmann y Johanna Sanchez asistieron a `FOSDEM 2019 <https://fosdem.org/2019/>`_ realizado en Bruselas, Bélgica.
 * 28-07-2018: Johanna Sanchez participó como `disertante en la Universidad Nacional del Litoral <https://archive.org/details/argentinaenPython>`_ por invitación de la Tecnicatura Universitaria de Software Libre.
 * 12-07-2018: Johanna Sanchez participó como `disertante en el Meetup de Python Buenos Aires <https://www.meetup.com/es-ES/Buenos-Aires-Python-Meetup/events/252280608/>`_ realizado en Buenos Aires, Argentina.
 * 10-02-2018: Manuel Kaufmann y Johanna Sanchez participaron como `disertantes cada uno en PyCon Colombia 2018 <https://www.pycon.co/>`_ realizado en Medellín, Colombia.

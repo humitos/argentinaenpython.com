@@ -1,9 +1,9 @@
 .. title: Home
 .. slug: index
 .. date: 2015-03-26 18:23:03 UTC-03:00
-.. tags: 
-.. category: 
-.. link: 
+.. tags:
+.. category:
+.. link:
 .. description: Argentina en Python es un proyecto personal y comunitario que promueve el uso del lenguaje de programación Python en diferentes países
 .. previewimage: /index/logo.thumbnail.png
 .. type: text
@@ -21,7 +21,12 @@
 
 .. class:: alert alert-success
 
-    Johanna estará en la organización del Django Girls `PyCon Argentina <https://pycon.python.org.ar>`_, el 22 de Noviembre en Buenos Aires
+    **NOVEDADES**: Estaremos participande de los siguientes eventos:
+    * México: Manuel será uno de los Keynote de `PyLatam <https://www.pylatam.org/>`_ del 29 al 31 de Agostos en Puerto Vallarda
+    * España:
+        - Johanna asistirá a la `EuroSciPy 2019 <https://www.euroscipy.org/2019/>`_ del 4 al 6 de Septiembre en Bilbao
+        - El equipo completo (Manuel y Johanna) asistirán a `PyConEs 2019 <https://www.pylatam.org/>`_ del 4 al 6 de Octubre en Alicante
+    * República Checa: Manuel asistirá a la conferencia `Write The Docs Prague <https://www.writethedocs.org/conf/prague/2019/>`_  del 15 al 17 de Septiembre en Praga
 
 
 .. image:: /index/logo.thumbnail.png
@@ -144,7 +149,7 @@ formas de vida.
 
    <hr style="border-width: 10px 0 0;">
 
-   
+
 .. include:: stories/home.galleries.rst
 
 .. class:: lead align-center

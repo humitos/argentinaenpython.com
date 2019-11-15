@@ -19,19 +19,6 @@
    </style>
 
 
-.. class:: alert alert-success
-
-    **¡NOVEDADES!** Estaremos participande de los siguientes eventos:
-      * México: Manuel será uno de los Keynote de `PyLatam <https://www.pylatam.org/>`_ del 29 al 31 de Agostos en Puerto Vallarda
-
-      * España:
-
-        - Johanna asistirá a la `EuroSciPy 2019 <https://www.euroscipy.org/2019/>`_ del 4 al 6 de Septiembre en Bilbao
-        - El equipo completo (Manuel y Johanna) asistirán a `PyConEs 2019 <https://2019.es.pycon.org/>`_ del 4 al 6 de Octubre en Alicante
-
-      * República Checa: Manuel asistirá a la conferencia `Write The Docs Prague <https://www.writethedocs.org/conf/prague/2019/>`_  del 15 al 17 de Septiembre en Praga
-
-
 .. image:: /index/logo.thumbnail.png
    :align: right
    :class: logo

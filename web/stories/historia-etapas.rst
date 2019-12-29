@@ -32,7 +32,7 @@
 
 .. class:: alert alert-success
 
-   Actualmente estamos cursando la `Tercera Etapa`_.
+   Actualmente estamos recuperando fuerzas en Barcelona, España y organizando *algunos* eventos.
 
 Etapa 0
 *******

@@ -11,6 +11,30 @@ Estas son algunas de las notas en donde el proyecto ha sido publicado,
 mencionado o ha estado involucrado de alguna manera:
 
 
+Año 2019
+--------
+
+.. raw:: html
+
+   <div class="row">
+
+.. template:: prensa-image
+   :title: PyCon Latam
+   :description: Ponente Principal
+   :src: 2019_agosto_0-340x255.png
+   :href: https://www.youtube.com/watch?v=kdmvakBv8dQ
+
+.. template:: prensa-image
+   :title: Meetup Python Barcelona
+   :description: Codificando átomos con Python
+   :src: 2019_mayo_0-340x255.png
+   :href: https://www.youtube.com/watch?v=t2Z2yscYaQA
+
+.. raw:: html
+
+   </div>
+
+
 Año 2018
 --------
 

@@ -64,9 +64,6 @@ Lista de deseos / Wishlist
 .. contents:: Contenido
    :local:
 
-:Actualizado: 23 de Febrero de 2016
-
-
 .. raw:: html
 
    <script type="text/javascript">
@@ -87,32 +84,6 @@ listadas varias cosas en las que necesitamos trabajar o bien
 (en diferentes eventos o tiempo libre) y/o empresas nos ayuden a
 concretarlo.
 
-
-Nuevo diseño de logo
-~~~~~~~~~~~~~~~~~~~~
-
-Durante casi dos años he estado utilizando `este logo
-<https://argentinaenpython.com/material-de-difusion/#logo-argentina-en-python>`_
-que fue diseñado por German Kemerer de Paraná, Entre Ríos y retocado
-entre diferentes colaboradores y amigos de Python Argentina hasta
-llegar al que tenemos actualmente.
-
-Sin embargo, luego de hablar con `The Python Software Foundation
-<https://www.python.org/psf/>`_ me comentaron que este logo *no es
-válido* y no puede ser aprobado por ellos ya que no cumple con las
-`reglas de trademark <https://www.python.org/psf/trademarks/>`_ que
-ellos tienen (específicamente la sección de `logos derivados
-<https://www.python.org/psf/trademarks/#derived-logos>`_). Es por eso
-que quiero *actualizar* el logo para que la PSF (uno de nuestros
-principales :doc:`colaboradores económicos
-<donaciones/colaboradores>`) lo acepte y así no generarles un posible
-problema legal con la marca.
-
-Personalmente, tengo una propuesta pero no la quiero hacer pública
-ya que no me gustaría que interfiera en la creatividad de las otras
-propuestas. Lo que sí me gustaría es que refleje lo más posible la
-filosofía y objetivo del proyecto (creo que el actual lo hace muy
-bien).
 
 Traductor
 ~~~~~~~~~
@@ -154,24 +125,6 @@ Por ejemplo, es un requisito que un usuario entre a la página del
 proyecto e inmediatamente sepa: donde estamos, hacia dónde vamos, qué
 necesitamos, cuáles son los próximos eventos y cómo mantenerse
 actualizado.
-
-Nombre del proyecto
-~~~~~~~~~~~~~~~~~~~
-
-Aprovechando que *tenemos que cambiar* el logo, puede ser una buena
-idea, aprovechar y cambiar el nombre también. Ya que el proyecto creció
-y ya no solo hemos organizado diferentes eventos en Argentina, sino
-también en Paraguay, Bolivia, Perú, Ecuador y Colombia.
-
-Entonces, puede ser un buen momento y aprovechar el cambio de logo
-para cambiar el nombre del proyecto. Además, uno de los problemas que
-tiene el nombre es que mucha gente confude este proyecto con la
-inmensa comunidad de `Python Argentina <http://python.org.ar/>`_ y me
-tengo que detener a *explicar muy bien* que, si bien soy parte de
-Python Argentina, la comunidad somos/son todos ustedes.
-
-Es por esto que me gustaría buscar un nombre más genérico quizás, que
-no involucre un territorio: Argentina, Latinoamérica o América.
 
 .. class:: alert alert-success
 

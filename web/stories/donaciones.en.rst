@@ -63,13 +63,6 @@ The money will be used for, for example:
 Please, click in the following button to get involved about the
 different ways to make a donation:
 
-.. raw:: html
-
-   <div style="text-align: center; margin-top: 25px; margin-bottom: 25px;">
-     <a class="btn btn-lg btn-primary" href="/en/donations/payment-methods/">
-       Donate
-     </a>
-   </div>
 
 .. class:: lead align-center
 

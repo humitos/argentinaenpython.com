@@ -162,7 +162,6 @@ NAVIGATION_LINKS = {
             (
                 ('/donaciones/', 'Donaciones'),
                 ('/donaciones/colaboradores/', 'Colaboradores'),
-                ('/donaciones/medios/', 'Medios disponibles'),
             ),
             'Donaciones',
         ),
@@ -207,9 +206,7 @@ NAVIGATION_LINKS = {
         (
             (
                 ('/en/donations/', 'Donations'),
-                ('/en/donaciones/arreglo-de-vehiculo/', 'Car Fixes'),
                 ('/en/donations/collaborators/', 'Collaborators'),
-                ('/en/donations/payment-methods/', 'Payment Methods'),
             ),
             'Donations',
         ),

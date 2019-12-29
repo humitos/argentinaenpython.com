@@ -64,14 +64,6 @@ El dinero será destinado a, por ejemplo:
 Hacé click en el siguiente botón para enterarte sobre cuáles son los
 medios disponibles para realizar las donaciones:
 
-.. raw:: html
-
-   <div style="text-align: center; margin-top: 25px; margin-bottom: 25px;">
-     <a class="btn btn-lg btn-primary" href="/donaciones/medios/">
-       Realizar donación
-     </a>
-   </div>
-
 .. class:: lead align-center
 
 ¡Muchas gracias a todos los :doc:`colaboradores del proyecto

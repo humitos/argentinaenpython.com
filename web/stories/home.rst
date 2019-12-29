@@ -19,6 +19,11 @@
    </style>
 
 
+.. class:: alert alert-success
+
+    **NOVEDADES**: Los invitamos a participar de `PyCamp España <https://www.pycamp.es>`_, un fin de semana para divertirnos programando (incluye hospedaje, alimentacion y muchas sorpresas) del 01 al 04 de Mayo de 2020 en Vilablareix, Girona, España. Suscríbete en el newsletter para recibir novedades sobre las entradas (cupo limitado), ingresa a `www.pycamp.es <https://www.pycamp.es>`_
+
+
 .. image:: /index/logo.thumbnail.png
    :align: right
    :class: logo

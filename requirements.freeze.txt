@@ -19,7 +19,7 @@ olefile==0.44
 pathtools==0.1.2
 piexif==1.0.12
 Pillow==4.0.0
-Pygments==2.2.0
+Pygments==2.7.4
 pyinotify==0.9.6
 PyRSS2Gen==1.1
 python-dateutil==2.6.0

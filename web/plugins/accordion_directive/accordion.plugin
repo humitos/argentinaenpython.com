@@ -1,0 +1,12 @@
+[Core]
+Name = accordion
+Module = accordion
+
+[Nikola]
+MinVersion = 7.4.0
+
+[Documentation]
+Author = Manuel Kaufmann & Leandro E. Colombo Viña
+Version = 0.1
+Website = http://plugins.getnikola.com/#collapse_directive
+Description = Useful to create collapsible groups or accordion

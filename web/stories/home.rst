@@ -21,7 +21,11 @@
 
 .. class:: alert alert-success
 
-    **NOVEDADES**: Los invitamos a participar de `PyCamp España <https://www.pycamp.es>`_, un fin de semana para divertirnos programando (incluye hospedaje, alimentacion y muchas sorpresas) del 01 al 04 de Mayo de 2020 en Vilablareix, Girona, España. Suscríbete en el newsletter para recibir novedades sobre las entradas (cupo limitado), ingresa a `www.pycamp.es <https://www.pycamp.es>`_
+    **NOVEDADES**: Los invitamos a participar de `PyCamp España <https://www.pycamp.es>`_, 
+    un fin de semana para divertirnos programando (Pensión completa en casa de colonia que incluye: 
+    hospedaje, alimentacion y muchas sorpresas) del 15 al 18 de Abril de 2022 en Vilablareix, 
+    Girona, España. Suscríbete en el newsletter para recibir novedades sobre las entradas 
+    (cupo limitado), ingresa a `www.pycamp.es <https://www.pycamp.es>`_
 
 
 .. image:: /index/logo.thumbnail.png

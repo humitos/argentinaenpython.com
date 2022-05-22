@@ -21,11 +21,7 @@
 
 .. class:: alert alert-success
 
-    **NOVEDADES**: Los invitamos a participar de `PyCamp España <https://www.pycamp.es>`_, 
-    un fin de semana para divertirnos programando (Pensión completa en casa de colonia que incluye: 
-    hospedaje, alimentacion y muchas sorpresas) del 15 al 18 de Abril de 2022 en Vilablareix, 
-    Girona, España. Suscríbete en el newsletter para recibir novedades sobre las entradas 
-    (cupo limitado), ingresa a `www.pycamp.es <https://www.pycamp.es>`_
+    **NOVEDADES**: Vamos a estar participando en `PyCon Portugal  <https://www.pycamp.es>`_, el 24 de Septiembre y en `PyCon España  <https://www.pycamp.es>`_ del 30 de Septiembre al 2 de Octubre. Si coincidimos, no dudes en acercarte. Nos encanta conocer y reecontrarnos con las personas.
 
 
 .. image:: /index/logo.thumbnail.png

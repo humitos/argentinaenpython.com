@@ -8,6 +8,7 @@
 
 Eventos pasados
 ---------------
+* 18-04-2022: `PyCamp España <https://pycamp.es/>`_
 * 22-11-2018: `Taller Django Girls en PyCon Argentina 2018 <https://argentinaenpython.com/django-girls/2018/11/pyconar/>`_
 * 30-05-2018: `Meetup Python en Salta
   <https://www.elintra.com.ar/sociedad/2018/5/30/se-realizo-una-capacitacion-de-python-para-programadores-en-salta-122959.html>`_
@@ -107,6 +108,9 @@ Eventos en que colaboramos
 
 Eventos en los que hemos participado
 ************************************
+
+* 26-05-2022: Manuel Kaufmann y Johanna Sanchez asistieron a `PyCon Lituania 2022 <https://pycon.lt/>`_ realizado en Vilna, Lituania.
+* 29-01-2022: Manuel Kaufmann y Johanna Sanchez asistieron a `BilboStack 2022 <https://bilbostack.com/>`_ realizado en Bilbao, España.
 * 02-02-2019: Manuel Kaufmann y Johanna Sanchez asistieron a `FOSDEM 2019 <https://fosdem.org/2019/>`_ realizado en Bruselas, Bélgica.
 * 28-07-2018: Johanna Sanchez participó como `disertante en la Universidad Nacional del Litoral <https://archive.org/details/argentinaenPython>`_ por invitación de la Tecnicatura Universitaria de Software Libre.
 * 12-07-2018: Johanna Sanchez participó como `disertante en el Meetup de Python Buenos Aires <https://www.meetup.com/es-ES/Buenos-Aires-Python-Meetup/events/252280608/>`_ realizado en Buenos Aires, Argentina.

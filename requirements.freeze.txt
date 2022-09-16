@@ -10,7 +10,7 @@ doit==0.30.3
 geocoder==1.20.1
 Logbook==1.0.0
 lxml==3.7.3
-Mako==1.0.6
+Mako==1.2.2
 MarkupSafe==1.0
 micawber==0.3.3
 natsort==5.0.2

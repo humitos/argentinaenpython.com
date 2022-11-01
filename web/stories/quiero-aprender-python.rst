@@ -106,9 +106,6 @@ más básico:
 * `Aprenda a pensar como un programador con Python
   <aprenda-a-pensar-como-un-programador-con-python.pdf>`_
 
-* `Python (curso interactivo en Code Academy)
-  <https://www.codecademy.com/es/tracks/python-traduccion-al-espanol-america-latina-clone-1>`_
-
 
 .. sidebar:: ¡No te desepciones!
 
@@ -119,7 +116,7 @@ más básico:
    empezar a leer. Incluso, ¡hay algunos que *son interactivos* y
    están buenísimos!
 
-* `Curso interactivo en Codecademy <https://www.codecademy.com/es/tracks/python-traduccion-al-espanol-america-latina-clone-1>`_
+
 
 ¿Por dónde seguir?
 ------------------
@@ -145,8 +142,7 @@ Tengo un dominio básico de lectura en inglés.
 * `Learn Python: The hard way
   <http://learnpythonthehardway.org/book/>`_
 
-* `Dive into Python 3 <http://www.diveintopython3.net/>`_ (`PDF
-  <dive-into-python3.pdf>`__)
+* `Dive into Python 3 (PDF) <dive-into-python3.pdf>`_
 
 * `The Hitchhiker’s Guide to Python
   <http://python-guide.readthedocs.org/en/latest/>`_ (`PDF
@@ -154,6 +150,9 @@ Tengo un dominio básico de lectura en inglés.
 
 * `Automate the Boring Stuff with Python
   <https://automatetheboringstuff.com/>`_
+
+* `Learn Python 3 (curso interactivo en Code Academy)
+  <https://www.codecademy.com/learn/learn-python-3>`_
 
 
 Soy científico y quiero analizar mis datos
@@ -418,6 +417,7 @@ tienen: email, chat, foro, etc.
 * `Sitio web <http://scipyla.org/es/>`__
 * `Lista de correos <https://groups.google.com/forum/#!forum/scipyla>`__
 * `Twitter <https://twitter.com/scipyla>`__
+* `SciPy Latam (Conferencia anual) <http://scipyla.org/es/scipycon.html>`_
 
 .. raw:: html
 
@@ -486,6 +486,11 @@ sugerido los lectos.
 
    * `Pybonacci <http://pybonacci.org/>`_ (España)
    * `Pythonízame <http://pythoniza.me/>`_ (México)
+
+   Y si te manejas con el inglés:
+
+   * `Planet python <https://planetpython.org/>`_
+   * `Inside the head of PyDanny <https://www.pydanny.com/tag/python.html>`_
 
 .. collapse:: Python para niños
 
